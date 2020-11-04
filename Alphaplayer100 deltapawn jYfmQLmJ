@@ -1,0 +1,47 @@
+{
+  "id": "jYfmQLmJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1604483076979,
+  "white": {
+    "id": "alphaplayer100",
+    "name": "Alphaplayer100",
+    "title": "BOT",
+    "rating": 1934,
+    "provisional": true
+  },
+  "black": {
+    "id": "deltapawn",
+    "name": "deltapawn",
+    "title": "BOT",
+    "rating": 1247,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 g8f6",
+    "wtime": 88020,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Alphaplayer100",
+  "opponentName": "deltapawn"
+}
