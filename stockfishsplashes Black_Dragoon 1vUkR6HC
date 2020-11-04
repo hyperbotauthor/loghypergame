@@ -1,0 +1,47 @@
+{
+  "id": "1vUkR6HC",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1604505262969,
+  "white": {
+    "id": "stockfishsplashes",
+    "name": "stockfishsplashes",
+    "title": "BOT",
+    "rating": 1985,
+    "provisional": true
+  },
+  "black": {
+    "id": "black_dragoon",
+    "name": "Black_Dragoon",
+    "title": null,
+    "rating": 1679,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "stockfishsplashes",
+  "opponentName": "Black_Dragoon"
+}
