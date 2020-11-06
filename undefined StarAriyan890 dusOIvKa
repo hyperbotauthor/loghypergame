@@ -29,14 +29,16 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e4",
-    "wtime": 30000,
-    "btime": 30000,
+    "moves": "e2e4 e7e6 d2d4 g8h6 b1c3 f7f5 h2h4 f5f4 g2g3 h8g8 d1f3 h6f7 g3f4 f8e7 f4f5 e7h4 f3h5 g7g6 h5h4",
+    "wtime": 27750,
+    "btime": 0,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "white",
+    "rematch": "StIeg6Rn"
   },
   "opponentName": "StarAriyan890"
 }
