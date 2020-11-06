@@ -1,0 +1,46 @@
+{
+  "id": "J0WxjtYM",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1604660185806,
+  "white": {
+    "id": "starariyan890",
+    "name": "StarAriyan890",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "nilatacbot",
+    "name": "NilatacBot",
+    "title": "BOT",
+    "rating": 2262
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "StarAriyan890",
+  "opponentName": "NilatacBot"
+}
