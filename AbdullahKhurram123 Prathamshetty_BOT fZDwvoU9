@@ -1,0 +1,43 @@
+{
+  "id": "fZDwvoU9",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1604752693877,
+  "white": {
+    "id": "abdullahkhurram123",
+    "name": "AbdullahKhurram123",
+    "title": null,
+    "rating": 1386
+  },
+  "black": {
+    "id": "prathamshetty_bot",
+    "name": "Prathamshetty_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AbdullahKhurram123",
+  "opponentName": "Prathamshetty_BOT"
+}
