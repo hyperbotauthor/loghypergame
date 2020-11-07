@@ -1,0 +1,46 @@
+{
+  "id": "zEiLNxCh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1604720268126,
+  "white": {
+    "id": "david9426",
+    "name": "david9426",
+    "title": null,
+    "rating": 1411
+  },
+  "black": {
+    "id": "aivdd_bot",
+    "name": "aivdd_bot",
+    "title": "BOT",
+    "rating": 1442,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "david9426",
+  "opponentName": "aivdd_bot"
+}
