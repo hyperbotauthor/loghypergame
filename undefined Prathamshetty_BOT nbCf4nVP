@@ -1,0 +1,41 @@
+{
+  "id": "nbCf4nVP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1604750496848,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "prathamshetty_bot",
+    "name": "Prathamshetty_BOT",
+    "title": "BOT",
+    "rating": 2136
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Prathamshetty_BOT"
+}
