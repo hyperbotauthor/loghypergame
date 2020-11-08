@@ -1,0 +1,46 @@
+{
+  "id": "RuObBuYW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1604848612064,
+  "white": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1662
+  },
+  "black": {
+    "id": "deepmind100",
+    "name": "Deepmind100",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "csioris",
+  "opponentName": "Deepmind100"
+}
