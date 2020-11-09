@@ -1,0 +1,46 @@
+{
+  "id": "13PBXdzr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1604906545926,
+  "white": {
+    "id": "deepmind100",
+    "name": "Deepmind100",
+    "title": "BOT",
+    "rating": 1434,
+    "provisional": true
+  },
+  "black": {
+    "id": "spideychess0108",
+    "name": "spideychess0108",
+    "title": "BOT",
+    "rating": 1969
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Deepmind100",
+  "opponentName": "spideychess0108"
+}
