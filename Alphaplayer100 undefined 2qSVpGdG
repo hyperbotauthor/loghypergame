@@ -1,0 +1,42 @@
+{
+  "id": "2qSVpGdG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1604990296083,
+  "white": {
+    "id": "alphaplayer100",
+    "name": "Alphaplayer100",
+    "title": "BOT",
+    "rating": 1988,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 5
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 c7c6 g2g3",
+    "wtime": 30000,
+    "btime": 29870,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Alphaplayer100"
+}
