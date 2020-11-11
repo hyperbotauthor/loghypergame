@@ -1,0 +1,46 @@
+{
+  "id": "L0ksev6K",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1605114143377,
+  "white": {
+    "id": "champion-robot",
+    "name": "Champion-Robot",
+    "title": "BOT",
+    "rating": 2266,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 2367
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Champion-Robot",
+  "opponentName": "chesshyperbot"
+}
