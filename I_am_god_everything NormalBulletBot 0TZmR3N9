@@ -1,0 +1,46 @@
+{
+  "id": "0TZmR3N9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1605114329686,
+  "white": {
+    "id": "i_am_god_everything",
+    "name": "I_am_god_everything",
+    "title": "BOT",
+    "rating": 2209,
+    "provisional": true
+  },
+  "black": {
+    "id": "normalbulletbot",
+    "name": "NormalBulletBot",
+    "title": "BOT",
+    "rating": 2289
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "I_am_god_everything",
+  "opponentName": "NormalBulletBot"
+}
