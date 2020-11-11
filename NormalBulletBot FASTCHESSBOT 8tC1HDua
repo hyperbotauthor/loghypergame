@@ -1,0 +1,45 @@
+{
+  "id": "8tC1HDua",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1605114703827,
+  "white": {
+    "id": "normalbulletbot",
+    "name": "NormalBulletBot",
+    "title": "BOT",
+    "rating": 2288
+  },
+  "black": {
+    "id": "fastchessbot",
+    "name": "FASTCHESSBOT",
+    "title": "BOT",
+    "rating": 2396
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5",
+    "wtime": 58920,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NormalBulletBot",
+  "opponentName": "FASTCHESSBOT"
+}
