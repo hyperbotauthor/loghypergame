@@ -1,0 +1,47 @@
+{
+  "id": "QnUY89CH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1605135112194,
+  "white": {
+    "id": "chessrobot623tech",
+    "name": "ChessRobot623Tech",
+    "title": "BOT",
+    "rating": 2002,
+    "provisional": true
+  },
+  "black": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessRobot623Tech",
+  "opponentName": "RandomTree66"
+}
