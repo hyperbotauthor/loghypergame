@@ -1,0 +1,44 @@
+{
+  "id": "XRzjvHnN",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1605203818859,
+  "white": {
+    "id": "josemariar",
+    "name": "Josemariar",
+    "title": null,
+    "rating": 1331,
+    "provisional": true
+  },
+  "black": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Josemariar",
+  "opponentName": "RandomTree66"
+}
