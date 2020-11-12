@@ -1,0 +1,46 @@
+{
+  "id": "yzSsxhTG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1605148176077,
+  "white": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1701
+  },
+  "black": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1438,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "csioris",
+  "opponentName": "RandomTree66"
+}
