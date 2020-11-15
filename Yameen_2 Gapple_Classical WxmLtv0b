@@ -1,0 +1,47 @@
+{
+  "id": "WxmLtv0b",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1605456798056,
+  "white": {
+    "id": "yameen_2",
+    "name": "Yameen_2",
+    "title": null,
+    "rating": 1938,
+    "provisional": true
+  },
+  "black": {
+    "id": "gapple_classical",
+    "name": "Gapple_Classical",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Yameen_2",
+  "opponentName": "Gapple_Classical"
+}
