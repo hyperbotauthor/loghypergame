@@ -1,0 +1,47 @@
+{
+  "id": "HsA20ndh",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1605544701375,
+  "white": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1812,
+    "provisional": true
+  },
+  "initialFen": "rkrqnbbn/pppppppp/8/8/8/8/PPPPPPPP/RKRQNBBN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree66",
+  "opponentName": "csioris"
+}
