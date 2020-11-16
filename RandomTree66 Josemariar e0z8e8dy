@@ -1,0 +1,44 @@
+{
+  "id": "e0z8e8dy",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1605485833652,
+  "white": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1614,
+    "provisional": true
+  },
+  "black": {
+    "id": "josemariar",
+    "name": "Josemariar",
+    "title": null,
+    "rating": 1371,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree66",
+  "opponentName": "Josemariar"
+}
