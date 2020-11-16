@@ -1,0 +1,46 @@
+{
+  "id": "iPAdI1iV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 11000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1605542524291,
+  "white": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1407,
+    "provisional": true
+  },
+  "black": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1708
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 11000,
+    "binc": 11000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree66",
+  "opponentName": "csioris"
+}
