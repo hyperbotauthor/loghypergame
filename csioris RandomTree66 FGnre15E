@@ -1,0 +1,46 @@
+{
+  "id": "FGnre15E",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 11000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1605541612862,
+  "white": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1703
+  },
+  "black": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1521,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 11000,
+    "binc": 11000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "csioris",
+  "opponentName": "RandomTree66"
+}
