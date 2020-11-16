@@ -29,14 +29,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "g1f3 e7e6",
-    "wtime": 271300,
+    "moves": "",
+    "wtime": 299350,
     "btime": 300000,
     "winc": 5000,
     "binc": 5000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted",
+    "rematch": "VK2R6kwF"
   },
   "botName": "All1gat0r"
 }
