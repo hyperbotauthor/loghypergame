@@ -1,0 +1,42 @@
+{
+  "id": "onBE7YtC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 3600000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1605651373712,
+  "white": {
+    "id": "randomtree66",
+    "name": "RandomTree66",
+    "title": "BOT",
+    "rating": 1816,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 4
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3600000,
+    "btime": 3600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree66"
+}
