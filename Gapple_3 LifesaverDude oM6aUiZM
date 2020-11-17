@@ -1,0 +1,47 @@
+{
+  "id": "oM6aUiZM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1605596177716,
+  "white": {
+    "id": "gapple_3",
+    "name": "Gapple_3",
+    "title": "BOT",
+    "rating": 1949,
+    "provisional": true
+  },
+  "black": {
+    "id": "lifesaverdude",
+    "name": "LifesaverDude",
+    "title": "BOT",
+    "rating": 2199,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Gapple_3",
+  "opponentName": "LifesaverDude"
+}
