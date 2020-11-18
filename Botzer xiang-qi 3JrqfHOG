@@ -1,0 +1,46 @@
+{
+  "id": "3JrqfHOG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1605726631524,
+  "white": {
+    "id": "botzer",
+    "name": "Botzer",
+    "title": "BOT",
+    "rating": 1479,
+    "provisional": true
+  },
+  "black": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2419
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Botzer",
+  "opponentName": "xiang-qi"
+}
