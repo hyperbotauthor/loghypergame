@@ -1,0 +1,46 @@
+{
+  "id": "54RERqPQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1605718626513,
+  "white": {
+    "id": "king_slayer254",
+    "name": "King_Slayer254",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "magnuschess77",
+    "name": "MagnusChess77",
+    "title": null,
+    "rating": 1083
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 e7e6 e2e4 d8f6 d2d4 d7d5 b1c3 b8a6 e4d5 e6d5",
+    "wtime": 1475430,
+    "btime": 1772560,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "King_Slayer254",
+  "opponentName": "MagnusChess77"
+}
