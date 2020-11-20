@@ -1,0 +1,47 @@
+{
+  "id": "scWiTBPj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1605887836801,
+  "white": {
+    "id": "randomtree77",
+    "name": "RandomTree77",
+    "title": "BOT",
+    "rating": 2125,
+    "provisional": true
+  },
+  "black": {
+    "id": "adoptme",
+    "name": "Adoptme",
+    "title": "BOT",
+    "rating": 1782,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree77",
+  "opponentName": "Adoptme"
+}
