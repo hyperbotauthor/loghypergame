@@ -1,0 +1,47 @@
+{
+  "id": "rtqhE5lI",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1605885107016,
+  "white": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 903,
+    "provisional": true
+  },
+  "black": {
+    "id": "adoptme",
+    "name": "Adoptme",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3 b8c6 d2d3 c6b4 c2c4 b4c2 e1d2 c2a1 f2f4",
+    "wtime": 484000,
+    "btime": 463660,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SxRandom",
+  "opponentName": "Adoptme"
+}
