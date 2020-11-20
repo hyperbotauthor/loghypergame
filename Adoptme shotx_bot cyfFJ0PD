@@ -1,0 +1,46 @@
+{
+  "id": "cyfFJ0PD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1605885460980,
+  "white": {
+    "id": "adoptme",
+    "name": "Adoptme",
+    "title": "BOT",
+    "rating": 1486,
+    "provisional": true
+  },
+  "black": {
+    "id": "shotx_bot",
+    "name": "shotx_bot",
+    "title": "BOT",
+    "rating": 2543
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Adoptme",
+  "opponentName": "shotx_bot"
+}
