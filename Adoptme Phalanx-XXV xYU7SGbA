@@ -1,0 +1,45 @@
+{
+  "id": "xYU7SGbA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1605859929103,
+  "white": {
+    "id": "adoptme",
+    "name": "Adoptme",
+    "title": "BOT",
+    "rating": 2912
+  },
+  "black": {
+    "id": "phalanx-xxv",
+    "name": "Phalanx-XXV",
+    "title": "BOT",
+    "rating": 2021
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Adoptme",
+  "opponentName": "Phalanx-XXV"
+}
