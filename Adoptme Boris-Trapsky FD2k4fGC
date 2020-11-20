@@ -1,0 +1,45 @@
+{
+  "id": "FD2k4fGC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1605858461596,
+  "white": {
+    "id": "adoptme",
+    "name": "Adoptme",
+    "title": "BOT",
+    "rating": 2904
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2440
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 b1c3 b8c6 g1f3 g7g6 d2d4 c5d4 f3d4 f8g7 c1e3 d7d6 f2f3 g8f6 d1d2 e8g8 g2g4 h7h5 g4g5 f6h7 h2h4 c8d7 e1c1 a8c8",
+    "wtime": 386900,
+    "btime": 412510,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Adoptme",
+  "opponentName": "Boris-Trapsky"
+}
