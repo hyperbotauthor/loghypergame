@@ -1,0 +1,47 @@
+{
+  "id": "QMBLu4kh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "經典"
+  },
+  "rated": true,
+  "createdAt": 1605907820281,
+  "white": {
+    "id": "butzke_bot",
+    "name": "Butzke_BOT",
+    "title": "BOT",
+    "rating": 1748,
+    "provisional": true
+  },
+  "black": {
+    "id": "aivdd_bot",
+    "name": "aivdd_bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Butzke_BOT",
+  "opponentName": "aivdd_bot"
+}
