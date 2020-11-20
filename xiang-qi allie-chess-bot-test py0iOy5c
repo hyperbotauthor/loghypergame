@@ -1,0 +1,46 @@
+{
+  "id": "py0iOy5c",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1605908385550,
+  "white": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2371
+  },
+  "black": {
+    "id": "allie-chess-bot-test",
+    "name": "allie-chess-bot-test",
+    "title": "BOT",
+    "rating": 1487,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 f8e7 f1d3 d6d5 e1g1 b8c6 c2c4 e4f6 b1c3 e8g8 c4d5 f6d5 f1e1 c8e6 d3c2 e7f6 a2a3 f8e8 d1d3 g7g6 c1h6 d5c3 b2c3 e6f5 d3d2 f5c2 d2c2 d8d7 h6f4 a8d8 h2h4 c6a5 a3a4 c7c5 d4c5 d7c6",
+    "wtime": 38630,
+    "btime": 48770,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": true,
+    "status": "started"
+  },
+  "botName": "xiang-qi",
+  "opponentName": "allie-chess-bot-test"
+}
