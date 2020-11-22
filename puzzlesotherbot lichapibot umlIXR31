@@ -32,9 +32,9 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 600000,
-    "btime": 600000,
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3 d4d5 c6e5 b2c3 e5c4 d1d4 e8g8 d4e4 c4d6 e4d3 b7b6 c1g5 f7f6 g5f4 d6f7 d5d6 c7d6 f4d6 f8e8 f1e1 c8b7 d6g3 d7d6 f3d4 d8d7 e1e8 d7e8 a2a4 e8c8 a1d1 f7e5 g3e5 f6e5 d4f5 c8e6 f5e3 a8d8 c3c4 e5e4 d3c3 e6f6 c3a3 f6e5 h2h3 h7h6 e3g4 e5e6 g4e3 b7c6 a4a5 b6b5 c4b5 c6b5 a3b2 a7a6 d1d5 g8h7 b2c3 d8f8 g2g4 f8f6 c3c7 b5d3 c7d8 d3b5 d8c7 e6d7 c7c3 d7f7 d5f5 f6f5 e3f5 d6d5 f5d6 f7g6 d6b5 a6b5 g1g2 h6h5 g2f1 g6d6 c3c8 h5g4 h3g4 d6f6 c8e8 b5b4 e8h5 f6h6 h5d5 h6h3 f1e1 h3c3 e1d1 c3f3 d1e1 b4b3",
+    "wtime": 127120,
+    "btime": 106180,
     "winc": 5000,
     "binc": 5000,
     "wdraw": false,
