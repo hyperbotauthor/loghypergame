@@ -1,0 +1,47 @@
+{
+  "id": "laX5kHF1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1606082369204,
+  "white": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 2621,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 2348,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "puzzlesotherbot",
+  "opponentName": "chesshyperbot"
+}
