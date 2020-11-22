@@ -1,0 +1,47 @@
+{
+  "id": "Kis0cuIE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1606083088591,
+  "white": {
+    "id": "thepersonofchess",
+    "name": "ThePersonOfChess",
+    "title": "BOT",
+    "rating": 1691,
+    "provisional": true
+  },
+  "black": {
+    "id": "thebotofchess",
+    "name": "TheBotOfChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ThePersonOfChess",
+  "opponentName": "TheBotOfChess"
+}
