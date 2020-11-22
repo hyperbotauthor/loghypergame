@@ -1,0 +1,46 @@
+{
+  "id": "zNqVfYci",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1606014871499,
+  "white": {
+    "id": "abhinavk098",
+    "name": "AbhinavK098",
+    "title": null,
+    "rating": 1581
+  },
+  "black": {
+    "id": "thebotofchess",
+    "name": "TheBotOfChess",
+    "title": "BOT",
+    "rating": 1495,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AbhinavK098",
+  "opponentName": "TheBotOfChess"
+}
