@@ -1,0 +1,47 @@
+{
+  "id": "oafsbIAe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1606003369906,
+  "white": {
+    "id": "thebotofchess",
+    "name": "TheBotOfChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "thepersonofchess",
+    "name": "ThePersonOfChess",
+    "title": "BOT",
+    "rating": 1691,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3 d5e6 g1e2 g8f6 g2g3 e6c6 h1g1 c6d6 d2d3 h7h6 f1g2 e7e5 c1e3 c7c6 d1d2 f6g4 f2f4 f8e7 f4e5 g4e5 e3f4 c8g4 d3d4 d6b4 f4e5 e7g5 e5f4 b4b2 d2e3 g5e7 a1b1 b2a3 b1b3 a3a6 f4d6 g4e6 d6e7 e8e7",
+    "wtime": 10159920,
+    "btime": 10791360,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheBotOfChess",
+  "opponentName": "ThePersonOfChess"
+}
