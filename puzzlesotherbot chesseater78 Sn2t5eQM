@@ -1,0 +1,46 @@
+{
+  "id": "Sn2t5eQM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606161889986,
+  "white": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 1892,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesseater78",
+    "name": "chesseater78",
+    "title": null,
+    "rating": 1035
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "puzzlesotherbot",
+  "opponentName": "chesseater78"
+}
