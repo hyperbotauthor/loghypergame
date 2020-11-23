@@ -1,0 +1,46 @@
+{
+  "id": "JDPXuSvK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606161916285,
+  "white": {
+    "id": "djpausini747",
+    "name": "djpausini747",
+    "title": null,
+    "rating": 1013
+  },
+  "black": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 1892,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "djpausini747",
+  "opponentName": "puzzlesotherbot"
+}
