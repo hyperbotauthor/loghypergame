@@ -1,0 +1,46 @@
+{
+  "id": "Mm3Fe8NC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606150626861,
+  "white": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 1373,
+    "provisional": true
+  },
+  "black": {
+    "id": "campacavalloscacchi",
+    "name": "campacavalloscacchi",
+    "title": null,
+    "rating": 1549
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "puzzlesotherbot",
+  "opponentName": "campacavalloscacchi"
+}
