@@ -1,0 +1,46 @@
+{
+  "id": "cpbF6p6L",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606161774296,
+  "white": {
+    "id": "chesseater78",
+    "name": "chesseater78",
+    "title": null,
+    "rating": 1035
+  },
+  "black": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 1890,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chesseater78",
+  "opponentName": "puzzlesotherbot"
+}
