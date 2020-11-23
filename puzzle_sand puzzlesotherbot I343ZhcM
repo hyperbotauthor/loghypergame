@@ -1,0 +1,44 @@
+{
+  "id": "I343ZhcM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1606174182652,
+  "white": {
+    "id": "puzzle_sand",
+    "name": "puzzle_sand",
+    "title": "BOT",
+    "rating": 1884,
+    "provisional": true
+  },
+  "black": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 1209600000,
+    "btime": 1209571000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "puzzle_sand",
+  "opponentName": "puzzlesotherbot"
+}
