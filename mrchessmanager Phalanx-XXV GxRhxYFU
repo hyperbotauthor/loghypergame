@@ -1,0 +1,46 @@
+{
+  "id": "GxRhxYFU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1606372071410,
+  "white": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 1983,
+    "provisional": true
+  },
+  "black": {
+    "id": "phalanx-xxv",
+    "name": "Phalanx-XXV",
+    "title": "BOT",
+    "rating": 2153
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 f1e2 d8c7 d1d2 b7b5 a2a3 c8b7 f2f3 b8d7 e1c1 d6d5 e4d5 f6d5 c3d5 b7d5 e3f4 f8d6 f4d6 c7d6 d4f5 d6e5 g2g4 e8g8 f5e7 g8h8 e7d5 e6d5 h1e1 e5h2 e1h1 h2e5 h1h5 e5e6",
+    "wtime": 40310,
+    "btime": 32420,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "mrchessmanager",
+  "opponentName": "Phalanx-XXV"
+}
