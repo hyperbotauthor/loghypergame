@@ -1,0 +1,46 @@
+{
+  "id": "0ry15Uvk",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1606674244551,
+  "white": {
+    "id": "shashwatcan2",
+    "name": "ShashwatCan2",
+    "title": "BOT",
+    "rating": 1445,
+    "provisional": true
+  },
+  "black": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1489
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ShashwatCan2",
+  "opponentName": "csioris"
+}
