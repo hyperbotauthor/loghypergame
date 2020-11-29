@@ -1,0 +1,47 @@
+{
+  "id": "grWHKFSq",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1606675036711,
+  "white": {
+    "id": "shashwatcan2",
+    "name": "ShashwatCan2",
+    "title": "BOT",
+    "rating": 1337,
+    "provisional": true
+  },
+  "black": {
+    "id": "csioris",
+    "name": "csioris",
+    "title": null,
+    "rating": 1821,
+    "provisional": true
+  },
+  "initialFen": "nrbbqnkr/pppppppp/8/8/8/8/PPPPPPPP/NRBBQNKR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ShashwatCan2",
+  "opponentName": "csioris"
+}
