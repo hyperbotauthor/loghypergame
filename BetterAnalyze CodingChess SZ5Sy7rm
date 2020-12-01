@@ -1,0 +1,45 @@
+{
+  "id": "SZ5Sy7rm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606800441098,
+  "white": {
+    "id": "betteranalyze",
+    "name": "BetterAnalyze",
+    "title": "BOT",
+    "rating": 2606
+  },
+  "black": {
+    "id": "codingchess",
+    "name": "CodingChess",
+    "title": "BOT",
+    "rating": 2227
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BetterAnalyze",
+  "opponentName": "CodingChess"
+}
