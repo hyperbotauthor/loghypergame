@@ -1,0 +1,46 @@
+{
+  "id": "eFMgTWaj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1606858001596,
+  "white": {
+    "id": "randomtree77",
+    "name": "RandomTree77",
+    "title": "BOT",
+    "rating": 2442
+  },
+  "black": {
+    "id": "hookedonbots",
+    "name": "hookedonbots",
+    "title": "BOT",
+    "rating": 1412,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomTree77",
+  "opponentName": "hookedonbots"
+}
