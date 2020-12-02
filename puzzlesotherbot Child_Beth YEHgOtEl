@@ -1,0 +1,46 @@
+{
+  "id": "YEHgOtEl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1606949257323,
+  "white": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 2207,
+    "provisional": true
+  },
+  "black": {
+    "id": "child_beth",
+    "name": "Child_Beth",
+    "title": "BOT",
+    "rating": 2503
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "puzzlesotherbot",
+  "opponentName": "Child_Beth"
+}
