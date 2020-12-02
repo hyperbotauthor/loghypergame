@@ -1,0 +1,45 @@
+{
+  "id": "U4cC2QnI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606892524934,
+  "white": {
+    "id": "magic-engine",
+    "name": "MagiC-engine",
+    "title": "BOT",
+    "rating": 2043
+  },
+  "black": {
+    "id": "codingchess",
+    "name": "CodingChess",
+    "title": "BOT",
+    "rating": 2287
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MagiC-engine",
+  "opponentName": "CodingChess"
+}
