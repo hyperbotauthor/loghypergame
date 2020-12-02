@@ -1,0 +1,45 @@
+{
+  "id": "Tc9OTulp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1606892384105,
+  "white": {
+    "id": "codingchess",
+    "name": "CodingChess",
+    "title": "BOT",
+    "rating": 2284
+  },
+  "black": {
+    "id": "magic-engine",
+    "name": "MagiC-engine",
+    "title": "BOT",
+    "rating": 2046
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CodingChess",
+  "opponentName": "MagiC-engine"
+}
