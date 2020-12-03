@@ -1,0 +1,42 @@
+{
+  "id": "ANqj5mYf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1606992292553,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "racing-king-champs",
+    "name": "Racing-king-Champs",
+    "title": "BOT",
+    "rating": 2024,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Racing-king-Champs"
+}
