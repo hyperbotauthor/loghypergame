@@ -32,14 +32,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "h2g3 a2a3 g3f4 b2b3 f2d4 b3b4 f4e5",
-    "wtime": 49810,
-    "btime": 21560,
+    "moves": "h2g3 a2a3 g3f4 b2b3 f2d4 b3b4 f4e5 b4d4 e5f6 b1b7 g2g7 a3a4 g7b7 a4a5 f6g7 d2b1 g7h8",
+    "wtime": 37380,
+    "btime": 21120,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "variantEnd",
+    "winner": "white"
   },
   "botName": "mmo_mikhail",
   "opponentName": "Racing-king-Champs"
