@@ -1,0 +1,42 @@
+{
+  "id": "mZ0lTl8K",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1607015283191,
+  "white": {
+    "id": "racing-king-champs",
+    "name": "Racing-king-Champs",
+    "title": "BOT",
+    "rating": 1479,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 6
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Racing-king-Champs"
+}
