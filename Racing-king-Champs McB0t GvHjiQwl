@@ -1,0 +1,46 @@
+{
+  "id": "GvHjiQwl",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1607081349800,
+  "white": {
+    "id": "racing-king-champs",
+    "name": "Racing-king-Champs",
+    "title": "BOT",
+    "rating": 2365
+  },
+  "black": {
+    "id": "mcb0t",
+    "name": "McB0t",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Racing-king-Champs",
+  "opponentName": "McB0t"
+}
