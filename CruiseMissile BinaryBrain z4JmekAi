@@ -1,0 +1,46 @@
+{
+  "id": "z4JmekAi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1607150436512,
+  "white": {
+    "id": "cruisemissile",
+    "name": "CruiseMissile",
+    "title": "BOT",
+    "rating": 2379,
+    "provisional": true
+  },
+  "black": {
+    "id": "binarybrain",
+    "name": "BinaryBrain",
+    "title": "BOT",
+    "rating": 2780
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CruiseMissile",
+  "opponentName": "BinaryBrain"
+}
