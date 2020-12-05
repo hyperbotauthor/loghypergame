@@ -1,0 +1,45 @@
+{
+  "id": "BweeOded",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1607174315140,
+  "white": {
+    "id": "betteranalyze",
+    "name": "BetterAnalyze",
+    "title": "BOT",
+    "rating": 2678
+  },
+  "black": {
+    "id": "binarybrain",
+    "name": "BinaryBrain",
+    "title": "BOT",
+    "rating": 2778
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BetterAnalyze",
+  "opponentName": "BinaryBrain"
+}
