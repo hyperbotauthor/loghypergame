@@ -1,0 +1,45 @@
+{
+  "id": "fydwJpUQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1607142701947,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2351
+  },
+  "black": {
+    "id": "binarybrain",
+    "name": "BinaryBrain",
+    "title": "BOT",
+    "rating": 2779
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g8f6 b1c3 d7d6 f1c4 b8c6 d2d3 e7e6 g1f3 f8e7 e1g1",
+    "wtime": 460410,
+    "btime": 415700,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "BinaryBrain"
+}
