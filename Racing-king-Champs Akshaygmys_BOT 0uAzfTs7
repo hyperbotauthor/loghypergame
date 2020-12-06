@@ -33,13 +33,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "d2d4 d7d5 g1f3 g8f6 c1g5 f6e4 g5h4 c7c5 b1d2 d8b6 d1c1 c5d4 g2g3 f7f6 f1g2",
+    "wtime": 292560,
+    "btime": 246680,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
-    "bdraw": false,
+    "bdraw": true,
     "status": "started"
   },
   "botName": "Racing-king-Champs",
