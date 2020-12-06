@@ -1,0 +1,46 @@
+{
+  "id": "OC6rZ3jx",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1607266958996,
+  "white": {
+    "id": "racing-king-champs",
+    "name": "Racing-king-Champs",
+    "title": "BOT",
+    "rating": 1902,
+    "provisional": true
+  },
+  "black": {
+    "id": "akshaygmys_bot",
+    "name": "Akshaygmys_BOT",
+    "title": "BOT",
+    "rating": 1674,
+    "provisional": true
+  },
+  "initialFen": "1k3r1r/pp2Rppp/2pp1q2/5Pp1/2QP4/2N5/PP4PP/6K1 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "RAYsv7xt"
+  },
+  "botName": "Racing-king-Champs",
+  "opponentName": "Akshaygmys_BOT"
+}
