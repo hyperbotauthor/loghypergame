@@ -1,0 +1,44 @@
+{
+  "id": "xLe1lqmg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1606965907823,
+  "white": {
+    "id": "sodiqisa",
+    "name": "sodiqisa",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "puzzlesotherbot",
+    "name": "puzzlesotherbot",
+    "title": "BOT",
+    "rating": 2074,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 1209600000,
+    "btime": 793585000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sodiqisa",
+  "opponentName": "puzzlesotherbot"
+}
