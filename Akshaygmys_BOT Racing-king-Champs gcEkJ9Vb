@@ -1,0 +1,47 @@
+{
+  "id": "gcEkJ9Vb",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1607414248110,
+  "white": {
+    "id": "akshaygmys_bot",
+    "name": "Akshaygmys_BOT",
+    "title": "BOT",
+    "rating": 1314,
+    "provisional": true
+  },
+  "black": {
+    "id": "racing-king-champs",
+    "name": "Racing-king-Champs",
+    "title": "BOT",
+    "rating": 1496,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Akshaygmys_BOT",
+  "opponentName": "Racing-king-Champs"
+}
