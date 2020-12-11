@@ -1,0 +1,46 @@
+{
+  "id": "ritiMAdl",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1607670187593,
+  "white": {
+    "id": "akshaygmys_bot",
+    "name": "Akshaygmys_BOT",
+    "title": "BOT",
+    "rating": 1605,
+    "provisional": true
+  },
+  "black": {
+    "id": "racing-king1234",
+    "name": "racing-king1234",
+    "title": null,
+    "rating": 1658
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Akshaygmys_BOT",
+  "opponentName": "racing-king1234"
+}
