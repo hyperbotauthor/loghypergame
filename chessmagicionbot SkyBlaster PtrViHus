@@ -1,0 +1,47 @@
+{
+  "id": "PtrViHus",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 9000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1607770973099,
+  "white": {
+    "id": "chessmagicionbot",
+    "name": "chessmagicionbot",
+    "title": "BOT",
+    "rating": 2243,
+    "provisional": true
+  },
+  "black": {
+    "id": "skyblaster",
+    "name": "SkyBlaster",
+    "title": "BOT",
+    "rating": 2298,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 9000,
+    "binc": 9000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessmagicionbot",
+  "opponentName": "SkyBlaster"
+}
