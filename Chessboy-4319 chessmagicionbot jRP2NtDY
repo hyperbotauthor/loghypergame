@@ -1,0 +1,45 @@
+{
+  "id": "jRP2NtDY",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 18000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1607771743408,
+  "white": {
+    "id": "chessboy-4319",
+    "name": "Chessboy-4319",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessmagicionbot",
+    "name": "chessmagicionbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/4N1P1/3P4/5q2/PPP1PPPP/RNBQKBNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e5f3",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 18000,
+    "binc": 18000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Chessboy-4319",
+  "opponentName": "chessmagicionbot"
+}
