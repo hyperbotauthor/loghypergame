@@ -1,0 +1,47 @@
+{
+  "id": "rSGfc9gA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1607860607423,
+  "white": {
+    "id": "chessmagicionbot",
+    "name": "chessmagicionbot",
+    "title": "BOT",
+    "rating": 2185,
+    "provisional": true
+  },
+  "black": {
+    "id": "kahunabot",
+    "name": "KahunaBot",
+    "title": "BOT",
+    "rating": 1074,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessmagicionbot",
+  "opponentName": "KahunaBot"
+}
