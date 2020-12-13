@@ -1,0 +1,47 @@
+{
+  "id": "dju8bJOd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1607869326563,
+  "white": {
+    "id": "iplayrandommoves",
+    "name": "IPlayRandomMoves",
+    "title": "BOT",
+    "rating": 799,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessinfobottrials",
+    "name": "chessinfobotTRIALS",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "IPlayRandomMoves",
+  "opponentName": "chessinfobotTRIALS"
+}
