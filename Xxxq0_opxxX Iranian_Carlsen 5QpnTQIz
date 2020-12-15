@@ -1,0 +1,46 @@
+{
+  "id": "5QpnTQIz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1608036176682,
+  "white": {
+    "id": "xxxq0_opxxx",
+    "name": "Xxxq0_opxxX",
+    "title": "BOT",
+    "rating": 2508
+  },
+  "black": {
+    "id": "iranian_carlsen",
+    "name": "Iranian_Carlsen",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Xxxq0_opxxX",
+  "opponentName": "Iranian_Carlsen"
+}
