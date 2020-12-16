@@ -1,0 +1,46 @@
+{
+  "id": "JjjaY9X5",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1608099925223,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1037,
+    "provisional": true
+  },
+  "black": {
+    "id": "racing-king1234",
+    "name": "racing-king1234",
+    "title": null,
+    "rating": 1909
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "racing-king1234"
+}
