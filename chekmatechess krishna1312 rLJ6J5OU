@@ -1,0 +1,46 @@
+{
+  "id": "rLJ6J5OU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1608099494934,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1720,
+    "provisional": true
+  },
+  "black": {
+    "id": "krishna1312",
+    "name": "krishna1312",
+    "title": "BOT",
+    "rating": 2197
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "krishna1312"
+}
