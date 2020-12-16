@@ -1,0 +1,46 @@
+{
+  "id": "jGwnTxdB",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1608090879371,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1088,
+    "provisional": true
+  },
+  "black": {
+    "id": "ekaansh_nagia25",
+    "name": "ekaansh_nagia25",
+    "title": null,
+    "rating": 1318
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "ekaansh_nagia25"
+}
