@@ -1,0 +1,46 @@
+{
+  "id": "LO8Y1Tuj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1608106162693,
+  "white": {
+    "id": "chessmagicionbot",
+    "name": "chessmagicionbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ahmadsaturn",
+    "name": "AhmadSaturn",
+    "title": null,
+    "rating": 1658
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 30000,
+    "binc": 30000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessmagicionbot",
+  "opponentName": "AhmadSaturn"
+}
