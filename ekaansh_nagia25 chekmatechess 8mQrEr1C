@@ -1,0 +1,46 @@
+{
+  "id": "8mQrEr1C",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1608100009230,
+  "white": {
+    "id": "ekaansh_nagia25",
+    "name": "ekaansh_nagia25",
+    "title": null,
+    "rating": 1282
+  },
+  "black": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1637,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ekaansh_nagia25",
+  "opponentName": "chekmatechess"
+}
