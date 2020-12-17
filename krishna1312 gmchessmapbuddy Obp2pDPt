@@ -1,0 +1,45 @@
+{
+  "id": "Obp2pDPt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1608182630279,
+  "white": {
+    "id": "krishna1312",
+    "name": "krishna1312",
+    "title": "BOT",
+    "rating": 2285
+  },
+  "black": {
+    "id": "gmchessmapbuddy",
+    "name": "gmchessmapbuddy",
+    "title": "BOT",
+    "rating": 2268
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "krishna1312",
+  "opponentName": "gmchessmapbuddy"
+}
