@@ -1,0 +1,47 @@
+{
+  "id": "ztyIJ6iM",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1608480518467,
+  "white": {
+    "id": "skyblaster",
+    "name": "SkyBlaster",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessmagicionbot",
+    "name": "chessmagicionbot",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "initialFen": "bnrkrnqb/pppppppp/8/8/8/8/PPPPPPPP/BNRKRNQB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SkyBlaster",
+  "opponentName": "chessmagicionbot"
+}
