@@ -1,0 +1,42 @@
+{
+  "id": "6YSxONCH",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1608740055157,
+  "white": {
+    "id": "chessbot2021",
+    "name": "ChessBot2021",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessBot2021"
+}
