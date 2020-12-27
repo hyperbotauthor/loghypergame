@@ -1,0 +1,46 @@
+{
+  "id": "eaHbDUWa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 4000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1609082907205,
+  "white": {
+    "id": "single_lion",
+    "name": "Single_Lion",
+    "title": "BOT",
+    "rating": 2198,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0test",
+    "name": "Lc0Test",
+    "title": "BOT",
+    "rating": 2587
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 4000,
+    "btime": 4000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Single_Lion",
+  "opponentName": "Lc0Test"
+}
