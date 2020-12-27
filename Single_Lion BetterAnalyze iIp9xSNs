@@ -1,0 +1,46 @@
+{
+  "id": "iIp9xSNs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1609066113336,
+  "white": {
+    "id": "single_lion",
+    "name": "Single_Lion",
+    "title": "BOT",
+    "rating": 2707,
+    "provisional": true
+  },
+  "black": {
+    "id": "betteranalyze",
+    "name": "BetterAnalyze",
+    "title": "BOT",
+    "rating": 2683
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Single_Lion",
+  "opponentName": "BetterAnalyze"
+}
