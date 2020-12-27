@@ -1,0 +1,45 @@
+{
+  "id": "NZllowHk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1609081405246,
+  "white": {
+    "id": "skyblaster",
+    "name": "SkyBlaster",
+    "title": "BOT",
+    "rating": 2273
+  },
+  "black": {
+    "id": "chesshappydragon",
+    "name": "ChessHappyDragon",
+    "title": "BOT",
+    "rating": 2559
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SkyBlaster",
+  "opponentName": "ChessHappyDragon"
+}
