@@ -1,0 +1,46 @@
+{
+  "id": "K8Xf13el",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1609064011434,
+  "white": {
+    "id": "single_lion",
+    "name": "Single_Lion",
+    "title": "BOT",
+    "rating": 2215,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessdestroyer3003",
+    "name": "chessdestroyer3003",
+    "title": "BOT",
+    "rating": 2588
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Single_Lion",
+  "opponentName": "chessdestroyer3003"
+}
