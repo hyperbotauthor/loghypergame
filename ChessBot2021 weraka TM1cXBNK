@@ -1,0 +1,45 @@
+{
+  "id": "TM1cXBNK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1609152305223,
+  "white": {
+    "id": "chessbot2021",
+    "name": "ChessBot2021",
+    "title": "BOT",
+    "rating": 2860
+  },
+  "black": {
+    "id": "weraka",
+    "name": "weraka",
+    "title": null,
+    "rating": 2103
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ChessBot2021",
+  "opponentName": "weraka"
+}
