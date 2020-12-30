@@ -1,0 +1,46 @@
+{
+  "id": "KKAxVTZo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1080000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1609301633498,
+  "white": {
+    "id": "srilankan-chess",
+    "name": "SriLankan-Chess",
+    "title": "BOT",
+    "rating": 2455,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2192
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1080000,
+    "btime": 1080000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SriLankan-Chess",
+  "opponentName": "Boris-Trapsky"
+}
