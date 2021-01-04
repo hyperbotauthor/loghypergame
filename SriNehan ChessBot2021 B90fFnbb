@@ -1,0 +1,46 @@
+{
+  "id": "B90fFnbb",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1609729958399,
+  "white": {
+    "id": "srinehan",
+    "name": "SriNehan",
+    "title": null,
+    "rating": 1551
+  },
+  "black": {
+    "id": "chessbot2021",
+    "name": "ChessBot2021",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "SriNehan",
+  "opponentName": "ChessBot2021"
+}
