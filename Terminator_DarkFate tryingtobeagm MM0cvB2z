@@ -1,0 +1,47 @@
+{
+  "id": "MM0cvB2z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1609925876173,
+  "white": {
+    "id": "terminator_darkfate",
+    "name": "Terminator_DarkFate",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "tryingtobeagm",
+    "name": "tryingtobeagm",
+    "title": "BOT",
+    "rating": 2017,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Terminator_DarkFate",
+  "opponentName": "tryingtobeagm"
+}
