@@ -1,0 +1,45 @@
+{
+  "id": "2mgaatJY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1609946461933,
+  "white": {
+    "id": "qautumn",
+    "name": "qAutumn",
+    "title": null,
+    "rating": 1469
+  },
+  "black": {
+    "id": "akshaygmys_bot",
+    "name": "Akshaygmys_BOT",
+    "title": "BOT",
+    "rating": 1992
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "qAutumn",
+  "opponentName": "Akshaygmys_BOT"
+}
