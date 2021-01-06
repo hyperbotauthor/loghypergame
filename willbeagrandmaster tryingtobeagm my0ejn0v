@@ -1,0 +1,47 @@
+{
+  "id": "my0ejn0v",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1609926588926,
+  "white": {
+    "id": "willbeagrandmaster",
+    "name": "willbeagrandmaster",
+    "title": null,
+    "rating": 1351,
+    "provisional": true
+  },
+  "black": {
+    "id": "tryingtobeagm",
+    "name": "tryingtobeagm",
+    "title": "BOT",
+    "rating": 2017,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "willbeagrandmaster",
+  "opponentName": "tryingtobeagm"
+}
