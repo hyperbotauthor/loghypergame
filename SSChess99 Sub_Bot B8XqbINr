@@ -1,0 +1,46 @@
+{
+  "id": "B8XqbINr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1610124421741,
+  "white": {
+    "id": "sschess99",
+    "name": "SSChess99",
+    "title": null,
+    "rating": 1209
+  },
+  "black": {
+    "id": "sub_bot",
+    "name": "Sub_Bot",
+    "title": "BOT",
+    "rating": 2111,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SSChess99",
+  "opponentName": "Sub_Bot"
+}
