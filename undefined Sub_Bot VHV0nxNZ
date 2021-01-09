@@ -1,0 +1,42 @@
+{
+  "id": "VHV0nxNZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 6000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1610217304875,
+  "white": {
+    "aiLevel": 7
+  },
+  "black": {
+    "id": "sub_bot",
+    "name": "Sub_Bot",
+    "title": "BOT",
+    "rating": 2177,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Sub_Bot"
+}
