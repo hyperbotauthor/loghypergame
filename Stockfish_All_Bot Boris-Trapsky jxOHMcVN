@@ -1,0 +1,46 @@
+{
+  "id": "jxOHMcVN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1610372825934,
+  "white": {
+    "id": "stockfish_all_bot",
+    "name": "Stockfish_All_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2139
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 g8f6 b1c3 c5d4 f3d4 h7h5 c1g5 c8g4 d1d2 e7e5 g5f6 g7f6 f1b5 b8d7 d4f5 g4f5 e4f5 a7a6 b5a4 a8c8 e1g1 f8h6 d2d1 h6f8 d1d5 b7b5 a4b3 h8h7 d5b7",
+    "wtime": 1030960,
+    "btime": 1423970,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stockfish_All_Bot",
+  "opponentName": "Boris-Trapsky"
+}
