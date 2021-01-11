@@ -1,0 +1,47 @@
+{
+  "id": "o7pNvYZS",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1610362971238,
+  "white": {
+    "id": "beth_age_20",
+    "name": "Beth_Age_20",
+    "title": "BOT",
+    "rating": 974,
+    "provisional": true
+  },
+  "black": {
+    "id": "lol7241",
+    "name": "lol7241",
+    "title": null,
+    "rating": 1184,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Beth_Age_20",
+  "opponentName": "lol7241"
+}
