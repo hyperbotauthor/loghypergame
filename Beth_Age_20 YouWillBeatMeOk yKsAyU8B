@@ -1,0 +1,46 @@
+{
+  "id": "yKsAyU8B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1610363179780,
+  "white": {
+    "id": "beth_age_20",
+    "name": "Beth_Age_20",
+    "title": "BOT",
+    "rating": 600,
+    "provisional": true
+  },
+  "black": {
+    "id": "youwillbeatmeok",
+    "name": "YouWillBeatMeOk",
+    "title": null,
+    "rating": 1305
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Beth_Age_20",
+  "opponentName": "YouWillBeatMeOk"
+}
