@@ -1,0 +1,41 @@
+{
+  "id": "lFz2ZbIz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1610445811758,
+  "white": {
+    "aiLevel": 2
+  },
+  "black": {
+    "id": "who-i-am1",
+    "name": "Who-I-am1",
+    "title": "BOT",
+    "rating": 2287
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Who-I-am1"
+}
