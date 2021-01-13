@@ -1,0 +1,47 @@
+{
+  "id": "jpokDcWn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1610557365581,
+  "white": {
+    "id": "lol7241bot",
+    "name": "lol7241Bot",
+    "title": "BOT",
+    "rating": 1903,
+    "provisional": true
+  },
+  "black": {
+    "id": "rishan001sbot",
+    "name": "Rishan001sBot",
+    "title": "BOT",
+    "rating": 1993,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "lol7241Bot",
+  "opponentName": "Rishan001sBot"
+}
