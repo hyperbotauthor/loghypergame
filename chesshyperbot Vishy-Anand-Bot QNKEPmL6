@@ -1,0 +1,46 @@
+{
+  "id": "QNKEPmL6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1610548587699,
+  "white": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 2452
+  },
+  "black": {
+    "id": "vishy-anand-bot",
+    "name": "Vishy-Anand-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chesshyperbot",
+  "opponentName": "Vishy-Anand-Bot"
+}
