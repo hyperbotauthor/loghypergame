@@ -1,0 +1,46 @@
+{
+  "id": "kLb6BzMM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1610509125759,
+  "white": {
+    "id": "v2bot",
+    "name": "v2bot",
+    "title": "BOT",
+    "rating": 2515,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessbot2021",
+    "name": "ChessBot2021",
+    "title": "BOT",
+    "rating": 2862
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "v2bot",
+  "opponentName": "ChessBot2021"
+}
