@@ -1,0 +1,46 @@
+{
+  "id": "wTbHPIex",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1610547656044,
+  "white": {
+    "id": "robot4ever",
+    "name": "Robot4Ever",
+    "title": "BOT",
+    "rating": 2533
+  },
+  "black": {
+    "id": "vishy-anand-bot",
+    "name": "Vishy-Anand-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Robot4Ever",
+  "opponentName": "Vishy-Anand-Bot"
+}
