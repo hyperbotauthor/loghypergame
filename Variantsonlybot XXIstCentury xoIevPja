@@ -1,0 +1,46 @@
+{
+  "id": "xoIevPja",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1610528516843,
+  "white": {
+    "id": "variantsonlybot",
+    "name": "Variantsonlybot",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2258
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Variantsonlybot",
+  "opponentName": "XXIstCentury"
+}
