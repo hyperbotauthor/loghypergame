@@ -1,0 +1,46 @@
+{
+  "id": "53VxhV3b",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 780000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1610538585028,
+  "white": {
+    "id": "betachessbot",
+    "name": "BetaChessBot",
+    "title": "BOT",
+    "rating": 2601,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1766
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 d7d5",
+    "wtime": 748940,
+    "btime": 780000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BetaChessBot",
+  "opponentName": "turkjs"
+}
