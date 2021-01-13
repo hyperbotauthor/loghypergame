@@ -1,0 +1,46 @@
+{
+  "id": "e09u6ThK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 4000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1610546573842,
+  "white": {
+    "id": "vishy-anand-bot",
+    "name": "Vishy-Anand-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "tryingtobeagm",
+    "name": "tryingtobeagm",
+    "title": "BOT",
+    "rating": 2471
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Vishy-Anand-Bot",
+  "opponentName": "tryingtobeagm"
+}
