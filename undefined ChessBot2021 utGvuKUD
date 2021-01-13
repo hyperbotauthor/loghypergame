@@ -35,7 +35,7 @@
     "binc": 10000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "opponentName": "ChessBot2021"
 }
