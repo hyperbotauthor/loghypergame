@@ -1,0 +1,46 @@
+{
+  "id": "7uQecJlO",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1610522849013,
+  "white": {
+    "id": "bulletchessbot",
+    "name": "BulletChessBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "nilatacbot",
+    "name": "NilatacBot",
+    "title": "BOT",
+    "rating": 2296
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BulletChessBot",
+  "opponentName": "NilatacBot"
+}
