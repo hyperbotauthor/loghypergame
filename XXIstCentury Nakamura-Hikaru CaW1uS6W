@@ -1,0 +1,47 @@
+{
+  "id": "CaW1uS6W",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1610597625204,
+  "white": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2347
+  },
+  "black": {
+    "id": "nakamura-hikaru",
+    "name": "Nakamura-Hikaru",
+    "title": "BOT",
+    "rating": 2563,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "xY1WEVe5"
+  },
+  "botName": "XXIstCentury",
+  "opponentName": "Nakamura-Hikaru"
+}
