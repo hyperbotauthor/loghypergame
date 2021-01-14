@@ -1,0 +1,46 @@
+{
+  "id": "oN0Y94ls",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1610644276306,
+  "white": {
+    "id": "samanyay",
+    "name": "Samanyay",
+    "title": null,
+    "rating": 1369
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4d3 f6d5 g5f3 f8d6 e1g1 e8g8 f1e1 a5c6 d3b5 c8d7 b5c6 d7c6 f3e5 d8g5 d2d4 d5c3 c1g5 c3d1 e1d1 f7f6 e5c6 b7c6 g5e3 f8e8 b1c3 e8e7 d4d5 c6c5 d1e1 a8e8 e3d2 d6e5",
+    "wtime": 218360,
+    "btime": 220180,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Samanyay",
+  "opponentName": "Bobby_Fischer_BOT"
+}
