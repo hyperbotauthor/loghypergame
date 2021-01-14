@@ -1,0 +1,46 @@
+{
+  "id": "sy4hkNF5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1610642188805,
+  "white": {
+    "id": "hulk990",
+    "name": "Hulk990",
+    "title": "BOT",
+    "rating": 1490,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 2267
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3",
+    "wtime": 598200,
+    "btime": 552850,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Hulk990",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
