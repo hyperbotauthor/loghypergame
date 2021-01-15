@@ -1,0 +1,46 @@
+{
+  "id": "kXGVvrN7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1610700732745,
+  "white": {
+    "id": "thechessplayer21",
+    "name": "TheChessPlayer21",
+    "title": null,
+    "rating": 1654
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 e7e6 b1c3 f8e7 g1f3 g8f6 e2e3 e8g8",
+    "wtime": 158110,
+    "btime": 62160,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheChessPlayer21",
+  "opponentName": "Bobby_Fischer_BOT"
+}
