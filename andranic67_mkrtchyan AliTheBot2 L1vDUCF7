@@ -1,0 +1,46 @@
+{
+  "id": "L1vDUCF7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1610811855591,
+  "white": {
+    "id": "andranic67_mkrtchyan",
+    "name": "andranic67_mkrtchyan",
+    "title": null,
+    "rating": 1606
+  },
+  "black": {
+    "id": "alithebot2",
+    "name": "AliTheBot2",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "andranic67_mkrtchyan",
+  "opponentName": "AliTheBot2"
+}
