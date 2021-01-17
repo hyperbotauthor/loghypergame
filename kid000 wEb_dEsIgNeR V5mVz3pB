@@ -1,0 +1,45 @@
+{
+  "id": "V5mVz3pB",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1610899947339,
+  "white": {
+    "id": "kid000",
+    "name": "kid000",
+    "title": "BOT",
+    "rating": 1922
+  },
+  "black": {
+    "id": "web_designer",
+    "name": "wEb_dEsIgNeR",
+    "title": null,
+    "rating": 1243
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kid000",
+  "opponentName": "wEb_dEsIgNeR"
+}
