@@ -1,0 +1,46 @@
+{
+  "id": "z0j5lbM7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1610975718902,
+  "white": {
+    "id": "just-a-random-bot",
+    "name": "Just-a-random-bot",
+    "title": "BOT",
+    "rating": 2024
+  },
+  "black": {
+    "id": "chessdot",
+    "name": "ChessDot",
+    "title": "BOT",
+    "rating": 1441,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Just-a-random-bot",
+  "opponentName": "ChessDot"
+}
