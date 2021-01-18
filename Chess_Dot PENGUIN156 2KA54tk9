@@ -1,0 +1,47 @@
+{
+  "id": "2KA54tk9",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1610958593205,
+  "white": {
+    "id": "chess_dot",
+    "name": "Chess_Dot",
+    "title": "BOT",
+    "rating": 1828,
+    "provisional": true
+  },
+  "black": {
+    "id": "penguin156",
+    "name": "PENGUIN156",
+    "title": "BOT",
+    "rating": 1734,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Chess_Dot",
+  "opponentName": "PENGUIN156"
+}
