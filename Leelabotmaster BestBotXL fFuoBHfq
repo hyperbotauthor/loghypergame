@@ -1,0 +1,46 @@
+{
+  "id": "fFuoBHfq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1610978278134,
+  "white": {
+    "id": "leelabotmaster",
+    "name": "Leelabotmaster",
+    "title": "BOT",
+    "rating": 2464
+  },
+  "black": {
+    "id": "bestbotxl",
+    "name": "BestBotXL",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Leelabotmaster",
+  "opponentName": "BestBotXL"
+}
