@@ -1,0 +1,45 @@
+{
+  "id": "1EOERD6j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1610953848893,
+  "white": {
+    "id": "stockfish_12_bot",
+    "name": "Stockfish_12_Bot",
+    "title": "BOT",
+    "rating": 2724
+  },
+  "black": {
+    "id": "kid000",
+    "name": "kid000",
+    "title": "BOT",
+    "rating": 2262
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 c7c6 e2e4 d7d5 b1c3 d5e4 c3e4 g8f6 e4f6 e7f6 c2c3 f8d6 f1d3 e8g8 d1c2 h7h6 g1e2 d8c7 h2h3 b8d7 e1g1 c6c5 c3c4 c5d4 e2d4 a7a6 d3h7 g8h8 h7e4 d7c5 e4d5 c5e6 d4f5 e6f4 c1f4 d6f4 a1d1 g7g6 f5d4 h8g7 f1e1 f4h2 g1h1 h2d6 a2a3 c8d7 b2b4 f8e8 c4c5 d6f4 c2b3 e8e1 d1e1 a8e8 e1e8 d7e8 g2g3 f4e5 d4c2 e8c6 h1g2 c7d7 d5c6 d7c6 b3f3 c6a4 c2e1 a4d7 g3g4 e5b2",
+    "wtime": 18640,
+    "btime": 37780,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stockfish_12_Bot",
+  "opponentName": "kid000"
+}
