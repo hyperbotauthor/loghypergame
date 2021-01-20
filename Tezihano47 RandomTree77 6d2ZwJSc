@@ -1,0 +1,45 @@
+{
+  "id": "6d2ZwJSc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1611176615210,
+  "white": {
+    "id": "tezihano47",
+    "name": "Tezihano47",
+    "title": null,
+    "rating": 2221
+  },
+  "black": {
+    "id": "randomtree77",
+    "name": "RandomTree77",
+    "title": "BOT",
+    "rating": 2571
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 g1f3 g8f6 c2c4 c7c6 b1c3 e7e6 c1g5 d5c4 a2a4 b7b5 a4b5 c6b5 c3b5 d8b6 b5a3 f8a3 b2a3 b8d7 d1c2 e8g8 a1b1 b6c7 e2e4 c8a6 b1c1 f8c8 f1e2 c7a5",
+    "wtime": 574660,
+    "btime": 147510,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tezihano47",
+  "opponentName": "RandomTree77"
+}
