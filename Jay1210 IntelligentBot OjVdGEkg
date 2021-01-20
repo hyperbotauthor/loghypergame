@@ -1,0 +1,46 @@
+{
+  "id": "OjVdGEkg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1611124672856,
+  "white": {
+    "id": "jay1210",
+    "name": "Jay1210",
+    "title": null,
+    "rating": 1317
+  },
+  "black": {
+    "id": "intelligentbot",
+    "name": "IntelligentBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jay1210",
+  "opponentName": "IntelligentBot"
+}
