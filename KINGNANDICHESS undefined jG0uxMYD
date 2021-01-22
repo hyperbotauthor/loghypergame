@@ -1,0 +1,42 @@
+{
+  "id": "jG0uxMYD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611314935281,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1660,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS"
+}
