@@ -1,0 +1,46 @@
+{
+  "id": "CMMSyvld",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611356784989,
+  "white": {
+    "id": "thegreatestchess_bot",
+    "name": "Thegreatestchess_bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "betaz",
+    "name": "BetaZ",
+    "title": "BOT",
+    "rating": 2161
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Thegreatestchess_bot",
+  "opponentName": "BetaZ"
+}
