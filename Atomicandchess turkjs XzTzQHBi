@@ -1,0 +1,46 @@
+{
+  "id": "XzTzQHBi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611303127350,
+  "white": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 1716,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1739
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 h7h6 e4e5 c7c5 g1f3 c5d4 f3d4 d8a5 b1c3 a5e5",
+    "wtime": 84430,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Atomicandchess",
+  "opponentName": "turkjs"
+}
