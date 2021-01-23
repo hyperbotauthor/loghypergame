@@ -8,7 +8,7 @@
   "clock": null,
   "speed": "correspondence",
   "perf": {
-    "name": "Correspondence"
+    "name": "Correspondencia"
   },
   "rated": false,
   "createdAt": 1611323626561,
@@ -29,7 +29,7 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "g2g3 d7d5 f1g2",
+    "moves": "g2g3 d7d5 f1g2 c7c5",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
