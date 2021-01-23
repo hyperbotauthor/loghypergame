@@ -1,0 +1,46 @@
+{
+  "id": "AiIta4Ow",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611424133354,
+  "white": {
+    "id": "robot4ever",
+    "name": "Robot4Ever",
+    "title": "BOT",
+    "rating": 2389
+  },
+  "black": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Robot4Ever",
+  "opponentName": "Kesarling_UT1"
+}
