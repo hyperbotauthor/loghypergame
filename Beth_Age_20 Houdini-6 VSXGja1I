@@ -1,0 +1,46 @@
+{
+  "id": "VSXGja1I",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1611396781685,
+  "white": {
+    "id": "beth_age_20",
+    "name": "Beth_Age_20",
+    "title": "BOT",
+    "rating": 1153,
+    "provisional": true
+  },
+  "black": {
+    "id": "houdini-6",
+    "name": "Houdini-6",
+    "title": "BOT",
+    "rating": 2518
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Beth_Age_20",
+  "opponentName": "Houdini-6"
+}
