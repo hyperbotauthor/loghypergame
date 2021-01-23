@@ -1,0 +1,46 @@
+{
+  "id": "aPAaLCNj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1611423355162,
+  "white": {
+    "id": "unai777",
+    "name": "unai777",
+    "title": null,
+    "rating": 2021
+  },
+  "black": {
+    "id": "superbot090",
+    "name": "Superbot090",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "unai777",
+  "opponentName": "Superbot090"
+}
