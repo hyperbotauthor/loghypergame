@@ -1,0 +1,46 @@
+{
+  "id": "RkQp0eUE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611412306432,
+  "white": {
+    "id": "thegreatestchess_bot",
+    "name": "Thegreatestchess_bot",
+    "title": "BOT",
+    "rating": 1490,
+    "provisional": true
+  },
+  "black": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2365
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Thegreatestchess_bot",
+  "opponentName": "xiang-qi"
+}
