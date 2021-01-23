@@ -1,0 +1,44 @@
+{
+  "id": "NPKmqbFk",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1611429059493,
+  "white": {
+    "id": "alphazerokomodoleila",
+    "name": "AlphaZerokomodoleila",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "black": {
+    "id": "giancarlo_prado",
+    "name": "Giancarlo_Prado",
+    "title": null,
+    "rating": 1691
+  },
+  "initialFen": "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AlphaZerokomodoleila",
+  "opponentName": "Giancarlo_Prado"
+}
