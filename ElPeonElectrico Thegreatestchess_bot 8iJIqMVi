@@ -1,0 +1,46 @@
+{
+  "id": "8iJIqMVi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1611418131582,
+  "white": {
+    "id": "elpeonelectrico",
+    "name": "ElPeonElectrico",
+    "title": "BOT",
+    "rating": 2545
+  },
+  "black": {
+    "id": "thegreatestchess_bot",
+    "name": "Thegreatestchess_bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ElPeonElectrico",
+  "opponentName": "Thegreatestchess_bot"
+}
