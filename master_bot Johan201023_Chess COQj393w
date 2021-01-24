@@ -1,0 +1,47 @@
+{
+  "id": "COQj393w",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611476255355,
+  "white": {
+    "id": "master_bot",
+    "name": "master_bot",
+    "title": "BOT",
+    "rating": 2108,
+    "provisional": true
+  },
+  "black": {
+    "id": "johan201023_chess",
+    "name": "Johan201023_Chess",
+    "title": "BOT",
+    "rating": 1897,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 f2f4 e7e5 g1f3 e5d4 d1d4",
+    "wtime": 293980,
+    "btime": 262740,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "master_bot",
+  "opponentName": "Johan201023_Chess"
+}
