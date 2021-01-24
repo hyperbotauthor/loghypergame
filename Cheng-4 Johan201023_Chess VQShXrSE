@@ -1,0 +1,45 @@
+{
+  "id": "VQShXrSE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611502209771,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2089
+  },
+  "black": {
+    "id": "johan201023_chess",
+    "name": "Johan201023_Chess",
+    "title": "BOT",
+    "rating": 2080
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 e7e6",
+    "wtime": 299760,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "Johan201023_Chess"
+}
