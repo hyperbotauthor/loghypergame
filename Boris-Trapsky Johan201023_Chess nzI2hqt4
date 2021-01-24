@@ -1,0 +1,45 @@
+{
+  "id": "nzI2hqt4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611499192939,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1838
+  },
+  "black": {
+    "id": "johan201023_chess",
+    "name": "Johan201023_Chess",
+    "title": "BOT",
+    "rating": 2063
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 g1f3 b8c6 c2c4 g8f6 b1c3",
+    "wtime": 300000,
+    "btime": 282140,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Johan201023_Chess"
+}
