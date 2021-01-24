@@ -1,0 +1,45 @@
+{
+  "id": "888QUaco",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611486089666,
+  "white": {
+    "id": "stockfishoffice",
+    "name": "StockfishOffice",
+    "title": "BOT",
+    "rating": 2541
+  },
+  "black": {
+    "id": "johan201023_chess",
+    "name": "Johan201023_Chess",
+    "title": "BOT",
+    "rating": 2050
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6",
+    "wtime": 297480,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "StockfishOffice",
+  "opponentName": "Johan201023_Chess"
+}
