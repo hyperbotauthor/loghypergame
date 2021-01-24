@@ -1,0 +1,46 @@
+{
+  "id": "rRegGvjT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611503513563,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1713
+  },
+  "black": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 1942,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "Kesarling_UT1"
+}
