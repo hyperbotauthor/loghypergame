@@ -1,0 +1,46 @@
+{
+  "id": "qxtusOWH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611478467501,
+  "white": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 1495,
+    "provisional": true
+  },
+  "black": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1913
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kesarling_UT1",
+  "opponentName": "KINGNANDICHESS"
+}
