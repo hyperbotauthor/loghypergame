@@ -1,0 +1,47 @@
+{
+  "id": "ANxbD8Qm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611508993232,
+  "white": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 2322,
+    "provisional": true
+  },
+  "black": {
+    "id": "m2rtbot",
+    "name": "m2rtbot",
+    "title": "BOT",
+    "rating": 818,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kesarling_UT1",
+  "opponentName": "m2rtbot"
+}
