@@ -1,0 +1,46 @@
+{
+  "id": "sLxIZSp0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611488523176,
+  "white": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 2647,
+    "provisional": true
+  },
+  "black": {
+    "id": "ninjagouniverse",
+    "name": "ninjagouniverse",
+    "title": null,
+    "rating": 1781
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kesarling_UT1",
+  "opponentName": "ninjagouniverse"
+}
