@@ -1,0 +1,46 @@
+{
+  "id": "ZyUT25Iz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611508567189,
+  "white": {
+    "id": "noobpwnftw",
+    "name": "NoobPwnFTW",
+    "title": "BOT",
+    "rating": 2450
+  },
+  "black": {
+    "id": "kesarling_ut1",
+    "name": "Kesarling_UT1",
+    "title": "BOT",
+    "rating": 2558,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoobPwnFTW",
+  "opponentName": "Kesarling_UT1"
+}
