@@ -1,0 +1,47 @@
+{
+  "id": "PPgUm62c",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasik"
+  },
+  "rated": true,
+  "createdAt": 1611613693924,
+  "white": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "magdaena-elfriede",
+    "name": "Magdaena-Elfriede",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ERIKDEYENGEGIBIKUTUR",
+  "opponentName": "Magdaena-Elfriede"
+}
