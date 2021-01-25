@@ -1,0 +1,46 @@
+{
+  "id": "TweCryil",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1611561795188,
+  "white": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1764
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1441,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkjs",
+  "opponentName": "Bobby_Fischer_BOT"
+}
