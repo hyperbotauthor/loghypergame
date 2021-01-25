@@ -1,0 +1,46 @@
+{
+  "id": "iZ8zFxdp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611609994377,
+  "white": {
+    "id": "kasparov0102",
+    "name": "Kasparov0102",
+    "title": null,
+    "rating": 1612
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1550,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kasparov0102",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
