@@ -1,0 +1,46 @@
+{
+  "id": "oErwuAIl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611567644819,
+  "white": {
+    "id": "lc0_chess",
+    "name": "Lc0_Chess",
+    "title": "BOT",
+    "rating": 2418,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 2399
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Lc0_Chess",
+  "opponentName": "chesshyperbot"
+}
