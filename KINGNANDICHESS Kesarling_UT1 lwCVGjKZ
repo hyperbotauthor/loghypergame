@@ -30,14 +30,14 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 86394000,
+    "moves": "d2d4 h7h5",
+    "wtime": 86386000,
     "btime": 86400000,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "draw"
   },
   "botName": "KINGNANDICHESS",
   "opponentName": "Kesarling_UT1"
