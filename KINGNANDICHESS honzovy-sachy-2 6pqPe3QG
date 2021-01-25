@@ -1,0 +1,45 @@
+{
+  "id": "6pqPe3QG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611581608788,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1668
+  },
+  "black": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 1894
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6",
+    "wtime": 284990,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "honzovy-sachy-2"
+}
