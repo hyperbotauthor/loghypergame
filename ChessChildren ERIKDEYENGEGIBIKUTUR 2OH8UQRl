@@ -1,0 +1,46 @@
+{
+  "id": "2OH8UQRl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 35000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasik"
+  },
+  "rated": false,
+  "createdAt": 1611606980992,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1789
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 35000,
+    "binc": 35000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
