@@ -1,0 +1,45 @@
+{
+  "id": "yyp6eZv6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611568757186,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1678
+  },
+  "black": {
+    "id": "nakshatra3",
+    "name": "Nakshatra3",
+    "title": "BOT",
+    "rating": 1821
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e5 e2e4 b8c6 d2d3 f8c5",
+    "wtime": 246800,
+    "btime": 289420,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "Nakshatra3"
+}
