@@ -1,0 +1,47 @@
+{
+  "id": "zsdGOsYs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 19000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1611658022003,
+  "white": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1576,
+    "provisional": true
+  },
+  "black": {
+    "id": "gazamizmubarek",
+    "name": "GAZAMIZMUBAREK",
+    "title": "BOT",
+    "rating": 1554,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 19000,
+    "binc": 19000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ERIKDEYENGEGIBIKUTUR",
+  "opponentName": "GAZAMIZMUBAREK"
+}
