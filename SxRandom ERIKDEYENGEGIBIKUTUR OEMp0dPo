@@ -1,0 +1,47 @@
+{
+  "id": "OEMp0dPo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 19000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1611656044523,
+  "white": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 796,
+    "provisional": true
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1510,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b4",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 19000,
+    "binc": 19000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SxRandom",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
