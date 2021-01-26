@@ -1,0 +1,41 @@
+{
+  "id": "WjbgX622",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1611636670222,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 2052
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 e1g1 f8g7 h2h3 b8c6 d4f3 b7b5 f1e1 d7b7 c3d5 f6d5 d1d5 a8b8 c2c3 e8g8 c1d2 f8c8 a1c1",
+    "wtime": 252840,
+    "btime": 146500,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "KINGNANDICHESS"
+}
