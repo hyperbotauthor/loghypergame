@@ -1,0 +1,46 @@
+{
+  "id": "STEPsdCK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611671864387,
+  "white": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1721,
+    "provisional": true
+  },
+  "black": {
+    "id": "maestrobot",
+    "name": "MaestroBot",
+    "title": "BOT",
+    "rating": 1429
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ERIKDEYENGEGIBIKUTUR",
+  "opponentName": "MaestroBot"
+}
