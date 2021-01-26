@@ -1,0 +1,47 @@
+{
+  "id": "IMCDZuPC",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1611656069970,
+  "white": {
+    "id": "kittenbus",
+    "name": "kittenbus",
+    "title": null,
+    "rating": 1784
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 d7d6 f1b5 c7c6 b5c6 b7c6 d1f3 g8f6 f3c6",
+    "wtime": 25890,
+    "btime": 19710,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "variantEnd",
+    "winner": "white"
+  },
+  "botName": "kittenbus",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
