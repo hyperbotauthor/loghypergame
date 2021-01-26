@@ -1,0 +1,46 @@
+{
+  "id": "DnuLmShr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 19000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1611677371655,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2127
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1576,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 19000,
+    "binc": 19000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "simpleEval",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
