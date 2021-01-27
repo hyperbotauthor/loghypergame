@@ -1,0 +1,47 @@
+{
+  "id": "FSJEuLiT",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1611742822590,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "sri123456",
+    "name": "Sri123456",
+    "title": null,
+    "rating": 885,
+    "provisional": true
+  },
+  "initialFen": "rqbbkrnn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKRNN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 c7c5",
+    "wtime": 599390,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "Sri123456"
+}
