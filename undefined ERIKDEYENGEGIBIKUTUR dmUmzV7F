@@ -1,0 +1,42 @@
+{
+  "id": "dmUmzV7F",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1611760787314,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1638,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
