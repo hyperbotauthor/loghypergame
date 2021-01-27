@@ -1,0 +1,47 @@
+{
+  "id": "Z6eZFFpK",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1611738579141,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1138,
+    "provisional": true
+  },
+  "black": {
+    "id": "sri123456",
+    "name": "Sri123456",
+    "title": null,
+    "rating": 1917,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "Sri123456"
+}
