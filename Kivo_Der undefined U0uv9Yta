@@ -26,14 +26,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8e7 e1g1 e8g8 f1e1 d7d6 b1d2 c6a5 d2f1 a5c4 d3c4 a7a5 h2h3 b7b6 f1g3 c8b7 d1d3 h7h6 g3f5 f6d7 c1e3 f8e8 b2b3 g8h7 a2a4 e7f8 a1d1 g7g6 f5h4 f8g7 g2g3 e8f8 f3d2 f7f5 e4f5 g6f5 f2f4 d8f6 d3e2 f6f7 e1f1 a8e8 d1e1 g7f6 h4f5 e5f4 f1f4 f6g5 f5h4 g5f4 e2d3 h7g7 g3f4 f7h5 e3d4 d7f6 e1e8 f8e8 d4f2 g7f7 d2f3 b7f3 d3f3 h5f3 h4f3 f6h5 f4f5 h5f4 f2h4 e8g8 g1f1 f4h3 c4c5 d6c5 f3e5 f7e8 e5g6 h3g5 h4g3 e8d7 g6e5 d7d8 e5g6 g5e4 g3f4 e4d6 f4d6 c7d6 f1g2 d8e8 g2h3 e8f7 h3g3 f7f6 g3f3 g8e8 g6f4 e8e5 f4h5 f6f5 h5f4 d6d5 f4d3 e5e4 d3f2 e4f4 f3g2 c5c4 f2d1 f4d4 d1e3 f5f4 e3f1 c4b3 c2b3 d4d3 g2f2 d5d4 f2e2 d3b3 f1d2 d4d3 e2d1 b3b4 d1c1 b4a4 c1b2 f4e3 d2f1 e3e2 b2c3 a4a3 c3b2 e2f1 b2a3 d3d2 a3a4 d2d1q a4b5 a5a4 b5c6 a4a3",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "resign",
+    "winner": "black"
   },
   "botName": "Kivo_Der"
 }
