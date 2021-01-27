@@ -28,14 +28,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "d2d4 e7e6 e2e4 c7c6 g1f3 g8f6",
+    "wtime": 52240,
+    "btime": 59460,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "resign",
+    "winner": "black"
   },
   "botName": "Kivo_Der"
 }
