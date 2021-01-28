@@ -1,0 +1,46 @@
+{
+  "id": "oufqoWkw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611822339180,
+  "white": {
+    "id": "kivo_der",
+    "name": "Kivo_Der",
+    "title": "BOT",
+    "rating": 1661,
+    "provisional": true
+  },
+  "black": {
+    "id": "vircher",
+    "name": "VircheR",
+    "title": "BOT",
+    "rating": 2216
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kivo_Der",
+  "opponentName": "VircheR"
+}
