@@ -1,0 +1,47 @@
+{
+  "id": "SdKIi1vm",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1611826509561,
+  "white": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1166,
+    "provisional": true
+  },
+  "black": {
+    "id": "kingnandi",
+    "name": "Kingnandi",
+    "title": null,
+    "rating": 1212,
+    "provisional": true
+  },
+  "initialFen": "qnbrkbnr/pppppppp/8/8/8/8/PPPPPPPP/QNBRKBNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDICHESS",
+  "opponentName": "Kingnandi"
+}
