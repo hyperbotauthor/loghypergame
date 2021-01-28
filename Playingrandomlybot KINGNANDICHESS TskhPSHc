@@ -1,0 +1,47 @@
+{
+  "id": "TskhPSHc",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1611821356359,
+  "white": {
+    "id": "playingrandomlybot",
+    "name": "Playingrandomlybot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "kingnandichess",
+    "name": "KINGNANDICHESS",
+    "title": "BOT",
+    "rating": 1058,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Playingrandomlybot",
+  "opponentName": "KINGNANDICHESS"
+}
