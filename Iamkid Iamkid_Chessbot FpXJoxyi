@@ -1,0 +1,43 @@
+{
+  "id": "FpXJoxyi",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1611810185996,
+  "white": {
+    "id": "iamkid",
+    "name": "Iamkid",
+    "title": null,
+    "rating": 1626
+  },
+  "black": {
+    "id": "iamkid_chessbot",
+    "name": "Iamkid_Chessbot",
+    "title": "BOT",
+    "rating": 1666,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 86400000,
+    "btime": 84850000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Iamkid",
+  "opponentName": "Iamkid_Chessbot"
+}
