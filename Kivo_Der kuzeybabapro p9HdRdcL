@@ -1,0 +1,46 @@
+{
+  "id": "p9HdRdcL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611945680257,
+  "white": {
+    "id": "kivo_der",
+    "name": "Kivo_Der",
+    "title": "BOT",
+    "rating": 1661,
+    "provisional": true
+  },
+  "black": {
+    "id": "kuzeybabapro",
+    "name": "kuzeybabapro",
+    "title": null,
+    "rating": 2023
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kivo_Der",
+  "opponentName": "kuzeybabapro"
+}
