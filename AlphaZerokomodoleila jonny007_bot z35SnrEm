@@ -1,0 +1,46 @@
+{
+  "id": "z35SnrEm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1611944500888,
+  "white": {
+    "id": "alphazerokomodoleila",
+    "name": "AlphaZerokomodoleila",
+    "title": "BOT",
+    "rating": 2263,
+    "provisional": true
+  },
+  "black": {
+    "id": "jonny007_bot",
+    "name": "jonny007_bot",
+    "title": "BOT",
+    "rating": 2602
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AlphaZerokomodoleila",
+  "opponentName": "jonny007_bot"
+}
