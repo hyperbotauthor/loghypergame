@@ -32,7 +32,7 @@
     "type": "gameState",
     "moves": "c2c4 g8f6 d2d4",
     "wtime": 604800000,
-    "btime": 602437000,
+    "btime": 598367000,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
