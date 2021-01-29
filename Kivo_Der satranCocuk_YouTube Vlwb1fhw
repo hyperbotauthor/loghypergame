@@ -1,0 +1,46 @@
+{
+  "id": "Vlwb1fhw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1611945581642,
+  "white": {
+    "id": "kivo_der",
+    "name": "Kivo_Der",
+    "title": "BOT",
+    "rating": 1661,
+    "provisional": true
+  },
+  "black": {
+    "id": "satrancocuk_youtube",
+    "name": "satranCocuk_YouTube",
+    "title": null,
+    "rating": 2230
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kivo_Der",
+  "opponentName": "satranCocuk_YouTube"
+}
