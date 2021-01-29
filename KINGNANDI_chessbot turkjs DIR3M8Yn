@@ -1,0 +1,46 @@
+{
+  "id": "DIR3M8Yn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1611895951780,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1771
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "turkjs"
+}
