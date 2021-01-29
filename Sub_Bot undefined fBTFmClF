@@ -1,0 +1,40 @@
+{
+  "id": "fBTFmClF",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1611929270156,
+  "white": {
+    "id": "sub_bot",
+    "name": "Sub_Bot",
+    "title": "BOT",
+    "rating": 1522,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "r4rk1/pppq1ppp/n3b3/1N1nB3/4B3/8/PPPQ1RPP/4R1K1 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sub_Bot"
+}
