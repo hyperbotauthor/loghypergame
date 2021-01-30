@@ -1,0 +1,45 @@
+{
+  "id": "MRWwsUyZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612017099273,
+  "white": {
+    "id": "lc0_chess",
+    "name": "Lc0_Chess",
+    "title": "BOT",
+    "rating": 1931
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1779
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e5 g2g3 c7c5 f1g2 d8e7 e2e4",
+    "wtime": 88930,
+    "btime": 87410,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Lc0_Chess",
+  "opponentName": "turkjs"
+}
