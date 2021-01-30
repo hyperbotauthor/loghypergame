@@ -1,0 +1,45 @@
+{
+  "id": "9i8PnuFP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612018213880,
+  "white": {
+    "id": "lc0_chess",
+    "name": "Lc0_Chess",
+    "title": "BOT",
+    "rating": 1929
+  },
+  "black": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 2066
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e5 g2g3 g8f6 f1g2 d7d5 e2e4",
+    "wtime": 88910,
+    "btime": 86240,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Lc0_Chess",
+  "opponentName": "GarboBot"
+}
