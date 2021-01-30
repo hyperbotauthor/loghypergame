@@ -1,0 +1,44 @@
+{
+  "id": "hsQymarS",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1612003989425,
+  "white": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1325,
+    "provisional": true
+  },
+  "black": {
+    "id": "panchanan",
+    "name": "PanchanaN",
+    "title": null,
+    "rating": 1343
+  },
+  "initialFen": "8/8/8/8/3KQ3/8/3kr3/8 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Bobby_Fischer_BOT",
+  "opponentName": "PanchanaN"
+}
