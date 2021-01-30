@@ -1,0 +1,45 @@
+{
+  "id": "it75EV7g",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1612017341146,
+  "white": {
+    "id": "lc0_chess",
+    "name": "Lc0_Chess",
+    "title": "BOT",
+    "rating": 1950
+  },
+  "black": {
+    "id": "willbochessengine",
+    "name": "WillBoChessEngine",
+    "title": "BOT",
+    "rating": 2481
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 c7c5 g2g3 g7g6 f1g2 b8c6 e2e4 f8g7 d2d3 d7d6 b1d2",
+    "wtime": 86570,
+    "btime": 89290,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Lc0_Chess",
+  "opponentName": "WillBoChessEngine"
+}
