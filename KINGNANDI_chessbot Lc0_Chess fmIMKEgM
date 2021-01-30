@@ -39,7 +39,8 @@
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "aborted"
+    "status": "aborted",
+    "rematch": "AxqRzVhv"
   },
   "botName": "KINGNANDI_chessbot",
   "opponentName": "Lc0_Chess"
