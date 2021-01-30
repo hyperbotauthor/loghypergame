@@ -1,0 +1,46 @@
+{
+  "id": "AOqpQn14",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1612015147941,
+  "white": {
+    "id": "jallahata",
+    "name": "Jallahata",
+    "title": "BOT",
+    "rating": 1712,
+    "provisional": true
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1654
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jallahata",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
