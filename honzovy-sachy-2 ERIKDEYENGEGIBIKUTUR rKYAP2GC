@@ -1,0 +1,45 @@
+{
+  "id": "rKYAP2GC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 16000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1612123841624,
+  "white": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 1872
+  },
+  "black": {
+    "id": "erikdeyengegibikutur",
+    "name": "ERIKDEYENGEGIBIKUTUR",
+    "title": "BOT",
+    "rating": 1635
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 16000,
+    "binc": 16000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "honzovy-sachy-2",
+  "opponentName": "ERIKDEYENGEGIBIKUTUR"
+}
