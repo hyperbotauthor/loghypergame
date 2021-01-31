@@ -1,0 +1,46 @@
+{
+  "id": "q7IJTTsF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1612084254466,
+  "white": {
+    "id": "thecheckmater200",
+    "name": "TheCheckmater200",
+    "title": "BOT",
+    "rating": 1966,
+    "provisional": true
+  },
+  "black": {
+    "id": "houdini-6",
+    "name": "Houdini-6",
+    "title": "BOT",
+    "rating": 2528
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheCheckmater200",
+  "opponentName": "Houdini-6"
+}
