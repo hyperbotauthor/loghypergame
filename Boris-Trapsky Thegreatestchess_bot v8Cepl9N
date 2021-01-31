@@ -1,0 +1,46 @@
+{
+  "id": "v8Cepl9N",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1612118080750,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2424
+  },
+  "black": {
+    "id": "thegreatestchess_bot",
+    "name": "Thegreatestchess_bot",
+    "title": "BOT",
+    "rating": 2057,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Thegreatestchess_bot"
+}
