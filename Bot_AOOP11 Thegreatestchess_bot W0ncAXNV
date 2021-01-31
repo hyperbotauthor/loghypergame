@@ -1,0 +1,46 @@
+{
+  "id": "W0ncAXNV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1612122425954,
+  "white": {
+    "id": "bot_aoop11",
+    "name": "Bot_AOOP11",
+    "title": "BOT",
+    "rating": 2408
+  },
+  "black": {
+    "id": "thegreatestchess_bot",
+    "name": "Thegreatestchess_bot",
+    "title": "BOT",
+    "rating": 2490,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot_AOOP11",
+  "opponentName": "Thegreatestchess_bot"
+}
