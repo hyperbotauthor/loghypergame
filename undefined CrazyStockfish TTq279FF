@@ -1,0 +1,43 @@
+{
+  "id": "TTq279FF",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1612188609322,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "crazystockfish",
+    "name": "CrazyStockfish",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "yuI7cDW6"
+  },
+  "opponentName": "CrazyStockfish"
+}
