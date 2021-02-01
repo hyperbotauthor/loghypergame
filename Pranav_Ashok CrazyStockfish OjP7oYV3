@@ -1,0 +1,47 @@
+{
+  "id": "OjP7oYV3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasik"
+  },
+  "rated": false,
+  "createdAt": 1612188709713,
+  "white": {
+    "id": "pranav_ashok",
+    "name": "Pranav_Ashok",
+    "title": null,
+    "rating": 1136,
+    "provisional": true
+  },
+  "black": {
+    "id": "crazystockfish",
+    "name": "CrazyStockfish",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Pranav_Ashok",
+  "opponentName": "CrazyStockfish"
+}
