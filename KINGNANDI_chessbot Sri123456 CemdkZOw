@@ -1,0 +1,47 @@
+{
+  "id": "CemdkZOw",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1612170848722,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 1774,
+    "provisional": true
+  },
+  "black": {
+    "id": "sri123456",
+    "name": "Sri123456",
+    "title": null,
+    "rating": 1398,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 e7e5 d4e5 d8e7 g1f3 b8c6 d1d5 g7g6 e1d2",
+    "wtime": 1007400,
+    "btime": 1006910,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "Sri123456"
+}
