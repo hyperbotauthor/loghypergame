@@ -1,0 +1,45 @@
+{
+  "id": "VOBacxxu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1612160447550,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 1804
+  },
+  "black": {
+    "id": "tallmagicalflamingo",
+    "name": "TallMagicalFlamingo",
+    "title": null,
+    "rating": 1150
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 e2e3 e7e6 f2f3 g8f6",
+    "wtime": 510,
+    "btime": 4610,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "TallMagicalFlamingo"
+}
