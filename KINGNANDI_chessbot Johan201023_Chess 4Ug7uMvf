@@ -1,0 +1,47 @@
+{
+  "id": "4Ug7uMvf",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1612241885884,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 1516,
+    "provisional": true
+  },
+  "black": {
+    "id": "johan201023_chess",
+    "name": "Johan201023_Chess",
+    "title": "BOT",
+    "rating": 1811,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 e2e3 g8f6 b1c3 c7c5 g1f3 b8c6 f1b5 e7e6 c1d2 c8d7",
+    "wtime": 635830,
+    "btime": 614540,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "Johan201023_Chess"
+}
