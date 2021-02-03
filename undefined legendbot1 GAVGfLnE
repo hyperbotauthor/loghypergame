@@ -1,0 +1,41 @@
+{
+  "id": "GAVGfLnE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1612342824147,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "legendbot1",
+    "name": "legendbot1",
+    "title": "BOT",
+    "rating": 2042
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "legendbot1"
+}
