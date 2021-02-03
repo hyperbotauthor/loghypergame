@@ -1,0 +1,46 @@
+{
+  "id": "zRcyD9ko",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1612375521768,
+  "white": {
+    "id": "daretochalengeme",
+    "name": "DareToChalengeMe",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "igm_hoffmann2500",
+    "name": "IGM_HOFFMANN2500",
+    "title": null,
+    "rating": 2667
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "DareToChalengeMe",
+  "opponentName": "IGM_HOFFMANN2500"
+}
