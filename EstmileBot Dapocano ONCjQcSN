@@ -1,0 +1,47 @@
+{
+  "id": "ONCjQcSN",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1612371644544,
+  "white": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1724,
+    "provisional": true
+  },
+  "black": {
+    "id": "dapocano",
+    "name": "Dapocano",
+    "title": null,
+    "rating": 1104,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "EstmileBot",
+  "opponentName": "Dapocano"
+}
