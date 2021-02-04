@@ -1,0 +1,46 @@
+{
+  "id": "jAN6nLyU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1612444560029,
+  "white": {
+    "id": "tyrannix",
+    "name": "Tyrannix",
+    "title": "BOT",
+    "rating": 2643
+  },
+  "black": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tyrannix",
+  "opponentName": "EstmileBot"
+}
