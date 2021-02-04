@@ -1,0 +1,43 @@
+{
+  "id": "u9Wyszsx",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1612438746191,
+  "white": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1743,
+    "provisional": true
+  },
+  "black": {
+    "id": "powerfulatomic",
+    "name": "PowerfulAtomic",
+    "title": null,
+    "rating": 2053
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EstmileBot",
+  "opponentName": "PowerfulAtomic"
+}
