@@ -1,0 +1,45 @@
+{
+  "id": "A8i4nOHG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612422772221,
+  "white": {
+    "id": "legendbot1",
+    "name": "legendbot1",
+    "title": "BOT",
+    "rating": 1956
+  },
+  "black": {
+    "id": "rathul",
+    "name": "Rathul",
+    "title": null,
+    "rating": 1614
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "legendbot1",
+  "opponentName": "Rathul"
+}
