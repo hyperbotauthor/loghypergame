@@ -1,0 +1,46 @@
+{
+  "id": "ajEVMkqC",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1612565549659,
+  "white": {
+    "id": "elpeonelectrico",
+    "name": "ElPeonElectrico",
+    "title": "BOT",
+    "rating": 2163
+  },
+  "black": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 1626,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ElPeonElectrico",
+  "opponentName": "VariantTourneysBot"
+}
