@@ -1,0 +1,46 @@
+{
+  "id": "iuAvcJJu",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 9000000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1612517503191,
+  "white": {
+    "id": "neeladhevi2020",
+    "name": "Neeladhevi2020",
+    "title": null,
+    "rating": 1288
+  },
+  "black": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1529,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 9000000,
+    "btime": 9000000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Neeladhevi2020",
+  "opponentName": "EstmileBot"
+}
