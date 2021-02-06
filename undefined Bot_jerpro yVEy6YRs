@@ -1,0 +1,39 @@
+{
+  "id": "yVEy6YRs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondencia"
+  },
+  "rated": false,
+  "createdAt": 1612631039973,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "bot_jerpro",
+    "name": "Bot_jerpro",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 d7d5 c2c4 c7c6 d2d4 g8f6 b1d2 c8f5 c4d5 c6d5 f1e2 b8c6 d1a4 e7e6 a2a3 a7a6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Bot_jerpro"
+}
