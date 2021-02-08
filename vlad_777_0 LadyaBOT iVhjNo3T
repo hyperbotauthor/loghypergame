@@ -33,9 +33,9 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b1c3 g8f6 d2d4 c5d4 f3d4 c6d4 c1e3 c7c5 c3d5 f6e4 d1g4 d4c2 e1f1 c2e3 f2e3 e4g5 h2h4 g5e6 d5c3 e8g8 h4h5 h7h6 e3e4 d7d6 c3d5 b7b5 c4b5 e6d4 g4g3 d4b5 f1g1 b5d4 a1e1 c8e6 d5c3 f7f5 e4f5 f8f5 c3e4",
-    "wtime": 134060,
-    "btime": 59510,
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b1c3 g8f6 d2d4 c5d4 f3d4 c6d4 c1e3 c7c5 c3d5 f6e4 d1g4 d4c2 e1f1 c2e3 f2e3 e4g5 h2h4 g5e6 d5c3 e8g8 h4h5 h7h6 e3e4 d7d6 c3d5 b7b5 c4b5 e6d4 g4g3 d4b5 f1g1 b5d4 a1e1 c8e6 d5c3 f7f5 e4f5 f8f5 c3e4 c5c4 h1h4 d6d5 e4c5 d8c7 c5e6 d4e6 h4g4 f5g5 g4g5 e6g5 e1e5 c7c5",
+    "wtime": 66560,
+    "btime": 17940,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
