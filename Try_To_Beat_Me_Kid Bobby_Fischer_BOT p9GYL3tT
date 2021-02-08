@@ -1,0 +1,46 @@
+{
+  "id": "p9GYL3tT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1612779173537,
+  "white": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 2231
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1744,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Try_To_Beat_Me_Kid",
+  "opponentName": "Bobby_Fischer_BOT"
+}
