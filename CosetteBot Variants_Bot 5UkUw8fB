@@ -1,0 +1,46 @@
+{
+  "id": "5UkUw8fB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612774087746,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 1943
+  },
+  "black": {
+    "id": "variants_bot",
+    "name": "Variants_Bot",
+    "title": "BOT",
+    "rating": 1431,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e5 b1c3 b8c6 d2d3 g8f6 g1f3 d7d5 d1b3 d5d4 c3d5 a7a5 b3b5 c8d7 a2a3 a5a4 c1d2 f8d6 d5f6 g7f6 c4c5 c6a5 b5b4 a5b3 a1b1 b3c5 b4c4 d7e6 c4c2 d8d7 d2h6 h8g8 e2e3 g8g6 e3d4 e5d4 h6f4 e6b3 c2e2 e8f8 f4d6 c7d6 e2d2 d7g4 f1e2 g4g2",
+    "wtime": 16780,
+    "btime": 27540,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "Variants_Bot"
+}
