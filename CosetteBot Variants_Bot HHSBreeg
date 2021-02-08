@@ -1,0 +1,46 @@
+{
+  "id": "HHSBreeg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612774155047,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 1944
+  },
+  "black": {
+    "id": "variants_bot",
+    "name": "Variants_Bot",
+    "title": "BOT",
+    "rating": 1394,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 e7e6 b1c3 c7c6 g1f3 d5c4 e2e4 b7b5 a2a4 f8b4 a4b5 c6b5 c1d2 b4c3 b2c3 g8e7 g2g3 e8g8 d1b1 a7a6 f1g2 c8b7 e1g1 b8d7 a1a2 h7h6 f1d1 f7f5 e4e5 d7b6 d1e1 e7d5 e1f1 f8f7 b1c2 b5b4 c2c1 a6a5 c1a1 d5c3 d2c3 b6d5 c3d2 c4c3 d2e1 d8b6 f3h4 f7c7",
+    "wtime": 19260,
+    "btime": 26790,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "Variants_Bot"
+}
