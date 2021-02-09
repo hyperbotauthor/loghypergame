@@ -1,0 +1,44 @@
+{
+  "id": "uE0jUviL",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1612849278405,
+  "white": {
+    "id": "kilo_vika_2012pro",
+    "name": "Kilo_vika_2012pro",
+    "title": null,
+    "rating": 1756
+  },
+  "black": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "RNBKQBNR/PPPPPPPP/8/8/8/8/pppppppp/rnbkqbnr w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g8f6",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kilo_vika_2012pro",
+  "opponentName": "LadyaBOT"
+}
