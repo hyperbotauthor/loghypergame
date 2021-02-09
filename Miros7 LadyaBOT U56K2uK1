@@ -1,0 +1,46 @@
+{
+  "id": "U56K2uK1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612890625488,
+  "white": {
+    "id": "miros7",
+    "name": "Miros7",
+    "title": null,
+    "rating": 1629
+  },
+  "black": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Miros7",
+  "opponentName": "LadyaBOT"
+}
