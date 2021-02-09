@@ -1,0 +1,46 @@
+{
+  "id": "1Ol1JgJ4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 10000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1612865005452,
+  "white": {
+    "id": "i_m_not_the_one2",
+    "name": "i_m_not_the_one2",
+    "title": null,
+    "rating": 1739
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b4",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "i_m_not_the_one2",
+  "opponentName": "Bobby_Fischer_BOT"
+}
