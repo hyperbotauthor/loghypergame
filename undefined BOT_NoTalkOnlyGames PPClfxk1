@@ -1,0 +1,39 @@
+{
+  "id": "PPClfxk1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1612863345109,
+  "white": {
+    "aiLevel": 3
+  },
+  "black": {
+    "id": "bot_notalkonlygames",
+    "name": "BOT_NoTalkOnlyGames",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 172800000,
+    "btime": 172790000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "BOT_NoTalkOnlyGames"
+}
