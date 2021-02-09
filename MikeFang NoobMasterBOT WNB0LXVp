@@ -1,0 +1,46 @@
+{
+  "id": "WNB0LXVp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612841690966,
+  "white": {
+    "id": "mikefang",
+    "name": "MikeFang",
+    "title": null,
+    "rating": 1678
+  },
+  "black": {
+    "id": "noobmasterbot",
+    "name": "NoobMasterBOT",
+    "title": "BOT",
+    "rating": 1556,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MikeFang",
+  "opponentName": "NoobMasterBOT"
+}
