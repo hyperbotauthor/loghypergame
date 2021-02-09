@@ -1,0 +1,47 @@
+{
+  "id": "NZDfWrKy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1612842147627,
+  "white": {
+    "id": "noobmasterbot",
+    "name": "NoobMasterBOT",
+    "title": "BOT",
+    "rating": 2037,
+    "provisional": true
+  },
+  "black": {
+    "id": "frank_64",
+    "name": "Frank_64",
+    "title": null,
+    "rating": 1408,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoobMasterBOT",
+  "opponentName": "Frank_64"
+}
