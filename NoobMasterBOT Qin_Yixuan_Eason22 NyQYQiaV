@@ -1,0 +1,46 @@
+{
+  "id": "NyQYQiaV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1612841413092,
+  "white": {
+    "id": "noobmasterbot",
+    "name": "NoobMasterBOT",
+    "title": "BOT",
+    "rating": 1558,
+    "provisional": true
+  },
+  "black": {
+    "id": "qin_yixuan_eason22",
+    "name": "Qin_Yixuan_Eason22",
+    "title": null,
+    "rating": 1543
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoobMasterBOT",
+  "opponentName": "Qin_Yixuan_Eason22"
+}
