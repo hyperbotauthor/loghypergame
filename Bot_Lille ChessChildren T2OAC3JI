@@ -1,0 +1,46 @@
+{
+  "id": "T2OAC3JI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapide"
+  },
+  "rated": true,
+  "createdAt": 1612955784928,
+  "white": {
+    "id": "bot_lille",
+    "name": "Bot_Lille",
+    "title": "BOT",
+    "rating": 1320,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1786
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot_Lille",
+  "opponentName": "ChessChildren"
+}
