@@ -39,7 +39,7 @@
     "binc": 1000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "NoTallkOnlyGames",
   "opponentName": "XXIstCentury"
