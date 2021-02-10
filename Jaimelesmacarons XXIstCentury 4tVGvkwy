@@ -1,0 +1,46 @@
+{
+  "id": "4tVGvkwy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 3600000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classique"
+  },
+  "rated": true,
+  "createdAt": 1612982095465,
+  "white": {
+    "id": "jaimelesmacarons",
+    "name": "Jaimelesmacarons",
+    "title": "BOT",
+    "rating": 1467,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2122
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3600000,
+    "btime": 3600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaimelesmacarons",
+  "opponentName": "XXIstCentury"
+}
