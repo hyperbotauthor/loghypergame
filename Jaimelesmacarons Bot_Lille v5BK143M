@@ -1,0 +1,44 @@
+{
+  "id": "v5BK143M",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondance"
+  },
+  "rated": false,
+  "createdAt": 1612954336970,
+  "white": {
+    "id": "jaimelesmacarons",
+    "name": "Jaimelesmacarons",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_lille",
+    "name": "Bot_Lille",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaimelesmacarons",
+  "opponentName": "Bot_Lille"
+}
