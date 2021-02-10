@@ -1,0 +1,47 @@
+{
+  "id": "LzhgW6x3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1612933829182,
+  "white": {
+    "id": "masternoob1600",
+    "name": "MasterNoob1600",
+    "title": "BOT",
+    "rating": 1450,
+    "provisional": true
+  },
+  "black": {
+    "id": "noobmasterbot",
+    "name": "NoobMasterBOT",
+    "title": "BOT",
+    "rating": 2376,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MasterNoob1600",
+  "opponentName": "NoobMasterBOT"
+}
