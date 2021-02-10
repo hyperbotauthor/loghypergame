@@ -1,0 +1,46 @@
+{
+  "id": "XLmoSkq0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classique"
+  },
+  "rated": false,
+  "createdAt": 1612953088550,
+  "white": {
+    "id": "josephe8",
+    "name": "JosephE8",
+    "title": null,
+    "rating": 1458
+  },
+  "black": {
+    "id": "jaimelesmacarons",
+    "name": "Jaimelesmacarons",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JosephE8",
+  "opponentName": "Jaimelesmacarons"
+}
