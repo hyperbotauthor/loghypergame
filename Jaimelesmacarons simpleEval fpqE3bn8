@@ -1,0 +1,46 @@
+{
+  "id": "fpqE3bn8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1612962011297,
+  "white": {
+    "id": "jaimelesmacarons",
+    "name": "Jaimelesmacarons",
+    "title": "BOT",
+    "rating": 1826,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2155
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaimelesmacarons",
+  "opponentName": "simpleEval"
+}
