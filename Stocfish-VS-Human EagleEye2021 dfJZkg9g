@@ -1,0 +1,46 @@
+{
+  "id": "dfJZkg9g",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613054936798,
+  "white": {
+    "id": "stocfish-vs-human",
+    "name": "Stocfish-VS-Human",
+    "title": null,
+    "rating": 1650,
+    "provisional": true
+  },
+  "black": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2346
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 f6e4",
+    "wtime": 175560,
+    "btime": 178660,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stocfish-VS-Human",
+  "opponentName": "EagleEye2021"
+}
