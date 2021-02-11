@@ -1,0 +1,46 @@
+{
+  "id": "iTkRmpWK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613069282679,
+  "white": {
+    "id": "jaimelesmacarons",
+    "name": "Jaimelesmacarons",
+    "title": "BOT",
+    "rating": 1262,
+    "provisional": true
+  },
+  "black": {
+    "id": "lichapibot",
+    "name": "lichapibot",
+    "title": "BOT",
+    "rating": 2367
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaimelesmacarons",
+  "opponentName": "lichapibot"
+}
