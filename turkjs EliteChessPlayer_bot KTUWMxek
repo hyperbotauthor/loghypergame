@@ -1,0 +1,46 @@
+{
+  "id": "KTUWMxek",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613113465838,
+  "white": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1723
+  },
+  "black": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 1881,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkjs",
+  "opponentName": "EliteChessPlayer_bot"
+}
