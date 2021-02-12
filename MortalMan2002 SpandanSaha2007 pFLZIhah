@@ -1,0 +1,47 @@
+{
+  "id": "pFLZIhah",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1613105287443,
+  "white": {
+    "id": "mortalman2002",
+    "name": "MortalMan2002",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "spandansaha2007",
+    "name": "SpandanSaha2007",
+    "title": null,
+    "rating": 2143,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MortalMan2002",
+  "opponentName": "SpandanSaha2007"
+}
