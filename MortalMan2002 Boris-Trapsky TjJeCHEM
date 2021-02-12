@@ -32,14 +32,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 240000,
-    "btime": 240000,
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 e7e5 d4b3 h7h5 b1c3 c8g4 f1e2 a7a6 e2g4 h5g4 d1g4 b8d7 c1g5 d8b8 a2a3 b7b5 h2h4 a6a5 g4e2 a5a4 b3d2 f8e7 e1c1 f7f6 g5e3 b5b4 a3b4 f6f5 e4f5 a4a3 b2a3 a8a3 e2c4 g8f6 d2b3 a3a8 c3b5 d6d5 b5c7 e8f8 c4c6 a8a2 c1b1 a2a3 c7d5 f6d5 d1d5 d7f6 d5b5 b8e8 c6e8 f6e8 b5b8 f8f7 b1b2 a3a6 b3c5 a6c6 g2g4 h8h4 h1h4 e7h4 b4b5 c6c7 b5b6 c7c6 c5d7 h4f6 g4g5 c6c4 g5f6 g7f6 b2b3 c4h4",
+    "wtime": 0,
+    "btime": 8460,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "black"
   },
   "botName": "MortalMan2002",
   "opponentName": "Boris-Trapsky"
