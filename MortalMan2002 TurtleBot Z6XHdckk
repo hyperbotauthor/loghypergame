@@ -1,0 +1,46 @@
+{
+  "id": "Z6XHdckk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613114181962,
+  "white": {
+    "id": "mortalman2002",
+    "name": "MortalMan2002",
+    "title": "BOT",
+    "rating": 1483,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1544
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g7g6 d2d4",
+    "wtime": 45520,
+    "btime": 44160,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MortalMan2002",
+  "opponentName": "TurtleBot"
+}
