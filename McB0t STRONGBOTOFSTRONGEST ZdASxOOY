@@ -1,0 +1,46 @@
+{
+  "id": "ZdASxOOY",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1613157979573,
+  "white": {
+    "id": "mcb0t",
+    "name": "McB0t",
+    "title": "BOT",
+    "rating": 2223,
+    "provisional": true
+  },
+  "black": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2276
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "McB0t",
+  "opponentName": "STRONGBOTOFSTRONGEST"
+}
