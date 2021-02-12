@@ -1,0 +1,46 @@
+{
+  "id": "ajZBkmjE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1613090038276,
+  "white": {
+    "id": "lolcheckmategg",
+    "name": "LolCheckmategg",
+    "title": "BOT",
+    "rating": 1820,
+    "provisional": true
+  },
+  "black": {
+    "id": "drbrooks",
+    "name": "DrBrooks",
+    "title": null,
+    "rating": 1747
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g2g3 d8f6 g1f3 f8c5 f1g2 d7d6 e1g1 c8g4 h2h3 g4h5 g3g4 h5g6 b1c3 c7c6 d2d3 h7h6 h3h4 b8d7 g4g5 h6g5 h4g5 f6e7",
+    "wtime": 540150,
+    "btime": 503940,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LolCheckmategg",
+  "opponentName": "DrBrooks"
+}
