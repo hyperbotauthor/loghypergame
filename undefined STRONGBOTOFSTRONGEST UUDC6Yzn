@@ -1,0 +1,39 @@
+{
+  "id": "UUDC6Yzn",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1613140152091,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2044,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2g3",
+    "wtime": 86400000,
+    "btime": 81439000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "STRONGBOTOFSTRONGEST"
+}
