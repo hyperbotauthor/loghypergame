@@ -1,0 +1,46 @@
+{
+  "id": "AYYgqUJl",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1613131528713,
+  "white": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "godelescherbot",
+    "name": "GodelEscherBot",
+    "title": "BOT",
+    "rating": 1802
+  },
+  "initialFen": "brkbrnqn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRNQN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "STRONGBOTOFSTRONGEST",
+  "opponentName": "GodelEscherBot"
+}
