@@ -1,0 +1,46 @@
+{
+  "id": "IWA4kUJW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613105290835,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 2396
+  },
+  "black": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "EliteChessPlayer_bot"
+}
