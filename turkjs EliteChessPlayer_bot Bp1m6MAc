@@ -1,0 +1,46 @@
+{
+  "id": "Bp1m6MAc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1613202882419,
+  "white": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1727
+  },
+  "black": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 2176,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkjs",
+  "opponentName": "EliteChessPlayer_bot"
+}
