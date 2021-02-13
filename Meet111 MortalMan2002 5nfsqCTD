@@ -1,0 +1,46 @@
+{
+  "id": "5nfsqCTD",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1613192730136,
+  "white": {
+    "id": "meet111",
+    "name": "Meet111",
+    "title": null,
+    "rating": 1355
+  },
+  "black": {
+    "id": "mortalman2002",
+    "name": "MortalMan2002",
+    "title": "BOT",
+    "rating": 2055,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Meet111",
+  "opponentName": "MortalMan2002"
+}
