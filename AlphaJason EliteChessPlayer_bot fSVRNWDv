@@ -1,0 +1,46 @@
+{
+  "id": "fSVRNWDv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1080000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1613187742469,
+  "white": {
+    "id": "alphajason",
+    "name": "AlphaJason",
+    "title": "BOT",
+    "rating": 1706
+  },
+  "black": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 2115,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 1080000,
+    "btime": 1080000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AlphaJason",
+  "opponentName": "EliteChessPlayer_bot"
+}
