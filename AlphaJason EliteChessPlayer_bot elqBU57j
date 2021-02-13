@@ -39,7 +39,7 @@
     "binc": 3000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "AlphaJason",
   "opponentName": "EliteChessPlayer_bot"
