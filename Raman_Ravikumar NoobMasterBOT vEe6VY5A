@@ -1,0 +1,47 @@
+{
+  "id": "vEe6VY5A",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1613184060345,
+  "white": {
+    "id": "raman_ravikumar",
+    "name": "Raman_Ravikumar",
+    "title": null,
+    "rating": 1411,
+    "provisional": true
+  },
+  "black": {
+    "id": "noobmasterbot",
+    "name": "NoobMasterBOT",
+    "title": "BOT",
+    "rating": 1685,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Raman_Ravikumar",
+  "opponentName": "NoobMasterBOT"
+}
