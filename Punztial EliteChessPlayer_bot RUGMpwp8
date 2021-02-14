@@ -1,0 +1,47 @@
+{
+  "id": "RUGMpwp8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1613284069792,
+  "white": {
+    "id": "punztial",
+    "name": "Punztial",
+    "title": null,
+    "rating": 830,
+    "provisional": true
+  },
+  "black": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Punztial",
+  "opponentName": "EliteChessPlayer_bot"
+}
