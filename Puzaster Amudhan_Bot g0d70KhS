@@ -1,0 +1,45 @@
+{
+  "id": "g0d70KhS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613391402492,
+  "white": {
+    "id": "puzaster",
+    "name": "Puzaster",
+    "title": "BOT",
+    "rating": 2331
+  },
+  "black": {
+    "id": "amudhan_bot",
+    "name": "Amudhan_Bot",
+    "title": "BOT",
+    "rating": 1401
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Puzaster",
+  "opponentName": "Amudhan_Bot"
+}
