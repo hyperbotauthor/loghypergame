@@ -1,0 +1,47 @@
+{
+  "id": "bCClA1d5",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1613375814809,
+  "white": {
+    "id": "poweronbot",
+    "name": "PowerOnBot",
+    "title": "BOT",
+    "rating": 1988,
+    "provisional": true
+  },
+  "black": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1043,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 7000,
+    "binc": 7000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PowerOnBot",
+  "opponentName": "EstmileBot"
+}
