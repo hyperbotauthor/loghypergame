@@ -1,0 +1,46 @@
+{
+  "id": "m72Xkr3J",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613389444750,
+  "white": {
+    "id": "spookymovingnnue",
+    "name": "SpookyMovingNNUE",
+    "title": "BOT",
+    "rating": 2505,
+    "provisional": true
+  },
+  "black": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 2461
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SpookyMovingNNUE",
+  "opponentName": "VariantTourneysBot"
+}
