@@ -1,0 +1,47 @@
+{
+  "id": "qRhJzex8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613365621789,
+  "white": {
+    "id": "amudhan_bot",
+    "name": "Amudhan_Bot",
+    "title": "BOT",
+    "rating": 1558,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1537
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "Q7P7VAis"
+  },
+  "botName": "Amudhan_Bot",
+  "opponentName": "TurtleBot"
+}
