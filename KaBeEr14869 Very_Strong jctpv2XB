@@ -1,0 +1,46 @@
+{
+  "id": "jctpv2XB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1613467191825,
+  "white": {
+    "id": "kabeer14869",
+    "name": "KaBeEr14869",
+    "title": null,
+    "rating": 1455
+  },
+  "black": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 1487,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KaBeEr14869",
+  "opponentName": "Very_Strong"
+}
