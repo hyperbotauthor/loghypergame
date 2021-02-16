@@ -1,0 +1,46 @@
+{
+  "id": "lbgROMOY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613467205730,
+  "white": {
+    "id": "mshivansh123",
+    "name": "MsHiVaNsH123",
+    "title": null,
+    "rating": 1824
+  },
+  "black": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 1147,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MsHiVaNsH123",
+  "opponentName": "Very_Strong"
+}
