@@ -1,0 +1,46 @@
+{
+  "id": "I8wKiCT3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1613445703422,
+  "white": {
+    "id": "elitechessplayer_bot",
+    "name": "EliteChessPlayer_bot",
+    "title": "BOT",
+    "rating": 2063,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1763
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EliteChessPlayer_bot",
+  "opponentName": "turkjs"
+}
