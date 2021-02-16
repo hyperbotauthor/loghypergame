@@ -1,0 +1,46 @@
+{
+  "id": "w0e9fLhK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613473933330,
+  "white": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 1147,
+    "provisional": true
+  },
+  "black": {
+    "id": "schaken_is_tof",
+    "name": "schaken_is_tof",
+    "title": null,
+    "rating": 1773
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Very_Strong",
+  "opponentName": "schaken_is_tof"
+}
