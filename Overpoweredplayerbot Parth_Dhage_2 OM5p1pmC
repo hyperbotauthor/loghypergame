@@ -1,0 +1,47 @@
+{
+  "id": "OM5p1pmC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1613468306553,
+  "white": {
+    "id": "overpoweredplayerbot",
+    "name": "Overpoweredplayerbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "parth_dhage_2",
+    "name": "Parth_Dhage_2",
+    "title": "BOT",
+    "rating": 2007,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Overpoweredplayerbot",
+  "opponentName": "Parth_Dhage_2"
+}
