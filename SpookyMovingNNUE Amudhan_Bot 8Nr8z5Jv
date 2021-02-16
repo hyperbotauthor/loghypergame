@@ -1,0 +1,46 @@
+{
+  "id": "8Nr8z5Jv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613452766739,
+  "white": {
+    "id": "spookymovingnnue",
+    "name": "SpookyMovingNNUE",
+    "title": "BOT",
+    "rating": 2409,
+    "provisional": true
+  },
+  "black": {
+    "id": "amudhan_bot",
+    "name": "Amudhan_Bot",
+    "title": "BOT",
+    "rating": 1401
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SpookyMovingNNUE",
+  "opponentName": "Amudhan_Bot"
+}
