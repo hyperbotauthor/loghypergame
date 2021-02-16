@@ -1,0 +1,45 @@
+{
+  "id": "IuZiEqNX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613450351578,
+  "white": {
+    "id": "amudhan_bot",
+    "name": "Amudhan_Bot",
+    "title": "BOT",
+    "rating": 1401
+  },
+  "black": {
+    "id": "ehqh_super_bot",
+    "name": "EHQH_Super_Bot",
+    "title": "BOT",
+    "rating": 2331
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Amudhan_Bot",
+  "opponentName": "EHQH_Super_Bot"
+}
