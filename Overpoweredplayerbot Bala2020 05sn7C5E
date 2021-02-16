@@ -1,0 +1,46 @@
+{
+  "id": "05sn7C5E",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1613468270065,
+  "white": {
+    "id": "overpoweredplayerbot",
+    "name": "Overpoweredplayerbot",
+    "title": "BOT",
+    "rating": 1455,
+    "provisional": true
+  },
+  "black": {
+    "id": "bala2020",
+    "name": "Bala2020",
+    "title": null,
+    "rating": 2051
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Overpoweredplayerbot",
+  "opponentName": "Bala2020"
+}
