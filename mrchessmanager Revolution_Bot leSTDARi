@@ -1,0 +1,46 @@
+{
+  "id": "leSTDARi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613451338069,
+  "white": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2286
+  },
+  "black": {
+    "id": "revolution_bot",
+    "name": "Revolution_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 b5c6 d7c6 b1d2 f6d7 e1g1 e8g8 d2c4 f8e8 c1d2 c5f8 b2b4 f7f6 d1b1 d7b8 a2a4 c8e6 f1d1 b7b6 a4a5 b6b5 c4e3 b8a6 c2c3 d8e7 e3f5 e7d7 f5g3 c6c5 b4c5 a6c5 d3d4 c5b3 d4d5 b3d2 d5e6 d2f3 g2f3 d7c6 b1b3 e8e6 d1d5 a7a6 a1d1 g8h8 h2h4 e6d6 d5d6 c7d6",
+    "wtime": 40420,
+    "btime": 35120,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "mrchessmanager",
+  "opponentName": "Revolution_Bot"
+}
