@@ -1,0 +1,45 @@
+{
+  "id": "HqPOwzRT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613454236132,
+  "white": {
+    "id": "prenitkathuria",
+    "name": "prenitkathuria",
+    "title": null,
+    "rating": 1596
+  },
+  "black": {
+    "id": "amudhan_bot",
+    "name": "Amudhan_Bot",
+    "title": "BOT",
+    "rating": 1401
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "prenitkathuria",
+  "opponentName": "Amudhan_Bot"
+}
