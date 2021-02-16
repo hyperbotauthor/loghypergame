@@ -1,0 +1,46 @@
+{
+  "id": "NO53Nk86",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613468361056,
+  "white": {
+    "id": "overpoweredplayerbot",
+    "name": "Overpoweredplayerbot",
+    "title": "BOT",
+    "rating": 1330,
+    "provisional": true
+  },
+  "black": {
+    "id": "thechessninja777",
+    "name": "TheChessNinja777",
+    "title": null,
+    "rating": 1621
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Overpoweredplayerbot",
+  "opponentName": "TheChessNinja777"
+}
