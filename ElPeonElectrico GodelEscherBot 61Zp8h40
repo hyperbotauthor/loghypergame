@@ -1,0 +1,45 @@
+{
+  "id": "61Zp8h40",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613510169172,
+  "white": {
+    "id": "elpeonelectrico",
+    "name": "ElPeonElectrico",
+    "title": "BOT",
+    "rating": 2211
+  },
+  "black": {
+    "id": "godelescherbot",
+    "name": "GodelEscherBot",
+    "title": "BOT",
+    "rating": 2484
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ElPeonElectrico",
+  "opponentName": "GodelEscherBot"
+}
