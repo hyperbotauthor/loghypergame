@@ -1,0 +1,46 @@
+{
+  "id": "X2PJVCAa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1613468262139,
+  "white": {
+    "id": "kabeer14869",
+    "name": "KaBeEr14869",
+    "title": null,
+    "rating": 1455
+  },
+  "black": {
+    "id": "overpoweredplayerbot",
+    "name": "Overpoweredplayerbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KaBeEr14869",
+  "opponentName": "Overpoweredplayerbot"
+}
