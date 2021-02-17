@@ -1,0 +1,47 @@
+{
+  "id": "7Lh2qUyl",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1613559231556,
+  "white": {
+    "id": "yellowjackets_bot",
+    "name": "YellowJackets_Bot",
+    "title": "BOT",
+    "rating": 1055,
+    "provisional": true
+  },
+  "black": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 1360,
+    "provisional": true
+  },
+  "initialFen": "nbrnbqkr/pppppppp/8/8/8/8/PPPPPPPP/NBRNBQKR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "YellowJackets_Bot",
+  "opponentName": "STRONGBOTOFSTRONGEST"
+}
