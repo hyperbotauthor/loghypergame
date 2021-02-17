@@ -1,0 +1,47 @@
+{
+  "id": "h78hQE2x",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1613556877932,
+  "white": {
+    "id": "brabemachess-bot",
+    "name": "Brabemachess-BOT",
+    "title": "BOT",
+    "rating": 1812,
+    "provisional": true
+  },
+  "black": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2240,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Brabemachess-BOT",
+  "opponentName": "STRONGBOTOFSTRONGEST"
+}
