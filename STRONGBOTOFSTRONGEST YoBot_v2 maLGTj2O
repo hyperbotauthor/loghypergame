@@ -1,0 +1,46 @@
+{
+  "id": "maLGTj2O",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1613544401897,
+  "white": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2069,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2554
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "STRONGBOTOFSTRONGEST",
+  "opponentName": "YoBot_v2"
+}
