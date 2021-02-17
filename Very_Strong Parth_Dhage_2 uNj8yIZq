@@ -1,0 +1,46 @@
+{
+  "id": "uNj8yIZq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613532879176,
+  "white": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 898,
+    "provisional": true
+  },
+  "black": {
+    "id": "parth_dhage_2",
+    "name": "Parth_Dhage_2",
+    "title": "BOT",
+    "rating": 1934
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Very_Strong",
+  "opponentName": "Parth_Dhage_2"
+}
