@@ -1,0 +1,46 @@
+{
+  "id": "0PiBdSC2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1613532952691,
+  "white": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 897,
+    "provisional": true
+  },
+  "black": {
+    "id": "yogesh_gupta",
+    "name": "yogesh_gupta",
+    "title": null,
+    "rating": 1805
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Very_Strong",
+  "opponentName": "yogesh_gupta"
+}
