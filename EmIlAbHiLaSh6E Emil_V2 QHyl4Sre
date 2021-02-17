@@ -1,0 +1,46 @@
+{
+  "id": "QHyl4Sre",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613570022375,
+  "white": {
+    "id": "emilabhilash6e",
+    "name": "EmIlAbHiLaSh6E",
+    "title": null,
+    "rating": 1691
+  },
+  "black": {
+    "id": "emil_v2",
+    "name": "Emil_V2",
+    "title": "BOT",
+    "rating": 2011,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EmIlAbHiLaSh6E",
+  "opponentName": "Emil_V2"
+}
