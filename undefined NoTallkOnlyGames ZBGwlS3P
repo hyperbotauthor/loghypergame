@@ -1,0 +1,39 @@
+{
+  "id": "ZBGwlS3P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1613551151013,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 e7e5 d2d4 e5d4 e3d4 g8f6 d1e2 f8e7 b1c3",
+    "wtime": 864000000,
+    "btime": 863914000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "NoTallkOnlyGames"
+}
