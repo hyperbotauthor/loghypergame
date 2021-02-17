@@ -1,0 +1,44 @@
+{
+  "id": "Nbeofj7r",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1613574660472,
+  "white": {
+    "id": "mertguc",
+    "name": "mertguc",
+    "title": null,
+    "rating": 1132,
+    "provisional": true
+  },
+  "black": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 172800000,
+    "btime": 172796000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "mertguc",
+  "opponentName": "EstmileBot"
+}
