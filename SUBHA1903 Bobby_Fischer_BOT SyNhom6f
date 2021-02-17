@@ -1,0 +1,47 @@
+{
+  "id": "SyNhom6f",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1613546752782,
+  "white": {
+    "id": "subha1903",
+    "name": "SUBHA1903",
+    "title": null,
+    "rating": 1600,
+    "provisional": true
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1373,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 1500000,
+    "btime": 1500000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "SUBHA1903",
+  "opponentName": "Bobby_Fischer_BOT"
+}
