@@ -1,0 +1,46 @@
+{
+  "id": "SEMhMk79",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613569879130,
+  "white": {
+    "id": "emilabhilash6e",
+    "name": "EmIlAbHiLaSh6E",
+    "title": null,
+    "rating": 1692
+  },
+  "black": {
+    "id": "emil_v2",
+    "name": "Emil_V2",
+    "title": "BOT",
+    "rating": 1934,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EmIlAbHiLaSh6E",
+  "opponentName": "Emil_V2"
+}
