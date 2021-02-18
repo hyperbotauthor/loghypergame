@@ -1,0 +1,46 @@
+{
+  "id": "FkGznqmx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613634509400,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1827,
+    "provisional": true
+  },
+  "black": {
+    "id": "genadi_kuholeikin",
+    "name": "GENADI_KUHOLEIKIN",
+    "title": null,
+    "rating": 2037
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "GENADI_KUHOLEIKIN"
+}
