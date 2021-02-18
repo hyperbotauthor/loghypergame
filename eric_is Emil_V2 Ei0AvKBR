@@ -1,0 +1,46 @@
+{
+  "id": "Ei0AvKBR",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1613628718288,
+  "white": {
+    "id": "eric_is",
+    "name": "eric_is",
+    "title": null,
+    "rating": 1352
+  },
+  "black": {
+    "id": "emil_v2",
+    "name": "Emil_V2",
+    "title": "BOT",
+    "rating": 1716,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "eric_is",
+  "opponentName": "Emil_V2"
+}
