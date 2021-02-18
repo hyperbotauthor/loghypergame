@@ -1,0 +1,46 @@
+{
+  "id": "zD0Z1cn6",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1613634555860,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1293,
+    "provisional": true
+  },
+  "black": {
+    "id": "jananimanivel",
+    "name": "JananiManivel",
+    "title": null,
+    "rating": 1548
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "JananiManivel"
+}
