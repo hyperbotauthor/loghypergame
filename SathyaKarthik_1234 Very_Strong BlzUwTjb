@@ -1,0 +1,47 @@
+{
+  "id": "BlzUwTjb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613648167901,
+  "white": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 851,
+    "provisional": true
+  },
+  "black": {
+    "id": "very_strong",
+    "name": "Very_Strong",
+    "title": "BOT",
+    "rating": 1487,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SathyaKarthik_1234",
+  "opponentName": "Very_Strong"
+}
