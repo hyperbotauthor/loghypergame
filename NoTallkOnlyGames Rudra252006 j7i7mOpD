@@ -1,0 +1,46 @@
+{
+  "id": "j7i7mOpD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613634715449,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1827,
+    "provisional": true
+  },
+  "black": {
+    "id": "rudra252006",
+    "name": "Rudra252006",
+    "title": null,
+    "rating": 1756
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "Rudra252006"
+}
