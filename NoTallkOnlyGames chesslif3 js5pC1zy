@@ -1,0 +1,46 @@
+{
+  "id": "js5pC1zy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613761284203,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1688,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesslif3",
+    "name": "chesslif3",
+    "title": null,
+    "rating": 1732
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "chesslif3"
+}
