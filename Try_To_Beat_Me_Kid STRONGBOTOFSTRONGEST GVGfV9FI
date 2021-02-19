@@ -1,0 +1,46 @@
+{
+  "id": "GVGfV9FI",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1613711567052,
+  "white": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 2233
+  },
+  "black": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2223,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Try_To_Beat_Me_Kid",
+  "opponentName": "STRONGBOTOFSTRONGEST"
+}
