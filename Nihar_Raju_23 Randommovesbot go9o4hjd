@@ -1,0 +1,44 @@
+{
+  "id": "go9o4hjd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1613710016729,
+  "white": {
+    "id": "nihar_raju_23",
+    "name": "Nihar_Raju_23",
+    "title": null,
+    "rating": 1166,
+    "provisional": true
+  },
+  "black": {
+    "id": "randommovesbot",
+    "name": "Randommovesbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 e2e3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Nihar_Raju_23",
+  "opponentName": "Randommovesbot"
+}
