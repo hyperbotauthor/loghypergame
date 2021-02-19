@@ -1,0 +1,47 @@
+{
+  "id": "MNMXgCU6",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1613710669409,
+  "white": {
+    "id": "randommovesbot",
+    "name": "Randommovesbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "abhijeetsrivastav",
+    "name": "AbhijeetSrivastav",
+    "title": null,
+    "rating": 2014,
+    "provisional": true
+  },
+  "initialFen": "nrqnbbkr/pppppppp/8/8/8/8/PPPPPPPP/NRQNBBKR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Randommovesbot",
+  "opponentName": "AbhijeetSrivastav"
+}
