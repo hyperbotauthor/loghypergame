@@ -1,0 +1,47 @@
+{
+  "id": "RrpYzpI4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2100000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1613717066208,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "cypex_2",
+    "name": "Cypex_2",
+    "title": null,
+    "rating": 1630,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2100000,
+    "btime": 2100000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "Cypex_2"
+}
