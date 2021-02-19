@@ -1,0 +1,46 @@
+{
+  "id": "CKSDqbAh",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1613745325183,
+  "white": {
+    "id": "emil_v2",
+    "name": "Emil_V2",
+    "title": "BOT",
+    "rating": 1776,
+    "provisional": true
+  },
+  "black": {
+    "id": "crissellitto",
+    "name": "Crissellitto",
+    "title": null,
+    "rating": 1258
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Emil_V2",
+  "opponentName": "Crissellitto"
+}
