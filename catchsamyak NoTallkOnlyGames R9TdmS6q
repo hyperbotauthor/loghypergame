@@ -1,0 +1,46 @@
+{
+  "id": "R9TdmS6q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613722589537,
+  "white": {
+    "id": "catchsamyak",
+    "name": "catchsamyak",
+    "title": null,
+    "rating": 1268
+  },
+  "black": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1579,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "catchsamyak",
+  "opponentName": "NoTallkOnlyGames"
+}
