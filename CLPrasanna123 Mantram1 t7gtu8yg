@@ -1,0 +1,46 @@
+{
+  "id": "t7gtu8yg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613733237166,
+  "white": {
+    "id": "clprasanna123",
+    "name": "CLPrasanna123",
+    "title": "BOT",
+    "rating": 1816,
+    "provisional": true
+  },
+  "black": {
+    "id": "mantram1",
+    "name": "Mantram1",
+    "title": null,
+    "rating": 789
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8b4 c2c3 b4a5 d4c6 b7c6 a2a4 a7a6 f1d3 a8b8 d1e2 b8b3 e1g1 a5b6 b1d2 b3b4 c3b4 c6c5 d3a6 c8a6 e2a6 c7c6 a4a5 b6c7 a6b7 g8e7 a5a6",
+    "wtime": 268460,
+    "btime": 224210,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CLPrasanna123",
+  "opponentName": "Mantram1"
+}
