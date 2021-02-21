@@ -1,0 +1,44 @@
+{
+  "id": "TuO5gf8s",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1613922096659,
+  "white": {
+    "id": "iamkid",
+    "name": "Iamkid",
+    "title": null,
+    "rating": 1906,
+    "provisional": true
+  },
+  "black": {
+    "id": "randommovesbot",
+    "name": "Randommovesbot",
+    "title": "BOT",
+    "rating": 1391,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Iamkid",
+  "opponentName": "Randommovesbot"
+}
