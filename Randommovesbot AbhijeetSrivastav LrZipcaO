@@ -1,0 +1,47 @@
+{
+  "id": "LrZipcaO",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1613970924388,
+  "white": {
+    "id": "randommovesbot",
+    "name": "Randommovesbot",
+    "title": "BOT",
+    "rating": 1258,
+    "provisional": true
+  },
+  "black": {
+    "id": "abhijeetsrivastav",
+    "name": "AbhijeetSrivastav",
+    "title": null,
+    "rating": 1620,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/1PP2PP1/PPPPPPPP/PPPPPPPP/PPPPPPPP/PPPPPPPP w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Randommovesbot",
+  "opponentName": "AbhijeetSrivastav"
+}
