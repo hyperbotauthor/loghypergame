@@ -1,0 +1,45 @@
+{
+  "id": "7ePMllrs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1613997710376,
+  "white": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 1795
+  },
+  "black": {
+    "id": "kkchampgm",
+    "name": "KKCHAMPGM",
+    "title": null,
+    "rating": 1288
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SathyaKarthik_1234",
+  "opponentName": "KKCHAMPGM"
+}
