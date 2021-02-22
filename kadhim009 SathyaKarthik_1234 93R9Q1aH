@@ -1,0 +1,46 @@
+{
+  "id": "93R9Q1aH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613991453720,
+  "white": {
+    "id": "kadhim009",
+    "name": "kadhim009",
+    "title": null,
+    "rating": 767
+  },
+  "black": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 991,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kadhim009",
+  "opponentName": "SathyaKarthik_1234"
+}
