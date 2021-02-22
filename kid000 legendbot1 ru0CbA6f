@@ -1,0 +1,45 @@
+{
+  "id": "ru0CbA6f",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1613994916370,
+  "white": {
+    "id": "kid000",
+    "name": "kid000",
+    "title": "BOT",
+    "rating": 2232
+  },
+  "black": {
+    "id": "legendbot1",
+    "name": "legendbot1",
+    "title": "BOT",
+    "rating": 2065
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kid000",
+  "opponentName": "legendbot1"
+}
