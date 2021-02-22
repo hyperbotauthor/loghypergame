@@ -1,0 +1,46 @@
+{
+  "id": "UQd4FqEk",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1614007891719,
+  "white": {
+    "id": "turbobot",
+    "name": "TurboBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2086
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TurboBot",
+  "opponentName": "XXIstCentury"
+}
