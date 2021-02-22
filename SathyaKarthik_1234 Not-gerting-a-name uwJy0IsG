@@ -1,0 +1,47 @@
+{
+  "id": "uwJy0IsG",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1613991307660,
+  "white": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 921,
+    "provisional": true
+  },
+  "black": {
+    "id": "not-gerting-a-name",
+    "name": "Not-gerting-a-name",
+    "title": null,
+    "rating": 1202,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "SathyaKarthik_1234",
+  "opponentName": "Not-gerting-a-name"
+}
