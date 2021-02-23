@@ -1,0 +1,46 @@
+{
+  "id": "WH2YcFMc",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1614075833002,
+  "white": {
+    "id": "mihirhumnabadkar",
+    "name": "mihirhumnabadkar",
+    "title": null,
+    "rating": 1608
+  },
+  "black": {
+    "id": "mind_master_chessbot",
+    "name": "Mind_Master_chessbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "mihirhumnabadkar",
+  "opponentName": "Mind_Master_chessbot"
+}
