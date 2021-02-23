@@ -1,0 +1,46 @@
+{
+  "id": "Qb2Toa9n",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614077385549,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 1981
+  },
+  "black": {
+    "id": "thinkerschess",
+    "name": "ThinkersChess",
+    "title": "BOT",
+    "rating": 2190,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 b1c3 g8f6 f1c4 f8b4 a2a3 b4c3 d2c3 d7d6 f2f3 e8g8 c1e3 c7c6 d1d3 d6d5 e1c1 c8e6 e4d5 c6d5 c4b3 d8c7 g2g4 f8d8 g4g5 f6e8",
+    "wtime": 151170,
+    "btime": 120930,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "ThinkersChess"
+}
