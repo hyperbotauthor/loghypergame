@@ -1,0 +1,46 @@
+{
+  "id": "QQRSdBd7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614083924957,
+  "white": {
+    "id": "la2265",
+    "name": "LA2265",
+    "title": null,
+    "rating": 1311,
+    "provisional": true
+  },
+  "black": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 1813
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 d2d4 c5d4 g1f3 a7a6 b1c3 d4c3 d1d2 c3d2 c1d2 d8b6 f1e2 b6b2",
+    "wtime": 58200,
+    "btime": 56790,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LA2265",
+  "opponentName": "SathyaKarthik_1234"
+}
