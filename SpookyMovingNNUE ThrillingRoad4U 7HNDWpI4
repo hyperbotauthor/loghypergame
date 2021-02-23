@@ -1,0 +1,46 @@
+{
+  "id": "7HNDWpI4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614058956176,
+  "white": {
+    "id": "spookymovingnnue",
+    "name": "SpookyMovingNNUE",
+    "title": "BOT",
+    "rating": 2458
+  },
+  "black": {
+    "id": "thrillingroad4u",
+    "name": "ThrillingRoad4U",
+    "title": "BOT",
+    "rating": 2766,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SpookyMovingNNUE",
+  "opponentName": "ThrillingRoad4U"
+}
