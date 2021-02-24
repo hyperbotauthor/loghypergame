@@ -1,0 +1,42 @@
+{
+  "id": "E1Ltt3Kd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 4500000,
+    "increment": 10000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1614157322720,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "legendbot1",
+    "name": "legendbot1",
+    "title": "BOT",
+    "rating": 2136,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 4500000,
+    "btime": 4500000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "opponentName": "legendbot1"
+}
