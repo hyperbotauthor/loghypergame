@@ -1,0 +1,44 @@
+{
+  "id": "J16gybbz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1612803105980,
+  "white": {
+    "id": "leonquinplayz",
+    "name": "leonquinplayz",
+    "title": null,
+    "rating": 1577,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 1282,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 f2f4 d7d5 e4d5 d8d5 b1c3 d5d6 g1f3",
+    "wtime": 604800000,
+    "btime": 465593000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "leonquinplayz",
+  "opponentName": "Atomicandchess"
+}
