@@ -1,0 +1,47 @@
+{
+  "id": "mH12WZ0c",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1614145973092,
+  "white": {
+    "id": "jayavardhan",
+    "name": "JAYAVARDHAN",
+    "title": null,
+    "rating": 1011,
+    "provisional": true
+  },
+  "black": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 1188,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "JAYAVARDHAN",
+  "opponentName": "SathyaKarthik_1234"
+}
