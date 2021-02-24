@@ -1,0 +1,46 @@
+{
+  "id": "VMZ0L0Zz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614166382629,
+  "white": {
+    "id": "emil_v2",
+    "name": "Emil_V2",
+    "title": "BOT",
+    "rating": 2046,
+    "provisional": true
+  },
+  "black": {
+    "id": "st6090",
+    "name": "St6090",
+    "title": "BOT",
+    "rating": 2126
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Emil_V2",
+  "opponentName": "St6090"
+}
