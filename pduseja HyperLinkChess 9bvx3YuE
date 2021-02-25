@@ -1,0 +1,46 @@
+{
+  "id": "9bvx3YuE",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1614274665829,
+  "white": {
+    "id": "pduseja",
+    "name": "pduseja",
+    "title": null,
+    "rating": 1640
+  },
+  "black": {
+    "id": "hyperlinkchess",
+    "name": "HyperLinkChess",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2g3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "pduseja",
+  "opponentName": "HyperLinkChess"
+}
