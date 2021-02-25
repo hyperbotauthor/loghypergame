@@ -1,0 +1,47 @@
+{
+  "id": "eO64bxuI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614274112139,
+  "white": {
+    "id": "blackcraker",
+    "name": "blackcraker",
+    "title": null,
+    "rating": 1271,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyperlinkchess",
+    "name": "HyperLinkChess",
+    "title": "BOT",
+    "rating": 2448,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "blackcraker",
+  "opponentName": "HyperLinkChess"
+}
