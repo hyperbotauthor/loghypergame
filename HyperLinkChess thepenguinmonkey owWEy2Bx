@@ -1,0 +1,46 @@
+{
+  "id": "owWEy2Bx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614274551143,
+  "white": {
+    "id": "hyperlinkchess",
+    "name": "HyperLinkChess",
+    "title": "BOT",
+    "rating": 2449,
+    "provisional": true
+  },
+  "black": {
+    "id": "thepenguinmonkey",
+    "name": "thepenguinmonkey",
+    "title": null,
+    "rating": 1726
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "HyperLinkChess",
+  "opponentName": "thepenguinmonkey"
+}
