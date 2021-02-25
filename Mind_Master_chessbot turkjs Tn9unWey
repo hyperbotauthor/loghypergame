@@ -1,0 +1,46 @@
+{
+  "id": "Tn9unWey",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1614258222757,
+  "white": {
+    "id": "mind_master_chessbot",
+    "name": "Mind_Master_chessbot",
+    "title": "BOT",
+    "rating": 2075,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1652
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mind_Master_chessbot",
+  "opponentName": "turkjs"
+}
