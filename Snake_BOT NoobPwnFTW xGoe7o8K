@@ -1,0 +1,46 @@
+{
+  "id": "xGoe7o8K",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614255845882,
+  "white": {
+    "id": "snake_bot",
+    "name": "Snake_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "noobpwnftw",
+    "name": "NoobPwnFTW",
+    "title": "BOT",
+    "rating": 2559
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Snake_BOT",
+  "opponentName": "NoobPwnFTW"
+}
