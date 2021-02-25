@@ -1,0 +1,47 @@
+{
+  "id": "mlvPFZT6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1614267506634,
+  "white": {
+    "id": "uwshigemi",
+    "name": "UWShigemi",
+    "title": null,
+    "rating": 899,
+    "provisional": true
+  },
+  "black": {
+    "id": "breakoutroomchess",
+    "name": "BreakoutRoomChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 e7e6 e3e4",
+    "wtime": 724970,
+    "btime": 717970,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UWShigemi",
+  "opponentName": "BreakoutRoomChess"
+}
