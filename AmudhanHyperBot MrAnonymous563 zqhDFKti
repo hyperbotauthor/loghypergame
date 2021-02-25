@@ -1,0 +1,45 @@
+{
+  "id": "zqhDFKti",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614229113206,
+  "white": {
+    "id": "amudhanhyperbot",
+    "name": "AmudhanHyperBot",
+    "title": "BOT",
+    "rating": 2126
+  },
+  "black": {
+    "id": "mranonymous563",
+    "name": "MrAnonymous563",
+    "title": null,
+    "rating": 1490
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AmudhanHyperBot",
+  "opponentName": "MrAnonymous563"
+}
