@@ -1,0 +1,47 @@
+{
+  "id": "4QBR0clZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614236008306,
+  "white": {
+    "id": "thrillingroad4u",
+    "name": "ThrillingRoad4U",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "betachessbot",
+    "name": "BetaChessBot",
+    "title": "BOT",
+    "rating": 2309,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ThrillingRoad4U",
+  "opponentName": "BetaChessBot"
+}
