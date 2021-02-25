@@ -1,0 +1,46 @@
+{
+  "id": "0yhNDAa2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614255553419,
+  "white": {
+    "id": "snake_bot",
+    "name": "Snake_BOT",
+    "title": "BOT",
+    "rating": 2413,
+    "provisional": true
+  },
+  "black": {
+    "id": "noobpwnftw",
+    "name": "NoobPwnFTW",
+    "title": "BOT",
+    "rating": 2441
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Snake_BOT",
+  "opponentName": "NoobPwnFTW"
+}
