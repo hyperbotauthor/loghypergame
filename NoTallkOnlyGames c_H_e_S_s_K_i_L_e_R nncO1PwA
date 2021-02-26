@@ -1,0 +1,46 @@
+{
+  "id": "nncO1PwA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1614322748412,
+  "white": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1966,
+    "provisional": true
+  },
+  "black": {
+    "id": "c_h_e_s_s_k_i_l_e_r",
+    "name": "c_H_e_S_s_K_i_L_e_R",
+    "title": "CM",
+    "rating": 1837
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoTallkOnlyGames",
+  "opponentName": "c_H_e_S_s_K_i_L_e_R"
+}
