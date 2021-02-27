@@ -1,0 +1,46 @@
+{
+  "id": "Z3k4ouMG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614457454348,
+  "white": {
+    "id": "google-bot",
+    "name": "Google-BOT",
+    "title": "BOT",
+    "rating": 2047,
+    "provisional": true
+  },
+  "black": {
+    "id": "fairy-stockfish",
+    "name": "Fairy-Stockfish",
+    "title": "BOT",
+    "rating": 2486
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Google-BOT",
+  "opponentName": "Fairy-Stockfish"
+}
