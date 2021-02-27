@@ -1,0 +1,46 @@
+{
+  "id": "NmViL9ZN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614429862378,
+  "white": {
+    "id": "snake_bot",
+    "name": "Snake_BOT",
+    "title": "BOT",
+    "rating": 2130,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1870
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Snake_BOT",
+  "opponentName": "turkjs"
+}
