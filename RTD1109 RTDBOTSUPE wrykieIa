@@ -1,0 +1,46 @@
+{
+  "id": "wrykieIa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614490499503,
+  "white": {
+    "id": "rtd1109",
+    "name": "RTD1109",
+    "title": null,
+    "rating": 1336
+  },
+  "black": {
+    "id": "rtdbotsupe",
+    "name": "RTDBOTSUPE",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RTD1109",
+  "opponentName": "RTDBOTSUPE"
+}
