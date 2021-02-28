@@ -1,0 +1,45 @@
+{
+  "id": "4eMPNfcM",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1614536430373,
+  "white": {
+    "id": "peaceful4life",
+    "name": "Peaceful4Life",
+    "title": "BOT",
+    "rating": 2390
+  },
+  "black": {
+    "id": "wscc6d12",
+    "name": "WSCC6D12",
+    "title": null,
+    "rating": 1384
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Peaceful4Life",
+  "opponentName": "WSCC6D12"
+}
