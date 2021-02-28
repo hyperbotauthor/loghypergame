@@ -1,0 +1,46 @@
+{
+  "id": "gxmnzrOX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1614491574038,
+  "white": {
+    "id": "ultrabullet_train",
+    "name": "Ultrabullet_Train",
+    "title": null,
+    "rating": 1333
+  },
+  "black": {
+    "id": "rtdbotsupe",
+    "name": "RTDBOTSUPE",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ultrabullet_Train",
+  "opponentName": "RTDBOTSUPE"
+}
