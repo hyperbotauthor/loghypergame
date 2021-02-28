@@ -1,0 +1,46 @@
+{
+  "id": "ctdghDDA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614510478186,
+  "white": {
+    "id": "rtd1109",
+    "name": "RTD1109",
+    "title": null,
+    "rating": 1386
+  },
+  "black": {
+    "id": "easychessbot200",
+    "name": "Easychessbot200",
+    "title": "BOT",
+    "rating": 1929,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RTD1109",
+  "opponentName": "Easychessbot200"
+}
