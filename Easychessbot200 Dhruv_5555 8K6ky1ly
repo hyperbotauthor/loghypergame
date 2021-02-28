@@ -1,0 +1,46 @@
+{
+  "id": "8K6ky1ly",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614510202977,
+  "white": {
+    "id": "easychessbot200",
+    "name": "Easychessbot200",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "dhruv_5555",
+    "name": "Dhruv_5555",
+    "title": null,
+    "rating": 1685
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Easychessbot200",
+  "opponentName": "Dhruv_5555"
+}
