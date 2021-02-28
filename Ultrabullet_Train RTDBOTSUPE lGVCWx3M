@@ -1,0 +1,46 @@
+{
+  "id": "lGVCWx3M",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614490642799,
+  "white": {
+    "id": "ultrabullet_train",
+    "name": "Ultrabullet_Train",
+    "title": null,
+    "rating": 1686
+  },
+  "black": {
+    "id": "rtdbotsupe",
+    "name": "RTDBOTSUPE",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ultrabullet_Train",
+  "opponentName": "RTDBOTSUPE"
+}
