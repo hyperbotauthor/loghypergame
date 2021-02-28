@@ -1,0 +1,46 @@
+{
+  "id": "CfsKvYPp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614521272207,
+  "white": {
+    "id": "mind_master_chessbot",
+    "name": "Mind_Master_chessbot",
+    "title": "BOT",
+    "rating": 2528
+  },
+  "black": {
+    "id": "stockfish260221",
+    "name": "stockfish260221",
+    "title": "BOT",
+    "rating": 2160,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mind_Master_chessbot",
+  "opponentName": "stockfish260221"
+}
