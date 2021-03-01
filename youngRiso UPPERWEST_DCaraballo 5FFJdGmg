@@ -1,0 +1,46 @@
+{
+  "id": "5FFJdGmg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1614640747703,
+  "white": {
+    "id": "youngriso",
+    "name": "youngRiso",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "upperwest_dcaraballo",
+    "name": "UPPERWEST_DCaraballo",
+    "title": null,
+    "rating": 1211
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "youngRiso",
+  "opponentName": "UPPERWEST_DCaraballo"
+}
