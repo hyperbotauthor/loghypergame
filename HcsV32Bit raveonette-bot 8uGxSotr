@@ -1,0 +1,46 @@
+{
+  "id": "8uGxSotr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614619603276,
+  "white": {
+    "id": "hcsv32bit",
+    "name": "HcsV32Bit",
+    "title": "BOT",
+    "rating": 2110,
+    "provisional": true
+  },
+  "black": {
+    "id": "raveonette-bot",
+    "name": "raveonette-bot",
+    "title": "BOT",
+    "rating": 2328
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HcsV32Bit",
+  "opponentName": "raveonette-bot"
+}
