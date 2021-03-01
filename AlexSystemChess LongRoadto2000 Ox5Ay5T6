@@ -1,0 +1,46 @@
+{
+  "id": "Ox5Ay5T6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614624204215,
+  "white": {
+    "id": "alexsystemchess",
+    "name": "AlexSystemChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "longroadto2000",
+    "name": "LongRoadto2000",
+    "title": null,
+    "rating": 2107
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AlexSystemChess",
+  "opponentName": "LongRoadto2000"
+}
