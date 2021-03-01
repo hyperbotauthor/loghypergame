@@ -1,0 +1,44 @@
+{
+  "id": "KDV8dOdh",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1614613075186,
+  "white": {
+    "id": "youngriso",
+    "name": "youngRiso",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "sauwmason",
+    "name": "SAUWMason",
+    "title": null,
+    "rating": 1262,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4 e7e6 g1f3 g8f6 e2e3 f6e4 f1d3 f7f5 e1g1 f8e7 b1c3 e4c3 b2c3 g7g5 f4g5 e7g5 f3g5 d8g5 e3e4 f5e4 d3e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "youngRiso",
+  "opponentName": "SAUWMason"
+}
