@@ -1,0 +1,46 @@
+{
+  "id": "Q8A36fVh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614620059208,
+  "white": {
+    "id": "hcsv32bit",
+    "name": "HcsV32Bit",
+    "title": "BOT",
+    "rating": 2145,
+    "provisional": true
+  },
+  "black": {
+    "id": "b0t5_ru13",
+    "name": "B0T5_RU13",
+    "title": "BOT",
+    "rating": 2421
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HcsV32Bit",
+  "opponentName": "B0T5_RU13"
+}
