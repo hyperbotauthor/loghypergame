@@ -1,0 +1,46 @@
+{
+  "id": "fHl3Q6iK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614606228987,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1651
+  },
+  "black": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1085
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g7g6 d2d4 f7f5 e4f5 g6g5 d1h5",
+    "wtime": 29580,
+    "btime": 29200,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "ProHacker00"
+}
