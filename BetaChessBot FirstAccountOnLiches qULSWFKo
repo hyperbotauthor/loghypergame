@@ -1,0 +1,46 @@
+{
+  "id": "qULSWFKo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614609568117,
+  "white": {
+    "id": "betachessbot",
+    "name": "BetaChessBot",
+    "title": "BOT",
+    "rating": 1981,
+    "provisional": true
+  },
+  "black": {
+    "id": "firstaccountonliches",
+    "name": "FirstAccountOnLiches",
+    "title": null,
+    "rating": 1873
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BetaChessBot",
+  "opponentName": "FirstAccountOnLiches"
+}
