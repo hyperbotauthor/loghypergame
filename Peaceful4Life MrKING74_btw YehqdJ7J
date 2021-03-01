@@ -33,13 +33,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 600000,
-    "btime": 600000,
+    "moves": "e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 g2g3 f8c5 f1g2 d7d6 e1g1 a7a6 h2h3 c8e6 d2d3 h7h6 g1h2 e8g8 f3g1 e6d7",
+    "wtime": 560940,
+    "btime": 496570,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
-    "bdraw": false,
+    "bdraw": true,
     "status": "started"
   },
   "botName": "Peaceful4Life",
