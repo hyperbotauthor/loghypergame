@@ -26,14 +26,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 a2a3 c6d4 f3d4 e5d4 d1g4 e4g5 c1g5 e7g5 f1e1 e8f8 g4d4 c7c6 b5f1 d7d5 c2c4 g5f6 d4c5 f6e7 c5d4 c8e6",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "resign",
+    "winner": "black"
   },
   "botName": "EagleEye2021"
 }
