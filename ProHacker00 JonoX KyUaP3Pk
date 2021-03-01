@@ -1,0 +1,46 @@
+{
+  "id": "KyUaP3Pk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614603337468,
+  "white": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1905,
+    "provisional": true
+  },
+  "black": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1642
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ProHacker00",
+  "opponentName": "JonoX"
+}
