@@ -1,0 +1,46 @@
+{
+  "id": "UP9uwicz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614594958348,
+  "white": {
+    "id": "alphazero_beta",
+    "name": "Alphazero_beta",
+    "title": "BOT",
+    "rating": 2271,
+    "provisional": true
+  },
+  "black": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2512
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Alphazero_beta",
+  "opponentName": "ResoluteBot"
+}
