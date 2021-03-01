@@ -1,0 +1,44 @@
+{
+  "id": "PcFEFRQS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1614634300409,
+  "white": {
+    "id": "alexsystem",
+    "name": "ALEXSystem",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "nashvillethegreat",
+    "name": "NashvilleTheGreat",
+    "title": null,
+    "rating": 1209,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ALEXSystem",
+  "opponentName": "NashvilleTheGreat"
+}
