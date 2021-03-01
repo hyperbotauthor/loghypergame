@@ -1,0 +1,46 @@
+{
+  "id": "c8xZ1UdT",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614606575630,
+  "white": {
+    "id": "rkveerachamp",
+    "name": "rkveerachamp",
+    "title": null,
+    "rating": 883
+  },
+  "black": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1604,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 f7f5",
+    "wtime": 149720,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "rkveerachamp",
+  "opponentName": "ProHacker00"
+}
