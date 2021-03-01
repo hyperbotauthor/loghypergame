@@ -1,0 +1,46 @@
+{
+  "id": "sXUnIvOs",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614606774961,
+  "white": {
+    "id": "atomicroulettebot",
+    "name": "AtomicRouletteBot",
+    "title": "BOT",
+    "rating": 1905
+  },
+  "black": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1473,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 f7f6 f3d4 g8h6 d4f5 h6f5 e2e4 g7g6 d1g4",
+    "wtime": 179380,
+    "btime": 177780,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AtomicRouletteBot",
+  "opponentName": "ProHacker00"
+}
