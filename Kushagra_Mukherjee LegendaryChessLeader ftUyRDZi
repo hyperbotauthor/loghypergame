@@ -1,0 +1,44 @@
+{
+  "id": "ftUyRDZi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Fernschach"
+  },
+  "rated": false,
+  "createdAt": 1614609921144,
+  "white": {
+    "id": "kushagra_mukherjee",
+    "name": "Kushagra_Mukherjee",
+    "title": null,
+    "rating": 1363,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1136149000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kushagra_Mukherjee",
+  "opponentName": "LegendaryChessLeader"
+}
