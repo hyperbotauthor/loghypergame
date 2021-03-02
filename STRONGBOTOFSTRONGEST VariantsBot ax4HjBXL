@@ -1,0 +1,45 @@
+{
+  "id": "ax4HjBXL",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1614666917492,
+  "white": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 2312
+  },
+  "black": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2670
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "STRONGBOTOFSTRONGEST",
+  "opponentName": "VariantsBot"
+}
