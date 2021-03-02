@@ -1,0 +1,47 @@
+{
+  "id": "g3MB6zkt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1614663221818,
+  "white": {
+    "id": "chessrobotofficial",
+    "name": "ChessRobotOfficial",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "thrillingroad4u",
+    "name": "ThrillingRoad4U",
+    "title": "BOT",
+    "rating": 3201,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessRobotOfficial",
+  "opponentName": "ThrillingRoad4U"
+}
