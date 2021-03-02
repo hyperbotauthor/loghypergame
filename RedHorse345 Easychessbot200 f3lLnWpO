@@ -34,7 +34,7 @@
   "state": {
     "type": "gameState",
     "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6f5 f1d1 e8g8 c2c4 d7d6 b1c3 f8e8 c1f4 g7g5 f4c1 g5g4 f3e1 h7h5",
-    "wtime": 363730,
+    "wtime": 343660,
     "btime": 272840,
     "winc": 0,
     "binc": 0,
