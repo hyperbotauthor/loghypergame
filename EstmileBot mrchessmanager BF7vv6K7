@@ -1,0 +1,46 @@
+{
+  "id": "BF7vv6K7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614703146112,
+  "white": {
+    "id": "estmilebot",
+    "name": "EstmileBot",
+    "title": "BOT",
+    "rating": 2079,
+    "provisional": true
+  },
+  "black": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2279
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EstmileBot",
+  "opponentName": "mrchessmanager"
+}
