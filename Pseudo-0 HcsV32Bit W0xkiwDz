@@ -1,0 +1,45 @@
+{
+  "id": "W0xkiwDz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614677719377,
+  "white": {
+    "id": "pseudo-0",
+    "name": "Pseudo-0",
+    "title": "BOT",
+    "rating": 1936
+  },
+  "black": {
+    "id": "hcsv32bit",
+    "name": "HcsV32Bit",
+    "title": "BOT",
+    "rating": 2403
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Pseudo-0",
+  "opponentName": "HcsV32Bit"
+}
