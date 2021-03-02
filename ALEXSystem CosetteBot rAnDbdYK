@@ -1,0 +1,46 @@
+{
+  "id": "rAnDbdYK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614706162972,
+  "white": {
+    "id": "alexsystem",
+    "name": "ALEXSystem",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2079
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ALEXSystem",
+  "opponentName": "CosetteBot"
+}
