@@ -1,0 +1,46 @@
+{
+  "id": "XXB0Xg3V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614721185357,
+  "white": {
+    "id": "b0t5_ru13",
+    "name": "B0T5_RU13",
+    "title": "BOT",
+    "rating": 2320
+  },
+  "black": {
+    "id": "stockfish_ai_12",
+    "name": "Stockfish_AI_12",
+    "title": "BOT",
+    "rating": 2769,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "B0T5_RU13",
+  "opponentName": "Stockfish_AI_12"
+}
