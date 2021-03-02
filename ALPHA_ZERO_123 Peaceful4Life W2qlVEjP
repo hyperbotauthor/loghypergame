@@ -1,0 +1,46 @@
+{
+  "id": "W2qlVEjP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614677202691,
+  "white": {
+    "id": "alpha_zero_123",
+    "name": "ALPHA_ZERO_123",
+    "title": null,
+    "rating": 1151,
+    "provisional": true
+  },
+  "black": {
+    "id": "peaceful4life",
+    "name": "Peaceful4Life",
+    "title": "BOT",
+    "rating": 2114
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ALPHA_ZERO_123",
+  "opponentName": "Peaceful4Life"
+}
