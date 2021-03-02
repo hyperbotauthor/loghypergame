@@ -1,0 +1,44 @@
+{
+  "id": "wUNsBEab",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1614674658480,
+  "white": {
+    "id": "strongbotofstrongest",
+    "name": "STRONGBOTOFSTRONGEST",
+    "title": "BOT",
+    "rating": 1773,
+    "provisional": true
+  },
+  "black": {
+    "id": "focal7572",
+    "name": "FOCAL7572",
+    "title": "BOT",
+    "rating": 2454
+  },
+  "initialFen": "8/8/1k6/1P6/K7/8/8/8 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "STRONGBOTOFSTRONGEST",
+  "opponentName": "FOCAL7572"
+}
