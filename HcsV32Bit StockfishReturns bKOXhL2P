@@ -1,0 +1,45 @@
+{
+  "id": "bKOXhL2P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614681741885,
+  "white": {
+    "id": "hcsv32bit",
+    "name": "HcsV32Bit",
+    "title": "BOT",
+    "rating": 2408
+  },
+  "black": {
+    "id": "stockfishreturns",
+    "name": "StockfishReturns",
+    "title": "BOT",
+    "rating": 2621
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HcsV32Bit",
+  "opponentName": "StockfishReturns"
+}
