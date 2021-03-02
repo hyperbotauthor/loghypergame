@@ -1,0 +1,47 @@
+{
+  "id": "GxuExVin",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614696200178,
+  "white": {
+    "id": "firstaccountonliches",
+    "name": "FirstAccountOnLiches",
+    "title": null,
+    "rating": 1896,
+    "provisional": true
+  },
+  "black": {
+    "id": "spookymovingnnue",
+    "name": "SpookyMovingNNUE",
+    "title": "BOT",
+    "rating": 2634,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FirstAccountOnLiches",
+  "opponentName": "SpookyMovingNNUE"
+}
