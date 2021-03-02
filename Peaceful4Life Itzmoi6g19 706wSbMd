@@ -1,0 +1,47 @@
+{
+  "id": "706wSbMd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1614677639589,
+  "white": {
+    "id": "peaceful4life",
+    "name": "Peaceful4Life",
+    "title": "BOT",
+    "rating": 2007,
+    "provisional": true
+  },
+  "black": {
+    "id": "itzmoi6g19",
+    "name": "Itzmoi6g19",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Peaceful4Life",
+  "opponentName": "Itzmoi6g19"
+}
