@@ -1,0 +1,46 @@
+{
+  "id": "TV1yfUcK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614674150781,
+  "white": {
+    "id": "itzmoi6g19",
+    "name": "Itzmoi6g19",
+    "title": "BOT",
+    "rating": 1455,
+    "provisional": true
+  },
+  "black": {
+    "id": "peaceful4life",
+    "name": "Peaceful4Life",
+    "title": "BOT",
+    "rating": 2174
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Itzmoi6g19",
+  "opponentName": "Peaceful4Life"
+}
