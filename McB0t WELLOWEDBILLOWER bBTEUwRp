@@ -1,0 +1,47 @@
+{
+  "id": "bBTEUwRp",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1614687204987,
+  "white": {
+    "id": "mcb0t",
+    "name": "McB0t",
+    "title": "BOT",
+    "rating": 2221,
+    "provisional": true
+  },
+  "black": {
+    "id": "wellowedbillower",
+    "name": "WELLOWEDBILLOWER",
+    "title": "BOT",
+    "rating": 1444,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "McB0t",
+  "opponentName": "WELLOWEDBILLOWER"
+}
