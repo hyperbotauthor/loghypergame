@@ -1,0 +1,45 @@
+{
+  "id": "vimuPCo5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614683599307,
+  "white": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1659
+  },
+  "black": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1058
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3 g8f6 f2f3 f6g8 c1b2 g8f6 b1c3 f6g8 c3b1 g8f6 b1c3 f6g8 c3b1",
+    "wtime": 22960,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "draw"
+  },
+  "botName": "JonoX",
+  "opponentName": "ProHacker00"
+}
