@@ -1,0 +1,45 @@
+{
+  "id": "wS2BLhuT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614655409149,
+  "white": {
+    "id": "firstaccountonliches",
+    "name": "FirstAccountOnLiches",
+    "title": null,
+    "rating": 1860
+  },
+  "black": {
+    "id": "spookymovingnnue",
+    "name": "SpookyMovingNNUE",
+    "title": "BOT",
+    "rating": 2440
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FirstAccountOnLiches",
+  "opponentName": "SpookyMovingNNUE"
+}
