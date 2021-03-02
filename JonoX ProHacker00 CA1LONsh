@@ -1,0 +1,45 @@
+{
+  "id": "CA1LONsh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614683554478,
+  "white": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1658
+  },
+  "black": {
+    "id": "prohacker00",
+    "name": "ProHacker00",
+    "title": "BOT",
+    "rating": 1062
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3 g7g5 c1b2 f7f6 d1c1",
+    "wtime": 27410,
+    "btime": 29830,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JonoX",
+  "opponentName": "ProHacker00"
+}
