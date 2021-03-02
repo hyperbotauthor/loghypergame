@@ -1,0 +1,47 @@
+{
+  "id": "7HdyjIsv",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1614670728507,
+  "white": {
+    "id": "mind_master_chessbot",
+    "name": "Mind_Master_chessbot",
+    "title": "BOT",
+    "rating": 1673,
+    "provisional": true
+  },
+  "black": {
+    "id": "mind_master_chessbot",
+    "name": "Mind_Master_chessbot",
+    "title": "BOT",
+    "rating": 1673,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mind_Master_chessbot",
+  "opponentName": "Mind_Master_chessbot"
+}
