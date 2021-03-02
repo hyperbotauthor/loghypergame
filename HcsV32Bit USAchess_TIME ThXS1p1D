@@ -1,0 +1,45 @@
+{
+  "id": "ThXS1p1D",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614692140424,
+  "white": {
+    "id": "hcsv32bit",
+    "name": "HcsV32Bit",
+    "title": "BOT",
+    "rating": 2408
+  },
+  "black": {
+    "id": "usachess_time",
+    "name": "USAchess_TIME",
+    "title": "BOT",
+    "rating": 2053
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HcsV32Bit",
+  "opponentName": "USAchess_TIME"
+}
