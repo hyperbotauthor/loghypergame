@@ -1,0 +1,46 @@
+{
+  "id": "slReHmXk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614674724660,
+  "white": {
+    "id": "master_bot",
+    "name": "master_bot",
+    "title": "BOT",
+    "rating": 2172
+  },
+  "black": {
+    "id": "robotnr",
+    "name": "RobotNR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3",
+    "wtime": 363800,
+    "btime": 343040,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "master_bot",
+  "opponentName": "RobotNR"
+}
