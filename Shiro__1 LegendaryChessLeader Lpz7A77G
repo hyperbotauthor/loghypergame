@@ -1,0 +1,45 @@
+{
+  "id": "Lpz7A77G",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1614680151870,
+  "white": {
+    "id": "shiro__1",
+    "name": "Shiro__1",
+    "title": null,
+    "rating": 2619
+  },
+  "black": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 2074
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Shiro__1",
+  "opponentName": "LegendaryChessLeader"
+}
