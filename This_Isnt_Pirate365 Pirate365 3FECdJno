@@ -1,0 +1,46 @@
+{
+  "id": "3FECdJno",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614665950527,
+  "white": {
+    "id": "this_isnt_pirate365",
+    "name": "This_Isnt_Pirate365",
+    "title": "BOT",
+    "rating": 1622,
+    "provisional": true
+  },
+  "black": {
+    "id": "pirate365",
+    "name": "Pirate365",
+    "title": null,
+    "rating": 1205
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "This_Isnt_Pirate365",
+  "opponentName": "Pirate365"
+}
