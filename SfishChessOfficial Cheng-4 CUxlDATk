@@ -1,0 +1,45 @@
+{
+  "id": "CUxlDATk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614756981167,
+  "white": {
+    "id": "sfishchessofficial",
+    "name": "SfishChessOfficial",
+    "title": "BOT",
+    "rating": 2639
+  },
+  "black": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2235
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 g8f6 d2d4 f6d5 g1f3 d5f6 b1c3 e7e6 c1g5 f8e7 f1c4 e8g8",
+    "wtime": 33650,
+    "btime": 40040,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SfishChessOfficial",
+  "opponentName": "Cheng-4"
+}
