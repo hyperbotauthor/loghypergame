@@ -1,0 +1,45 @@
+{
+  "id": "JqoWtfCU",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614811497588,
+  "white": {
+    "id": "cloudfish",
+    "name": "CloudFish",
+    "title": "BOT",
+    "rating": 2234
+  },
+  "black": {
+    "id": "ktn100",
+    "name": "KTN100",
+    "title": "BOT",
+    "rating": 1445
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CloudFish",
+  "opponentName": "KTN100"
+}
