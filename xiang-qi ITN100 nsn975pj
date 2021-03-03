@@ -1,0 +1,45 @@
+{
+  "id": "nsn975pj",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614812713649,
+  "white": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2277
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 1639
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "xiang-qi",
+  "opponentName": "ITN100"
+}
