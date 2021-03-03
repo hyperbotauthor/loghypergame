@@ -1,0 +1,44 @@
+{
+  "id": "h33ApCqf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1614772967097,
+  "white": {
+    "id": "sathyakarthik_1234",
+    "name": "SathyaKarthik_1234",
+    "title": "BOT",
+    "rating": 1518,
+    "provisional": true
+  },
+  "black": {
+    "id": "adisidman",
+    "name": "adisidman",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SathyaKarthik_1234",
+  "opponentName": "adisidman"
+}
