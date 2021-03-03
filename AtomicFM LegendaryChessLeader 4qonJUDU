@@ -1,0 +1,46 @@
+{
+  "id": "4qonJUDU",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614772033780,
+  "white": {
+    "id": "atomicfm",
+    "name": "AtomicFM",
+    "title": null,
+    "rating": 2403,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 1991
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AtomicFM",
+  "opponentName": "LegendaryChessLeader"
+}
