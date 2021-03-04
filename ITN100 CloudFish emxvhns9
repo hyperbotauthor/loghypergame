@@ -1,0 +1,46 @@
+{
+  "id": "emxvhns9",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1614886392183,
+  "white": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 1768,
+    "provisional": true
+  },
+  "black": {
+    "id": "cloudfish",
+    "name": "CloudFish",
+    "title": "BOT",
+    "rating": 1866
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ITN100",
+  "opponentName": "CloudFish"
+}
