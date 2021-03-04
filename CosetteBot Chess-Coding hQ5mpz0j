@@ -1,0 +1,47 @@
+{
+  "id": "hQ5mpz0j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 25000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1614891942317,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2010,
+    "provisional": true
+  },
+  "black": {
+    "id": "chess-coding",
+    "name": "Chess-Coding",
+    "title": "BOT",
+    "rating": 2271,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 25000,
+    "binc": 25000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "Chess-Coding"
+}
