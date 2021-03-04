@@ -1,0 +1,46 @@
+{
+  "id": "5nBxdl5S",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1614889378702,
+  "white": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 1963,
+    "provisional": true
+  },
+  "black": {
+    "id": "cloudfish",
+    "name": "CloudFish",
+    "title": "BOT",
+    "rating": 1945
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ITN100",
+  "opponentName": "CloudFish"
+}
