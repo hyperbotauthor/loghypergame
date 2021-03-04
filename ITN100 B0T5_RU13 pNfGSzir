@@ -1,0 +1,47 @@
+{
+  "id": "pNfGSzir",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1614888759263,
+  "white": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 1675,
+    "provisional": true
+  },
+  "black": {
+    "id": "b0t5_ru13",
+    "name": "B0T5_RU13",
+    "title": "BOT",
+    "rating": 1163,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ITN100",
+  "opponentName": "B0T5_RU13"
+}
