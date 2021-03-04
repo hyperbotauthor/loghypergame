@@ -1,0 +1,45 @@
+{
+  "id": "C9JWTKbC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1614870361201,
+  "white": {
+    "id": "chesschipbot",
+    "name": "ChessChipBot",
+    "title": "BOT",
+    "rating": 2515
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 2454
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h4",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessChipBot",
+  "opponentName": "ITN100"
+}
