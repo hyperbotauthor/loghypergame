@@ -1,0 +1,45 @@
+{
+  "id": "1hqaGFMX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614871340926,
+  "white": {
+    "id": "nxqe4",
+    "name": "NxQe4",
+    "title": "BOT",
+    "rating": 2476
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 2122
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NxQe4",
+  "opponentName": "ITN100"
+}
