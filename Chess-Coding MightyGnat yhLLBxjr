@@ -1,0 +1,46 @@
+{
+  "id": "yhLLBxjr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614884976148,
+  "white": {
+    "id": "chess-coding",
+    "name": "Chess-Coding",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "black": {
+    "id": "mightygnat",
+    "name": "MightyGnat",
+    "title": null,
+    "rating": 724
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Chess-Coding",
+  "opponentName": "MightyGnat"
+}
