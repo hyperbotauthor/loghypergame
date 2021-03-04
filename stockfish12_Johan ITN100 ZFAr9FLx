@@ -1,0 +1,45 @@
+{
+  "id": "ZFAr9FLx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614881068076,
+  "white": {
+    "id": "stockfish12_johan",
+    "name": "stockfish12_Johan",
+    "title": "BOT",
+    "rating": 2558
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 2073
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "stockfish12_Johan",
+  "opponentName": "ITN100"
+}
