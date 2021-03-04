@@ -1,0 +1,47 @@
+{
+  "id": "QiQOes63",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1614840829174,
+  "white": {
+    "id": "mcb0t",
+    "name": "McB0t",
+    "title": "BOT",
+    "rating": 1938,
+    "provisional": true
+  },
+  "black": {
+    "id": "waterysports",
+    "name": "WATERYSPORTS",
+    "title": "BOT",
+    "rating": 2041,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "McB0t",
+  "opponentName": "WATERYSPORTS"
+}
