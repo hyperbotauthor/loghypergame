@@ -1,0 +1,46 @@
+{
+  "id": "6rNRLStu",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1614888565832,
+  "white": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 1802
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 1644,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "VariantTourneysBot",
+  "opponentName": "ITN100"
+}
