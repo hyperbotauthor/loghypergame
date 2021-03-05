@@ -1,0 +1,46 @@
+{
+  "id": "WKvmSzSg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1614976019429,
+  "white": {
+    "id": "sauwkhamari",
+    "name": "sauwkhamari",
+    "title": "BOT",
+    "rating": 1620,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2354
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 f2f4 e7e6",
+    "wtime": 82080,
+    "btime": 86770,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sauwkhamari",
+  "opponentName": "XXIstCentury"
+}
