@@ -1,0 +1,46 @@
+{
+  "id": "hVSimyY8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614955269206,
+  "white": {
+    "id": "bot_aoop11",
+    "name": "Bot_AOOP11",
+    "title": "BOT",
+    "rating": 2400
+  },
+  "black": {
+    "id": "turbobot",
+    "name": "TurboBot",
+    "title": "BOT",
+    "rating": 1489,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot_AOOP11",
+  "opponentName": "TurboBot"
+}
