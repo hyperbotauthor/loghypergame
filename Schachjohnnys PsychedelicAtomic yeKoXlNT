@@ -1,0 +1,46 @@
+{
+  "id": "yeKoXlNT",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1614953003004,
+  "white": {
+    "id": "schachjohnnys",
+    "name": "Schachjohnnys",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "psychedelicatomic",
+    "name": "PsychedelicAtomic",
+    "title": "BOT",
+    "rating": 2387
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Schachjohnnys",
+  "opponentName": "PsychedelicAtomic"
+}
