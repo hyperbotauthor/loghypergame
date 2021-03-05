@@ -1,0 +1,47 @@
+{
+  "id": "YHE6jIIA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klassisch"
+  },
+  "rated": true,
+  "createdAt": 1614971014183,
+  "white": {
+    "id": "schachjohnnys",
+    "name": "Schachjohnnys",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 1748,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Schachjohnnys",
+  "opponentName": "LegendaryChessLeader"
+}
