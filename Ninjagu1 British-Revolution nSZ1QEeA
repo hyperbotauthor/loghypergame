@@ -1,0 +1,46 @@
+{
+  "id": "nSZ1QEeA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614964436229,
+  "white": {
+    "id": "ninjagu1",
+    "name": "Ninjagu1",
+    "title": null,
+    "rating": 1497
+  },
+  "black": {
+    "id": "british-revolution",
+    "name": "British-Revolution",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ninjagu1",
+  "opponentName": "British-Revolution"
+}
