@@ -1,0 +1,46 @@
+{
+  "id": "wtL2ypLo",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1614903812800,
+  "white": {
+    "id": "nethupa",
+    "name": "nethupa",
+    "title": null,
+    "rating": 1235
+  },
+  "black": {
+    "id": "freemintmcts",
+    "name": "FreemintMCTS",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "nethupa",
+  "opponentName": "FreemintMCTS"
+}
