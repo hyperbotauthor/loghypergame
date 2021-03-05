@@ -1,0 +1,46 @@
+{
+  "id": "OXGl2YHO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1614914721709,
+  "white": {
+    "id": "the_unbeatable-b0t12",
+    "name": "The_Unbeatable-B0T12",
+    "title": "BOT",
+    "rating": 1328,
+    "provisional": true
+  },
+  "black": {
+    "id": "virutor",
+    "name": "Virutor",
+    "title": "BOT",
+    "rating": 1690
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "The_Unbeatable-B0T12",
+  "opponentName": "Virutor"
+}
