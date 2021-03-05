@@ -1,0 +1,46 @@
+{
+  "id": "ZV4IrbYk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1614975653353,
+  "white": {
+    "id": "sauwkhamari",
+    "name": "sauwkhamari",
+    "title": "BOT",
+    "rating": 1594,
+    "provisional": true
+  },
+  "black": {
+    "id": "jvbot",
+    "name": "JVbot",
+    "title": "BOT",
+    "rating": 2053
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sauwkhamari",
+  "opponentName": "JVbot"
+}
