@@ -1,0 +1,46 @@
+{
+  "id": "EdJ6qpk5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1614972288066,
+  "white": {
+    "id": "fairy_belzedar",
+    "name": "Fairy_Belzedar",
+    "title": "BOT",
+    "rating": 2190,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 2047
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Fairy_Belzedar",
+  "opponentName": "LegendaryChessLeader"
+}
