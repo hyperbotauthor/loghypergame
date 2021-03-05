@@ -1,0 +1,46 @@
+{
+  "id": "GYzthWvk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1614964183002,
+  "white": {
+    "id": "turbofuture",
+    "name": "TurboFuture",
+    "title": null,
+    "rating": 1768
+  },
+  "black": {
+    "id": "british-revolution",
+    "name": "British-Revolution",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TurboFuture",
+  "opponentName": "British-Revolution"
+}
