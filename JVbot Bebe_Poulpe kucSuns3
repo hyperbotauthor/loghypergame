@@ -1,0 +1,45 @@
+{
+  "id": "kucSuns3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1614992275994,
+  "white": {
+    "id": "jvbot",
+    "name": "JVbot",
+    "title": "BOT",
+    "rating": 2098
+  },
+  "black": {
+    "id": "bebe_poulpe",
+    "name": "Bebe_Poulpe",
+    "title": "BOT",
+    "rating": 1046
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JVbot",
+  "opponentName": "Bebe_Poulpe"
+}
