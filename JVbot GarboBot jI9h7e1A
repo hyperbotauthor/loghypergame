@@ -1,0 +1,45 @@
+{
+  "id": "jI9h7e1A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 3000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1615130364350,
+  "white": {
+    "id": "jvbot",
+    "name": "JVbot",
+    "title": "BOT",
+    "rating": 2093
+  },
+  "black": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 2014
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JVbot",
+  "opponentName": "GarboBot"
+}
