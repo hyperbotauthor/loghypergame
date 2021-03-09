@@ -1,0 +1,46 @@
+{
+  "id": "5Tz9xPWb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1615309816258,
+  "white": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 2454
+  },
+  "black": {
+    "id": "the-primer",
+    "name": "the-primer",
+    "title": "BOT",
+    "rating": 2390,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ITN100",
+  "opponentName": "the-primer"
+}
