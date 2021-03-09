@@ -1,0 +1,47 @@
+{
+  "id": "QidmCPwG",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1615288077427,
+  "white": {
+    "id": "bot_7",
+    "name": "BOT_7",
+    "title": null,
+    "rating": 2018,
+    "provisional": true
+  },
+  "black": {
+    "id": "strong_bot_strength",
+    "name": "Strong_bot_strength",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BOT_7",
+  "opponentName": "Strong_bot_strength"
+}
