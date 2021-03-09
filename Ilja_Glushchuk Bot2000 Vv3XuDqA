@@ -1,0 +1,46 @@
+{
+  "id": "Vv3XuDqA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1615314149377,
+  "white": {
+    "id": "ilja_glushchuk",
+    "name": "Ilja_Glushchuk",
+    "title": null,
+    "rating": 1493
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ilja_Glushchuk",
+  "opponentName": "Bot2000"
+}
