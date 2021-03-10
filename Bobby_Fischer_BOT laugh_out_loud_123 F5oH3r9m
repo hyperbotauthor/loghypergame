@@ -1,0 +1,46 @@
+{
+  "id": "F5oH3r9m",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1615401722678,
+  "white": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1324,
+    "provisional": true
+  },
+  "black": {
+    "id": "laugh_out_loud_123",
+    "name": "laugh_out_loud_123",
+    "title": null,
+    "rating": 1280
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fischer_BOT",
+  "opponentName": "laugh_out_loud_123"
+}
