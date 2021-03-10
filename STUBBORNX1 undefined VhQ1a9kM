@@ -1,0 +1,39 @@
+{
+  "id": "VhQ1a9kM",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1615365801207,
+  "white": {
+    "id": "stubbornx1",
+    "name": "STUBBORNX1",
+    "title": "BOT",
+    "rating": 2465,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "STUBBORNX1"
+}
