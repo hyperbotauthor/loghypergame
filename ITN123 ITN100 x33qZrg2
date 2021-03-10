@@ -1,0 +1,45 @@
+{
+  "id": "x33qZrg2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1615392652521,
+  "white": {
+    "id": "itn123",
+    "name": "ITN123",
+    "title": null,
+    "rating": 1635
+  },
+  "black": {
+    "id": "itn100",
+    "name": "ITN100",
+    "title": "BOT",
+    "rating": 2190
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ITN123",
+  "opponentName": "ITN100"
+}
