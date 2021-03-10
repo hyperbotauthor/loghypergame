@@ -1,0 +1,44 @@
+{
+  "id": "I9VqLfV4",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1615347640122,
+  "white": {
+    "id": "bestindianplayer",
+    "name": "BestIndianplayer",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "mihir10_bot",
+    "name": "Mihir10_Bot",
+    "title": "BOT",
+    "rating": 2312
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/8/5Q2/QQQQQQQQ/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BestIndianplayer",
+  "opponentName": "Mihir10_Bot"
+}
