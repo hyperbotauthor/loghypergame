@@ -1,0 +1,44 @@
+{
+  "id": "8N70SxAh",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1615561362774,
+  "white": {
+    "id": "uwwu1",
+    "name": "UWWu1",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UWWu1",
+  "opponentName": "Bot2000"
+}
