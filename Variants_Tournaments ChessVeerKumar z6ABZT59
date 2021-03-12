@@ -1,0 +1,46 @@
+{
+  "id": "z6ABZT59",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1615554370865,
+  "white": {
+    "id": "variants_tournaments",
+    "name": "Variants_Tournaments",
+    "title": "BOT",
+    "rating": 1671,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessveerkumar",
+    "name": "ChessVeerKumar",
+    "title": null,
+    "rating": 1377
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Variants_Tournaments",
+  "opponentName": "ChessVeerKumar"
+}
