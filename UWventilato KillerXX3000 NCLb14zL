@@ -1,0 +1,44 @@
+{
+  "id": "NCLb14zL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1615567291975,
+  "white": {
+    "id": "uwventilato",
+    "name": "UWventilato",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "killerxx3000",
+    "name": "KillerXX3000",
+    "title": "BOT",
+    "rating": 1729,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UWventilato",
+  "opponentName": "KillerXX3000"
+}
