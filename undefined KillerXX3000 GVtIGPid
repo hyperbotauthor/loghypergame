@@ -1,0 +1,39 @@
+{
+  "id": "GVtIGPid",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1615570454643,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "killerxx3000",
+    "name": "KillerXX3000",
+    "title": "BOT",
+    "rating": 1729,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "KillerXX3000"
+}
