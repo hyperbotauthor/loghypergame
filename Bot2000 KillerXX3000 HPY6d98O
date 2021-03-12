@@ -1,0 +1,44 @@
+{
+  "id": "HPY6d98O",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1615578055404,
+  "white": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "black": {
+    "id": "killerxx3000",
+    "name": "KillerXX3000",
+    "title": "BOT",
+    "rating": 1729,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot2000",
+  "opponentName": "KillerXX3000"
+}
