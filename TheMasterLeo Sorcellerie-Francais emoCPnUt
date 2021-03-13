@@ -1,0 +1,46 @@
+{
+  "id": "emoCPnUt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1615667814453,
+  "white": {
+    "id": "themasterleo",
+    "name": "TheMasterLeo",
+    "title": null,
+    "rating": 1701
+  },
+  "black": {
+    "id": "sorcellerie-francais",
+    "name": "Sorcellerie-Francais",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheMasterLeo",
+  "opponentName": "Sorcellerie-Francais"
+}
