@@ -1,0 +1,45 @@
+{
+  "id": "U3lGRTIQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615620683137,
+  "white": {
+    "id": "kingnandi_chessbot",
+    "name": "KINGNANDI_chessbot",
+    "title": "BOT",
+    "rating": 2524
+  },
+  "black": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1688
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDI_chessbot",
+  "opponentName": "NoTallkOnlyGames"
+}
