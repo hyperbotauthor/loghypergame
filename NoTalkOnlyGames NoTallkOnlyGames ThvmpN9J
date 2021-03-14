@@ -1,0 +1,43 @@
+{
+  "id": "ThvmpN9J",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1615704069217,
+  "white": {
+    "id": "notalkonlygames",
+    "name": "NoTalkOnlyGames",
+    "title": null,
+    "rating": 1217
+  },
+  "black": {
+    "id": "notallkonlygames",
+    "name": "NoTallkOnlyGames",
+    "title": "BOT",
+    "rating": 1688
+  },
+  "initialFen": "krrrrrrr/rrrrrrrr/rrrrrrrr/rrrrrrrr/QQQQQQQQ/QQQQQQQQ/QQQQQQQQ/QQQQQQQK w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NoTalkOnlyGames",
+  "opponentName": "NoTallkOnlyGames"
+}
