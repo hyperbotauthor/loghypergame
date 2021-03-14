@@ -1,0 +1,46 @@
+{
+  "id": "cThPeh9l",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615737448682,
+  "white": {
+    "id": "godziller",
+    "name": "godziller",
+    "title": null,
+    "rating": 1602
+  },
+  "black": {
+    "id": "killerxx3000",
+    "name": "KillerXX3000",
+    "title": "BOT",
+    "rating": 2050,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "godziller",
+  "opponentName": "KillerXX3000"
+}
