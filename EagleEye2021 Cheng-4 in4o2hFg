@@ -1,0 +1,45 @@
+{
+  "id": "in4o2hFg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1615810046395,
+  "white": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2219
+  },
+  "black": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2265
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EagleEye2021",
+  "opponentName": "Cheng-4"
+}
