@@ -1,0 +1,47 @@
+{
+  "id": "ydFUwVfb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615874558432,
+  "white": {
+    "id": "monumalik",
+    "name": "MonuMalik",
+    "title": null,
+    "rating": 1774,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfish13returns",
+    "name": "stockfish13Returns",
+    "title": "BOT",
+    "rating": 1793,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "MonuMalik",
+  "opponentName": "stockfish13Returns"
+}
