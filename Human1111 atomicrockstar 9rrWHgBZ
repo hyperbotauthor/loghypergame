@@ -1,0 +1,46 @@
+{
+  "id": "9rrWHgBZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615890145725,
+  "white": {
+    "id": "human1111",
+    "name": "Human1111",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomicrockstar",
+    "name": "atomicrockstar",
+    "title": null,
+    "rating": 1612
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 g1f3 f8c5 d2d4 g8f6 d4c5 f6g4 e4e5 g4f6 e5f6 d8f6 b1c3 e8g8 c1g5 b8c6 g5h4 f6g6 f1d3 g6h5 h1g1 h5g4",
+    "wtime": 3440,
+    "btime": 23890,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Human1111",
+  "opponentName": "atomicrockstar"
+}
