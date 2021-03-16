@@ -1,0 +1,46 @@
+{
+  "id": "IEHaqdO4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615890072740,
+  "white": {
+    "id": "sandoulov",
+    "name": "Sandoulov",
+    "title": null,
+    "rating": 1502
+  },
+  "black": {
+    "id": "human1111",
+    "name": "Human1111",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3 d7d5 f1g2 c7c5 g1f3 g8f6 f3h4 b8c6 e1g1 e7e6",
+    "wtime": 28260,
+    "btime": 18060,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sandoulov",
+  "opponentName": "Human1111"
+}
