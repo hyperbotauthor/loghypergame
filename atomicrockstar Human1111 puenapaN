@@ -1,0 +1,47 @@
+{
+  "id": "puenapaN",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1615890088575,
+  "white": {
+    "id": "atomicrockstar",
+    "name": "atomicrockstar",
+    "title": null,
+    "rating": 1675,
+    "provisional": true
+  },
+  "black": {
+    "id": "human1111",
+    "name": "Human1111",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "atomicrockstar",
+  "opponentName": "Human1111"
+}
