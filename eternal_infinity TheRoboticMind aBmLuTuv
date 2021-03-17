@@ -1,0 +1,46 @@
+{
+  "id": "aBmLuTuv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1615991542951,
+  "white": {
+    "id": "eternal_infinity",
+    "name": "eternal_infinity",
+    "title": null,
+    "rating": 2072
+  },
+  "black": {
+    "id": "theroboticmind",
+    "name": "TheRoboticMind",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "eternal_infinity",
+  "opponentName": "TheRoboticMind"
+}
