@@ -1,0 +1,45 @@
+{
+  "id": "fyk3w4U8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1615955127959,
+  "white": {
+    "id": "mihir10_bot",
+    "name": "Mihir10_Bot",
+    "title": "BOT",
+    "rating": 2317
+  },
+  "black": {
+    "id": "focal7572",
+    "name": "FOCAL7572",
+    "title": "BOT",
+    "rating": 2434
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mihir10_Bot",
+  "opponentName": "FOCAL7572"
+}
