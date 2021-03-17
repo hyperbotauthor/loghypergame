@@ -1,0 +1,47 @@
+{
+  "id": "Qq6VBEWZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1616009093379,
+  "white": {
+    "id": "johhnysilverhand",
+    "name": "JohhnySilverhand",
+    "title": null,
+    "rating": 1907,
+    "provisional": true
+  },
+  "black": {
+    "id": "theadvancedrobot",
+    "name": "TheAdvancedRobot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JohhnySilverhand",
+  "opponentName": "TheAdvancedRobot"
+}
