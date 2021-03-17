@@ -1,0 +1,47 @@
+{
+  "id": "RFKd8jFb",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1615993903238,
+  "white": {
+    "id": "theadvancedrobot",
+    "name": "TheAdvancedRobot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "frigidglaciers_yt",
+    "name": "frigidglaciers_yt",
+    "title": null,
+    "rating": 1526,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheAdvancedRobot",
+  "opponentName": "frigidglaciers_yt"
+}
