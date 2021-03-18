@@ -1,0 +1,47 @@
+{
+  "id": "zNVzIkEI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasik"
+  },
+  "rated": false,
+  "createdAt": 1616078631060,
+  "white": {
+    "id": "in_jail_out_soon_25",
+    "name": "in_jail_out_soon_25",
+    "title": null,
+    "rating": 1816,
+    "provisional": true
+  },
+  "black": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2183,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "in_jail_out_soon_25",
+  "opponentName": "EagleEye2021"
+}
