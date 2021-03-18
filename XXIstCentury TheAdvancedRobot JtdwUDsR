@@ -1,0 +1,46 @@
+{
+  "id": "JtdwUDsR",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1616070806014,
+  "white": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 1998
+  },
+  "black": {
+    "id": "theadvancedrobot",
+    "name": "TheAdvancedRobot",
+    "title": "BOT",
+    "rating": 2150,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "XXIstCentury",
+  "opponentName": "TheAdvancedRobot"
+}
