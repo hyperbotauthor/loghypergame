@@ -1,0 +1,45 @@
+{
+  "id": "cVza0Uj0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616039015550,
+  "white": {
+    "id": "bot-king",
+    "name": "bOt-kInG",
+    "title": "BOT",
+    "rating": 2013
+  },
+  "black": {
+    "id": "mihir10_bot",
+    "name": "Mihir10_Bot",
+    "title": "BOT",
+    "rating": 1845
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bOt-kInG",
+  "opponentName": "Mihir10_Bot"
+}
