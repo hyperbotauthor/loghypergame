@@ -1,0 +1,46 @@
+{
+  "id": "Lm95LYoS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616083774081,
+  "white": {
+    "id": "theadvancedrobot",
+    "name": "TheAdvancedRobot",
+    "title": "BOT",
+    "rating": 2448,
+    "provisional": true
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2044
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheAdvancedRobot",
+  "opponentName": "CosetteBot"
+}
