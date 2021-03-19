@@ -1,0 +1,44 @@
+{
+  "id": "YCoNg88Q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1616127802900,
+  "white": {
+    "id": "matipeso",
+    "name": "MATIPesO",
+    "title": null,
+    "rating": 1605,
+    "provisional": true
+  },
+  "black": {
+    "id": "the_unbeatable-b0t12",
+    "name": "The_Unbeatable-B0T12",
+    "title": "BOT",
+    "rating": 1249,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 604787000,
+    "btime": 604800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MATIPesO",
+  "opponentName": "The_Unbeatable-B0T12"
+}
