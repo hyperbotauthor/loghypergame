@@ -1,0 +1,46 @@
+{
+  "id": "xj8XBwjB",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1616181787412,
+  "white": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 1676,
+    "provisional": true
+  },
+  "black": {
+    "id": "antichess36",
+    "name": "Antichess36",
+    "title": null,
+    "rating": 1392
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "APl-chess",
+  "opponentName": "Antichess36"
+}
