@@ -1,0 +1,46 @@
+{
+  "id": "T5egVgdt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1616137999645,
+  "white": {
+    "id": "the_unbeatable-b0t12",
+    "name": "The_Unbeatable-B0T12",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bebe_poulpe",
+    "name": "Bebe_Poulpe",
+    "title": "BOT",
+    "rating": 1003
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "The_Unbeatable-B0T12",
+  "opponentName": "Bebe_Poulpe"
+}
