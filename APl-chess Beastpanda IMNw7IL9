@@ -1,0 +1,47 @@
+{
+  "id": "IMNw7IL9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616168454871,
+  "white": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 1183,
+    "provisional": true
+  },
+  "black": {
+    "id": "beastpanda",
+    "name": "Beastpanda",
+    "title": null,
+    "rating": 1003
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "VMuCjwCT"
+  },
+  "botName": "APl-chess",
+  "opponentName": "Beastpanda"
+}
