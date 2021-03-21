@@ -1,0 +1,46 @@
+{
+  "id": "0wOnK4iH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616315554117,
+  "white": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1841,
+    "provisional": true
+  },
+  "black": {
+    "id": "official_bot",
+    "name": "Official_bot",
+    "title": "BOT",
+    "rating": 2312
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 f7f5 c1f4 e7e6 e2e3 g8f6 g1f3 f8e7 f1d3 f6h5 f4g3 d7d6 e1g1 e8g8",
+    "wtime": 25710,
+    "btime": 20890,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SLvov-bot",
+  "opponentName": "Official_bot"
+}
