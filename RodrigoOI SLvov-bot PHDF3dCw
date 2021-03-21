@@ -1,0 +1,44 @@
+{
+  "id": "PHDF3dCw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Игра по переписке"
+  },
+  "rated": false,
+  "createdAt": 1616315537328,
+  "white": {
+    "id": "rodrigooi",
+    "name": "RodrigoOI",
+    "title": null,
+    "rating": 1323,
+    "provisional": true
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RodrigoOI",
+  "opponentName": "SLvov-bot"
+}
