@@ -1,0 +1,47 @@
+{
+  "id": "FmLcYPHF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 4000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616324724321,
+  "white": {
+    "id": "human1111",
+    "name": "Human1111",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "black": {
+    "id": "classical-only2",
+    "name": "Classical-only2",
+    "title": null,
+    "rating": 2377,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Human1111",
+  "opponentName": "Classical-only2"
+}
