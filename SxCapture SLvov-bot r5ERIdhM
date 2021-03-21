@@ -1,0 +1,46 @@
+{
+  "id": "r5ERIdhM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616315044397,
+  "white": {
+    "id": "sxcapture",
+    "name": "SxCapture",
+    "title": "BOT",
+    "rating": 1287
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1637,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3 d7d6 h1h2 g7g6 c2c4 f8g7 b1a3",
+    "wtime": 30000,
+    "btime": 19720,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SxCapture",
+  "opponentName": "SLvov-bot"
+}
