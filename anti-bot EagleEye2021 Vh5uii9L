@@ -1,0 +1,46 @@
+{
+  "id": "Vh5uii9L",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1616323522084,
+  "white": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2182
+  },
+  "black": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2414,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "anti-bot",
+  "opponentName": "EagleEye2021"
+}
