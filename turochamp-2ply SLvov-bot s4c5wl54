@@ -1,0 +1,47 @@
+{
+  "id": "s4c5wl54",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1616322260318,
+  "white": {
+    "id": "turochamp-2ply",
+    "name": "turochamp-2ply",
+    "title": "BOT",
+    "rating": 1192,
+    "provisional": true
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1816,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 d7d6 b1c3 g7g6 d2d4 f8g7 h2h4",
+    "wtime": 11339300,
+    "btime": 11156150,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turochamp-2ply",
+  "opponentName": "SLvov-bot"
+}
