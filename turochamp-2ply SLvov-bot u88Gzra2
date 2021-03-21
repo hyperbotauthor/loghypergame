@@ -1,0 +1,46 @@
+{
+  "id": "u88Gzra2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616318226458,
+  "white": {
+    "id": "turochamp-2ply",
+    "name": "turochamp-2ply",
+    "title": "BOT",
+    "rating": 1425
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1559,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 c7c5 b1c3 d7d6 d1h5 g7g6 f1b5 c8d7 b5d7 b8d7 h5d5 g8f6 d5b7 f8g7 g1e2 e8g8",
+    "wtime": 191680,
+    "btime": 188020,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turochamp-2ply",
+  "opponentName": "SLvov-bot"
+}
