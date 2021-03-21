@@ -1,0 +1,47 @@
+{
+  "id": "So5sVQiP",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1616316760462,
+  "white": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "unkown_2009",
+    "name": "Unkown_2009",
+    "title": "BOT",
+    "rating": 2453,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 b7b5 f1b5 e7e6",
+    "wtime": 177960,
+    "btime": 181990,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SLvov-bot",
+  "opponentName": "Unkown_2009"
+}
