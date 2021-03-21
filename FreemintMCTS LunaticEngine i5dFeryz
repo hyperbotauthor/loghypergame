@@ -1,0 +1,46 @@
+{
+  "id": "i5dFeryz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616370278897,
+  "white": {
+    "id": "freemintmcts",
+    "name": "FreemintMCTS",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "lunaticengine",
+    "name": "LunaticEngine",
+    "title": "BOT",
+    "rating": 1932
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FreemintMCTS",
+  "opponentName": "LunaticEngine"
+}
