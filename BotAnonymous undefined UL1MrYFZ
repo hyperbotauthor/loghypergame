@@ -1,0 +1,39 @@
+{
+  "id": "UL1MrYFZ",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1616432687246,
+  "white": {
+    "id": "botanonymous",
+    "name": "BotAnonymous",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "brkrnqnb/pppppppp/8/8/8/8/PPPPPPPP/BRKRNQNB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotAnonymous"
+}
