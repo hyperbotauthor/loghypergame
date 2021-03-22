@@ -1,0 +1,46 @@
+{
+  "id": "THnlEDpo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1616423041055,
+  "white": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2133
+  },
+  "black": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 2734,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "XXIstCentury",
+  "opponentName": "LadyaBOT"
+}
