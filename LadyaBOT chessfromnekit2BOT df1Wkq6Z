@@ -1,0 +1,47 @@
+{
+  "id": "df1Wkq6Z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616393907439,
+  "white": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 1897,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 1395,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LadyaBOT",
+  "opponentName": "chessfromnekit2BOT"
+}
