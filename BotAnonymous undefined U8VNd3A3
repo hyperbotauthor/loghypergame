@@ -1,0 +1,42 @@
+{
+  "id": "U8VNd3A3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1616432233531,
+  "white": {
+    "id": "botanonymous",
+    "name": "BotAnonymous",
+    "title": "BOT",
+    "rating": 1820,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotAnonymous"
+}
