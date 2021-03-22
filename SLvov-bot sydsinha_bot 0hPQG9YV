@@ -1,0 +1,46 @@
+{
+  "id": "0hPQG9YV",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1616439195282,
+  "white": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1595,
+    "provisional": true
+  },
+  "black": {
+    "id": "sydsinha_bot",
+    "name": "sydsinha_bot",
+    "title": null,
+    "rating": 1170
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 14000,
+    "binc": 14000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SLvov-bot",
+  "opponentName": "sydsinha_bot"
+}
