@@ -1,0 +1,46 @@
+{
+  "id": "9J9oEnio",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1616392081427,
+  "white": {
+    "id": "tuarreg",
+    "name": "Tuarreg",
+    "title": null,
+    "rating": 1778
+  },
+  "black": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 2071,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tuarreg",
+  "opponentName": "chessfromnekit2BOT"
+}
