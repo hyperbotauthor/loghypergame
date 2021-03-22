@@ -32,14 +32,14 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "e2e4",
     "wtime": 420000,
     "btime": 420000,
     "winc": 2000,
     "binc": 2000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "FlamingDragon_9000",
   "opponentName": "LadyaBOT"
