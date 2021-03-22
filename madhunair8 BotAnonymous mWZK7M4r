@@ -1,0 +1,46 @@
+{
+  "id": "mWZK7M4r",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1616422664441,
+  "white": {
+    "id": "madhunair8",
+    "name": "madhunair8",
+    "title": null,
+    "rating": 1494
+  },
+  "black": {
+    "id": "botanonymous",
+    "name": "BotAnonymous",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "madhunair8",
+  "opponentName": "BotAnonymous"
+}
