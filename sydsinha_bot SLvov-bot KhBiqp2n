@@ -1,0 +1,46 @@
+{
+  "id": "KhBiqp2n",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1616436111709,
+  "white": {
+    "id": "sydsinha_bot",
+    "name": "sydsinha_bot",
+    "title": null,
+    "rating": 1589
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1812,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2d4",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 14000,
+    "binc": 14000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sydsinha_bot",
+  "opponentName": "SLvov-bot"
+}
