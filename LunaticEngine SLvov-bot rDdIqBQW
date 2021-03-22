@@ -1,0 +1,46 @@
+{
+  "id": "rDdIqBQW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616434692612,
+  "white": {
+    "id": "lunaticengine",
+    "name": "LunaticEngine",
+    "title": "BOT",
+    "rating": 1866
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1399,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4",
+    "wtime": 181970,
+    "btime": 173720,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LunaticEngine",
+  "opponentName": "SLvov-bot"
+}
