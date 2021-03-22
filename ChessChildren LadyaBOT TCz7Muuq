@@ -1,0 +1,45 @@
+{
+  "id": "TCz7Muuq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616402172375,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1785
+  },
+  "black": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 2131
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "LadyaBOT"
+}
