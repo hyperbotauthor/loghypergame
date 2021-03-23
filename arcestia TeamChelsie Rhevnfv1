@@ -1,0 +1,47 @@
+{
+  "id": "Rhevnfv1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616535727363,
+  "white": {
+    "id": "arcestia",
+    "name": "arcestia",
+    "title": null,
+    "rating": 1139,
+    "provisional": true
+  },
+  "black": {
+    "id": "teamchelsie",
+    "name": "TeamChelsie",
+    "title": "BOT",
+    "rating": 1453,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "arcestia",
+  "opponentName": "TeamChelsie"
+}
