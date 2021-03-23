@@ -1,0 +1,46 @@
+{
+  "id": "gR9JjMdo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616518473816,
+  "white": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 1395,
+    "provisional": true
+  },
+  "black": {
+    "id": "andrei1010",
+    "name": "Andrei1010",
+    "title": null,
+    "rating": 2170
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessfromnekit2BOT",
+  "opponentName": "Andrei1010"
+}
