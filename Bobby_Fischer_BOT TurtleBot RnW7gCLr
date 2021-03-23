@@ -1,0 +1,46 @@
+{
+  "id": "RnW7gCLr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616496449782,
+  "white": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1830,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1399
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fischer_BOT",
+  "opponentName": "TurtleBot"
+}
