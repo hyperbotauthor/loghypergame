@@ -1,0 +1,47 @@
+{
+  "id": "HCTc7EvW",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1616463915210,
+  "white": {
+    "id": "botanonymous",
+    "name": "BotAnonymous",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "raveonette-bot",
+    "name": "raveonette-bot",
+    "title": "BOT",
+    "rating": 965,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotAnonymous",
+  "opponentName": "raveonette-bot"
+}
