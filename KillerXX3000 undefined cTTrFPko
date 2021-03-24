@@ -1,0 +1,39 @@
+{
+  "id": "cTTrFPko",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1616614110506,
+  "white": {
+    "id": "killerxx3000",
+    "name": "KillerXX3000",
+    "title": "BOT",
+    "rating": 1729,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 b1c3 c6d4 e1g1 f8c5 d2d3 c7c6 b5c4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KillerXX3000"
+}
