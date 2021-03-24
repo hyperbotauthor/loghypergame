@@ -1,0 +1,46 @@
+{
+  "id": "7XJc8TW1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616544834310,
+  "white": {
+    "id": "official_bot",
+    "name": "Official_bot",
+    "title": "BOT",
+    "rating": 2367,
+    "provisional": true
+  },
+  "black": {
+    "id": "freemintmcts",
+    "name": "FreemintMCTS",
+    "title": "BOT",
+    "rating": 2077
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3",
+    "wtime": 902950,
+    "btime": 894940,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Official_bot",
+  "opponentName": "FreemintMCTS"
+}
