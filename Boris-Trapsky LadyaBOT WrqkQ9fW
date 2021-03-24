@@ -1,0 +1,46 @@
+{
+  "id": "WrqkQ9fW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1616564251874,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2277
+  },
+  "black": {
+    "id": "ladyabot",
+    "name": "LadyaBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 30000,
+    "binc": 30000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "LadyaBOT"
+}
