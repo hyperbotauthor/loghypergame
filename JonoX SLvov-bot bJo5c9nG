@@ -1,0 +1,45 @@
+{
+  "id": "bJo5c9nG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616613279911,
+  "white": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1597
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1723
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 7000,
+    "btime": 7000,
+    "winc": 7000,
+    "binc": 7000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "JonoX",
+  "opponentName": "SLvov-bot"
+}
