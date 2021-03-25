@@ -1,0 +1,46 @@
+{
+  "id": "IQNCCSJT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616632788668,
+  "white": {
+    "id": "freemint_mc",
+    "name": "Freemint_MC",
+    "title": "BOT",
+    "rating": 2269,
+    "provisional": true
+  },
+  "black": {
+    "id": "botvminic",
+    "name": "BotVMinic",
+    "title": "BOT",
+    "rating": 2274
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 g8f6",
+    "wtime": 898070,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Freemint_MC",
+  "opponentName": "BotVMinic"
+}
