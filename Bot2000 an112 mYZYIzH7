@@ -1,0 +1,46 @@
+{
+  "id": "mYZYIzH7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616685948480,
+  "white": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1738,
+    "provisional": true
+  },
+  "black": {
+    "id": "an112",
+    "name": "an112",
+    "title": null,
+    "rating": 1413
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot2000",
+  "opponentName": "an112"
+}
