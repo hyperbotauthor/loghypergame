@@ -1,0 +1,46 @@
+{
+  "id": "b5WjI2ix",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": false,
+  "createdAt": 1616689436735,
+  "white": {
+    "id": "legendarychessleader",
+    "name": "LegendaryChessLeader",
+    "title": "BOT",
+    "rating": 2030,
+    "provisional": true
+  },
+  "black": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1746
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LegendaryChessLeader",
+  "opponentName": "JonoX"
+}
