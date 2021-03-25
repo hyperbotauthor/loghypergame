@@ -1,0 +1,47 @@
+{
+  "id": "o77zV1Jp",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1616684351579,
+  "white": {
+    "id": "aanyaunicorn2468",
+    "name": "aanyaunicorn2468",
+    "title": null,
+    "rating": 1141,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1643,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aanyaunicorn2468",
+  "opponentName": "Bot2000"
+}
