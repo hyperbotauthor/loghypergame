@@ -1,0 +1,45 @@
+{
+  "id": "Y7rpeWN6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616772178622,
+  "white": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 1952
+  },
+  "black": {
+    "id": "ladoga_engine",
+    "name": "ladoga_engine",
+    "title": "BOT",
+    "rating": 1400
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "APl-chess",
+  "opponentName": "ladoga_engine"
+}
