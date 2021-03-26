@@ -1,0 +1,47 @@
+{
+  "id": "HhA3GxEK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1616765535479,
+  "white": {
+    "id": "schachjohnnys",
+    "name": "Schachjohnnys",
+    "title": "BOT",
+    "rating": 1593,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomic_grandmaster",
+    "name": "Atomic_Grandmaster",
+    "title": null,
+    "rating": 2038,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Schachjohnnys",
+  "opponentName": "Atomic_Grandmaster"
+}
