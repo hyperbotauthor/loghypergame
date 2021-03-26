@@ -1,0 +1,47 @@
+{
+  "id": "zYpQXYqd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616743035203,
+  "white": {
+    "id": "st0ckfish-bot",
+    "name": "ST0CKFISH-BOT",
+    "title": "BOT",
+    "rating": 2256,
+    "provisional": true
+  },
+  "black": {
+    "id": "blitz-power",
+    "name": "Blitz-POWER",
+    "title": null,
+    "rating": 1624,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ST0CKFISH-BOT",
+  "opponentName": "Blitz-POWER"
+}
