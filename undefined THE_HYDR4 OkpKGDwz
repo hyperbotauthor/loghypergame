@@ -1,0 +1,42 @@
+{
+  "id": "OkpKGDwz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1616857951700,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "the_hydr4",
+    "name": "THE_HYDR4",
+    "title": "BOT",
+    "rating": 1605,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "THE_HYDR4"
+}
