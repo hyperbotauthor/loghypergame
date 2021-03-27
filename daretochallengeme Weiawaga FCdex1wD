@@ -1,0 +1,46 @@
+{
+  "id": "FCdex1wD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1616863843979,
+  "white": {
+    "id": "daretochallengeme",
+    "name": "daretochallengeme",
+    "title": "BOT",
+    "rating": 2297,
+    "provisional": true
+  },
+  "black": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2000
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "daretochallengeme",
+  "opponentName": "Weiawaga"
+}
