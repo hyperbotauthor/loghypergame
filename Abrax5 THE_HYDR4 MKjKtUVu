@@ -1,0 +1,46 @@
+{
+  "id": "MKjKtUVu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1616859833746,
+  "white": {
+    "id": "abrax5",
+    "name": "Abrax5",
+    "title": null,
+    "rating": 1135
+  },
+  "black": {
+    "id": "the_hydr4",
+    "name": "THE_HYDR4",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Abrax5",
+  "opponentName": "THE_HYDR4"
+}
