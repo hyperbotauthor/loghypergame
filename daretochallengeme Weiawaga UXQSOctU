@@ -1,0 +1,46 @@
+{
+  "id": "UXQSOctU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1616862771863,
+  "white": {
+    "id": "daretochallengeme",
+    "name": "daretochallengeme",
+    "title": "BOT",
+    "rating": 2254,
+    "provisional": true
+  },
+  "black": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2003
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "daretochallengeme",
+  "opponentName": "Weiawaga"
+}
