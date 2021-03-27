@@ -1,0 +1,43 @@
+{
+  "id": "SsBnuwEF",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1616856553178,
+  "white": {
+    "id": "the_hydr4",
+    "name": "THE_HYDR4",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "jdwhite42",
+    "name": "jdwhite42",
+    "title": null,
+    "rating": 1729
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_HYDR4",
+  "opponentName": "jdwhite42"
+}
