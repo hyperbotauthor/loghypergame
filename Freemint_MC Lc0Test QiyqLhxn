@@ -1,0 +1,46 @@
+{
+  "id": "QiyqLhxn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616862357553,
+  "white": {
+    "id": "freemint_mc",
+    "name": "Freemint_MC",
+    "title": "BOT",
+    "rating": 2266,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0test",
+    "name": "Lc0Test",
+    "title": "BOT",
+    "rating": 2511
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6",
+    "wtime": 1197880,
+    "btime": 1200000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Freemint_MC",
+  "opponentName": "Lc0Test"
+}
