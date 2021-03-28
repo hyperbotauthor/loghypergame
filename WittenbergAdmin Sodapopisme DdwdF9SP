@@ -1,0 +1,46 @@
+{
+  "id": "DdwdF9SP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616892683499,
+  "white": {
+    "id": "wittenbergadmin",
+    "name": "WittenbergAdmin",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "sodapopisme",
+    "name": "Sodapopisme",
+    "title": null,
+    "rating": 1509
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WittenbergAdmin",
+  "opponentName": "Sodapopisme"
+}
