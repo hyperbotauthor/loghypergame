@@ -1,0 +1,47 @@
+{
+  "id": "qn6svDlj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1616951045478,
+  "white": {
+    "id": "wittenbergadmin",
+    "name": "WittenbergAdmin",
+    "title": "BOT",
+    "rating": 1763,
+    "provisional": true
+  },
+  "black": {
+    "id": "coralena",
+    "name": "Coralena",
+    "title": null,
+    "rating": 1183,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g8f6",
+    "wtime": 565630,
+    "btime": 600000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WittenbergAdmin",
+  "opponentName": "Coralena"
+}
