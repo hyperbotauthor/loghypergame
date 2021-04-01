@@ -1,0 +1,39 @@
+{
+  "id": "6YJG7IKm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1617282733011,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 c7c5 g1f3 c5d4 b1d2 b8c6 c2c3 c6b4 f3d4 b4c2 d1c2 d8a5 e2e4 a5g5 h2h4 g5h6 d4b5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "SathyaKarthikBOT"
+}
