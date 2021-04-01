@@ -1,0 +1,46 @@
+{
+  "id": "j6XzvGD3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1617272796085,
+  "white": {
+    "id": "rishab_bindal",
+    "name": "Rishab_Bindal",
+    "title": "BOT",
+    "rating": 1798
+  },
+  "black": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 2086,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Rishab_Bindal",
+  "opponentName": "SathyaKarthikBOT"
+}
