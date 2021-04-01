@@ -1,0 +1,47 @@
+{
+  "id": "wuJgxj8g",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1617284964590,
+  "white": {
+    "id": "iamkid",
+    "name": "Iamkid",
+    "title": null,
+    "rating": 1959,
+    "provisional": true
+  },
+  "black": {
+    "id": "st0ckfish-bot",
+    "name": "ST0CKFISH-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/1PP2PP1/PPPPPPPP/PPPPPPPP/PPPPPPPP/PPPPPPPP w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Iamkid",
+  "opponentName": "ST0CKFISH-BOT"
+}
