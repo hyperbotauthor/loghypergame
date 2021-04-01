@@ -1,0 +1,46 @@
+{
+  "id": "7izS3zz0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1617279688674,
+  "white": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 1770,
+    "provisional": true
+  },
+  "black": {
+    "id": "rudranshps",
+    "name": "Rudranshps",
+    "title": null,
+    "rating": 1264
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SathyaKarthikBOT",
+  "opponentName": "Rudranshps"
+}
