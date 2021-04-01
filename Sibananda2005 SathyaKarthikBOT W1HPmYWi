@@ -1,0 +1,46 @@
+{
+  "id": "W1HPmYWi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1617268687568,
+  "white": {
+    "id": "sibananda2005",
+    "name": "Sibananda2005",
+    "title": null,
+    "rating": 1425
+  },
+  "black": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 1796,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3 d7d5 d3d4 c8f5 c2c3 e7e6 e2e3",
+    "wtime": 60000,
+    "btime": 58300,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sibananda2005",
+  "opponentName": "SathyaKarthikBOT"
+}
