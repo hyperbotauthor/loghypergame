@@ -1,0 +1,47 @@
+{
+  "id": "RT4cG8l8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1617316206304,
+  "white": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 1079,
+    "provisional": true
+  },
+  "black": {
+    "id": "botexe",
+    "name": "BotExe",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SxRandom",
+  "opponentName": "BotExe"
+}
