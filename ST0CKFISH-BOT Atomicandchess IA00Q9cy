@@ -1,0 +1,47 @@
+{
+  "id": "IA00Q9cy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1617285795544,
+  "white": {
+    "id": "st0ckfish-bot",
+    "name": "ST0CKFISH-BOT",
+    "title": "BOT",
+    "rating": 1913,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 2043,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ST0CKFISH-BOT",
+  "opponentName": "Atomicandchess"
+}
