@@ -1,0 +1,46 @@
+{
+  "id": "quvC2ocT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1617315035540,
+  "white": {
+    "id": "botexe",
+    "name": "BotExe",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "noobpwnftw",
+    "name": "NoobPwnFTW",
+    "title": "BOT",
+    "rating": 2496
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotExe",
+  "opponentName": "NoobPwnFTW"
+}
