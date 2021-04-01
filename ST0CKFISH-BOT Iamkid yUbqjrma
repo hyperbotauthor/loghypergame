@@ -1,0 +1,44 @@
+{
+  "id": "yUbqjrma",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1617285358476,
+  "white": {
+    "id": "st0ckfish-bot",
+    "name": "ST0CKFISH-BOT",
+    "title": "BOT",
+    "rating": 1743,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamkid",
+    "name": "Iamkid",
+    "title": null,
+    "rating": 2101,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172787000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ST0CKFISH-BOT",
+  "opponentName": "Iamkid"
+}
