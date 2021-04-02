@@ -1,0 +1,46 @@
+{
+  "id": "qKj0olnq",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1617347180911,
+  "white": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 1241,
+    "provisional": true
+  },
+  "black": {
+    "id": "ahaanmaheshwari1",
+    "name": "AhAaNMaHeShWaRi1",
+    "title": null,
+    "rating": 1609
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SathyaKarthikBOT",
+  "opponentName": "AhAaNMaHeShWaRi1"
+}
