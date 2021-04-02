@@ -1,0 +1,46 @@
+{
+  "id": "4heqjMnB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1617375097006,
+  "white": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1577,
+    "provisional": true
+  },
+  "black": {
+    "id": "uwvolsky",
+    "name": "UWVolsky",
+    "title": null,
+    "rating": 1369
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot2000",
+  "opponentName": "UWVolsky"
+}
