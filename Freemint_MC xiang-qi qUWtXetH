@@ -1,0 +1,46 @@
+{
+  "id": "qUWtXetH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1617338921659,
+  "white": {
+    "id": "freemint_mc",
+    "name": "Freemint_MC",
+    "title": "BOT",
+    "rating": 2365,
+    "provisional": true
+  },
+  "black": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2089
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Freemint_MC",
+  "opponentName": "xiang-qi"
+}
