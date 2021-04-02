@@ -1,0 +1,46 @@
+{
+  "id": "xTQ6yiGN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1617376231498,
+  "white": {
+    "id": "xoffline30003x",
+    "name": "xOffline30003x",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "srs193",
+    "name": "SRS193",
+    "title": null,
+    "rating": 1004
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "xOffline30003x",
+  "opponentName": "SRS193"
+}
