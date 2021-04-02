@@ -1,0 +1,47 @@
+{
+  "id": "rCao8a9l",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1617378644087,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1891,
+    "provisional": true
+  },
+  "black": {
+    "id": "solidtuxbot",
+    "name": "SolidTuxBot",
+    "title": "BOT",
+    "rating": 1054,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "SolidTuxBot"
+}
