@@ -1,0 +1,47 @@
+{
+  "id": "ZMibF3zm",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1617355165621,
+  "white": {
+    "id": "sathyakarthikbot",
+    "name": "SathyaKarthikBOT",
+    "title": "BOT",
+    "rating": 1258,
+    "provisional": true
+  },
+  "black": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 1376,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "SathyaKarthikBOT",
+  "opponentName": "APl-chess"
+}
