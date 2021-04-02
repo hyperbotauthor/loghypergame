@@ -1,0 +1,46 @@
+{
+  "id": "vyuviA22",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1617353960134,
+  "white": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 2013
+  },
+  "black": {
+    "id": "adanakebapi2",
+    "name": "Adanakebapi2",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "APl-chess",
+  "opponentName": "Adanakebapi2"
+}
