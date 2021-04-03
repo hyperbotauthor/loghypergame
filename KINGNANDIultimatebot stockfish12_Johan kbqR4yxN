@@ -1,0 +1,45 @@
+{
+  "id": "kbqR4yxN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1617440701987,
+  "white": {
+    "id": "kingnandiultimatebot",
+    "name": "KINGNANDIultimatebot",
+    "title": "BOT",
+    "rating": 2592
+  },
+  "black": {
+    "id": "stockfish12_johan",
+    "name": "stockfish12_Johan",
+    "title": "BOT",
+    "rating": 2544
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KINGNANDIultimatebot",
+  "opponentName": "stockfish12_Johan"
+}
