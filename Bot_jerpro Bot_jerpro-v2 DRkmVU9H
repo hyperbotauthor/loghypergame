@@ -1,0 +1,46 @@
+{
+  "id": "DRkmVU9H",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1617441873954,
+  "white": {
+    "id": "bot_jerpro",
+    "name": "Bot_jerpro",
+    "title": "BOT",
+    "rating": 2038
+  },
+  "black": {
+    "id": "bot_jerpro-v2",
+    "name": "Bot_jerpro-v2",
+    "title": "BOT",
+    "rating": 2332,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 298980,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot_jerpro",
+  "opponentName": "Bot_jerpro-v2"
+}
