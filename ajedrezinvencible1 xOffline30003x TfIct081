@@ -1,0 +1,46 @@
+{
+  "id": "TfIct081",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1617496175737,
+  "white": {
+    "id": "ajedrezinvencible1",
+    "name": "ajedrezinvencible1",
+    "title": null,
+    "rating": 1541
+  },
+  "black": {
+    "id": "xoffline30003x",
+    "name": "xOffline30003x",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ajedrezinvencible1",
+  "opponentName": "xOffline30003x"
+}
