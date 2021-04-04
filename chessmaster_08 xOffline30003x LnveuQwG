@@ -1,0 +1,46 @@
+{
+  "id": "LnveuQwG",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1617506903327,
+  "white": {
+    "id": "chessmaster_08",
+    "name": "chessmaster_08",
+    "title": null,
+    "rating": 1598
+  },
+  "black": {
+    "id": "xoffline30003x",
+    "name": "xOffline30003x",
+    "title": "BOT",
+    "rating": 1612,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessmaster_08",
+  "opponentName": "xOffline30003x"
+}
