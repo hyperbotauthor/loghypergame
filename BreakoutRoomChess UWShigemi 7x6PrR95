@@ -1,0 +1,43 @@
+{
+  "id": "7x6PrR95",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1616508262438,
+  "white": {
+    "id": "breakoutroomchess",
+    "name": "BreakoutRoomChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "uwshigemi",
+    "name": "UWShigemi",
+    "title": null,
+    "rating": 1071
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 e2e3 c8f5 g1f3 b8c6 a2a3 c6a5 b2b4 a5c4 b1c3 c4b6 f3h4 f5e6 a3a4 d8d6 c1a3 b6c4 f1c4 g8h6 c4e2 h6f5 h4f5 e6f5 N@b5 d6b6 a4a5 b6a6 b5c7",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BreakoutRoomChess",
+  "opponentName": "UWShigemi"
+}
