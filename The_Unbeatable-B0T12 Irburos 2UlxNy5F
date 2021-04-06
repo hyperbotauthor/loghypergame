@@ -31,7 +31,7 @@
     "type": "gameState",
     "moves": "d2d4",
     "wtime": 864000000,
-    "btime": 863997000,
+    "btime": 603515000,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
