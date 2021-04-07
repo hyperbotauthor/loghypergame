@@ -1,0 +1,43 @@
+{
+  "id": "J6GcTmRd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1617635808493,
+  "white": {
+    "id": "boban22",
+    "name": "boban22",
+    "title": null,
+    "rating": 2143
+  },
+  "black": {
+    "id": "iamkid_chessbot",
+    "name": "Iamkid_Chessbot",
+    "title": "BOT",
+    "rating": 1939,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c1f4",
+    "wtime": 259200000,
+    "btime": 186947000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "boban22",
+  "opponentName": "Iamkid_Chessbot"
+}
