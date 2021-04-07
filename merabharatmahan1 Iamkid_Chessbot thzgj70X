@@ -1,0 +1,47 @@
+{
+  "id": "thzgj70X",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1617802309462,
+  "white": {
+    "id": "merabharatmahan1",
+    "name": "merabharatmahan1",
+    "title": "BOT",
+    "rating": 2253,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamkid_chessbot",
+    "name": "Iamkid_Chessbot",
+    "title": "BOT",
+    "rating": 1942,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "merabharatmahan1",
+  "opponentName": "Iamkid_Chessbot"
+}
