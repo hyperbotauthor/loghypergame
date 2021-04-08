@@ -1,0 +1,46 @@
+{
+  "id": "B5KSse4v",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1617878506031,
+  "white": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1711
+  },
+  "black": {
+    "id": "bobby_fischer_bot",
+    "name": "Bobby_Fischer_BOT",
+    "title": "BOT",
+    "rating": 1325,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkjs",
+  "opponentName": "Bobby_Fischer_BOT"
+}
