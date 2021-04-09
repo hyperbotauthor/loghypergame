@@ -1,0 +1,46 @@
+{
+  "id": "rZHSsRFu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1617994807580,
+  "white": {
+    "id": "itshyperbot",
+    "name": "ItsHyperBot",
+    "title": "BOT",
+    "rating": 1821,
+    "provisional": true
+  },
+  "black": {
+    "id": "itshypers",
+    "name": "ItsHypers",
+    "title": null,
+    "rating": 1577
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ItsHyperBot",
+  "opponentName": "ItsHypers"
+}
