@@ -1,0 +1,46 @@
+{
+  "id": "hra9VNDA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1617985474951,
+  "white": {
+    "id": "fidechesshyperbot",
+    "name": "FideChessHyperBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "botdefoin",
+    "name": "Botdefoin",
+    "title": "BOT",
+    "rating": 2055
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FideChessHyperBot",
+  "opponentName": "Botdefoin"
+}
