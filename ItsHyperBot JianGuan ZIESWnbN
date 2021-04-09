@@ -1,0 +1,46 @@
+{
+  "id": "ZIESWnbN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618003132915,
+  "white": {
+    "id": "itshyperbot",
+    "name": "ItsHyperBot",
+    "title": "BOT",
+    "rating": 1707,
+    "provisional": true
+  },
+  "black": {
+    "id": "jianguan",
+    "name": "JianGuan",
+    "title": null,
+    "rating": 1136
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ItsHyperBot",
+  "opponentName": "JianGuan"
+}
