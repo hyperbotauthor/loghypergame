@@ -1,0 +1,47 @@
+{
+  "id": "EWmrZ1Yg",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1617973661903,
+  "white": {
+    "id": "hihello20",
+    "name": "Hihello20",
+    "title": null,
+    "rating": 1656,
+    "provisional": true
+  },
+  "black": {
+    "id": "merabharatmahan1",
+    "name": "merabharatmahan1",
+    "title": "BOT",
+    "rating": 1284,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Hihello20",
+  "opponentName": "merabharatmahan1"
+}
