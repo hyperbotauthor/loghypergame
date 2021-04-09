@@ -1,0 +1,45 @@
+{
+  "id": "De3SuJJ0",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1618003637605,
+  "white": {
+    "id": "itshyperbot",
+    "name": "ItsHyperBot",
+    "title": "BOT",
+    "rating": 1707,
+    "provisional": true
+  },
+  "black": {
+    "id": "killereks",
+    "name": "killereks",
+    "title": null,
+    "rating": 1131
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/QQQQKQQQ w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "einNuoSE"
+  },
+  "botName": "ItsHyperBot",
+  "opponentName": "killereks"
+}
