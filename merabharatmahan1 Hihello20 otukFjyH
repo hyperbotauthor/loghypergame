@@ -1,0 +1,47 @@
+{
+  "id": "otukFjyH",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1617976149926,
+  "white": {
+    "id": "merabharatmahan1",
+    "name": "merabharatmahan1",
+    "title": "BOT",
+    "rating": 1412,
+    "provisional": true
+  },
+  "black": {
+    "id": "hihello20",
+    "name": "Hihello20",
+    "title": null,
+    "rating": 1999,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "merabharatmahan1",
+  "opponentName": "Hihello20"
+}
