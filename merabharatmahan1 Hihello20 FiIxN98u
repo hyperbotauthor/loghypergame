@@ -1,0 +1,47 @@
+{
+  "id": "FiIxN98u",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1617973355015,
+  "white": {
+    "id": "merabharatmahan1",
+    "name": "merabharatmahan1",
+    "title": "BOT",
+    "rating": 1128,
+    "provisional": true
+  },
+  "black": {
+    "id": "hihello20",
+    "name": "Hihello20",
+    "title": null,
+    "rating": 1372,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "merabharatmahan1",
+  "opponentName": "Hihello20"
+}
