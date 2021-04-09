@@ -1,0 +1,44 @@
+{
+  "id": "S1ItZzdY",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1618000640715,
+  "white": {
+    "id": "itshyperbot",
+    "name": "ItsHyperBot",
+    "title": "BOT",
+    "rating": 1528,
+    "provisional": true
+  },
+  "black": {
+    "id": "fifaboy_2951",
+    "name": "FifaBoy_2951",
+    "title": null,
+    "rating": 1226
+  },
+  "initialFen": "3k4/pppppppp/8/8/8/8/PPPPPPPP/3K4 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ItsHyperBot",
+  "opponentName": "FifaBoy_2951"
+}
