@@ -1,0 +1,45 @@
+{
+  "id": "ZOuRVAOp",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1618000710024,
+  "white": {
+    "id": "fifaboy_2951",
+    "name": "FifaBoy_2951",
+    "title": null,
+    "rating": 1226
+  },
+  "black": {
+    "id": "itshyperbot",
+    "name": "ItsHyperBot",
+    "title": "BOT",
+    "rating": 1528,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/8/8/8/QQQQQQQQ/QQQQKQQQ w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f7",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "FifaBoy_2951",
+  "opponentName": "ItsHyperBot"
+}
