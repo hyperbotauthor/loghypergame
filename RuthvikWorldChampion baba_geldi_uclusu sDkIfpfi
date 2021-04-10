@@ -1,0 +1,46 @@
+{
+  "id": "sDkIfpfi",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1618040340266,
+  "white": {
+    "id": "ruthvikworldchampion",
+    "name": "RuthvikWorldChampion",
+    "title": "BOT",
+    "rating": 1849,
+    "provisional": true
+  },
+  "black": {
+    "id": "baba_geldi_uclusu",
+    "name": "baba_geldi_uclusu",
+    "title": null,
+    "rating": 2114
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "RuthvikWorldChampion",
+  "opponentName": "baba_geldi_uclusu"
+}
