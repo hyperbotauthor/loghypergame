@@ -1,0 +1,46 @@
+{
+  "id": "YNs5lBmC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618076138944,
+  "white": {
+    "id": "sargon-4ply",
+    "name": "sargon-4ply",
+    "title": "BOT",
+    "rating": 1648
+  },
+  "black": {
+    "id": "esk18-bot",
+    "name": "ESK18-bot",
+    "title": "BOT",
+    "rating": 1776,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 d1f3 b8c6 c2c3 g8f6 b2b4 d7d6 f1b5 c8g4 f3d3 a7a6 b5c6 b7c6 h2h3 g4e6 b1a3 d6d5 e4d5 c6d5 h3h4 e5e4 d3g3 f8d6 g3g5 h7h6 g5e3 f6g4 e3d4 d6e5 d4c5 d8f6 f2f3 e4f3 g2f3 e5g3 e1f1 g4h2 h1h2 g3h2 c5c6 e6d7 c6a8 e8e7 a8h8 h2g1 f1g1 f6h4",
+    "wtime": 45850,
+    "btime": 53960,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sargon-4ply",
+  "opponentName": "ESK18-bot"
+}
