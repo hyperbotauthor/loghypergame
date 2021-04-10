@@ -1,0 +1,37 @@
+{
+  "id": "ftC8AuhW",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1618074241171,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "veselaya_kompaniya",
+    "name": "Veselaya_Kompaniya",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rnb1qrk1/ppp1p1bp/3p1np1/5p2/2PPP3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 0 8",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Veselaya_Kompaniya"
+}
