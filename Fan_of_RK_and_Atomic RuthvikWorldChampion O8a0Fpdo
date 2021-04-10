@@ -1,0 +1,47 @@
+{
+  "id": "O8a0Fpdo",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1618038703264,
+  "white": {
+    "id": "fan_of_rk_and_atomic",
+    "name": "Fan_of_RK_and_Atomic",
+    "title": null,
+    "rating": 1739,
+    "provisional": true
+  },
+  "black": {
+    "id": "ruthvikworldchampion",
+    "name": "RuthvikWorldChampion",
+    "title": "BOT",
+    "rating": 1845,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Fan_of_RK_and_Atomic",
+  "opponentName": "RuthvikWorldChampion"
+}
