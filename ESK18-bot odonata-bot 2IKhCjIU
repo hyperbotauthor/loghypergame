@@ -1,0 +1,45 @@
+{
+  "id": "2IKhCjIU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618078647959,
+  "white": {
+    "id": "esk18-bot",
+    "name": "ESK18-bot",
+    "title": "BOT",
+    "rating": 1979
+  },
+  "black": {
+    "id": "odonata-bot",
+    "name": "odonata-bot",
+    "title": "BOT",
+    "rating": 1761
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ESK18-bot",
+  "opponentName": "odonata-bot"
+}
