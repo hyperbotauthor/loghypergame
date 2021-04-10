@@ -1,0 +1,46 @@
+{
+  "id": "JQiSSaXC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618077441725,
+  "white": {
+    "id": "chessputer-rl",
+    "name": "ChessPuter-RL",
+    "title": "BOT",
+    "rating": 1415,
+    "provisional": true
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1899
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6",
+    "wtime": 29970,
+    "btime": 28960,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessPuter-RL",
+  "opponentName": "SLvov-bot"
+}
