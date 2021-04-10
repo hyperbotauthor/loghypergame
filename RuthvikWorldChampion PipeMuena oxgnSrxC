@@ -1,0 +1,46 @@
+{
+  "id": "oxgnSrxC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618036549649,
+  "white": {
+    "id": "ruthvikworldchampion",
+    "name": "RuthvikWorldChampion",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "pipemuena",
+    "name": "PipeMuena",
+    "title": null,
+    "rating": 2583
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RuthvikWorldChampion",
+  "opponentName": "PipeMuena"
+}
