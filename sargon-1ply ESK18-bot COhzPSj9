@@ -1,0 +1,45 @@
+{
+  "id": "COhzPSj9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618077821795,
+  "white": {
+    "id": "sargon-1ply",
+    "name": "sargon-1ply",
+    "title": "BOT",
+    "rating": 1664
+  },
+  "black": {
+    "id": "esk18-bot",
+    "name": "ESK18-bot",
+    "title": "BOT",
+    "rating": 1969
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "sargon-1ply",
+  "opponentName": "ESK18-bot"
+}
