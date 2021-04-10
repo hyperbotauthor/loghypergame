@@ -1,0 +1,46 @@
+{
+  "id": "Ojf68ODz",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1618036758136,
+  "white": {
+    "id": "las08",
+    "name": "laS08",
+    "title": null,
+    "rating": 1628
+  },
+  "black": {
+    "id": "ruthvikworldchampion",
+    "name": "RuthvikWorldChampion",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "laS08",
+  "opponentName": "RuthvikWorldChampion"
+}
