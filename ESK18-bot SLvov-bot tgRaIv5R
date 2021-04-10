@@ -1,0 +1,44 @@
+{
+  "id": "tgRaIv5R",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1618078055479,
+  "white": {
+    "id": "esk18-bot",
+    "name": "ESK18-bot",
+    "title": "BOT",
+    "rating": 1979
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1923
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/7Q/2B5/4P3/PPPP1PPP/RNB1K1NR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h5f7",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "ESK18-bot",
+  "opponentName": "SLvov-bot"
+}
