@@ -1,0 +1,46 @@
+{
+  "id": "og4kbarP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1618144287122,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2120
+  },
+  "black": {
+    "id": "bot-winner",
+    "name": "Bot-Winner",
+    "title": "BOT",
+    "rating": 2542,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "Bot-Winner"
+}
