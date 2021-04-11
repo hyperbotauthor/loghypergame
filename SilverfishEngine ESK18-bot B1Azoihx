@@ -33,14 +33,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e4",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 g1f3 b8c6 c3b5 a7a6 b5d6 f8d6 e5d6 c5d4 f3d4 d8b6 c2c3 c6d4 d1d4 b6d4 c3d4 d7f6 c1d2 c8d7 d2b4 a8c8 f1d3 d7b5 d3b5 a6b5 e1g1 g7g6 a2a4 c8c4 a4b5 e8d7 b4c5 f6e4 b2b3 c4c3 f1f3 c3c2 b3b4 e4d6 a1a7 h8b8 b5b6 d7c6 a7a5 d6c4 b4b5 c6d7 a5a1 c2b2 f3f1 b2b5 a1b1 b5b1 f1b1 b8a8 g2g4 c4d2 b1b2 d2e4 b2c2 a8a4 g1g2 a4c4 c2c4 d5c4 c5a3 e4c3 a3c5 c3a4 g2f3 a4c5 d4c5 d7c6 h2h4 c6c5 h4h5 g6h5 g4h5 c5b6 f3e2 b6c5 e2d2 b7b5 d2c2 b5b4 c2c1 c4c3 c1d1 b4b3 d1c1 c5c4 c1b1 f7f5 h5h6 c4d3 b1c1 b3b2 c1b1 d3d2 b1a2 d2c2 a2a3 b2b1q a3a4",
+    "wtime": 118980,
+    "btime": 0,
     "winc": 5000,
     "binc": 5000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "white"
   },
   "botName": "SilverfishEngine",
   "opponentName": "ESK18-bot"
