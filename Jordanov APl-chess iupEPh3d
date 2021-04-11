@@ -1,0 +1,45 @@
+{
+  "id": "iupEPh3d",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": false,
+  "createdAt": 1618151283478,
+  "white": {
+    "id": "jordanov",
+    "name": "Jordanov",
+    "title": null,
+    "rating": 1935
+  },
+  "black": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 2501
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jordanov",
+  "opponentName": "APl-chess"
+}
