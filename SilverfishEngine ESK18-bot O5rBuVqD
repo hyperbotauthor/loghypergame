@@ -1,0 +1,47 @@
+{
+  "id": "O5rBuVqD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1618117125596,
+  "white": {
+    "id": "silverfishengine",
+    "name": "SilverfishEngine",
+    "title": "BOT",
+    "rating": 2020,
+    "provisional": true
+  },
+  "black": {
+    "id": "esk18-bot",
+    "name": "ESK18-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SilverfishEngine",
+  "opponentName": "ESK18-bot"
+}
