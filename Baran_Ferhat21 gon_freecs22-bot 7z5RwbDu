@@ -1,0 +1,46 @@
+{
+  "id": "7z5RwbDu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1618131036982,
+  "white": {
+    "id": "baran_ferhat21",
+    "name": "Baran_Ferhat21",
+    "title": null,
+    "rating": 1828
+  },
+  "black": {
+    "id": "gon_freecs22-bot",
+    "name": "gon_freecs22-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Baran_Ferhat21",
+  "opponentName": "gon_freecs22-bot"
+}
