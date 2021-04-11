@@ -1,0 +1,46 @@
+{
+  "id": "38SqVq8G",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1618122176951,
+  "white": {
+    "id": "vedanths-bot",
+    "name": "VedanthS-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "tharun100",
+    "name": "Tharun100",
+    "title": null,
+    "rating": 1003
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "VedanthS-Bot",
+  "opponentName": "Tharun100"
+}
