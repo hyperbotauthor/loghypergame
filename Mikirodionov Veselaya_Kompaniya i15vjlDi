@@ -1,0 +1,46 @@
+{
+  "id": "i15vjlDi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1618167181868,
+  "white": {
+    "id": "mikirodionov",
+    "name": "Mikirodionov",
+    "title": null,
+    "rating": 2010
+  },
+  "black": {
+    "id": "veselaya_kompaniya",
+    "name": "Veselaya_Kompaniya",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mikirodionov",
+  "opponentName": "Veselaya_Kompaniya"
+}
