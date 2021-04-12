@@ -1,0 +1,47 @@
+{
+  "id": "az62ExYU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618208013512,
+  "white": {
+    "id": "hihello20",
+    "name": "Hihello20",
+    "title": null,
+    "rating": 2281,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 2690,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 b1c3 d7d5 e2e4 d5e4 c1g5 c7c6 g5f6 e7f6 c3e4 f6f5 e4c3 d8b6",
+    "wtime": 509570,
+    "btime": 19400,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Hihello20",
+  "opponentName": "Atomicandchess"
+}
