@@ -1,0 +1,45 @@
+{
+  "id": "mTzsr5hS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618248000109,
+  "white": {
+    "id": "focal7572",
+    "name": "FOCAL7572",
+    "title": "BOT",
+    "rating": 2553
+  },
+  "black": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1915
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FOCAL7572",
+  "opponentName": "SLvov-bot"
+}
