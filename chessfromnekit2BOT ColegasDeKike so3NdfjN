@@ -1,0 +1,46 @@
+{
+  "id": "so3NdfjN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618233713591,
+  "white": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 2223,
+    "provisional": true
+  },
+  "black": {
+    "id": "colegasdekike",
+    "name": "ColegasDeKike",
+    "title": "BOT",
+    "rating": 2438
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "chessfromnekit2BOT",
+  "opponentName": "ColegasDeKike"
+}
