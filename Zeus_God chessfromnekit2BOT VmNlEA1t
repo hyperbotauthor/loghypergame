@@ -1,0 +1,47 @@
+{
+  "id": "VmNlEA1t",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618337204265,
+  "white": {
+    "id": "zeus_god",
+    "name": "Zeus_God",
+    "title": "BOT",
+    "rating": 2274,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 2223,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Zeus_God",
+  "opponentName": "chessfromnekit2BOT"
+}
