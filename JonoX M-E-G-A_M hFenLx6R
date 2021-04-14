@@ -1,0 +1,46 @@
+{
+  "id": "hFenLx6R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 10000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618418380487,
+  "white": {
+    "id": "jonox",
+    "name": "JonoX",
+    "title": "BOT",
+    "rating": 1600
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 2003,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "JonoX",
+  "opponentName": "M-E-G-A_M"
+}
