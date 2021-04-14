@@ -1,0 +1,47 @@
+{
+  "id": "t6gGYJU4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Szybkie"
+  },
+  "rated": true,
+  "createdAt": 1618417896350,
+  "white": {
+    "id": "nnue_123",
+    "name": "NNUE_123",
+    "title": "BOT",
+    "rating": 1622,
+    "provisional": true
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 1687,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NNUE_123",
+  "opponentName": "M-E-G-A_M"
+}
