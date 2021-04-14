@@ -1,0 +1,47 @@
+{
+  "id": "Zv3DNIsG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2100000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasyczne"
+  },
+  "rated": true,
+  "createdAt": 1618414263401,
+  "white": {
+    "id": "colincora",
+    "name": "ColinCora",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2100000,
+    "btime": 2100000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ColinCora",
+  "opponentName": "M-E-G-A_M"
+}
