@@ -1,0 +1,44 @@
+{
+  "id": "bMT6nycy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Korespondencyjne"
+  },
+  "rated": true,
+  "createdAt": 1618414048496,
+  "white": {
+    "id": "colincora",
+    "name": "ColinCora",
+    "title": "BOT",
+    "rating": 1258,
+    "provisional": true
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ColinCora",
+  "opponentName": "M-E-G-A_M"
+}
