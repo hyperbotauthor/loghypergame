@@ -1,0 +1,44 @@
+{
+  "id": "9s3CTOaV",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1618416071169,
+  "white": {
+    "id": "uwwu1",
+    "name": "UWWu1",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "breakoutroomchess",
+    "name": "BreakoutRoomChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UWWu1",
+  "opponentName": "BreakoutRoomChess"
+}
