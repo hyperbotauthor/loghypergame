@@ -1,0 +1,47 @@
+{
+  "id": "5YSItcMB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618398438563,
+  "white": {
+    "id": "unknownhyperplayer",
+    "name": "UnknownHyperPlayer",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "adisidman",
+    "name": "adisidman",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 f1c4 a7a6 d1h5 e7e6 g1f3 b8c6",
+    "wtime": 410130,
+    "btime": 427970,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UnknownHyperPlayer",
+  "opponentName": "adisidman"
+}
