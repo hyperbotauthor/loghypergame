@@ -1,0 +1,45 @@
+{
+  "id": "dUAg0Jor",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618511691626,
+  "white": {
+    "id": "chillibot",
+    "name": "ChilliBot",
+    "title": "BOT",
+    "rating": 2186
+  },
+  "black": {
+    "id": "ehqh_super_bot",
+    "name": "EHQH_Super_Bot",
+    "title": "BOT",
+    "rating": 2330
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChilliBot",
+  "opponentName": "EHQH_Super_Bot"
+}
