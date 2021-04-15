@@ -1,0 +1,45 @@
+{
+  "id": "apCXJ9xL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618511101545,
+  "white": {
+    "id": "chillibot",
+    "name": "ChilliBot",
+    "title": "BOT",
+    "rating": 2138
+  },
+  "black": {
+    "id": "clrsrc_lc0",
+    "name": "clrsrc_lc0",
+    "title": "BOT",
+    "rating": 2616
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChilliBot",
+  "opponentName": "clrsrc_lc0"
+}
