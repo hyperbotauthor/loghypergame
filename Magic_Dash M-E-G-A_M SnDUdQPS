@@ -1,0 +1,46 @@
+{
+  "id": "SnDUdQPS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618479637937,
+  "white": {
+    "id": "magic_dash",
+    "name": "Magic_Dash",
+    "title": "BOT",
+    "rating": 2115,
+    "provisional": true
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 2088
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 b1c3 d7d5 g1f3 b8c6 e2e3 c8g4 f1b5 g7g6 h2h3",
+    "wtime": 55490,
+    "btime": 42520,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Magic_Dash",
+  "opponentName": "M-E-G-A_M"
+}
