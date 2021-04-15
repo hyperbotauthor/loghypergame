@@ -1,0 +1,46 @@
+{
+  "id": "RxktcOFO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618515494936,
+  "white": {
+    "id": "chillibot",
+    "name": "ChilliBot",
+    "title": "BOT",
+    "rating": 2224,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1863
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 d2d4 b8c6 d4d5 c6e5 f2f4 e7e6 f4e5 d8h4 e1d2 h4f4 d2e2 f4e5 d1d3 g8f6 b1c3 a7a6 g1f3 e5c7 b2b3 b7b5 e2d1 c8b7 a2a3 h7h6 c1e3 f8e7 a3a4 b5b4 c3e2",
+    "wtime": 175170,
+    "btime": 43400,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChilliBot",
+  "opponentName": "Boris-Trapsky"
+}
