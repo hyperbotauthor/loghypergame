@@ -1,0 +1,45 @@
+{
+  "id": "lK0K3Cr9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618488328441,
+  "white": {
+    "id": "yk0619",
+    "name": "Yk0619",
+    "title": null,
+    "rating": 1712
+  },
+  "black": {
+    "id": "fast_dragon",
+    "name": "FAST_DRAGON",
+    "title": "BOT",
+    "rating": 2204
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Yk0619",
+  "opponentName": "FAST_DRAGON"
+}
