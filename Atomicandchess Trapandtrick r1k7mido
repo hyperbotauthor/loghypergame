@@ -1,0 +1,47 @@
+{
+  "id": "r1k7mido",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618486112897,
+  "white": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 2190,
+    "provisional": true
+  },
+  "black": {
+    "id": "trapandtrick",
+    "name": "Trapandtrick",
+    "title": null,
+    "rating": 1613,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Atomicandchess",
+  "opponentName": "Trapandtrick"
+}
