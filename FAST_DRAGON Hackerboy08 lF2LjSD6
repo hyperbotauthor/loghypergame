@@ -1,0 +1,46 @@
+{
+  "id": "lF2LjSD6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618487787999,
+  "white": {
+    "id": "fast_dragon",
+    "name": "FAST_DRAGON",
+    "title": "BOT",
+    "rating": 2345,
+    "provisional": true
+  },
+  "black": {
+    "id": "hackerboy08",
+    "name": "Hackerboy08",
+    "title": null,
+    "rating": 2398
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FAST_DRAGON",
+  "opponentName": "Hackerboy08"
+}
