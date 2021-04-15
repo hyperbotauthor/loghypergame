@@ -1,0 +1,47 @@
+{
+  "id": "ZOhCo24I",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618490011236,
+  "white": {
+    "id": "baran_ferhat21",
+    "name": "Baran_Ferhat21",
+    "title": null,
+    "rating": 1906,
+    "provisional": true
+  },
+  "black": {
+    "id": "rockfish1",
+    "name": "RockFish1",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Baran_Ferhat21",
+  "opponentName": "RockFish1"
+}
