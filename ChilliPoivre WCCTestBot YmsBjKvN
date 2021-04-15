@@ -1,0 +1,47 @@
+{
+  "id": "YmsBjKvN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618526196069,
+  "white": {
+    "id": "chillipoivre",
+    "name": "ChilliPoivre",
+    "title": "BOT",
+    "rating": 2318,
+    "provisional": true
+  },
+  "black": {
+    "id": "wcctestbot",
+    "name": "WCCTestBot",
+    "title": "BOT",
+    "rating": 2253,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChilliPoivre",
+  "opponentName": "WCCTestBot"
+}
