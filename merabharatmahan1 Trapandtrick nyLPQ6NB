@@ -1,0 +1,47 @@
+{
+  "id": "nyLPQ6NB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618469042116,
+  "white": {
+    "id": "merabharatmahan1",
+    "name": "merabharatmahan1",
+    "title": "BOT",
+    "rating": 2044,
+    "provisional": true
+  },
+  "black": {
+    "id": "trapandtrick",
+    "name": "Trapandtrick",
+    "title": null,
+    "rating": 2424,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "merabharatmahan1",
+  "opponentName": "Trapandtrick"
+}
