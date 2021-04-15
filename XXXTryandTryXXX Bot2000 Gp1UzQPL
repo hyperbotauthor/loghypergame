@@ -1,0 +1,47 @@
+{
+  "id": "Gp1UzQPL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1618497900666,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1770,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1414,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 f7f5 g1f3",
+    "wtime": 1023820,
+    "btime": 991220,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "Bot2000"
+}
