@@ -1,0 +1,47 @@
+{
+  "id": "bVQjCZ8s",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618488993936,
+  "white": {
+    "id": "fast_dragon",
+    "name": "FAST_DRAGON",
+    "title": "BOT",
+    "rating": 1744,
+    "provisional": true
+  },
+  "black": {
+    "id": "normalbulletbot",
+    "name": "NormalBulletBot",
+    "title": "BOT",
+    "rating": 2581,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FAST_DRAGON",
+  "opponentName": "NormalBulletBot"
+}
