@@ -1,0 +1,46 @@
+{
+  "id": "7n5F8cTq",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1618506186876,
+  "white": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 1953,
+    "provisional": true
+  },
+  "black": {
+    "id": "alucasm",
+    "name": "ALucasM",
+    "title": null,
+    "rating": 1355
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "M-E-G-A_M",
+  "opponentName": "ALucasM"
+}
