@@ -1,0 +1,45 @@
+{
+  "id": "3ivj7TVb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618559808918,
+  "white": {
+    "id": "turkeybot",
+    "name": "turkeyBOT",
+    "title": "BOT",
+    "rating": 2198
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 2052
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkeyBOT",
+  "opponentName": "M-E-G-A_M"
+}
