@@ -1,0 +1,46 @@
+{
+  "id": "VOgGCtCQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618570584901,
+  "white": {
+    "id": "ceyloncentuari",
+    "name": "CeylonCentuari",
+    "title": "BOT",
+    "rating": 2047,
+    "provisional": true
+  },
+  "black": {
+    "id": "m-e-g-a_m",
+    "name": "M-E-G-A_M",
+    "title": "BOT",
+    "rating": 2009
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CeylonCentuari",
+  "opponentName": "M-E-G-A_M"
+}
