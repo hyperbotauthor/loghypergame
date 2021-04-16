@@ -1,0 +1,47 @@
+{
+  "id": "Uh5PpGj8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618562330192,
+  "white": {
+    "id": "ceyloncentuari",
+    "name": "CeylonCentuari",
+    "title": "BOT",
+    "rating": 1826,
+    "provisional": true
+  },
+  "black": {
+    "id": "rockfish1",
+    "name": "RockFish1",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CeylonCentuari",
+  "opponentName": "RockFish1"
+}
