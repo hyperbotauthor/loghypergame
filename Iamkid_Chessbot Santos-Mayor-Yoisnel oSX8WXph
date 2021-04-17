@@ -1,0 +1,47 @@
+{
+  "id": "oSX8WXph",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1618658643245,
+  "white": {
+    "id": "iamkid_chessbot",
+    "name": "Iamkid_Chessbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "santos-mayor-yoisnel",
+    "name": "Santos-Mayor-Yoisnel",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "bbrkrnnq/pppppppp/8/8/8/8/PPPPPPPP/BBRKRNNQ w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Iamkid_Chessbot",
+  "opponentName": "Santos-Mayor-Yoisnel"
+}
