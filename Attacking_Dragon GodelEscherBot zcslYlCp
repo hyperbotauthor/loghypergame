@@ -1,0 +1,46 @@
+{
+  "id": "zcslYlCp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1618644774548,
+  "white": {
+    "id": "attacking_dragon",
+    "name": "Attacking_Dragon",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "godelescherbot",
+    "name": "GodelEscherBot",
+    "title": "BOT",
+    "rating": 2309
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Attacking_Dragon",
+  "opponentName": "GodelEscherBot"
+}
