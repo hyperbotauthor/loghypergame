@@ -1,0 +1,46 @@
+{
+  "id": "erYZ7j81",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618647031760,
+  "white": {
+    "id": "attacking_dragon",
+    "name": "Attacking_Dragon",
+    "title": "BOT",
+    "rating": 1319,
+    "provisional": true
+  },
+  "black": {
+    "id": "jallahata",
+    "name": "Jallahata",
+    "title": "BOT",
+    "rating": 1608
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Attacking_Dragon",
+  "opponentName": "Jallahata"
+}
