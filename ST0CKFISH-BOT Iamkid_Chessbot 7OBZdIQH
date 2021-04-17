@@ -1,0 +1,46 @@
+{
+  "id": "7OBZdIQH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618646353536,
+  "white": {
+    "id": "st0ckfish-bot",
+    "name": "ST0CKFISH-BOT",
+    "title": "BOT",
+    "rating": 2373,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamkid_chessbot",
+    "name": "Iamkid_Chessbot",
+    "title": "BOT",
+    "rating": 1958
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ST0CKFISH-BOT",
+  "opponentName": "Iamkid_Chessbot"
+}
