@@ -1,0 +1,46 @@
+{
+  "id": "wUWiOFyc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618649785835,
+  "white": {
+    "id": "harsheelk",
+    "name": "HarsheelK",
+    "title": "BOT",
+    "rating": 2171
+  },
+  "black": {
+    "id": "attacking_dragon",
+    "name": "Attacking_Dragon",
+    "title": "BOT",
+    "rating": 2401,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "HarsheelK",
+  "opponentName": "Attacking_Dragon"
+}
