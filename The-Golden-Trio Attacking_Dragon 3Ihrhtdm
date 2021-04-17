@@ -1,0 +1,47 @@
+{
+  "id": "3Ihrhtdm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1618646019977,
+  "white": {
+    "id": "the-golden-trio",
+    "name": "The-Golden-Trio",
+    "title": "BOT",
+    "rating": 1206,
+    "provisional": true
+  },
+  "black": {
+    "id": "attacking_dragon",
+    "name": "Attacking_Dragon",
+    "title": "BOT",
+    "rating": 1676,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "The-Golden-Trio",
+  "opponentName": "Attacking_Dragon"
+}
