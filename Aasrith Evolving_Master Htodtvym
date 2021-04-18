@@ -1,0 +1,45 @@
+{
+  "id": "Htodtvym",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618736473318,
+  "white": {
+    "id": "aasrith",
+    "name": "Aasrith",
+    "title": null,
+    "rating": 1010
+  },
+  "black": {
+    "id": "evolving_master",
+    "name": "Evolving_Master",
+    "title": "BOT",
+    "rating": 2347
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Aasrith",
+  "opponentName": "Evolving_Master"
+}
