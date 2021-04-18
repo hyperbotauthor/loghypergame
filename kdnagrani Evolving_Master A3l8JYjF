@@ -1,0 +1,43 @@
+{
+  "id": "A3l8JYjF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1618735804265,
+  "white": {
+    "id": "kdnagrani",
+    "name": "kdnagrani",
+    "title": null,
+    "rating": 1547
+  },
+  "black": {
+    "id": "evolving_master",
+    "name": "Evolving_Master",
+    "title": "BOT",
+    "rating": 1758,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kdnagrani",
+  "opponentName": "Evolving_Master"
+}
