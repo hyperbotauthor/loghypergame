@@ -1,0 +1,46 @@
+{
+  "id": "7kiVjkLe",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1618736117393,
+  "white": {
+    "id": "evolving_master",
+    "name": "Evolving_Master",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 2150
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Evolving_Master",
+  "opponentName": "VariantTourneysBot"
+}
