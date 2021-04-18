@@ -1,0 +1,47 @@
+{
+  "id": "qUlaAe8e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618726604596,
+  "white": {
+    "id": "blue_lightningdragon",
+    "name": "blue_lightningdragon",
+    "title": "BOT",
+    "rating": 2146,
+    "provisional": true
+  },
+  "black": {
+    "id": "attacking_dragon",
+    "name": "Attacking_Dragon",
+    "title": "BOT",
+    "rating": 2326,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "blue_lightningdragon",
+  "opponentName": "Attacking_Dragon"
+}
