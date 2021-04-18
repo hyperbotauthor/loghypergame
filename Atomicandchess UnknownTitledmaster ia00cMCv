@@ -1,0 +1,47 @@
+{
+  "id": "ia00cMCv",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1618732303536,
+  "white": {
+    "id": "atomicandchess",
+    "name": "Atomicandchess",
+    "title": "BOT",
+    "rating": 1281,
+    "provisional": true
+  },
+  "black": {
+    "id": "unknowntitledmaster",
+    "name": "UnknownTitledmaster",
+    "title": null,
+    "rating": 1597,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Atomicandchess",
+  "opponentName": "UnknownTitledmaster"
+}
