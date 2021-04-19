@@ -1,0 +1,46 @@
+{
+  "id": "QeRcGJwO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1618824736212,
+  "white": {
+    "id": "the_unbeatable-b0t12",
+    "name": "The_Unbeatable-B0T12",
+    "title": "BOT",
+    "rating": 1794,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1796
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 7000,
+    "binc": 7000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "The_Unbeatable-B0T12",
+  "opponentName": "ChessChildren"
+}
