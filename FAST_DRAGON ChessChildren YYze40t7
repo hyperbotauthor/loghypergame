@@ -1,0 +1,47 @@
+{
+  "id": "YYze40t7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1618807878047,
+  "white": {
+    "id": "fast_dragon",
+    "name": "FAST_DRAGON",
+    "title": "BOT",
+    "rating": 2345,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1773
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 b1c3 b8c6 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 c1g5 e7e6 d1d2 f8e7 e1c1 e8g8 f2f4 c6d4 d2d4 c8d7 g5f6 g7f6 c1b1 e6e5 d4e3 g8h8 f4f5 f8g8 g2g3 d8b6 e3h6 a8c8 c3d5 b6d8 h6e3 a7a6 f1e2 d7c6 d5b6 c8b8 e2f3 e7f8 d1d2 f8e7 h1d1 d8c7 g3g4 e7f8 a2a4 c7d8 h2h4 d8e8 a4a5 e8d8 d2g2 d8c7 g4g5 f6g5 h4g5 f8e7 d1h1 c6d7 g2h2 g8g5 h2h7 h8g8 h7h8 g8g7 h1h7 g7f6 b6d5",
+    "wtime": 80880,
+    "btime": 85920,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "FAST_DRAGON",
+  "opponentName": "ChessChildren"
+}
