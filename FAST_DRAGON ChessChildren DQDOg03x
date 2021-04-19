@@ -1,0 +1,46 @@
+{
+  "id": "DQDOg03x",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 3600000,
+    "increment": 60000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1618808109790,
+  "white": {
+    "id": "fast_dragon",
+    "name": "FAST_DRAGON",
+    "title": "BOT",
+    "rating": 1961,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1819
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3600000,
+    "btime": 3600000,
+    "winc": 60000,
+    "binc": 60000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FAST_DRAGON",
+  "opponentName": "ChessChildren"
+}
