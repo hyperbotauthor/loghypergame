@@ -1,0 +1,46 @@
+{
+  "id": "6CzU5fkc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Szybkie"
+  },
+  "rated": true,
+  "createdAt": 1618846874468,
+  "white": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 2086
+  },
+  "black": {
+    "id": "colincora",
+    "name": "ColinCora",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GarboBot",
+  "opponentName": "ColinCora"
+}
