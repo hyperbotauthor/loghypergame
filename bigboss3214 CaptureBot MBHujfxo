@@ -1,0 +1,46 @@
+{
+  "id": "MBHujfxo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618901712629,
+  "white": {
+    "id": "bigboss3214",
+    "name": "bigboss3214",
+    "title": "BOT",
+    "rating": 1580
+  },
+  "black": {
+    "id": "capturebot",
+    "name": "CaptureBot",
+    "title": "BOT",
+    "rating": 1064
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g8f6 f1c4 f6e4 d1f3 e4f2 f3f7",
+    "wtime": 58380,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "bigboss3214",
+  "opponentName": "CaptureBot"
+}
