@@ -1,0 +1,44 @@
+{
+  "id": "Y9oR8JYB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1618903360760,
+  "white": {
+    "id": "cubachessbot",
+    "name": "CubaChessBOT",
+    "title": "BOT",
+    "rating": 2262,
+    "provisional": true
+  },
+  "black": {
+    "id": "davidmarkech",
+    "name": "DavidMarkech",
+    "title": null,
+    "rating": 1431,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 f7f6 d2d4 d7d6 e1g1 f8e7 c2c4 c8d7 d4d5 c6b8 b1c3 d7b5 c4b5 a7a6 d1b3 b7b6 c1e3 b8d7 b5a6 a8a6",
+    "wtime": 172685000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CubaChessBOT",
+  "opponentName": "DavidMarkech"
+}
