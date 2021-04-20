@@ -1,0 +1,47 @@
+{
+  "id": "R7FfspGu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1618921347529,
+  "white": {
+    "id": "ceyloncentuari",
+    "name": "CeylonCentuari",
+    "title": "BOT",
+    "rating": 2410,
+    "provisional": true
+  },
+  "black": {
+    "id": "rockfish1",
+    "name": "RockFish1",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CeylonCentuari",
+  "opponentName": "RockFish1"
+}
