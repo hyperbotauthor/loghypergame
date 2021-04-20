@@ -1,0 +1,45 @@
+{
+  "id": "EVuICiaZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1618901718668,
+  "white": {
+    "id": "capturebot",
+    "name": "CaptureBot",
+    "title": "BOT",
+    "rating": 1064
+  },
+  "black": {
+    "id": "bigboss3214",
+    "name": "bigboss3214",
+    "title": "BOT",
+    "rating": 1580
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 d7d5 e2e3 c8f5 d2d4 d8d7 f1b5 d7b5 b1c3 b5c6 c3d5 c6c2 d1c2",
+    "wtime": 59960,
+    "btime": 56810,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CaptureBot",
+  "opponentName": "bigboss3214"
+}
