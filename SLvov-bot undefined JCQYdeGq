@@ -1,0 +1,39 @@
+{
+  "id": "JCQYdeGq",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1619036496573,
+  "white": {
+    "id": "slvov-bot",
+    "name": "SLvov-bot",
+    "title": "BOT",
+    "rating": 1702
+  },
+  "black": {
+    "aiLevel": 7
+  },
+  "initialFen": "RNBQKBNR/PPPPPPPP/8/8/8/8/pppppppp/rnbqkbnr w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b8c6 g1f3 c6b4",
+    "wtime": 182000,
+    "btime": 179540,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SLvov-bot"
+}
