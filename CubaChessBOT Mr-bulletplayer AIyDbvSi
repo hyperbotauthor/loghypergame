@@ -1,0 +1,43 @@
+{
+  "id": "AIyDbvSi",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1618904230005,
+  "white": {
+    "id": "cubachessbot",
+    "name": "CubaChessBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "mr-bulletplayer",
+    "name": "Mr-bulletplayer",
+    "title": null,
+    "rating": 2104
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 f1c4 e7e6",
+    "wtime": 197238000,
+    "btime": 259200000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CubaChessBOT",
+  "opponentName": "Mr-bulletplayer"
+}
