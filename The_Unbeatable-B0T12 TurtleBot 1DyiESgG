@@ -1,0 +1,46 @@
+{
+  "id": "1DyiESgG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1619004419965,
+  "white": {
+    "id": "the_unbeatable-b0t12",
+    "name": "The_Unbeatable-B0T12",
+    "title": "BOT",
+    "rating": 1719,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1426
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "The_Unbeatable-B0T12",
+  "opponentName": "TurtleBot"
+}
