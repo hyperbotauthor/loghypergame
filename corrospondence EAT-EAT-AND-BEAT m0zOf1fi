@@ -1,0 +1,44 @@
+{
+  "id": "m0zOf1fi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1619079377217,
+  "white": {
+    "id": "corrospondence",
+    "name": "corrospondence",
+    "title": "BOT",
+    "rating": 1759,
+    "provisional": true
+  },
+  "black": {
+    "id": "eat-eat-and-beat",
+    "name": "EAT-EAT-AND-BEAT",
+    "title": "BOT",
+    "rating": 2216,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172792000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "corrospondence",
+  "opponentName": "EAT-EAT-AND-BEAT"
+}
