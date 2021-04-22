@@ -1,0 +1,46 @@
+{
+  "id": "2gP0MBVr",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1619089830078,
+  "white": {
+    "id": "stockinfish",
+    "name": "StockinFish",
+    "title": "BOT",
+    "rating": 1621,
+    "provisional": true
+  },
+  "black": {
+    "id": "kunjchapani",
+    "name": "kunjchapani",
+    "title": null,
+    "rating": 1246
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "StockinFish",
+  "opponentName": "kunjchapani"
+}
