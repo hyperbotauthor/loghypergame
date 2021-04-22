@@ -1,0 +1,46 @@
+{
+  "id": "PiUCELVG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1619057338950,
+  "white": {
+    "id": "bigboss3214",
+    "name": "bigboss3214",
+    "title": "BOT",
+    "rating": 1782,
+    "provisional": true
+  },
+  "black": {
+    "id": "saitaj",
+    "name": "saitaj",
+    "title": null,
+    "rating": 1821
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 c7c6 b1c3 g8f6 e2e3 c8f5 g1f3 d5c4 f1c4 b7b5 c4d3 e7e6 e1g1 g7g6 f1e1 f8g7 d3f5 e6f5 d1b3 e8g8 c1d2 f8e8 a1d1 b8d7 c3b5",
+    "wtime": 146800,
+    "btime": 138480,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bigboss3214",
+  "opponentName": "saitaj"
+}
