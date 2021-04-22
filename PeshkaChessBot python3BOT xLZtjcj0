@@ -1,0 +1,46 @@
+{
+  "id": "xLZtjcj0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619074364616,
+  "white": {
+    "id": "peshkachessbot",
+    "name": "PeshkaChessBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "python3bot",
+    "name": "python3BOT",
+    "title": "BOT",
+    "rating": 2650
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 d7d5 b1d2 f8e7 e4e5 c7c5 d1g4 g7g6 d4c5 g8h6 g4e2 h6f5 g1f3 b8c6 c2c3 a7a5 g2g4 f5g7 d2b3 h7h5 h1g1 h5g4 g1g4 c8d7 c1g5 e7g5 f3g5 d8c7 f2f4 a5a4 b3d2 g7f5 d2f3 c6e7 e2f2 a8a5 a2a3 d7b5 f1h3 b5a6 g4g2 h8h3 g5h3",
+    "wtime": 28300,
+    "btime": 18350,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PeshkaChessBot",
+  "opponentName": "python3BOT"
+}
