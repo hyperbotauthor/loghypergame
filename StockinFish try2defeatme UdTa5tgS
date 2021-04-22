@@ -1,0 +1,46 @@
+{
+  "id": "UdTa5tgS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619089171318,
+  "white": {
+    "id": "stockinfish",
+    "name": "StockinFish",
+    "title": "BOT",
+    "rating": 1475,
+    "provisional": true
+  },
+  "black": {
+    "id": "try2defeatme",
+    "name": "try2defeatme",
+    "title": "BOT",
+    "rating": 2103
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "StockinFish",
+  "opponentName": "try2defeatme"
+}
