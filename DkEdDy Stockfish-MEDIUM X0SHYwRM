@@ -1,0 +1,44 @@
+{
+  "id": "X0SHYwRM",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1619385153504,
+  "white": {
+    "id": "dkeddy",
+    "name": "DkEdDy",
+    "title": null,
+    "rating": 1111,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1557,
+    "provisional": true
+  },
+  "initialFen": "rbnqknbr/pppppppp/8/8/8/8/PPPPPPPP/RBNQKNBR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DkEdDy",
+  "opponentName": "Stockfish-MEDIUM"
+}
