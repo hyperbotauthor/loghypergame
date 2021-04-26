@@ -1,0 +1,46 @@
+{
+  "id": "d6aPkj7o",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 20000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1619417104627,
+  "white": {
+    "id": "squared-chess",
+    "name": "squared-chess",
+    "title": "BOT",
+    "rating": 1835
+  },
+  "black": {
+    "id": "slash-bot",
+    "name": "Slash-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 20000,
+    "btime": 20000,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "squared-chess",
+  "opponentName": "Slash-BOT"
+}
