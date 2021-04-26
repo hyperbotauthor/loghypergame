@@ -1,0 +1,46 @@
+{
+  "id": "7LwbtEI7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619446359121,
+  "white": {
+    "id": "chessfbot",
+    "name": "ChessFbot",
+    "title": "BOT",
+    "rating": 1595
+  },
+  "black": {
+    "id": "pewdiepieormrbeast",
+    "name": "PewDiePieorMrbeast",
+    "title": "BOT",
+    "rating": 1928,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessFbot",
+  "opponentName": "PewDiePieorMrbeast"
+}
