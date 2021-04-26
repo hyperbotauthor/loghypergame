@@ -1,0 +1,46 @@
+{
+  "id": "udVw8JZm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1619442822767,
+  "white": {
+    "id": "thechampbot",
+    "name": "TheChampBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_aoop11",
+    "name": "Bot_AOOP11",
+    "title": "BOT",
+    "rating": 2424
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheChampBot",
+  "opponentName": "Bot_AOOP11"
+}
