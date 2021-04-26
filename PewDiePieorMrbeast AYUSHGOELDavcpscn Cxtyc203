@@ -1,0 +1,44 @@
+{
+  "id": "Cxtyc203",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1619454423950,
+  "white": {
+    "id": "pewdiepieormrbeast",
+    "name": "PewDiePieorMrbeast",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ayushgoeldavcpscn",
+    "name": "AYUSHGOELDavcpscn",
+    "title": null,
+    "rating": 1655
+  },
+  "initialFen": "4r2r/5pk1/B2p2p1/p1q1p3/4P1b1/2PQ4/RP3PP1/R5K1 b - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PewDiePieorMrbeast",
+  "opponentName": "AYUSHGOELDavcpscn"
+}
