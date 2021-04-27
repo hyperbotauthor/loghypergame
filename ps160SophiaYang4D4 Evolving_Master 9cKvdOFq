@@ -1,0 +1,44 @@
+{
+  "id": "9cKvdOFq",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1619537310538,
+  "white": {
+    "id": "ps160sophiayang4d4",
+    "name": "ps160SophiaYang4D4",
+    "title": null,
+    "rating": 1226,
+    "provisional": true
+  },
+  "black": {
+    "id": "evolving_master",
+    "name": "Evolving_Master",
+    "title": "BOT",
+    "rating": 2450,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 86400000,
+    "btime": 86398000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ps160SophiaYang4D4",
+  "opponentName": "Evolving_Master"
+}
