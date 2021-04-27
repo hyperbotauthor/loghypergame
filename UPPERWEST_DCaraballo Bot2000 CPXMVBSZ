@@ -1,0 +1,42 @@
+{
+  "id": "CPXMVBSZ",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1619540749557,
+  "white": {
+    "id": "upperwest_dcaraballo",
+    "name": "UPPERWEST_DCaraballo",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "initialFen": "NNNNKNNN/8/8/8/8/8/8/nnnnknnn w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UPPERWEST_DCaraballo",
+  "opponentName": "Bot2000"
+}
