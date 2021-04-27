@@ -1,0 +1,46 @@
+{
+  "id": "34jnEvB4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619507557296,
+  "white": {
+    "id": "boteagleeye2021",
+    "name": "BotEagleEye2021",
+    "title": "BOT",
+    "rating": 2199,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0test",
+    "name": "Lc0Test",
+    "title": "BOT",
+    "rating": 2533
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotEagleEye2021",
+  "opponentName": "Lc0Test"
+}
