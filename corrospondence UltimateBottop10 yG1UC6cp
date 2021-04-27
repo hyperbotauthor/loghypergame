@@ -1,0 +1,47 @@
+{
+  "id": "yG1UC6cp",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1619526737595,
+  "white": {
+    "id": "corrospondence",
+    "name": "corrospondence",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "black": {
+    "id": "ultimatebottop10",
+    "name": "UltimateBottop10",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "corrospondence",
+  "opponentName": "UltimateBottop10"
+}
