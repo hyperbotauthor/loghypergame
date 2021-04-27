@@ -1,0 +1,46 @@
+{
+  "id": "6NfmdQ7n",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1619537254669,
+  "white": {
+    "id": "cheetahninjago",
+    "name": "cheetahninjago",
+    "title": null,
+    "rating": 1485
+  },
+  "black": {
+    "id": "evolving_master",
+    "name": "Evolving_Master",
+    "title": "BOT",
+    "rating": 1454,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "cheetahninjago",
+  "opponentName": "Evolving_Master"
+}
