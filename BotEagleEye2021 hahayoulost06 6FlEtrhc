@@ -1,0 +1,46 @@
+{
+  "id": "6FlEtrhc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619508555563,
+  "white": {
+    "id": "boteagleeye2021",
+    "name": "BotEagleEye2021",
+    "title": "BOT",
+    "rating": 2164,
+    "provisional": true
+  },
+  "black": {
+    "id": "hahayoulost06",
+    "name": "hahayoulost06",
+    "title": "BOT",
+    "rating": 2078
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotEagleEye2021",
+  "opponentName": "hahayoulost06"
+}
