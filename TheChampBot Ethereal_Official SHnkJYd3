@@ -1,0 +1,47 @@
+{
+  "id": "SHnkJYd3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1619593676173,
+  "white": {
+    "id": "thechampbot",
+    "name": "TheChampBot",
+    "title": "BOT",
+    "rating": 1750,
+    "provisional": true
+  },
+  "black": {
+    "id": "ethereal_official",
+    "name": "Ethereal_Official",
+    "title": "BOT",
+    "rating": 2489,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheChampBot",
+  "opponentName": "Ethereal_Official"
+}
