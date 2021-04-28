@@ -1,0 +1,47 @@
+{
+  "id": "7NthkBna",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápido"
+  },
+  "rated": true,
+  "createdAt": 1619653614701,
+  "white": {
+    "id": "silverfishengine",
+    "name": "SilverfishEngine",
+    "title": "BOT",
+    "rating": 2028,
+    "provisional": true
+  },
+  "black": {
+    "id": "kurtinaz",
+    "name": "Kurtinaz",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SilverfishEngine",
+  "opponentName": "Kurtinaz"
+}
