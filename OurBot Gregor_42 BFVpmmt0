@@ -1,0 +1,44 @@
+{
+  "id": "BFVpmmt0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Korešpondenčný šach"
+  },
+  "rated": false,
+  "createdAt": 1618296447755,
+  "white": {
+    "id": "ourbot",
+    "name": "OurBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "gregor_42",
+    "name": "Gregor_42",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 e2e3 b8c6 g1f3 f7f6 f1b5 e7e5 d4e5 f6e5 f3e5 a7a6 d1h5 g7g6 b5c6 b7c6 e5g6 f8b4 c1d2",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "OurBot",
+  "opponentName": "Gregor_42"
+}
