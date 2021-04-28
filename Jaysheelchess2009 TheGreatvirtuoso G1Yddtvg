@@ -1,0 +1,46 @@
+{
+  "id": "G1Yddtvg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619603514826,
+  "white": {
+    "id": "jaysheelchess2009",
+    "name": "Jaysheelchess2009",
+    "title": null,
+    "rating": 1154
+  },
+  "black": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1805,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaysheelchess2009",
+  "opponentName": "TheGreatvirtuoso"
+}
