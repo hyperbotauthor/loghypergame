@@ -1,0 +1,47 @@
+{
+  "id": "MJFITChl",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1619573960213,
+  "white": {
+    "id": "zkeddy",
+    "name": "ZkEdDy",
+    "title": null,
+    "rating": 1264,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1370,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ZkEdDy",
+  "opponentName": "Stockfish-MEDIUM"
+}
