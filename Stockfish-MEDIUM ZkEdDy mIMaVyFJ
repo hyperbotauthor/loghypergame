@@ -1,0 +1,43 @@
+{
+  "id": "mIMaVyFJ",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1619575116376,
+  "white": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1911
+  },
+  "black": {
+    "id": "zkeddy",
+    "name": "ZkEdDy",
+    "title": null,
+    "rating": 1288
+  },
+  "initialFen": "qqqqkrrr/pppppppp/pppppppp/pppppppp/8/NNBBBBBB/PPPPPPPP/RNNQKNNR w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stockfish-MEDIUM",
+  "opponentName": "ZkEdDy"
+}
