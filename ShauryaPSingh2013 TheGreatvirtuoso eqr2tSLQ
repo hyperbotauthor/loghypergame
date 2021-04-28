@@ -1,0 +1,44 @@
+{
+  "id": "eqr2tSLQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1619588131604,
+  "white": {
+    "id": "shauryapsingh2013",
+    "name": "ShauryaPSingh2013",
+    "title": null,
+    "rating": 1258,
+    "provisional": true
+  },
+  "black": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172793000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ShauryaPSingh2013",
+  "opponentName": "TheGreatvirtuoso"
+}
