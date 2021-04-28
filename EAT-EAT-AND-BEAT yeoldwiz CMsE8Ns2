@@ -1,0 +1,43 @@
+{
+  "id": "CMsE8Ns2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1619501036786,
+  "white": {
+    "id": "eat-eat-and-beat",
+    "name": "EAT-EAT-AND-BEAT",
+    "title": "BOT",
+    "rating": 2304,
+    "provisional": true
+  },
+  "black": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1817
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b8c6 d2d4 e7e5 d4e5 c6e5 g1f3 d8f6 b1c3 f8c5 c3d5 e5f3 g2f3 f6e5 c1f4 e5b2 a1b1 b2a2 d5c7 e8e7",
+    "wtime": 69015000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EAT-EAT-AND-BEAT",
+  "opponentName": "yeoldwiz"
+}
