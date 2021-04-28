@@ -1,0 +1,46 @@
+{
+  "id": "Dn7f4J8S",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619616744888,
+  "white": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1942,
+    "provisional": true
+  },
+  "black": {
+    "id": "gmchessmap",
+    "name": "gmchessmap",
+    "title": null,
+    "rating": 1883
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheGreatvirtuoso",
+  "opponentName": "gmchessmap"
+}
