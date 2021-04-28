@@ -1,0 +1,47 @@
+{
+  "id": "GfgDthkH",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1619576471769,
+  "white": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1700,
+    "provisional": true
+  },
+  "black": {
+    "id": "zkeddy",
+    "name": "ZkEdDy",
+    "title": null,
+    "rating": 1531,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/1PP2PP1/PPPPPPPP/PPPPPPPP/PPPPPPPP/PPPPPPPP w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stockfish-MEDIUM",
+  "opponentName": "ZkEdDy"
+}
