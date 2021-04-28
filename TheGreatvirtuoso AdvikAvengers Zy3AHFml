@@ -1,0 +1,46 @@
+{
+  "id": "Zy3AHFml",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619600756350,
+  "white": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1804,
+    "provisional": true
+  },
+  "black": {
+    "id": "advikavengers",
+    "name": "AdvikAvengers",
+    "title": null,
+    "rating": 991
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheGreatvirtuoso",
+  "opponentName": "AdvikAvengers"
+}
