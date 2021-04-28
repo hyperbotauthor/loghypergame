@@ -1,0 +1,45 @@
+{
+  "id": "Bmsoipjp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619626606021,
+  "white": {
+    "id": "lioct",
+    "name": "LioCT",
+    "title": "BOT",
+    "rating": 1881
+  },
+  "black": {
+    "id": "grandmaster3411",
+    "name": "GrandMaster3411",
+    "title": "BOT",
+    "rating": 1948
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LioCT",
+  "opponentName": "GrandMaster3411"
+}
