@@ -1,0 +1,47 @@
+{
+  "id": "Rfoa9I2F",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1619614501897,
+  "white": {
+    "id": "cubachessbot",
+    "name": "CubaChessBOT",
+    "title": "BOT",
+    "rating": 2241,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-chess-bot",
+    "name": "ANTI-CHESS-BOT",
+    "title": "BOT",
+    "rating": 2624,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CubaChessBOT",
+  "opponentName": "ANTI-CHESS-BOT"
+}
