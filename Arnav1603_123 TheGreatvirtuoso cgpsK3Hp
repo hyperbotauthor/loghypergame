@@ -1,0 +1,46 @@
+{
+  "id": "cgpsK3Hp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1619587904990,
+  "white": {
+    "id": "arnav1603_123",
+    "name": "Arnav1603_123",
+    "title": null,
+    "rating": 1238
+  },
+  "black": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Arnav1603_123",
+  "opponentName": "TheGreatvirtuoso"
+}
