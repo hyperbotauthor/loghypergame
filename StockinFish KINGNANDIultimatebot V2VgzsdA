@@ -1,0 +1,46 @@
+{
+  "id": "V2VgzsdA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619669517790,
+  "white": {
+    "id": "stockinfish",
+    "name": "StockinFish",
+    "title": "BOT",
+    "rating": 1900,
+    "provisional": true
+  },
+  "black": {
+    "id": "kingnandiultimatebot",
+    "name": "KINGNANDIultimatebot",
+    "title": "BOT",
+    "rating": 2697
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "StockinFish",
+  "opponentName": "KINGNANDIultimatebot"
+}
