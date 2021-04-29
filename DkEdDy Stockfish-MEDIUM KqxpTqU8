@@ -1,0 +1,47 @@
+{
+  "id": "KqxpTqU8",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1619666473830,
+  "white": {
+    "id": "dkeddy",
+    "name": "DkEdDy",
+    "title": null,
+    "rating": 1388,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 2277,
+    "provisional": true
+  },
+  "initialFen": "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DkEdDy",
+  "opponentName": "Stockfish-MEDIUM"
+}
