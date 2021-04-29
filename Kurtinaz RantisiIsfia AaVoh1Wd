@@ -1,0 +1,47 @@
+{
+  "id": "AaVoh1Wd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápido"
+  },
+  "rated": false,
+  "createdAt": 1619668305419,
+  "white": {
+    "id": "kurtinaz",
+    "name": "Kurtinaz",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "rantisiisfia",
+    "name": "RantisiIsfia",
+    "title": null,
+    "rating": 929,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kurtinaz",
+  "opponentName": "RantisiIsfia"
+}
