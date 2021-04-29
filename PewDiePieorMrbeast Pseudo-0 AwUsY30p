@@ -1,0 +1,46 @@
+{
+  "id": "AwUsY30p",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1619685200449,
+  "white": {
+    "id": "pewdiepieormrbeast",
+    "name": "PewDiePieorMrbeast",
+    "title": "BOT",
+    "rating": 2067,
+    "provisional": true
+  },
+  "black": {
+    "id": "pseudo-0",
+    "name": "Pseudo-0",
+    "title": "BOT",
+    "rating": 2112
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PewDiePieorMrbeast",
+  "opponentName": "Pseudo-0"
+}
