@@ -31,14 +31,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 30000,
+    "moves": "g1f3 g8f6",
+    "wtime": 25370,
     "btime": 30000,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "resign",
+    "winner": "black"
   },
   "botName": "EagleEye2021",
   "opponentName": "HaHaYouLost06"
