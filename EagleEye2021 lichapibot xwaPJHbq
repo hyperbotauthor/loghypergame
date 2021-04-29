@@ -1,0 +1,45 @@
+{
+  "id": "xwaPJHbq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619704105716,
+  "white": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2190
+  },
+  "black": {
+    "id": "lichapibot",
+    "name": "lichapibot",
+    "title": "BOT",
+    "rating": 2280
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EagleEye2021",
+  "opponentName": "lichapibot"
+}
