@@ -33,7 +33,7 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "d2d4",
     "wtime": 1500000,
     "btime": 1500000,
     "winc": 0,
