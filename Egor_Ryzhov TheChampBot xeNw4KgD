@@ -1,0 +1,46 @@
+{
+  "id": "xeNw4KgD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619670695384,
+  "white": {
+    "id": "egor_ryzhov",
+    "name": "Egor_Ryzhov",
+    "title": null,
+    "rating": 1444
+  },
+  "black": {
+    "id": "thechampbot",
+    "name": "TheChampBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Egor_Ryzhov",
+  "opponentName": "TheChampBot"
+}
