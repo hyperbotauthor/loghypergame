@@ -1,0 +1,39 @@
+{
+  "id": "GclfG5K9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1619730161108,
+  "white": {
+    "id": "bfdzvfsgaergfds",
+    "name": "bfdzvfsgaergfds",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 7
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bfdzvfsgaergfds"
+}
