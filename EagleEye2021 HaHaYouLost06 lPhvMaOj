@@ -1,0 +1,45 @@
+{
+  "id": "lPhvMaOj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619691995891,
+  "white": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2188
+  },
+  "black": {
+    "id": "hahayoulost06",
+    "name": "HaHaYouLost06",
+    "title": "BOT",
+    "rating": 2502
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EagleEye2021",
+  "opponentName": "HaHaYouLost06"
+}
