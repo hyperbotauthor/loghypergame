@@ -1,0 +1,42 @@
+{
+  "id": "Ze33jWZd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1619672246721,
+  "white": {
+    "id": "pewdiepieormrbeast",
+    "name": "PewDiePieorMrbeast",
+    "title": "BOT",
+    "rating": 1850,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PewDiePieorMrbeast"
+}
