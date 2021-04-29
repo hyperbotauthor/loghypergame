@@ -1,0 +1,47 @@
+{
+  "id": "orLYLOth",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1619697279437,
+  "white": {
+    "id": "drsamanyay",
+    "name": "DrSAmAnYaY",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "thechampbot",
+    "name": "TheChampBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "nrbbkqnr/pppppppp/8/8/8/8/PPPPPPPP/NRBBKQNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DrSAmAnYaY",
+  "opponentName": "TheChampBot"
+}
