@@ -1,0 +1,47 @@
+{
+  "id": "yIAKY2PW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1619771399594,
+  "white": {
+    "id": "whiteangel21",
+    "name": "WhiteAngel21",
+    "title": null,
+    "rating": 1009,
+    "provisional": true
+  },
+  "black": {
+    "id": "thegreatvirtuoso",
+    "name": "TheGreatvirtuoso",
+    "title": "BOT",
+    "rating": 1905,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WhiteAngel21",
+  "opponentName": "TheGreatvirtuoso"
+}
