@@ -1,0 +1,46 @@
+{
+  "id": "gauvDRyl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619761852173,
+  "white": {
+    "id": "thechampbot",
+    "name": "TheChampBot",
+    "title": "BOT",
+    "rating": 1945,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendaryqueen",
+    "name": "LegendaryQueen",
+    "title": null,
+    "rating": 2032
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheChampBot",
+  "opponentName": "LegendaryQueen"
+}
