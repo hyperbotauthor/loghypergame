@@ -1,0 +1,42 @@
+{
+  "id": "2OQ4EEur",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1619900086462,
+  "white": {
+    "aiLevel": 4
+  },
+  "black": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1379,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Stockfish-MEDIUM"
+}
