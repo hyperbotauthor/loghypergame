@@ -1,0 +1,46 @@
+{
+  "id": "JxjvWWqQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1619958432061,
+  "white": {
+    "id": "kavinsibu",
+    "name": "KAVINSIBU",
+    "title": null,
+    "rating": 1308
+  },
+  "black": {
+    "id": "thedangerousbot2010",
+    "name": "TheDangerousBot2010",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KAVINSIBU",
+  "opponentName": "TheDangerousBot2010"
+}
