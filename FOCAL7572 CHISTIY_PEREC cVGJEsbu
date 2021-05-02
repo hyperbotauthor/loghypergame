@@ -1,0 +1,46 @@
+{
+  "id": "cVGJEsbu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2700000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1619955694938,
+  "white": {
+    "id": "focal7572",
+    "name": "FOCAL7572",
+    "title": "BOT",
+    "rating": 2236
+  },
+  "black": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 g1f3 g7g6 c2c4 f8g7 b1c3 d7d6 e2e4",
+    "wtime": 2700000,
+    "btime": 2634830,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FOCAL7572",
+  "opponentName": "CHISTIY_PEREC"
+}
