@@ -1,0 +1,45 @@
+{
+  "id": "XTAqjyag",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619987129604,
+  "white": {
+    "id": "felix_antonio_2010",
+    "name": "Felix_Antonio_2010",
+    "title": "BOT",
+    "rating": 2162
+  },
+  "black": {
+    "id": "chicken_farmer",
+    "name": "chicken_farmer",
+    "title": "BOT",
+    "rating": 1941
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Felix_Antonio_2010",
+  "opponentName": "chicken_farmer"
+}
