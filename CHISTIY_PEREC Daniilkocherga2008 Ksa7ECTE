@@ -1,0 +1,44 @@
+{
+  "id": "Ksa7ECTE",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1619949880271,
+  "white": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1910,
+    "provisional": true
+  },
+  "black": {
+    "id": "daniilkocherga2008",
+    "name": "Daniilkocherga2008",
+    "title": null,
+    "rating": 1805
+  },
+  "initialFen": "8/p4r1r/8/7q/BN6/qN4K1/4Q3/6k1 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CHISTIY_PEREC",
+  "opponentName": "Daniilkocherga2008"
+}
