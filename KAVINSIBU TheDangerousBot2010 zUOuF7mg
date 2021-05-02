@@ -1,0 +1,44 @@
+{
+  "id": "zUOuF7mg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1619958414869,
+  "white": {
+    "id": "kavinsibu",
+    "name": "KAVINSIBU",
+    "title": null,
+    "rating": 1419,
+    "provisional": true
+  },
+  "black": {
+    "id": "thedangerousbot2010",
+    "name": "TheDangerousBot2010",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KAVINSIBU",
+  "opponentName": "TheDangerousBot2010"
+}
