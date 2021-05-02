@@ -1,0 +1,46 @@
+{
+  "id": "6t2bULbZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1619960312524,
+  "white": {
+    "id": "drsamanyay",
+    "name": "DrSAmAnYaY",
+    "title": null,
+    "rating": 1576
+  },
+  "black": {
+    "id": "thedangerousbot2010",
+    "name": "TheDangerousBot2010",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DrSAmAnYaY",
+  "opponentName": "TheDangerousBot2010"
+}
