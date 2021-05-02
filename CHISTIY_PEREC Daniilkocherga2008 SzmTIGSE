@@ -1,0 +1,47 @@
+{
+  "id": "SzmTIGSE",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1619949667042,
+  "white": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "daniilkocherga2008",
+    "name": "Daniilkocherga2008",
+    "title": null,
+    "rating": 1299,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CHISTIY_PEREC",
+  "opponentName": "Daniilkocherga2008"
+}
