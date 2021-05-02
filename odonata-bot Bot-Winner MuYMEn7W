@@ -1,0 +1,47 @@
+{
+  "id": "MuYMEn7W",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1619930573511,
+  "white": {
+    "id": "odonata-bot",
+    "name": "odonata-bot",
+    "title": "BOT",
+    "rating": 1759,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot-winner",
+    "name": "Bot-Winner",
+    "title": "BOT",
+    "rating": 2360,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "odonata-bot",
+  "opponentName": "Bot-Winner"
+}
