@@ -1,0 +1,44 @@
+{
+  "id": "x2awGDSp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Игра по переписке"
+  },
+  "rated": true,
+  "createdAt": 1619951494664,
+  "white": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1741,
+    "provisional": true
+  },
+  "black": {
+    "id": "ilyakanira",
+    "name": "ilyakanira",
+    "title": null,
+    "rating": 1379,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CHISTIY_PEREC",
+  "opponentName": "ilyakanira"
+}
