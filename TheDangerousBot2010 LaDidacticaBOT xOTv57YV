@@ -1,0 +1,46 @@
+{
+  "id": "xOTv57YV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619959351137,
+  "white": {
+    "id": "thedangerousbot2010",
+    "name": "TheDangerousBot2010",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ladidacticabot",
+    "name": "LaDidacticaBOT",
+    "title": "BOT",
+    "rating": 2002
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheDangerousBot2010",
+  "opponentName": "LaDidacticaBOT"
+}
