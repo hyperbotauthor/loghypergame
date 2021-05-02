@@ -1,0 +1,46 @@
+{
+  "id": "rQ94Ig1b",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1619948885448,
+  "white": {
+    "id": "daniilkocherga2008",
+    "name": "Daniilkocherga2008",
+    "title": null,
+    "rating": 1805
+  },
+  "black": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1848,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Daniilkocherga2008",
+  "opponentName": "CHISTIY_PEREC"
+}
