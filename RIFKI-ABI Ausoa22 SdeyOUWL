@@ -1,0 +1,46 @@
+{
+  "id": "SdeyOUWL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620084266955,
+  "white": {
+    "id": "rifki-abi",
+    "name": "RIFKI-ABI",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ausoa22",
+    "name": "Ausoa22",
+    "title": null,
+    "rating": 2302
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RIFKI-ABI",
+  "opponentName": "Ausoa22"
+}
