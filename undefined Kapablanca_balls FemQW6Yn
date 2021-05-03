@@ -1,0 +1,42 @@
+{
+  "id": "FemQW6Yn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620058816113,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "kapablanca_balls",
+    "name": "Kapablanca_balls",
+    "title": "BOT",
+    "rating": 1342,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 d8e7 e5f3 f6e4 f1e2 d7d5 e1g1 c8e6 d2d3",
+    "wtime": 50870,
+    "btime": 35980,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Kapablanca_balls"
+}
