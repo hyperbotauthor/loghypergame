@@ -1,0 +1,46 @@
+{
+  "id": "JpsT9Zp3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620027727795,
+  "white": {
+    "id": "turkeybot",
+    "name": "turkeyBOT",
+    "title": "BOT",
+    "rating": 2189
+  },
+  "black": {
+    "id": "denizozen_bot",
+    "name": "DenizOzen_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "turkeyBOT",
+  "opponentName": "DenizOzen_Bot"
+}
