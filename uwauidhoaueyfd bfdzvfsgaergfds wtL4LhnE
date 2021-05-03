@@ -1,0 +1,46 @@
+{
+  "id": "wtL4LhnE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620075395354,
+  "white": {
+    "id": "uwauidhoaueyfd",
+    "name": "uwauidhoaueyfd",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bfdzvfsgaergfds",
+    "name": "bfdzvfsgaergfds",
+    "title": "BOT",
+    "rating": 2255
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "uwauidhoaueyfd",
+  "opponentName": "bfdzvfsgaergfds"
+}
