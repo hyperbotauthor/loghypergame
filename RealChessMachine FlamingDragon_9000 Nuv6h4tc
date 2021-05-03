@@ -1,0 +1,46 @@
+{
+  "id": "Nuv6h4tc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620021347748,
+  "white": {
+    "id": "realchessmachine",
+    "name": "RealChessMachine",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2363
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RealChessMachine",
+  "opponentName": "FlamingDragon_9000"
+}
