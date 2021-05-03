@@ -1,0 +1,46 @@
+{
+  "id": "stOxc0lv",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1620046236355,
+  "white": {
+    "id": "chicken_farmer",
+    "name": "chicken_farmer",
+    "title": "BOT",
+    "rating": 1600,
+    "provisional": true
+  },
+  "black": {
+    "id": "xiang-qi",
+    "name": "xiang-qi",
+    "title": "BOT",
+    "rating": 2109
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/1PP2PP1/PPPPPPPP/PPPPPPPP/PPPPPPPP/PPPPPPPP w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chicken_farmer",
+  "opponentName": "xiang-qi"
+}
