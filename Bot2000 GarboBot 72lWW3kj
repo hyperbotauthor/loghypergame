@@ -1,0 +1,46 @@
+{
+  "id": "72lWW3kj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 150000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1620062472548,
+  "white": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 2464,
+    "provisional": true
+  },
+  "black": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 1977
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 150000,
+    "binc": 150000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot2000",
+  "opponentName": "GarboBot"
+}
