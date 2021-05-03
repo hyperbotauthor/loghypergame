@@ -1,0 +1,46 @@
+{
+  "id": "PEQhAlPl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620062884469,
+  "white": {
+    "id": "kapablanca_balls",
+    "name": "Kapablanca_balls",
+    "title": "BOT",
+    "rating": 1591,
+    "provisional": true
+  },
+  "black": {
+    "id": "alehkine_cat",
+    "name": "Alehkine_cat",
+    "title": "BOT",
+    "rating": 2551
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kapablanca_balls",
+  "opponentName": "Alehkine_cat"
+}
