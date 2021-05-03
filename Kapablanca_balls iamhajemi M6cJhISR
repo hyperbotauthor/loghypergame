@@ -1,0 +1,46 @@
+{
+  "id": "M6cJhISR",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1620059495931,
+  "white": {
+    "id": "kapablanca_balls",
+    "name": "Kapablanca_balls",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamhajemi",
+    "name": "iamhajemi",
+    "title": null,
+    "rating": 1488
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 d7d6 d2d4 g7g6 e2e4 f8g7 c1e3 g8f6 b1c3 e8g8 d1d2 b8d7 h2h3 c7c5 e3h6 c5d4 f3d4 e7e5 d4f5 g6f5 d2g5 f6h5 g5h5 g7h6 h5h6 d8f6 h6h5 f6g6 h5f5 g6f5 e4f5 d7c5 b2b4 c5a6 c3d5 g8g7 g2g4 c8d7 e1c1 a8c8 f5f6 g7h6",
+    "wtime": 1670,
+    "btime": 78480,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Kapablanca_balls",
+  "opponentName": "iamhajemi"
+}
