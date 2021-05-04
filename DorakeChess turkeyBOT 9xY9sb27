@@ -1,0 +1,46 @@
+{
+  "id": "9xY9sb27",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620112271734,
+  "white": {
+    "id": "dorakechess",
+    "name": "DorakeChess",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkeybot",
+    "name": "turkeyBOT",
+    "title": "BOT",
+    "rating": 2197
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DorakeChess",
+  "opponentName": "turkeyBOT"
+}
