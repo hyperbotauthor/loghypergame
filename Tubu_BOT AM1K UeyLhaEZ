@@ -1,0 +1,46 @@
+{
+  "id": "UeyLhaEZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620123365421,
+  "white": {
+    "id": "tubu_bot",
+    "name": "Tubu_BOT",
+    "title": "BOT",
+    "rating": 1348,
+    "provisional": true
+  },
+  "black": {
+    "id": "am1k",
+    "name": "AM1K",
+    "title": "BOT",
+    "rating": 2006
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tubu_BOT",
+  "opponentName": "AM1K"
+}
