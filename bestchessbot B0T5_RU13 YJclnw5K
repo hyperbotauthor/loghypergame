@@ -1,0 +1,46 @@
+{
+  "id": "YJclnw5K",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620107059867,
+  "white": {
+    "id": "bestchessbot",
+    "name": "bestchessbot",
+    "title": "BOT",
+    "rating": 1602,
+    "provisional": true
+  },
+  "black": {
+    "id": "b0t5_ru13",
+    "name": "B0T5_RU13",
+    "title": "BOT",
+    "rating": 2001
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bestchessbot",
+  "opponentName": "B0T5_RU13"
+}
