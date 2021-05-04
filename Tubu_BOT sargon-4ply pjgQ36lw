@@ -1,0 +1,46 @@
+{
+  "id": "pjgQ36lw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1620121966359,
+  "white": {
+    "id": "tubu_bot",
+    "name": "Tubu_BOT",
+    "title": "BOT",
+    "rating": 2001,
+    "provisional": true
+  },
+  "black": {
+    "id": "sargon-4ply",
+    "name": "sargon-4ply",
+    "title": "BOT",
+    "rating": 1579
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tubu_BOT",
+  "opponentName": "sargon-4ply"
+}
