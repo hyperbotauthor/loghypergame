@@ -1,0 +1,43 @@
+{
+  "id": "nvLenVvC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Korešpondenčný šach"
+  },
+  "rated": false,
+  "createdAt": 1620135938565,
+  "white": {
+    "id": "palko_hra_sach",
+    "name": "Palko_hra_sach",
+    "title": null,
+    "rating": 1796
+  },
+  "black": {
+    "id": "ourbot",
+    "name": "OurBot",
+    "title": "BOT",
+    "rating": 1935,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Palko_hra_sach",
+  "opponentName": "OurBot"
+}
