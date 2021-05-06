@@ -1,0 +1,42 @@
+{
+  "id": "FJB8fWyW",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1620336847217,
+  "white": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 1839,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 3
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Stockfish-MEDIUM"
+}
