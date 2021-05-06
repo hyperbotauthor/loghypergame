@@ -1,0 +1,42 @@
+{
+  "id": "2vvYKLN5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620300195863,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "hikarujuicer",
+    "name": "Hikarujuicer",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Hikarujuicer"
+}
