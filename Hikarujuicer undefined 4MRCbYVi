@@ -1,0 +1,42 @@
+{
+  "id": "4MRCbYVi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1620299278506,
+  "white": {
+    "id": "hikarujuicer",
+    "name": "Hikarujuicer",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Hikarujuicer"
+}
