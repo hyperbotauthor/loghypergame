@@ -1,0 +1,46 @@
+{
+  "id": "KGPJ2B4s",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1620473519268,
+  "white": {
+    "id": "tiny_avenger",
+    "name": "Tiny_Avenger",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "vibranium18",
+    "name": "Vibranium18",
+    "title": null,
+    "rating": 1376
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tiny_Avenger",
+  "opponentName": "Vibranium18"
+}
