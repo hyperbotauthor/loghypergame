@@ -1,0 +1,46 @@
+{
+  "id": "GZhfiyV9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1620473809889,
+  "white": {
+    "id": "tiny_avenger",
+    "name": "Tiny_Avenger",
+    "title": "BOT",
+    "rating": 1663,
+    "provisional": true
+  },
+  "black": {
+    "id": "thanieshashree_20119",
+    "name": "THANIESHASHREE_20119",
+    "title": null,
+    "rating": 1332
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tiny_Avenger",
+  "opponentName": "THANIESHASHREE_20119"
+}
