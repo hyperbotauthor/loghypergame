@@ -1,0 +1,45 @@
+{
+  "id": "CVb8Hvlm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": false,
+  "createdAt": 1620542399121,
+  "white": {
+    "id": "atreyusandilya123",
+    "name": "Atreyusandilya123",
+    "title": null,
+    "rating": 1434
+  },
+  "black": {
+    "id": "apl-chess",
+    "name": "APl-chess",
+    "title": "BOT",
+    "rating": 2505
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Atreyusandilya123",
+  "opponentName": "APl-chess"
+}
