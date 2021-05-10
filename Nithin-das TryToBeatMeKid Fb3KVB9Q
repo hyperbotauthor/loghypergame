@@ -1,0 +1,47 @@
+{
+  "id": "Fb3KVB9Q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1620629860621,
+  "white": {
+    "id": "nithin-das",
+    "name": "Nithin-das",
+    "title": "BOT",
+    "rating": 2045,
+    "provisional": true
+  },
+  "black": {
+    "id": "trytobeatmekid",
+    "name": "TryToBeatMeKid",
+    "title": "BOT",
+    "rating": 2110,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Nithin-das",
+  "opponentName": "TryToBeatMeKid"
+}
