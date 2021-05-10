@@ -1,0 +1,47 @@
+{
+  "id": "2APY54HJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1620648006876,
+  "white": {
+    "id": "drdrynkenstein14632",
+    "name": "DrDrynkenstein14632",
+    "title": "BOT",
+    "rating": 2297,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot-winner",
+    "name": "Bot-Winner",
+    "title": "BOT",
+    "rating": 2204,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DrDrynkenstein14632",
+  "opponentName": "Bot-Winner"
+}
