@@ -1,0 +1,46 @@
+{
+  "id": "5Eebzkoy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1620758010807,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "expertjethro",
+    "name": "expertjethro",
+    "title": null,
+    "rating": 2237
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "expertjethro"
+}
