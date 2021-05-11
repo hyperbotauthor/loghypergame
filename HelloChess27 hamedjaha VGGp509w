@@ -1,0 +1,46 @@
+{
+  "id": "VGGp509w",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1620748840924,
+  "white": {
+    "id": "hellochess27",
+    "name": "HelloChess27",
+    "title": "BOT",
+    "rating": 1495,
+    "provisional": true
+  },
+  "black": {
+    "id": "hamedjaha",
+    "name": "hamedjaha",
+    "title": null,
+    "rating": 1460
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HelloChess27",
+  "opponentName": "hamedjaha"
+}
