@@ -1,0 +1,46 @@
+{
+  "id": "gF8zt6ZH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620765371881,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "zavionapl",
+    "name": "zavionapl",
+    "title": null,
+    "rating": 791
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "zavionapl"
+}
