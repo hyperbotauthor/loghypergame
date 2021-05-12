@@ -1,0 +1,46 @@
+{
+  "id": "YWipY8xj",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1620814177303,
+  "white": {
+    "id": "israelchessweak-bot",
+    "name": "IsraelChessWeak-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1953
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1c4 f8c5 e1g1 d7d6 d2d3 h7h6 c3d5 f6g4 c1e3 c5e3 f2e3 B@e6 B@f5 e6f5 e4f5 c8f5",
+    "wtime": 717060,
+    "btime": 624360,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "IsraelChessWeak-BOT",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
