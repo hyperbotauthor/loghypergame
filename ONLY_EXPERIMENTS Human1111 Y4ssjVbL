@@ -1,0 +1,48 @@
+{
+  "id": "Y4ssjVbL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620803743176,
+  "white": {
+    "id": "only_experiments",
+    "name": "ONLY_EXPERIMENTS",
+    "title": null,
+    "rating": 1364,
+    "provisional": true
+  },
+  "black": {
+    "id": "human1111",
+    "name": "Human1111",
+    "title": "BOT",
+    "rating": 2549,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g7g6 d2d4 f8g7 b1c3 d7d6 g1f3 c7c6 e4e5 b8d7 e5d6 e7d6 c1g5 g8f6 g5e3 e8g8",
+    "wtime": 21980,
+    "btime": 9890,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "resign",
+    "winner": "black"
+  },
+  "botName": "ONLY_EXPERIMENTS",
+  "opponentName": "Human1111"
+}
