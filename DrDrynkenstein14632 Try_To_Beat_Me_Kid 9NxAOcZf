@@ -1,0 +1,46 @@
+{
+  "id": "9NxAOcZf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620826300867,
+  "white": {
+    "id": "drdrynkenstein14632",
+    "name": "DrDrynkenstein14632",
+    "title": "BOT",
+    "rating": 2085,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1899
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DrDrynkenstein14632",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
