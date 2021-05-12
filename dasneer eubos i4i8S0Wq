@@ -1,0 +1,45 @@
+{
+  "id": "i4i8S0Wq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620810671908,
+  "white": {
+    "id": "dasneer",
+    "name": "dasneer",
+    "title": "BOT",
+    "rating": 2016
+  },
+  "black": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 1836
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "dasneer",
+  "opponentName": "eubos"
+}
