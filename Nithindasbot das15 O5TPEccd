@@ -1,0 +1,46 @@
+{
+  "id": "O5TPEccd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620904580865,
+  "white": {
+    "id": "nithindasbot",
+    "name": "Nithindasbot",
+    "title": "BOT",
+    "rating": 2227,
+    "provisional": true
+  },
+  "black": {
+    "id": "das15",
+    "name": "das15",
+    "title": "BOT",
+    "rating": 2339
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 g8f6 d2d4 e7e6 g2g3 d7d5 f1g2 f8e7 g1f3 e8g8 e1g1 b8d7 d1c2 f8e8 f1d1 c7c6 c1f4 f6h5 f4c1 h5f6 b1c3 b7b6 f3e5 d8c7 c4d5 c6d5 c1f4 d7e5 d4e5 f6h5 f4e3 g7g6 a1c1 c7e5 c3d5 e6d5 d1d5 e5e6 d5h5 g6h5 g2a8 e6a2 e3d4 a2e6 a8e4 e7f6 d4f6 e6f6",
+    "wtime": 40900,
+    "btime": 37980,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Nithindasbot",
+  "opponentName": "das15"
+}
