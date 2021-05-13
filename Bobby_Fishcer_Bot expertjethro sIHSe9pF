@@ -1,0 +1,44 @@
+{
+  "id": "sIHSe9pF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1620932570453,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 1964,
+    "provisional": true
+  },
+  "black": {
+    "id": "expertjethro",
+    "name": "expertjethro",
+    "title": null,
+    "rating": 1983,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "expertjethro"
+}
