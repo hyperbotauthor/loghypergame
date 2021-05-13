@@ -1,0 +1,44 @@
+{
+  "id": "lMuxgXYc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1620763231158,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 1759,
+    "provisional": true
+  },
+  "black": {
+    "id": "emily1177",
+    "name": "EmIlY1177",
+    "title": null,
+    "rating": 1364,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 e2e3 b8c6 g1f3 g8f6 c2c4 d5c4 f1c4 c8g4 b1c3 e7e6 h2h3 f8d6 a2a3 c6a5 d1a4 c7c6 b2b3 e8g8 h3g4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "EmIlY1177"
+}
