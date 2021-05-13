@@ -1,0 +1,45 @@
+{
+  "id": "HoR3s8Lx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620899050032,
+  "white": {
+    "id": "thebrilliantbot",
+    "name": "TheBrilliantBot",
+    "title": "BOT",
+    "rating": 2015
+  },
+  "black": {
+    "id": "sargon-4ply",
+    "name": "sargon-4ply",
+    "title": "BOT",
+    "rating": 1682
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheBrilliantBot",
+  "opponentName": "sargon-4ply"
+}
