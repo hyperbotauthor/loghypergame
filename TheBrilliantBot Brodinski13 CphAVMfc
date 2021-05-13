@@ -1,0 +1,46 @@
+{
+  "id": "CphAVMfc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1620904790341,
+  "white": {
+    "id": "thebrilliantbot",
+    "name": "TheBrilliantBot",
+    "title": "BOT",
+    "rating": 2392,
+    "provisional": true
+  },
+  "black": {
+    "id": "brodinski13",
+    "name": "Brodinski13",
+    "title": null,
+    "rating": 1903
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheBrilliantBot",
+  "opponentName": "Brodinski13"
+}
