@@ -1,0 +1,46 @@
+{
+  "id": "KRu9wua6",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1620931962629,
+  "white": {
+    "id": "mono2012juan",
+    "name": "mono2012juan",
+    "title": null,
+    "rating": 2066
+  },
+  "black": {
+    "id": "checkmateyou_bot",
+    "name": "CheckmateYou_Bot",
+    "title": "BOT",
+    "rating": 1548,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "mono2012juan",
+  "opponentName": "CheckmateYou_Bot"
+}
