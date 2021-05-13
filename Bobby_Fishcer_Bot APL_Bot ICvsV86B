@@ -37,7 +37,7 @@
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "Bobby_Fishcer_Bot",
   "opponentName": "APL_Bot"
