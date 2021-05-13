@@ -1,0 +1,45 @@
+{
+  "id": "utWB6r2u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620898788039,
+  "white": {
+    "id": "singh750",
+    "name": "singh750",
+    "title": null,
+    "rating": 1973
+  },
+  "black": {
+    "id": "thebrilliantbot",
+    "name": "TheBrilliantBot",
+    "title": "BOT",
+    "rating": 2015
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "singh750",
+  "opponentName": "TheBrilliantBot"
+}
