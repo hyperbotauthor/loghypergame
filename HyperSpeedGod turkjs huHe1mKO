@@ -1,0 +1,46 @@
+{
+  "id": "huHe1mKO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620941778279,
+  "white": {
+    "id": "hyperspeedgod",
+    "name": "HyperSpeedGod",
+    "title": "BOT",
+    "rating": 1945,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1697
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6",
+    "wtime": 50470,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HyperSpeedGod",
+  "opponentName": "turkjs"
+}
