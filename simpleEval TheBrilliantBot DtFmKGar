@@ -1,0 +1,46 @@
+{
+  "id": "DtFmKGar",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1620897921197,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2161
+  },
+  "black": {
+    "id": "thebrilliantbot",
+    "name": "TheBrilliantBot",
+    "title": "BOT",
+    "rating": 2227,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "TheBrilliantBot"
+}
