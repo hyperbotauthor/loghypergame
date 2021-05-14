@@ -1,0 +1,46 @@
+{
+  "id": "8FOv6NpE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620962164375,
+  "white": {
+    "id": "rainbowfish",
+    "name": "RainbowFish",
+    "title": null,
+    "rating": 1445
+  },
+  "black": {
+    "id": "rainbowfish-bot",
+    "name": "RainbowFish-BOT",
+    "title": "BOT",
+    "rating": 1748,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RainbowFish",
+  "opponentName": "RainbowFish-BOT"
+}
