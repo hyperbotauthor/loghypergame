@@ -1,0 +1,46 @@
+{
+  "id": "D7PjHeA3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621001240357,
+  "white": {
+    "id": "panda_engine",
+    "name": "panda_engine",
+    "title": "BOT",
+    "rating": 1935
+  },
+  "black": {
+    "id": "checkmateyou_bot",
+    "name": "CheckmateYou_Bot",
+    "title": "BOT",
+    "rating": 2134,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "panda_engine",
+  "opponentName": "CheckmateYou_Bot"
+}
