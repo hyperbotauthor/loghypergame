@@ -1,0 +1,46 @@
+{
+  "id": "GBC83L5w",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621001397876,
+  "white": {
+    "id": "checkmateyou_bot",
+    "name": "CheckmateYou_Bot",
+    "title": "BOT",
+    "rating": 1932,
+    "provisional": true
+  },
+  "black": {
+    "id": "pseudo-0",
+    "name": "Pseudo-0",
+    "title": "BOT",
+    "rating": 2067
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CheckmateYou_Bot",
+  "opponentName": "Pseudo-0"
+}
