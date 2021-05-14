@@ -1,0 +1,47 @@
+{
+  "id": "M5TVpIEi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621000278134,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 2266,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamkidpowerfullbot",
+    "name": "IamkidPowerfullBot",
+    "title": "BOT",
+    "rating": 2619,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 7000,
+    "binc": 7000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "IamkidPowerfullBot"
+}
