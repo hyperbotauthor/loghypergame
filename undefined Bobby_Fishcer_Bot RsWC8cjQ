@@ -1,0 +1,42 @@
+{
+  "id": "RsWC8cjQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620998323597,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 1436,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3 c7c5 e2e4",
+    "wtime": 119990,
+    "btime": 119390,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "Bobby_Fishcer_Bot"
+}
