@@ -1,0 +1,47 @@
+{
+  "id": "0p603OW3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1140000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1620998595695,
+  "white": {
+    "id": "bobby_fishcer_bot",
+    "name": "Bobby_Fishcer_Bot",
+    "title": "BOT",
+    "rating": 2266,
+    "provisional": true
+  },
+  "black": {
+    "id": "iamkidpowerfullbot",
+    "name": "IamkidPowerfullBot",
+    "title": "BOT",
+    "rating": 2619,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1140000,
+    "btime": 1140000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bobby_Fishcer_Bot",
+  "opponentName": "IamkidPowerfullBot"
+}
