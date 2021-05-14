@@ -1,0 +1,46 @@
+{
+  "id": "JQL1VOh1",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 16000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1620959965620,
+  "white": {
+    "id": "cheetah787",
+    "name": "cheetah787",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "rainbowfish",
+    "name": "RainbowFish",
+    "title": null,
+    "rating": 1402
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 16000,
+    "binc": 16000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "cheetah787",
+  "opponentName": "RainbowFish"
+}
