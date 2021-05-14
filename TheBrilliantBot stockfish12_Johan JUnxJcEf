@@ -1,0 +1,45 @@
+{
+  "id": "JUnxJcEf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1620980901953,
+  "white": {
+    "id": "thebrilliantbot",
+    "name": "TheBrilliantBot",
+    "title": "BOT",
+    "rating": 2052
+  },
+  "black": {
+    "id": "stockfish12_johan",
+    "name": "stockfish12_Johan",
+    "title": "BOT",
+    "rating": 2646
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TheBrilliantBot",
+  "opponentName": "stockfish12_Johan"
+}
