@@ -1,0 +1,46 @@
+{
+  "id": "NlewpwC2",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1620959237706,
+  "white": {
+    "id": "babycheetah",
+    "name": "BabyCheetah",
+    "title": null,
+    "rating": 1553
+  },
+  "black": {
+    "id": "cheetah787",
+    "name": "cheetah787",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BabyCheetah",
+  "opponentName": "cheetah787"
+}
