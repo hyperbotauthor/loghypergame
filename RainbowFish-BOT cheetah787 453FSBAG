@@ -1,0 +1,47 @@
+{
+  "id": "453FSBAG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1620962073045,
+  "white": {
+    "id": "rainbowfish-bot",
+    "name": "RainbowFish-BOT",
+    "title": "BOT",
+    "rating": 1564,
+    "provisional": true
+  },
+  "black": {
+    "id": "cheetah787",
+    "name": "cheetah787",
+    "title": "BOT",
+    "rating": 1896,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RainbowFish-BOT",
+  "opponentName": "cheetah787"
+}
