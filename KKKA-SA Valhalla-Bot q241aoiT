@@ -1,0 +1,46 @@
+{
+  "id": "q241aoiT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621078775800,
+  "white": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2419,
+    "provisional": true
+  },
+  "black": {
+    "id": "valhalla-bot",
+    "name": "Valhalla-Bot",
+    "title": "BOT",
+    "rating": 2127
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KKKA-SA",
+  "opponentName": "Valhalla-Bot"
+}
