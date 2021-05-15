@@ -1,0 +1,46 @@
+{
+  "id": "EOcjBOsx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621078476645,
+  "white": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_adario",
+    "name": "bot_adario",
+    "title": "BOT",
+    "rating": 2123
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KKKA-SA",
+  "opponentName": "bot_adario"
+}
