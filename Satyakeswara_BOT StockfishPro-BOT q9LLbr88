@@ -1,0 +1,47 @@
+{
+  "id": "q9LLbr88",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621144129783,
+  "white": {
+    "id": "satyakeswara_bot",
+    "name": "Satyakeswara_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfishpro-bot",
+    "name": "StockfishPro-BOT",
+    "title": "BOT",
+    "rating": 2287,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Satyakeswara_BOT",
+  "opponentName": "StockfishPro-BOT"
+}
