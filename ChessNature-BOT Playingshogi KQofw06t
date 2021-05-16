@@ -1,0 +1,46 @@
+{
+  "id": "KQofw06t",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621162868289,
+  "white": {
+    "id": "chessnature-bot",
+    "name": "ChessNature-BOT",
+    "title": "BOT",
+    "rating": 2502
+  },
+  "black": {
+    "id": "playingshogi",
+    "name": "Playingshogi",
+    "title": null,
+    "rating": 1715,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessNature-BOT",
+  "opponentName": "Playingshogi"
+}
