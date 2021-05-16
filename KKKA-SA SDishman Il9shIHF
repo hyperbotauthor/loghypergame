@@ -1,0 +1,46 @@
+{
+  "id": "Il9shIHF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1621151834493,
+  "white": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2224,
+    "provisional": true
+  },
+  "black": {
+    "id": "sdishman",
+    "name": "SDishman",
+    "title": null,
+    "rating": 2291
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3 e7e5",
+    "wtime": 297280,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KKKA-SA",
+  "opponentName": "SDishman"
+}
