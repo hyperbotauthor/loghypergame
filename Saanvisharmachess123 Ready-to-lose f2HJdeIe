@@ -1,0 +1,46 @@
+{
+  "id": "f2HJdeIe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621407817208,
+  "white": {
+    "id": "saanvisharmachess123",
+    "name": "Saanvisharmachess123",
+    "title": null,
+    "rating": 2442,
+    "provisional": true
+  },
+  "black": {
+    "id": "ready-to-lose",
+    "name": "Ready-to-lose",
+    "title": "BOT",
+    "rating": 2563
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Saanvisharmachess123",
+  "opponentName": "Ready-to-lose"
+}
