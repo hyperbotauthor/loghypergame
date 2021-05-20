@@ -1,0 +1,46 @@
+{
+  "id": "4qdb0r3j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621515035909,
+  "white": {
+    "id": "dream_bot",
+    "name": "dream_bot",
+    "title": "BOT",
+    "rating": 1496,
+    "provisional": true
+  },
+  "black": {
+    "id": "aarav2512",
+    "name": "aarav2512",
+    "title": null,
+    "rating": 896
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "dream_bot",
+  "opponentName": "aarav2512"
+}
