@@ -40,7 +40,8 @@
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "aborted"
+    "status": "aborted",
+    "rematch": "3Il6dLsU"
   },
   "botName": "BotsRule",
   "opponentName": "dream_bot"
