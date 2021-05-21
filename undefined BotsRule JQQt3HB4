@@ -1,0 +1,39 @@
+{
+  "id": "JQQt3HB4",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1621602655328,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "botsrule",
+    "name": "BotsRule",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1c3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "BotsRule"
+}
