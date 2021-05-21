@@ -1,0 +1,44 @@
+{
+  "id": "1R9t0MTd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1621607529398,
+  "white": {
+    "id": "dream_bot",
+    "name": "dream_bot",
+    "title": "BOT",
+    "rating": 1375,
+    "provisional": true
+  },
+  "black": {
+    "id": "onurozakpinar",
+    "name": "OnurOzakpinar",
+    "title": null,
+    "rating": 1461,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "dream_bot",
+  "opponentName": "OnurOzakpinar"
+}
