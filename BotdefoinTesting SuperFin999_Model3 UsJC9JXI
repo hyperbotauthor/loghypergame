@@ -1,0 +1,46 @@
+{
+  "id": "UsJC9JXI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621692582382,
+  "white": {
+    "id": "botdefointesting",
+    "name": "BotdefoinTesting",
+    "title": "BOT",
+    "rating": 1650
+  },
+  "black": {
+    "id": "superfin999_model3",
+    "name": "SuperFin999_Model3",
+    "title": "BOT",
+    "rating": 2036,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotdefoinTesting",
+  "opponentName": "SuperFin999_Model3"
+}
