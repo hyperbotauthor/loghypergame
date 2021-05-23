@@ -1,0 +1,46 @@
+{
+  "id": "GcyQOCO1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621765734932,
+  "white": {
+    "id": "botsrule",
+    "name": "BotsRule",
+    "title": "BOT",
+    "rating": 2380,
+    "provisional": true
+  },
+  "black": {
+    "id": "aaronbaig",
+    "name": "AAroNBaiG",
+    "title": null,
+    "rating": 1381
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotsRule",
+  "opponentName": "AAroNBaiG"
+}
