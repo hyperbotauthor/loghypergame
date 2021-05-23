@@ -1,0 +1,40 @@
+{
+  "id": "6L0gKq1v",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1621756492106,
+  "white": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 2319,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "8/2b5/6k1/p7/P5P1/5K2/3B4/8 w - - 7 49",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f3e4 g6f6 e4d5",
+    "wtime": 298710,
+    "btime": 297520,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chessfromnekit2BOT"
+}
