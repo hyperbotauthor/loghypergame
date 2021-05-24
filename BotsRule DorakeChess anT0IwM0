@@ -1,0 +1,46 @@
+{
+  "id": "anT0IwM0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1621846283698,
+  "white": {
+    "id": "botsrule",
+    "name": "BotsRule",
+    "title": "BOT",
+    "rating": 1439,
+    "provisional": true
+  },
+  "black": {
+    "id": "dorakechess",
+    "name": "DorakeChess",
+    "title": "BOT",
+    "rating": 2302
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotsRule",
+  "opponentName": "DorakeChess"
+}
