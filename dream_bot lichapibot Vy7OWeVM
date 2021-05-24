@@ -1,0 +1,45 @@
+{
+  "id": "Vy7OWeVM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621877943869,
+  "white": {
+    "id": "dream_bot",
+    "name": "dream_bot",
+    "title": "BOT",
+    "rating": 2116
+  },
+  "black": {
+    "id": "lichapibot",
+    "name": "lichapibot",
+    "title": "BOT",
+    "rating": 2198
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "dream_bot",
+  "opponentName": "lichapibot"
+}
