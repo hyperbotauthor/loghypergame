@@ -1,0 +1,46 @@
+{
+  "id": "xY99jtp1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1621846520273,
+  "white": {
+    "id": "botsrule",
+    "name": "BotsRule",
+    "title": "BOT",
+    "rating": 2142,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkeybot",
+    "name": "turkeyBOT",
+    "title": "BOT",
+    "rating": 2265
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BotsRule",
+  "opponentName": "turkeyBOT"
+}
