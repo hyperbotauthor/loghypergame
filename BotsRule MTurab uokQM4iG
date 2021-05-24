@@ -1,0 +1,46 @@
+{
+  "id": "uokQM4iG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621850029122,
+  "white": {
+    "id": "botsrule",
+    "name": "BotsRule",
+    "title": "BOT",
+    "rating": 2184,
+    "provisional": true
+  },
+  "black": {
+    "id": "mturab",
+    "name": "MTurab",
+    "title": null,
+    "rating": 1729
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "BotsRule",
+  "opponentName": "MTurab"
+}
