@@ -1,0 +1,45 @@
+{
+  "id": "xhWWwG4o",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1080000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1621953478648,
+  "white": {
+    "id": "dream_bot",
+    "name": "dream_bot",
+    "title": "BOT",
+    "rating": 2113
+  },
+  "black": {
+    "id": "aks-mantissa",
+    "name": "AKS-Mantissa",
+    "title": "BOT",
+    "rating": 2103
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1080000,
+    "btime": 1080000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "dream_bot",
+  "opponentName": "AKS-Mantissa"
+}
