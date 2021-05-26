@@ -39,7 +39,7 @@
     "binc": 2000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "eubos",
   "opponentName": "RishabhaBot"
