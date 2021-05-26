@@ -1,0 +1,44 @@
+{
+  "id": "2emUrVWN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1622050399541,
+  "white": {
+    "id": "chicken_farmer",
+    "name": "chicken_farmer",
+    "title": "BOT",
+    "rating": 1926,
+    "provisional": true
+  },
+  "black": {
+    "id": "c0llisi0n",
+    "name": "C0lliSi0N",
+    "title": "BOT",
+    "rating": 2228,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chicken_farmer",
+  "opponentName": "C0lliSi0N"
+}
