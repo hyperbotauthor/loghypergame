@@ -1,0 +1,45 @@
+{
+  "id": "5RxwMmix",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1622042817797,
+  "white": {
+    "id": "contrabot",
+    "name": "ContraBot",
+    "title": "BOT",
+    "rating": 2274
+  },
+  "black": {
+    "id": "chicken_farmer",
+    "name": "chicken_farmer",
+    "title": "BOT",
+    "rating": 1957
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ContraBot",
+  "opponentName": "chicken_farmer"
+}
