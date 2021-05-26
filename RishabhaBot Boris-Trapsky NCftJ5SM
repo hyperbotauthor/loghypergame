@@ -1,0 +1,46 @@
+{
+  "id": "NCftJ5SM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1622001640528,
+  "white": {
+    "id": "rishabhabot",
+    "name": "RishabhaBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1829
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 240670,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RishabhaBot",
+  "opponentName": "Boris-Trapsky"
+}
