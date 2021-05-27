@@ -1,0 +1,46 @@
+{
+  "id": "0SlqvtII",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1622128823413,
+  "white": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 1079,
+    "provisional": true
+  },
+  "black": {
+    "id": "disgusting_warrior",
+    "name": "Disgusting_Warrior",
+    "title": "BOT",
+    "rating": 2046
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1h3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "SxRandom",
+  "opponentName": "Disgusting_Warrior"
+}
