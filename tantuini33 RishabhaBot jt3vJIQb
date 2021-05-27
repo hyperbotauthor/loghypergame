@@ -1,0 +1,47 @@
+{
+  "id": "jt3vJIQb",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1622092734195,
+  "white": {
+    "id": "tantuini33",
+    "name": "tantuini33",
+    "title": null,
+    "rating": 1886,
+    "provisional": true
+  },
+  "black": {
+    "id": "rishabhabot",
+    "name": "RishabhaBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "tantuini33",
+  "opponentName": "RishabhaBot"
+}
