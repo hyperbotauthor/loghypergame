@@ -1,0 +1,43 @@
+{
+  "id": "lilbrBpq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1622127299785,
+  "white": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1481,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfishpro-bot",
+    "name": "StockfishPro-BOT",
+    "title": "BOT",
+    "rating": 1549
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 d2d4 c5d4 d1d4 b8c6 d4d3 g8f6 g1f3 d7d5 e4e5 f6g4 b1c3 e7e6 c1g5 g4e5 g5d8 e5d3 f1d3 e8d8 f3g5 c6e5 e1c1 h7h6 g5f3 e5f3 d3f1 f3e5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HumanBOT_lv1929",
+  "opponentName": "StockfishPro-BOT"
+}
