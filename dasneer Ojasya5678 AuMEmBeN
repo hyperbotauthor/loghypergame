@@ -1,0 +1,46 @@
+{
+  "id": "AuMEmBeN",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1622093474008,
+  "white": {
+    "id": "dasneer",
+    "name": "dasneer",
+    "title": "BOT",
+    "rating": 2242,
+    "provisional": true
+  },
+  "black": {
+    "id": "ojasya5678",
+    "name": "Ojasya5678",
+    "title": null,
+    "rating": 1882
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "dasneer",
+  "opponentName": "Ojasya5678"
+}
