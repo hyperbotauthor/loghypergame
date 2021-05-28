@@ -1,0 +1,46 @@
+{
+  "id": "4mzu81NI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 18000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1622218089907,
+  "white": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1258,
+    "provisional": true
+  },
+  "black": {
+    "id": "nicholasgriffin",
+    "name": "nicholasgriffin",
+    "title": "BOT",
+    "rating": 694
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 18000,
+    "binc": 18000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HumanBOT_lv1929",
+  "opponentName": "nicholasgriffin"
+}
