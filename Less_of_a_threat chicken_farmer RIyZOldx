@@ -1,0 +1,45 @@
+{
+  "id": "RIyZOldx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1622224218273,
+  "white": {
+    "id": "less_of_a_threat",
+    "name": "Less_of_a_threat",
+    "title": "BOT",
+    "rating": 2304
+  },
+  "black": {
+    "id": "chicken_farmer",
+    "name": "chicken_farmer",
+    "title": "BOT",
+    "rating": 2125
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Less_of_a_threat",
+  "opponentName": "chicken_farmer"
+}
