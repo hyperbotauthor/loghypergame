@@ -1,0 +1,39 @@
+{
+  "id": "vmh4jljr",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1622235751911,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "no-varants-no",
+    "name": "No-Varants-No",
+    "title": "BOT",
+    "rating": 2183
+  },
+  "initialFen": "r1bq1b1r/ppp3pp/2n1k3/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R w KQ - 2 8",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "No-Varants-No"
+}
