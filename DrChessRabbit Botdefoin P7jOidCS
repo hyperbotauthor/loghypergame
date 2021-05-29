@@ -1,0 +1,46 @@
+{
+  "id": "P7jOidCS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1622302250788,
+  "white": {
+    "id": "drchessrabbit",
+    "name": "DrChessRabbit",
+    "title": "BOT",
+    "rating": 2353,
+    "provisional": true
+  },
+  "black": {
+    "id": "botdefoin",
+    "name": "Botdefoin",
+    "title": "BOT",
+    "rating": 2069
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "DrChessRabbit",
+  "opponentName": "Botdefoin"
+}
