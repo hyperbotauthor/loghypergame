@@ -1,0 +1,47 @@
+{
+  "id": "SoxG2A2i",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1622297062458,
+  "white": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "its5q_bot",
+    "name": "its5Q_BOT",
+    "title": "BOT",
+    "rating": 1065,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HumanBOT_lv1929",
+  "opponentName": "its5Q_BOT"
+}
