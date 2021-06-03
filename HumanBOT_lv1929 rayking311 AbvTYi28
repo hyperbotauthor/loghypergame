@@ -1,0 +1,43 @@
+{
+  "id": "AbvTYi28",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1622720375275,
+  "white": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1660
+  },
+  "black": {
+    "id": "rayking311",
+    "name": "rayking311",
+    "title": "BOT",
+    "rating": 1268,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 a7a6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HumanBOT_lv1929",
+  "opponentName": "rayking311"
+}
