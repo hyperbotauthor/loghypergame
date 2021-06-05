@@ -1,0 +1,46 @@
+{
+  "id": "0uPMP6WT",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1622918915094,
+  "white": {
+    "id": "marc0_2nd_acc",
+    "name": "Marc0_2nd_acc",
+    "title": null,
+    "rating": 2177
+  },
+  "black": {
+    "id": "checkmateyou_bot",
+    "name": "CheckmateYou_Bot",
+    "title": "BOT",
+    "rating": 2378,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Marc0_2nd_acc",
+  "opponentName": "CheckmateYou_Bot"
+}
