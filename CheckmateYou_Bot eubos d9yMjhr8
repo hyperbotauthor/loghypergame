@@ -1,0 +1,46 @@
+{
+  "id": "d9yMjhr8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1622917518044,
+  "white": {
+    "id": "checkmateyou_bot",
+    "name": "CheckmateYou_Bot",
+    "title": "BOT",
+    "rating": 1957,
+    "provisional": true
+  },
+  "black": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 1938
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CheckmateYou_Bot",
+  "opponentName": "eubos"
+}
