@@ -1,0 +1,46 @@
+{
+  "id": "EETIVhEf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1622987678681,
+  "white": {
+    "id": "magnus-bot",
+    "name": "Magnus-BOT",
+    "title": "BOT",
+    "rating": 2336
+  },
+  "black": {
+    "id": "chesshypereasybot",
+    "name": "ChessHyperEasyBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Magnus-BOT",
+  "opponentName": "ChessHyperEasyBOT"
+}
