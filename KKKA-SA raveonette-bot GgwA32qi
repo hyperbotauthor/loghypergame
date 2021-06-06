@@ -1,0 +1,46 @@
+{
+  "id": "GgwA32qi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1622939933938,
+  "white": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2502,
+    "provisional": true
+  },
+  "black": {
+    "id": "raveonette-bot",
+    "name": "raveonette-bot",
+    "title": "BOT",
+    "rating": 2307
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KKKA-SA",
+  "opponentName": "raveonette-bot"
+}
