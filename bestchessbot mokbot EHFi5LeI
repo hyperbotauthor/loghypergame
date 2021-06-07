@@ -1,0 +1,46 @@
+{
+  "id": "EHFi5LeI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623028283522,
+  "white": {
+    "id": "bestchessbot",
+    "name": "bestchessbot",
+    "title": "BOT",
+    "rating": 2340
+  },
+  "black": {
+    "id": "mokbot",
+    "name": "mokbot",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bestchessbot",
+  "opponentName": "mokbot"
+}
