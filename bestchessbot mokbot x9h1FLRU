@@ -1,0 +1,46 @@
+{
+  "id": "x9h1FLRU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623026805402,
+  "white": {
+    "id": "bestchessbot",
+    "name": "bestchessbot",
+    "title": "BOT",
+    "rating": 2336
+  },
+  "black": {
+    "id": "mokbot",
+    "name": "mokbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 b5c6 b7c6 c1g5 f7f6 d4e5 f6g5 e5d6 c7d6 f1e1",
+    "wtime": 234540,
+    "btime": 161600,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bestchessbot",
+  "opponentName": "mokbot"
+}
