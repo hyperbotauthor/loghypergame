@@ -1,0 +1,46 @@
+{
+  "id": "YtBVkeJv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623228134537,
+  "white": {
+    "id": "rsvmentor",
+    "name": "RSVMentor",
+    "title": "BOT",
+    "rating": 2149
+  },
+  "black": {
+    "id": "prabashwara_y",
+    "name": "Prabashwara_y",
+    "title": "BOT",
+    "rating": 2072,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "RSVMentor",
+  "opponentName": "Prabashwara_y"
+}
