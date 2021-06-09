@@ -1,0 +1,45 @@
+{
+  "id": "mqahv9V6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1623232113972,
+  "white": {
+    "id": "rsvmentor",
+    "name": "RSVMentor",
+    "title": "BOT",
+    "rating": 2117
+  },
+  "black": {
+    "id": "fornax-engine",
+    "name": "fornax-engine",
+    "title": "BOT",
+    "rating": 1999
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RSVMentor",
+  "opponentName": "fornax-engine"
+}
