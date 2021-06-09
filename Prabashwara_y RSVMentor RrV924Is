@@ -1,0 +1,46 @@
+{
+  "id": "RrV924Is",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623228147557,
+  "white": {
+    "id": "prabashwara_y",
+    "name": "Prabashwara_y",
+    "title": "BOT",
+    "rating": 2072,
+    "provisional": true
+  },
+  "black": {
+    "id": "rsvmentor",
+    "name": "RSVMentor",
+    "title": "BOT",
+    "rating": 2149
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Prabashwara_y",
+  "opponentName": "RSVMentor"
+}
