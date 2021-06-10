@@ -1,0 +1,46 @@
+{
+  "id": "wizUE5Dc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1623367952982,
+  "white": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 1971
+  },
+  "black": {
+    "id": "hyperspeedgod",
+    "name": "HyperSpeedGod",
+    "title": "BOT",
+    "rating": 2201,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "eubos",
+  "opponentName": "HyperSpeedGod"
+}
