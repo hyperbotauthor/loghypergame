@@ -1,0 +1,46 @@
+{
+  "id": "l72kKTag",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1623414069813,
+  "white": {
+    "id": "thehardestbot",
+    "name": "Thehardestbot",
+    "title": "BOT",
+    "rating": 2159,
+    "provisional": true
+  },
+  "black": {
+    "id": "wandathegreat",
+    "name": "Wandathegreat",
+    "title": null,
+    "rating": 2048
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Thehardestbot",
+  "opponentName": "Wandathegreat"
+}
