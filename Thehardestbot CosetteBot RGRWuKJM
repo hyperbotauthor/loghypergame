@@ -1,0 +1,46 @@
+{
+  "id": "RGRWuKJM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1623411813825,
+  "white": {
+    "id": "thehardestbot",
+    "name": "Thehardestbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2098
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 c7c6 e2e3 d7d5 d2d4 g8f6 b1c3 e7e6 g1f3 b8d7 f1e2 g7g6",
+    "wtime": 317500,
+    "btime": 581450,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Thehardestbot",
+  "opponentName": "CosetteBot"
+}
