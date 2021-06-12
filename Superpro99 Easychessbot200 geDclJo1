@@ -1,0 +1,46 @@
+{
+  "id": "geDclJo1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623495777088,
+  "white": {
+    "id": "superpro99",
+    "name": "Superpro99",
+    "title": null,
+    "rating": 1127
+  },
+  "black": {
+    "id": "easychessbot200",
+    "name": "Easychessbot200",
+    "title": "BOT",
+    "rating": 1590,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Superpro99",
+  "opponentName": "Easychessbot200"
+}
