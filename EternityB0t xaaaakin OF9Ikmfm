@@ -1,0 +1,47 @@
+{
+  "id": "OF9Ikmfm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 25000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1623677830456,
+  "white": {
+    "id": "eternityb0t",
+    "name": "EternityB0t",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "xaaaakin",
+    "name": "xaaaakin",
+    "title": null,
+    "rating": 1054,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 25000,
+    "binc": 25000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EternityB0t",
+  "opponentName": "xaaaakin"
+}
