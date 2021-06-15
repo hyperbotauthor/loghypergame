@@ -1,0 +1,47 @@
+{
+  "id": "XkDecCmA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1623772553208,
+  "white": {
+    "id": "neer15",
+    "name": "neer15",
+    "title": "BOT",
+    "rating": 2358,
+    "provisional": true
+  },
+  "black": {
+    "id": "manchesster007",
+    "name": "Manchesster007",
+    "title": "BOT",
+    "rating": 1743,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 d8e7 d2d4 d7d6 e5f3 e7e4",
+    "wtime": 58070,
+    "btime": 56720,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "neer15",
+  "opponentName": "Manchesster007"
+}
