@@ -1,0 +1,47 @@
+{
+  "id": "V8E9S1GV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1623780398574,
+  "white": {
+    "id": "freemint_nn",
+    "name": "Freemint_NN",
+    "title": "BOT",
+    "rating": 1481,
+    "provisional": true
+  },
+  "black": {
+    "id": "seer-dev",
+    "name": "seer-dev",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Freemint_NN",
+  "opponentName": "seer-dev"
+}
