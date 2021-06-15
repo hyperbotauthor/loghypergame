@@ -1,0 +1,46 @@
+{
+  "id": "8j1KwN3p",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1623739267647,
+  "white": {
+    "id": "lavanyareshma01",
+    "name": "LAVANYARESHMA01",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 2043
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LAVANYARESHMA01",
+  "opponentName": "VariantTourneysBot"
+}
