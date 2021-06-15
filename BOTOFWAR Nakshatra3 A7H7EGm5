@@ -1,0 +1,46 @@
+{
+  "id": "A7H7EGm5",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1623739561124,
+  "white": {
+    "id": "botofwar",
+    "name": "BOTOFWAR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "nakshatra3",
+    "name": "Nakshatra3",
+    "title": "BOT",
+    "rating": 2272
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BOTOFWAR",
+  "opponentName": "Nakshatra3"
+}
