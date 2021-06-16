@@ -1,0 +1,46 @@
+{
+  "id": "pYBxiGI8",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1623868982985,
+  "white": {
+    "id": "ritvik_sai_nell",
+    "name": "Ritvik_Sai_Nell",
+    "title": null,
+    "rating": 1726
+  },
+  "black": {
+    "id": "freemint-dev",
+    "name": "Freemint-dev",
+    "title": "BOT",
+    "rating": 1370,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ritvik_Sai_Nell",
+  "opponentName": "Freemint-dev"
+}
