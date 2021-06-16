@@ -1,0 +1,46 @@
+{
+  "id": "gYZJ4zGk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1623805224727,
+  "white": {
+    "id": "vaibhavbommana",
+    "name": "Vaibhavbommana",
+    "title": null,
+    "rating": 1283
+  },
+  "black": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1718,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Vaibhavbommana",
+  "opponentName": "HumanBOT_lv1929"
+}
