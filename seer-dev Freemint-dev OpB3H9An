@@ -1,0 +1,46 @@
+{
+  "id": "OpB3H9An",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623870209512,
+  "white": {
+    "id": "seer-dev",
+    "name": "seer-dev",
+    "title": "BOT",
+    "rating": 2381
+  },
+  "black": {
+    "id": "freemint-dev",
+    "name": "Freemint-dev",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "seer-dev",
+  "opponentName": "Freemint-dev"
+}
