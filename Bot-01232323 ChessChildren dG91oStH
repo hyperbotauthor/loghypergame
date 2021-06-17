@@ -1,0 +1,46 @@
+{
+  "id": "dG91oStH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 6000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1623909751575,
+  "white": {
+    "id": "bot-01232323",
+    "name": "Bot-01232323",
+    "title": "BOT",
+    "rating": 2375,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1772
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot-01232323",
+  "opponentName": "ChessChildren"
+}
