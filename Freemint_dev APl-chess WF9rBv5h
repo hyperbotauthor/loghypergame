@@ -11,7 +11,7 @@
   },
   "speed": "rapid",
   "perf": {
-    "name": "Rápida"
+    "name": "Rapid"
   },
   "rated": true,
   "createdAt": 1623947777410,
@@ -32,8 +32,8 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "c2c4",
-    "wtime": 600000,
+    "moves": "c2c4 f7f5",
+    "wtime": 586500,
     "btime": 600000,
     "winc": 0,
     "binc": 0,
