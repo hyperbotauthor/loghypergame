@@ -1,0 +1,43 @@
+{
+  "id": "d4Jf8ggl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624002917036,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "denizozen_bot",
+    "name": "DenizOzen_Bot",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "mjmOu1Qf"
+  },
+  "opponentName": "DenizOzen_Bot"
+}
