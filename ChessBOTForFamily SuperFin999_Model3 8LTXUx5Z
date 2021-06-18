@@ -1,0 +1,47 @@
+{
+  "id": "8LTXUx5Z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624020291075,
+  "white": {
+    "id": "chessbotforfamily",
+    "name": "ChessBOTForFamily",
+    "title": "BOT",
+    "rating": 2513,
+    "provisional": true
+  },
+  "black": {
+    "id": "superfin999_model3",
+    "name": "SuperFin999_Model3",
+    "title": "BOT",
+    "rating": 2036,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessBOTForFamily",
+  "opponentName": "SuperFin999_Model3"
+}
