@@ -1,0 +1,46 @@
+{
+  "id": "gvyc5SEG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1624112591627,
+  "white": {
+    "id": "bot_aaravn",
+    "name": "Bot_AaravN",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "eshaansingh123",
+    "name": "eshaansingh123",
+    "title": null,
+    "rating": 1602
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Bot_AaravN",
+  "opponentName": "eshaansingh123"
+}
