@@ -1,0 +1,46 @@
+{
+  "id": "IshoYIt1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1624114209646,
+  "white": {
+    "id": "sunshouxuan202020",
+    "name": "Sunshouxuan202020",
+    "title": null,
+    "rating": 1738
+  },
+  "black": {
+    "id": "bot_aaravn",
+    "name": "Bot_AaravN",
+    "title": "BOT",
+    "rating": 1523,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sunshouxuan202020",
+  "opponentName": "Bot_AaravN"
+}
