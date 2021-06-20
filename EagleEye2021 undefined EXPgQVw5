@@ -1,0 +1,41 @@
+{
+  "id": "EXPgQVw5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624211813829,
+  "white": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2161
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c1f4 e7e6 e2e3 g8f6 g1f3 f8d6 f4d6 c7d6 c2c4 d5c4 f1c4 e8g8 b1c3 a7a6 e1g1 b7b5 c4d3 c8b7 f3d2 b8d7 d1b3 b7c6 a1c1 d8a5 a2a3 h7h6",
+    "wtime": 45010,
+    "btime": 40730,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EagleEye2021"
+}
