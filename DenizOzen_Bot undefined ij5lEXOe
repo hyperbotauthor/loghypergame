@@ -1,0 +1,43 @@
+{
+  "id": "ij5lEXOe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624212470786,
+  "white": {
+    "id": "denizozen_bot",
+    "name": "DenizOzen_Bot",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 d2d4 e5d4 g1f3 b8c6 c1f4 g8f6 f3d4 f6e4 d4b5 f8c5 d1e2 e8g8 e2e4 f8e8 e4e8 d8e8 f4e3 c5e3 b5c7 e8e5 f2e3 e5b2 f1e2 a8b8 c7d5 b2a1 d5c3 a1b2 e1g1 b2c2 e2c4 c6e5 c4b3 c2b2",
+    "wtime": 9030,
+    "btime": 14890,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "resign",
+    "winner": "black"
+  },
+  "botName": "DenizOzen_Bot"
+}
