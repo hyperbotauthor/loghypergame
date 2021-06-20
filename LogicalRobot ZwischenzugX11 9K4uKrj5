@@ -1,0 +1,46 @@
+{
+  "id": "9K4uKrj5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1624205399908,
+  "white": {
+    "id": "logicalrobot",
+    "name": "LogicalRobot",
+    "title": "BOT",
+    "rating": 1656,
+    "provisional": true
+  },
+  "black": {
+    "id": "zwischenzugx11",
+    "name": "ZwischenzugX11",
+    "title": null,
+    "rating": 2072
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LogicalRobot",
+  "opponentName": "ZwischenzugX11"
+}
