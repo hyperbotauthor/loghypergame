@@ -1,0 +1,44 @@
+{
+  "id": "5g7eRBPG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1624182579119,
+  "white": {
+    "id": "pm_narendra_modi",
+    "name": "PM_Narendra_Modi",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "mrallvariant",
+    "name": "MrAllVariant",
+    "title": null,
+    "rating": 1731,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 b8c6 d4d5 c6b4 e2e4 c7c6 b1c3 c6d5 a2a3 d5e4 a3b4 d8b6 c3d5 b6d6 c1f4 d6d5 d1d5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "PM_Narendra_Modi",
+  "opponentName": "MrAllVariant"
+}
