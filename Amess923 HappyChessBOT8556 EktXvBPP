@@ -1,0 +1,46 @@
+{
+  "id": "EktXvBPP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1624382391625,
+  "white": {
+    "id": "amess923",
+    "name": "Amess923",
+    "title": null,
+    "rating": 2117
+  },
+  "black": {
+    "id": "happychessbot8556",
+    "name": "HappyChessBOT8556",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 479290,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Amess923",
+  "opponentName": "HappyChessBOT8556"
+}
