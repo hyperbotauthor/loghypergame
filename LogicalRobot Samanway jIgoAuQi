@@ -1,0 +1,44 @@
+{
+  "id": "jIgoAuQi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1624423653798,
+  "white": {
+    "id": "logicalrobot",
+    "name": "LogicalRobot",
+    "title": "BOT",
+    "rating": 1930,
+    "provisional": true
+  },
+  "black": {
+    "id": "samanway",
+    "name": "Samanway",
+    "title": null,
+    "rating": 2146,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 259194000,
+    "btime": 259200000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LogicalRobot",
+  "opponentName": "Samanway"
+}
