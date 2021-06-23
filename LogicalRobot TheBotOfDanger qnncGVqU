@@ -1,0 +1,46 @@
+{
+  "id": "qnncGVqU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624423941517,
+  "white": {
+    "id": "logicalrobot",
+    "name": "LogicalRobot",
+    "title": "BOT",
+    "rating": 2234,
+    "provisional": true
+  },
+  "black": {
+    "id": "thebotofdanger",
+    "name": "TheBotOfDanger",
+    "title": "BOT",
+    "rating": 2564
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LogicalRobot",
+  "opponentName": "TheBotOfDanger"
+}
