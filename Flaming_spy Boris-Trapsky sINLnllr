@@ -1,0 +1,46 @@
+{
+  "id": "sINLnllr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1624430286900,
+  "white": {
+    "id": "flaming_spy",
+    "name": "Flaming_spy",
+    "title": "BOT",
+    "rating": 2254,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2292
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Flaming_spy",
+  "opponentName": "Boris-Trapsky"
+}
