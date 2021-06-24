@@ -1,0 +1,46 @@
+{
+  "id": "jPembx8h",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1624509252607,
+  "white": {
+    "id": "fischerrandomchess",
+    "name": "FischerRandomChess",
+    "title": null,
+    "rating": 1634
+  },
+  "black": {
+    "id": "flaming_spy",
+    "name": "Flaming_spy",
+    "title": "BOT",
+    "rating": 1743,
+    "provisional": true
+  },
+  "initialFen": "rbbkrnqn/pppppppp/8/8/8/8/PPPPPPPP/RBBKRNQN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FischerRandomChess",
+  "opponentName": "Flaming_spy"
+}
