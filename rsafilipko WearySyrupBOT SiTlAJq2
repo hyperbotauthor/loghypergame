@@ -1,0 +1,43 @@
+{
+  "id": "SiTlAJq2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1624630222746,
+  "white": {
+    "id": "rsafilipko",
+    "name": "rsafilipko",
+    "title": null,
+    "rating": 2093
+  },
+  "black": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86393000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "rsafilipko",
+  "opponentName": "WearySyrupBOT"
+}
