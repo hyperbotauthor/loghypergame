@@ -1,0 +1,45 @@
+{
+  "id": "8W1uCXYl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1624624196517,
+  "white": {
+    "id": "stockfish12_johan",
+    "name": "stockfish12_Johan",
+    "title": "BOT",
+    "rating": 2690
+  },
+  "black": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 2195
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "stockfish12_Johan",
+  "opponentName": "WearySyrupBOT"
+}
