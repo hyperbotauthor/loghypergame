@@ -1,0 +1,46 @@
+{
+  "id": "oSleFsLB",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1624624682438,
+  "white": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2204
+  },
+  "black": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "initialFen": "rnbbkrnq/pppppppp/8/8/8/8/PPPPPPPP/RNBBKRNQ w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ResoluteBot",
+  "opponentName": "WearySyrupBOT"
+}
