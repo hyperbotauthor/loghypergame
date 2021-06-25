@@ -1,0 +1,46 @@
+{
+  "id": "zWY4ix1i",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1624665192232,
+  "white": {
+    "id": "varianttourneysbot",
+    "name": "VariantTourneysBot",
+    "title": "BOT",
+    "rating": 1836
+  },
+  "black": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 1958,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "VariantTourneysBot",
+  "opponentName": "WearySyrupBOT"
+}
