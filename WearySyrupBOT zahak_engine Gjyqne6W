@@ -1,0 +1,45 @@
+{
+  "id": "Gjyqne6W",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1624624540006,
+  "white": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 2199
+  },
+  "black": {
+    "id": "zahak_engine",
+    "name": "zahak_engine",
+    "title": "BOT",
+    "rating": 1909
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WearySyrupBOT",
+  "opponentName": "zahak_engine"
+}
