@@ -1,0 +1,47 @@
+{
+  "id": "4YebtJzx",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1624634510112,
+  "white": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 1477,
+    "provisional": true
+  },
+  "black": {
+    "id": "aileenlps77",
+    "name": "Aileenlps77",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rbknbnqr/pppppppp/8/8/8/8/PPPPPPPP/RBKNBNQR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WearySyrupBOT",
+  "opponentName": "Aileenlps77"
+}
