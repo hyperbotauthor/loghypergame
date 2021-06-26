@@ -1,0 +1,42 @@
+{
+  "id": "q23nwiK7",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1624724673119,
+  "white": {
+    "id": "chlorophyll21111212",
+    "name": "Chlorophyll21111212",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "chlorophyll212112212",
+    "name": "Chlorophyll212112212",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "r2k3r/p3p1pp/4b3/5p2/2p1PP2/2P5/P1P3PP/1R3RK1 b kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Chlorophyll21111212",
+  "opponentName": "Chlorophyll212112212"
+}
