@@ -1,0 +1,46 @@
+{
+  "id": "8GvudNWs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1624665732217,
+  "white": {
+    "id": "wearysyrupbot",
+    "name": "WearySyrupBOT",
+    "title": "BOT",
+    "rating": 2549,
+    "provisional": true
+  },
+  "black": {
+    "id": "berserkengine",
+    "name": "BerserkEngine",
+    "title": "BOT",
+    "rating": 2333
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WearySyrupBOT",
+  "opponentName": "BerserkEngine"
+}
