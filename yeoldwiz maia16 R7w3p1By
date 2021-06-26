@@ -1,0 +1,43 @@
+{
+  "id": "R7w3p1By",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1624670928487,
+  "white": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1776
+  },
+  "black": {
+    "id": "maia16",
+    "name": "maia16",
+    "title": "BOT",
+    "rating": 2061,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 86400000,
+    "btime": 86396000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "yeoldwiz",
+  "opponentName": "maia16"
+}
