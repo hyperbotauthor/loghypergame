@@ -1,0 +1,43 @@
+{
+  "id": "gBbtGSCT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1624705470887,
+  "white": {
+    "id": "maia16",
+    "name": "maia16",
+    "title": "BOT",
+    "rating": 2135,
+    "provisional": true
+  },
+  "black": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1769
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1209492000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "maia16",
+  "opponentName": "yeoldwiz"
+}
