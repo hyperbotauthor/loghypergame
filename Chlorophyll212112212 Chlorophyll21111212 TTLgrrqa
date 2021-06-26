@@ -1,0 +1,45 @@
+{
+  "id": "TTLgrrqa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Đánh cờ qua thư"
+  },
+  "rated": false,
+  "createdAt": 1624677282305,
+  "white": {
+    "id": "chlorophyll212112212",
+    "name": "Chlorophyll212112212",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "chlorophyll21111212",
+    "name": "Chlorophyll21111212",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "RSlzHIiB"
+  },
+  "botName": "Chlorophyll212112212",
+  "opponentName": "Chlorophyll21111212"
+}
