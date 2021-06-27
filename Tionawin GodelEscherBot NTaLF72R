@@ -1,0 +1,46 @@
+{
+  "id": "NTaLF72R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1624801574461,
+  "white": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 2386,
+    "provisional": true
+  },
+  "black": {
+    "id": "godelescherbot",
+    "name": "GodelEscherBot",
+    "title": "BOT",
+    "rating": 2432
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tionawin",
+  "opponentName": "GodelEscherBot"
+}
