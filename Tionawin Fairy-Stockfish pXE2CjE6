@@ -1,0 +1,46 @@
+{
+  "id": "pXE2CjE6",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 780000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1624802933300,
+  "white": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 1767,
+    "provisional": true
+  },
+  "black": {
+    "id": "fairy-stockfish",
+    "name": "Fairy-Stockfish",
+    "title": "BOT",
+    "rating": 2484
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 780000,
+    "btime": 780000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tionawin",
+  "opponentName": "Fairy-Stockfish"
+}
