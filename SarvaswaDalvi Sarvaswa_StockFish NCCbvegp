@@ -1,0 +1,44 @@
+{
+  "id": "NCCbvegp",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1624790187628,
+  "white": {
+    "id": "sarvaswadalvi",
+    "name": "SarvaswaDalvi",
+    "title": null,
+    "rating": 1098,
+    "provisional": true
+  },
+  "black": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SarvaswaDalvi",
+  "opponentName": "Sarvaswa_StockFish"
+}
