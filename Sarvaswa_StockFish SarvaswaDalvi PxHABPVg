@@ -1,0 +1,46 @@
+{
+  "id": "PxHABPVg",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1624798673589,
+  "white": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 1560,
+    "provisional": true
+  },
+  "black": {
+    "id": "sarvaswadalvi",
+    "name": "SarvaswaDalvi",
+    "title": null,
+    "rating": 1015
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sarvaswa_StockFish",
+  "opponentName": "SarvaswaDalvi"
+}
