@@ -1,0 +1,39 @@
+{
+  "id": "jZPzFWwJ",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1624802844638,
+  "white": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 1485,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tionawin"
+}
