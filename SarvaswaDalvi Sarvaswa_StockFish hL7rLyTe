@@ -1,0 +1,46 @@
+{
+  "id": "hL7rLyTe",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1624799972941,
+  "white": {
+    "id": "sarvaswadalvi",
+    "name": "SarvaswaDalvi",
+    "title": null,
+    "rating": 1386
+  },
+  "black": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 994,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SarvaswaDalvi",
+  "opponentName": "Sarvaswa_StockFish"
+}
