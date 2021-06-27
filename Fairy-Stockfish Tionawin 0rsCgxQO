@@ -1,0 +1,46 @@
+{
+  "id": "0rsCgxQO",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1624801714977,
+  "white": {
+    "id": "fairy-stockfish",
+    "name": "Fairy-Stockfish",
+    "title": "BOT",
+    "rating": 2447
+  },
+  "black": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 1492,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Fairy-Stockfish",
+  "opponentName": "Tionawin"
+}
