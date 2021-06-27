@@ -1,0 +1,47 @@
+{
+  "id": "nxMfq3aG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1624795678908,
+  "white": {
+    "id": "darshu27",
+    "name": "Darshu27",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 1558,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Darshu27",
+  "opponentName": "Sarvaswa_StockFish"
+}
