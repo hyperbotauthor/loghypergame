@@ -1,0 +1,46 @@
+{
+  "id": "zV0hiFDf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1624793588488,
+  "white": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 1564,
+    "provisional": true
+  },
+  "black": {
+    "id": "thebotofdanger",
+    "name": "TheBotOfDanger",
+    "title": "BOT",
+    "rating": 2548
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 72870,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sarvaswa_StockFish",
+  "opponentName": "TheBotOfDanger"
+}
