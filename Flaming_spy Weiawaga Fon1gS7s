@@ -1,0 +1,45 @@
+{
+  "id": "Fon1gS7s",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1624779669889,
+  "white": {
+    "id": "flaming_spy",
+    "name": "Flaming_spy",
+    "title": "BOT",
+    "rating": 2412
+  },
+  "black": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2000
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Flaming_spy",
+  "opponentName": "Weiawaga"
+}
