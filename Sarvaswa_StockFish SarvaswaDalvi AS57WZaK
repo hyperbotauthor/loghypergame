@@ -1,0 +1,47 @@
+{
+  "id": "AS57WZaK",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1624797796909,
+  "white": {
+    "id": "sarvaswa_stockfish",
+    "name": "Sarvaswa_StockFish",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "sarvaswadalvi",
+    "name": "SarvaswaDalvi",
+    "title": null,
+    "rating": 1154,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Sarvaswa_StockFish",
+  "opponentName": "SarvaswaDalvi"
+}
