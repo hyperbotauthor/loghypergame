@@ -1,0 +1,47 @@
+{
+  "id": "knXpTOTU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1624794562158,
+  "white": {
+    "id": "flaming_spy",
+    "name": "Flaming_spy",
+    "title": "BOT",
+    "rating": 2131,
+    "provisional": true
+  },
+  "black": {
+    "id": "botdefoin",
+    "name": "Botdefoin",
+    "title": "BOT",
+    "rating": 1949,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Flaming_spy",
+  "opponentName": "Botdefoin"
+}
