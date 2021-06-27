@@ -1,0 +1,46 @@
+{
+  "id": "6R38qwpb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1624798800838,
+  "white": {
+    "id": "zahak_engine",
+    "name": "zahak_engine",
+    "title": "BOT",
+    "rating": 1970
+  },
+  "black": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 2350,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "zahak_engine",
+  "opponentName": "Tionawin"
+}
