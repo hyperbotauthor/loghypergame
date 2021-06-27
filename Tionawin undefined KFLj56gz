@@ -1,0 +1,39 @@
+{
+  "id": "KFLj56gz",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1624795928556,
+  "white": {
+    "id": "tionawin",
+    "name": "Tionawin",
+    "title": "BOT",
+    "rating": 1488,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 e1d2",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tionawin"
+}
