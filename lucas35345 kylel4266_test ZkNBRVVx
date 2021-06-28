@@ -1,0 +1,44 @@
+{
+  "id": "ZkNBRVVx",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1624908107650,
+  "white": {
+    "id": "lucas35345",
+    "name": "lucas35345",
+    "title": null,
+    "rating": 1041,
+    "provisional": true
+  },
+  "black": {
+    "id": "kylel4266_test",
+    "name": "kylel4266_test",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f5f6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "lucas35345",
+  "opponentName": "kylel4266_test"
+}
