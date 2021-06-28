@@ -1,0 +1,47 @@
+{
+  "id": "DLTiJ9xe",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1624888548367,
+  "white": {
+    "id": "orca_bot",
+    "name": "Orca_Bot",
+    "title": "BOT",
+    "rating": 1325,
+    "provisional": true
+  },
+  "black": {
+    "id": "ssech_bot",
+    "name": "Ssech_BOT",
+    "title": "BOT",
+    "rating": 1948,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Orca_Bot",
+  "opponentName": "Ssech_BOT"
+}
