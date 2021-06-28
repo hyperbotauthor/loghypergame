@@ -1,0 +1,45 @@
+{
+  "id": "Z5qE2hY4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1624894088969,
+  "white": {
+    "id": "orca_bot",
+    "name": "Orca_Bot",
+    "title": "BOT",
+    "rating": 2299
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2048
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1 f7f6 d2d4 e5d4 f3d4 c6c5 d4e2 f8d6 c1f4 c8e6 f4d6 d8d6 d1d6 c7d6 b1c3 g8e7 a1d1 e8c8 e2f4 e6f7 f2f3 b7b5 g1f2 b5b4 c3d5 h8e8 d5e7 e8e7 d1d2 a6a5 f1a1",
+    "wtime": 185320,
+    "btime": 190480,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Orca_Bot",
+  "opponentName": "CosetteBot"
+}
