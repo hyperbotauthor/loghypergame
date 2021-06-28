@@ -1,0 +1,47 @@
+{
+  "id": "K0vJtfAF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1624923953066,
+  "white": {
+    "id": "ir0n_m2n",
+    "name": "Ir0n_M2n",
+    "title": "BOT",
+    "rating": 1598,
+    "provisional": true
+  },
+  "black": {
+    "id": "o_o-memebot",
+    "name": "O_O-MemeBot",
+    "title": "BOT",
+    "rating": 1354,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ir0n_M2n",
+  "opponentName": "O_O-MemeBot"
+}
