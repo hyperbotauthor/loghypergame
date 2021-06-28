@@ -1,0 +1,46 @@
+{
+  "id": "vxiBFc5L",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1624880947028,
+  "white": {
+    "id": "orca_bot",
+    "name": "Orca_Bot",
+    "title": "BOT",
+    "rating": 2271
+  },
+  "black": {
+    "id": "ssech_bot",
+    "name": "Ssech_BOT",
+    "title": "BOT",
+    "rating": 2302,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Orca_Bot",
+  "opponentName": "Ssech_BOT"
+}
