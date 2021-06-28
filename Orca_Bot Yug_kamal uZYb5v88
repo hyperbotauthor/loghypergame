@@ -1,0 +1,47 @@
+{
+  "id": "uZYb5v88",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 10000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1624887533915,
+  "white": {
+    "id": "orca_bot",
+    "name": "Orca_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "yug_kamal",
+    "name": "Yug_kamal",
+    "title": "BOT",
+    "rating": 1068,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10000,
+    "btime": 10000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Orca_Bot",
+  "opponentName": "Yug_kamal"
+}
