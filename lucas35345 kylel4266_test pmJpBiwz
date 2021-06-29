@@ -1,0 +1,42 @@
+{
+  "id": "pmJpBiwz",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1624976452690,
+  "white": {
+    "id": "lucas35345",
+    "name": "lucas35345",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "kylel4266_test",
+    "name": "kylel4266_test",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/qqqqqqqq/qqqqqqqq/qqqqqqqq/8/3PPP2/3NKN2 w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "lucas35345",
+  "opponentName": "kylel4266_test"
+}
