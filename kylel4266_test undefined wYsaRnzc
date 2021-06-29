@@ -1,0 +1,40 @@
+{
+  "id": "wYsaRnzc",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1625001522134,
+  "white": {
+    "id": "kylel4266_test",
+    "name": "kylel4266_test",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "3K1k2/3P4/8/8/8/8/3r4/4R3 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kylel4266_test"
+}
