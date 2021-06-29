@@ -1,0 +1,39 @@
+{
+  "id": "3IadxtW4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1624976109191,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "kylel4266_test",
+    "name": "kylel4266_test",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 g1f3 e7e5 b1c3 d5e6 f1b5 c7c6 b5e2 e5e4 f3g5 e6e7 g5e4 f7f5 e4g3 b7b5 e1g1 e7b7 f1e1 g8e7 d2d4 b5b4 c3a4 b7c7 e2c4 c8a6 c4b3 f5f4 g3e4 g7g6 a4c5 a6c8 e4f6 e8d8 d4d5 c6d5 d1d5 c8d7 d5a8 c7c5 f6d7 c5d4 a8b8 d8d7 b3a4 e7c6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "kylel4266_test"
+}
