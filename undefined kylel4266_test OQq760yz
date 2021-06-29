@@ -1,0 +1,42 @@
+{
+  "id": "OQq760yz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1625001440079,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "kylel4266_test",
+    "name": "kylel4266_test",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "opponentName": "kylel4266_test"
+}
