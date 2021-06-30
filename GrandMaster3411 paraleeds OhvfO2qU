@@ -1,0 +1,46 @@
+{
+  "id": "OhvfO2qU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1625070510390,
+  "white": {
+    "id": "grandmaster3411",
+    "name": "GrandMaster3411",
+    "title": "BOT",
+    "rating": 2314,
+    "provisional": true
+  },
+  "black": {
+    "id": "paraleeds",
+    "name": "paraleeds",
+    "title": null,
+    "rating": 1823
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GrandMaster3411",
+  "opponentName": "paraleeds"
+}
