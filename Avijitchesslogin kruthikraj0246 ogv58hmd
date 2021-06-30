@@ -1,0 +1,46 @@
+{
+  "id": "ogv58hmd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1625041681144,
+  "white": {
+    "id": "avijitchesslogin",
+    "name": "Avijitchesslogin",
+    "title": null,
+    "rating": 1076
+  },
+  "black": {
+    "id": "kruthikraj0246",
+    "name": "kruthikraj0246",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1c3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Avijitchesslogin",
+  "opponentName": "kruthikraj0246"
+}
