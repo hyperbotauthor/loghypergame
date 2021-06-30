@@ -1,0 +1,46 @@
+{
+  "id": "Ex3TJEP6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1625038229276,
+  "white": {
+    "id": "karamveer2013",
+    "name": "karamveer2013",
+    "title": null,
+    "rating": 1157
+  },
+  "black": {
+    "id": "kruthikraj0246",
+    "name": "kruthikraj0246",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "karamveer2013",
+  "opponentName": "kruthikraj0246"
+}
