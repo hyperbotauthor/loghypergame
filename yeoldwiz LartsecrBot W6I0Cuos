@@ -1,0 +1,43 @@
+{
+  "id": "W6I0Cuos",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1625014349688,
+  "white": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1732
+  },
+  "black": {
+    "id": "lartsecrbot",
+    "name": "LartsecrBot",
+    "title": "BOT",
+    "rating": 2263,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 86400000,
+    "btime": 86307000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "yeoldwiz",
+  "opponentName": "LartsecrBot"
+}
