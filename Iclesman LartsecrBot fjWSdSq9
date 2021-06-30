@@ -1,0 +1,43 @@
+{
+  "id": "fjWSdSq9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1625068364356,
+  "white": {
+    "id": "iclesman",
+    "name": "Iclesman",
+    "title": null,
+    "rating": 2416
+  },
+  "black": {
+    "id": "lartsecrbot",
+    "name": "LartsecrBot",
+    "title": "BOT",
+    "rating": 2276,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86394000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Iclesman",
+  "opponentName": "LartsecrBot"
+}
