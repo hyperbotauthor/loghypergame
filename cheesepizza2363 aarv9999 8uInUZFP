@@ -1,0 +1,46 @@
+{
+  "id": "8uInUZFP",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1625312920969,
+  "white": {
+    "id": "cheesepizza2363",
+    "name": "cheesepizza2363",
+    "title": "BOT",
+    "rating": 1905,
+    "provisional": true
+  },
+  "black": {
+    "id": "aarv9999",
+    "name": "aarv9999",
+    "title": null,
+    "rating": 1580
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "cheesepizza2363",
+  "opponentName": "aarv9999"
+}
