@@ -1,0 +1,46 @@
+{
+  "id": "qwu94Gn4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1625305825496,
+  "white": {
+    "id": "cheesepizza2363",
+    "name": "cheesepizza2363",
+    "title": "BOT",
+    "rating": 2386,
+    "provisional": true
+  },
+  "black": {
+    "id": "tommynelson",
+    "name": "TommyNelson",
+    "title": null,
+    "rating": 1752
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "cheesepizza2363",
+  "opponentName": "TommyNelson"
+}
