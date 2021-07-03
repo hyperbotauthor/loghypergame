@@ -1,0 +1,46 @@
+{
+  "id": "XRvKOWfs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1625312548626,
+  "white": {
+    "id": "bestchessbot_tr",
+    "name": "BestChessBot_TR",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "hahayoulost06",
+    "name": "HaHaYouLost06",
+    "title": "BOT",
+    "rating": 2668
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BestChessBot_TR",
+  "opponentName": "HaHaYouLost06"
+}
