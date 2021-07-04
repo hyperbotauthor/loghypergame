@@ -1,0 +1,46 @@
+{
+  "id": "nUZaBGDS",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1625425686165,
+  "white": {
+    "id": "sortfulbot",
+    "name": "SortfulBot",
+    "title": "BOT",
+    "rating": 1401,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 1823
+  },
+  "initialFen": "rkbrnbqn/pppppppp/8/8/8/8/PPPPPPPP/RKBRNBQN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SortfulBot",
+  "opponentName": "XXIstCentury"
+}
