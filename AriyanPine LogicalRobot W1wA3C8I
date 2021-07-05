@@ -1,0 +1,46 @@
+{
+  "id": "W1wA3C8I",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1625475143294,
+  "white": {
+    "id": "ariyanpine",
+    "name": "AriyanPine",
+    "title": null,
+    "rating": 2009
+  },
+  "black": {
+    "id": "logicalrobot",
+    "name": "LogicalRobot",
+    "title": "BOT",
+    "rating": 2381,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AriyanPine",
+  "opponentName": "LogicalRobot"
+}
