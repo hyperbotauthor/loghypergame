@@ -1,0 +1,47 @@
+{
+  "id": "TzG53jVx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1625583103909,
+  "white": {
+    "id": "m0chess",
+    "name": "M0chess",
+    "title": null,
+    "rating": 1286,
+    "provisional": true
+  },
+  "black": {
+    "id": "logicalrobot",
+    "name": "LogicalRobot",
+    "title": "BOT",
+    "rating": 1679,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "M0chess",
+  "opponentName": "LogicalRobot"
+}
