@@ -1,0 +1,46 @@
+{
+  "id": "MXqLGBtH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1625580483660,
+  "white": {
+    "id": "sortfulbot",
+    "name": "SortfulBot",
+    "title": "BOT",
+    "rating": 2458,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_aoop11",
+    "name": "Bot_AOOP11",
+    "title": "BOT",
+    "rating": 2376
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SortfulBot",
+  "opponentName": "Bot_AOOP11"
+}
