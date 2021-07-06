@@ -1,0 +1,47 @@
+{
+  "id": "7HpTOQ3t",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1625589929741,
+  "white": {
+    "id": "tortademanzana023",
+    "name": "TORTADEMANZANA023",
+    "title": "BOT",
+    "rating": 1299,
+    "provisional": true
+  },
+  "black": {
+    "id": "ritvik_531_2021",
+    "name": "Ritvik_531_2021",
+    "title": null,
+    "rating": 1876,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TORTADEMANZANA023",
+  "opponentName": "Ritvik_531_2021"
+}
