@@ -1,0 +1,43 @@
+{
+  "id": "fPPwzXI5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondencia"
+  },
+  "rated": false,
+  "createdAt": 1625608666221,
+  "white": {
+    "id": "tortademanzana023",
+    "name": "TORTADEMANZANA023",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "emmanuelbernal1234",
+    "name": "emmanuelbernal1234",
+    "title": null,
+    "rating": 1724
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TORTADEMANZANA023",
+  "opponentName": "emmanuelbernal1234"
+}
