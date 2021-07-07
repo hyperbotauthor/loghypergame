@@ -1,0 +1,47 @@
+{
+  "id": "S8wITZVI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": false,
+  "createdAt": 1625675098736,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1535,
+    "provisional": true
+  },
+  "black": {
+    "id": "tortademanzana023",
+    "name": "TORTADEMANZANA023",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 6000,
+    "binc": 6000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "TORTADEMANZANA023"
+}
