@@ -1,0 +1,46 @@
+{
+  "id": "EXbwre5u",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1625690665605,
+  "white": {
+    "id": "emmanuelbernal1234",
+    "name": "emmanuelbernal1234",
+    "title": null,
+    "rating": 1375
+  },
+  "black": {
+    "id": "tortademanzana023",
+    "name": "TORTADEMANZANA023",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "emmanuelbernal1234",
+  "opponentName": "TORTADEMANZANA023"
+}
