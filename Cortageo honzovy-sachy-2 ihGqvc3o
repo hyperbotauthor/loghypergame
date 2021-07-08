@@ -1,0 +1,46 @@
+{
+  "id": "ihGqvc3o",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1625761962569,
+  "white": {
+    "id": "cortageo",
+    "name": "Cortageo",
+    "title": "BOT",
+    "rating": 2238,
+    "provisional": true
+  },
+  "black": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 1923
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cortageo",
+  "opponentName": "honzovy-sachy-2"
+}
