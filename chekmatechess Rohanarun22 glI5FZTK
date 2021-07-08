@@ -1,0 +1,46 @@
+{
+  "id": "glI5FZTK",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1625719602144,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1796,
+    "provisional": true
+  },
+  "black": {
+    "id": "rohanarun22",
+    "name": "Rohanarun22",
+    "title": null,
+    "rating": 2091
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "Rohanarun22"
+}
