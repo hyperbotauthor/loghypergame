@@ -1,0 +1,46 @@
+{
+  "id": "WdwkgZ5i",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1625772906595,
+  "white": {
+    "id": "ramses-chess",
+    "name": "Ramses-Chess",
+    "title": "BOT",
+    "rating": 1325,
+    "provisional": true
+  },
+  "black": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1629
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ramses-Chess",
+  "opponentName": "Administracionbot"
+}
