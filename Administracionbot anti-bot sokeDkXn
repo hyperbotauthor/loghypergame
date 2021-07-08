@@ -1,0 +1,46 @@
+{
+  "id": "sokeDkXn",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 12000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1625777655305,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2178
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 12000,
+    "binc": 12000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "anti-bot"
+}
