@@ -1,0 +1,46 @@
+{
+  "id": "6Ojaj6Vq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1625759704346,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1996,
+    "provisional": true
+  },
+  "black": {
+    "id": "erisxxb",
+    "name": "ErisXXB",
+    "title": "BOT",
+    "rating": 2232
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "ErisXXB"
+}
