@@ -1,0 +1,47 @@
+{
+  "id": "3nZQRwQI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": false,
+  "createdAt": 1625860432255,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1535,
+    "provisional": true
+  },
+  "black": {
+    "id": "xx_la_tigresita_xx",
+    "name": "Xx_La_Tigresita_xX",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "Xx_La_Tigresita_xX"
+}
