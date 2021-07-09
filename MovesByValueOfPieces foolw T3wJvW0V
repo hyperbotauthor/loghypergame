@@ -1,0 +1,44 @@
+{
+  "id": "T3wJvW0V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1625650506236,
+  "white": {
+    "id": "movesbyvalueofpieces",
+    "name": "MovesByValueOfPieces",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "foolw",
+    "name": "foolw",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a4 e7e5 a4a5 b8c6 a5a6 b7a6 a1a6 c8a6 b2b4 c6b4 c2c4 a6c4 d2d4 e5d4 d1d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MovesByValueOfPieces",
+  "opponentName": "foolw"
+}
