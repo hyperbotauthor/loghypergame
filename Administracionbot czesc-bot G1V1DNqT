@@ -1,0 +1,46 @@
+{
+  "id": "G1V1DNqT",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1625791432608,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1996,
+    "provisional": true
+  },
+  "black": {
+    "id": "czesc-bot",
+    "name": "czesc-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "5k2/Q7/8/8/8/8/8/1QQQQKQQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1b8",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 7000,
+    "binc": 7000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "mate",
+    "winner": "white"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "czesc-bot"
+}
