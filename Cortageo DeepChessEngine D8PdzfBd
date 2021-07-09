@@ -1,0 +1,47 @@
+{
+  "id": "D8PdzfBd",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1625846250052,
+  "white": {
+    "id": "cortageo",
+    "name": "Cortageo",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "deepchessengine",
+    "name": "DeepChessEngine",
+    "title": "BOT",
+    "rating": 2090,
+    "provisional": true
+  },
+  "initialFen": "nnqrkrbb/pppppppp/8/8/8/8/PPPPPPPP/NNQRKRBB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cortageo",
+  "opponentName": "DeepChessEngine"
+}
