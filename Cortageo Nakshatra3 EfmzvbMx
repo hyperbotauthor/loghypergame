@@ -1,0 +1,46 @@
+{
+  "id": "EfmzvbMx",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1625844367795,
+  "white": {
+    "id": "cortageo",
+    "name": "Cortageo",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "black": {
+    "id": "nakshatra3",
+    "name": "Nakshatra3",
+    "title": "BOT",
+    "rating": 2284
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cortageo",
+  "opponentName": "Nakshatra3"
+}
