@@ -1,0 +1,46 @@
+{
+  "id": "dvv9UNgW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1625839059241,
+  "white": {
+    "id": "kimayt10",
+    "name": "KimaYT10",
+    "title": null,
+    "rating": 1479
+  },
+  "black": {
+    "id": "movesbyvalueofpieces",
+    "name": "MovesByValueOfPieces",
+    "title": "BOT",
+    "rating": 1375,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 b5c6 d7c6 e1g1 f6e4 f1e1 e4d6 c2c3 f8e7 d2d4 e5e4 f3d2 f7f5 d2f1 c8e6 f1e3 e8g8 b1d2 f5f4 e3f1 e6f5 d2b3 f5g6 b3c5 d8e8 f1d2",
+    "wtime": 88110,
+    "btime": 70160,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "KimaYT10",
+  "opponentName": "MovesByValueOfPieces"
+}
