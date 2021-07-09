@@ -1,0 +1,46 @@
+{
+  "id": "HjDfmmYa",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1625847329319,
+  "white": {
+    "id": "cortageo",
+    "name": "Cortageo",
+    "title": "BOT",
+    "rating": 1768,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0test",
+    "name": "Lc0Test",
+    "title": "BOT",
+    "rating": 1994
+  },
+  "initialFen": "brknrqnb/pppppppp/8/8/8/8/PPPPPPPP/BRKNRQNB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cortageo",
+  "opponentName": "Lc0Test"
+}
