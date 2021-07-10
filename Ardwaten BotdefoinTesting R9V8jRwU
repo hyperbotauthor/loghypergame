@@ -1,0 +1,46 @@
+{
+  "id": "R9V8jRwU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1625876061161,
+  "white": {
+    "id": "ardwaten",
+    "name": "Ardwaten",
+    "title": "BOT",
+    "rating": 2256,
+    "provisional": true
+  },
+  "black": {
+    "id": "botdefointesting",
+    "name": "BotdefoinTesting",
+    "title": "BOT",
+    "rating": 1852
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ardwaten",
+  "opponentName": "BotdefoinTesting"
+}
