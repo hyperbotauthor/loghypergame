@@ -1,0 +1,47 @@
+{
+  "id": "ios3ZCEJ",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1625926254416,
+  "white": {
+    "id": "google-b0t",
+    "name": "Google-B0T",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Google-B0T",
+  "opponentName": "HumanBOT_lv1929"
+}
