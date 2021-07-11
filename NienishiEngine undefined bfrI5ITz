@@ -1,0 +1,42 @@
+{
+  "id": "bfrI5ITz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1626013993165,
+  "white": {
+    "id": "nienishiengine",
+    "name": "NienishiEngine",
+    "title": "BOT",
+    "rating": 2604,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NienishiEngine"
+}
