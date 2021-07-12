@@ -1,0 +1,47 @@
+{
+  "id": "O03MBP7E",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1626061449175,
+  "white": {
+    "id": "bot_aaravn",
+    "name": "Bot_AaravN",
+    "title": "BOT",
+    "rating": 1559,
+    "provisional": true
+  },
+  "black": {
+    "id": "ok12435",
+    "name": "ok12435",
+    "title": "BOT",
+    "rating": 1944,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Bot_AaravN",
+  "opponentName": "ok12435"
+}
