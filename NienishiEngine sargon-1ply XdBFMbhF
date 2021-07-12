@@ -1,0 +1,46 @@
+{
+  "id": "XdBFMbhF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1626050158537,
+  "white": {
+    "id": "nienishiengine",
+    "name": "NienishiEngine",
+    "title": "BOT",
+    "rating": 2374,
+    "provisional": true
+  },
+  "black": {
+    "id": "sargon-1ply",
+    "name": "sargon-1ply",
+    "title": "BOT",
+    "rating": 1560
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NienishiEngine",
+  "opponentName": "sargon-1ply"
+}
