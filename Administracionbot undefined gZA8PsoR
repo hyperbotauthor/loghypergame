@@ -1,0 +1,42 @@
+{
+  "id": "gZA8PsoR",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": false,
+  "createdAt": 1626098158406,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1535,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot"
+}
