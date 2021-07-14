@@ -1,0 +1,44 @@
+{
+  "id": "L2J9INYJ",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1626268987009,
+  "white": {
+    "id": "neaucifyengine",
+    "name": "NeaucifyEngine",
+    "title": "BOT",
+    "rating": 2402,
+    "provisional": true
+  },
+  "black": {
+    "id": "aks-mantissa",
+    "name": "AKS-Mantissa",
+    "title": "BOT",
+    "rating": 2040
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/8/8/8/8/RNBQKBNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NeaucifyEngine",
+  "opponentName": "AKS-Mantissa"
+}
