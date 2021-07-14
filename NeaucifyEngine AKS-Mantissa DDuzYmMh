@@ -1,0 +1,46 @@
+{
+  "id": "DDuzYmMh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 35000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1626265053654,
+  "white": {
+    "id": "neaucifyengine",
+    "name": "NeaucifyEngine",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "aks-mantissa",
+    "name": "AKS-Mantissa",
+    "title": "BOT",
+    "rating": 2055
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 35000,
+    "binc": 35000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NeaucifyEngine",
+  "opponentName": "AKS-Mantissa"
+}
