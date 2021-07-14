@@ -1,0 +1,46 @@
+{
+  "id": "lJWOlOB6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1626279105576,
+  "white": {
+    "id": "neaucifyengine",
+    "name": "NeaucifyEngine",
+    "title": "BOT",
+    "rating": 2436,
+    "provisional": true
+  },
+  "black": {
+    "id": "virutor",
+    "name": "Virutor",
+    "title": "BOT",
+    "rating": 1970
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NeaucifyEngine",
+  "opponentName": "Virutor"
+}
