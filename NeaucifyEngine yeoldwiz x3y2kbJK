@@ -1,0 +1,43 @@
+{
+  "id": "x3y2kbJK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1626285325222,
+  "white": {
+    "id": "neaucifyengine",
+    "name": "NeaucifyEngine",
+    "title": "BOT",
+    "rating": 2048,
+    "provisional": true
+  },
+  "black": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1711
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 c7c6 g1f3 g8f6 f1c4 c8g4 h2h3 g4h5 g2g4 b7b5 a2a3 b5c4 g4h5 f6e4 c1d2 e4c3 d2c3 a5f5 f3d2 f5e6 d1e2 b8d7 e2e6 f7e6 d2c4 g7g6 d4d5 e6d5 c3h8 d5c4 h5g6 h7g6 e1c1 f8h6 c1b1 a8b8 h1e1 d7c5 d1d6 e8f7 d6c6 b8h8 c6c5 h6d2 e1e2 h8h3 e2d2 c4c3 c5c3 h3h5 c3c7 h5e5",
+    "wtime": 159542000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NeaucifyEngine",
+  "opponentName": "yeoldwiz"
+}
