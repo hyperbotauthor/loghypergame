@@ -1,0 +1,46 @@
+{
+  "id": "BLrSCQyI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1626323175126,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 984,
+    "provisional": true
+  },
+  "black": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 2036
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1a3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "chekmatechess"
+}
