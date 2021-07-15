@@ -1,0 +1,46 @@
+{
+  "id": "PXCc7P0A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 4000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1626360864569,
+  "white": {
+    "id": "neaucifyengine",
+    "name": "NeaucifyEngine",
+    "title": "BOT",
+    "rating": 2537,
+    "provisional": true
+  },
+  "black": {
+    "id": "enisbot",
+    "name": "EnisBot",
+    "title": "BOT",
+    "rating": 2536
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NeaucifyEngine",
+  "opponentName": "EnisBot"
+}
