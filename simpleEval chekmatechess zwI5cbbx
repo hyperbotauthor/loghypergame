@@ -1,0 +1,45 @@
+{
+  "id": "zwI5cbbx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1626331760455,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2136
+  },
+  "black": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 2156
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 b1c3 g8f6 g1f3 b8c6 f1b5 f8c5 e1g1 d7d6 d2d3 c8g4 b5c6 b7c6 a2a3 e8g8 c3b1 d8e7 b1d2 a8d8 h2h3 f8e8 h3g4 f6g4 b2b4",
+    "wtime": 55040,
+    "btime": 40720,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "chekmatechess"
+}
