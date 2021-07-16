@@ -1,0 +1,44 @@
+{
+  "id": "26ITqAKa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondencia"
+  },
+  "rated": false,
+  "createdAt": 1626450293397,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1933,
+    "provisional": true
+  },
+  "black": {
+    "id": "lauraalape",
+    "name": "Lauraalape",
+    "title": null,
+    "rating": 2001,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1209594000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "Lauraalape"
+}
