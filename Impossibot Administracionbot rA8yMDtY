@@ -1,0 +1,47 @@
+{
+  "id": "rA8yMDtY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 35000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Clásica"
+  },
+  "rated": true,
+  "createdAt": 1626447002962,
+  "white": {
+    "id": "impossibot",
+    "name": "Impossibot",
+    "title": "BOT",
+    "rating": 710,
+    "provisional": true
+  },
+  "black": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1519,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 35000,
+    "binc": 35000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Impossibot",
+  "opponentName": "Administracionbot"
+}
