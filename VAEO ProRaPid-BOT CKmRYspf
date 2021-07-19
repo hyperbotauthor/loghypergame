@@ -1,0 +1,47 @@
+{
+  "id": "CKmRYspf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1626717936439,
+  "white": {
+    "id": "vaeo",
+    "name": "VAEO",
+    "title": null,
+    "rating": 1837,
+    "provisional": true
+  },
+  "black": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 2282,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "VAEO",
+  "opponentName": "ProRaPid-BOT"
+}
