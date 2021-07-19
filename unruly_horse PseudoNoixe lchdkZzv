@@ -1,0 +1,47 @@
+{
+  "id": "lchdkZzv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1626711003383,
+  "white": {
+    "id": "unruly_horse",
+    "name": "unruly_horse",
+    "title": null,
+    "rating": 1428,
+    "provisional": true
+  },
+  "black": {
+    "id": "pseudonoixe",
+    "name": "PseudoNoixe",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "unruly_horse",
+  "opponentName": "PseudoNoixe"
+}
