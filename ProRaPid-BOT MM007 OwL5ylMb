@@ -1,0 +1,45 @@
+{
+  "id": "OwL5ylMb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1626781643819,
+  "white": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 2664
+  },
+  "black": {
+    "id": "mm007",
+    "name": "MM007",
+    "title": null,
+    "rating": 1824
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ProRaPid-BOT",
+  "opponentName": "MM007"
+}
