@@ -1,0 +1,46 @@
+{
+  "id": "WFXnq9Cp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1626776226987,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2246
+  },
+  "black": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 2633,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "ProRaPid-BOT"
+}
