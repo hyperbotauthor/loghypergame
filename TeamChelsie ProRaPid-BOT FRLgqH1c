@@ -1,0 +1,45 @@
+{
+  "id": "FRLgqH1c",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1626844757129,
+  "white": {
+    "id": "teamchelsie",
+    "name": "TeamChelsie",
+    "title": "BOT",
+    "rating": 2451
+  },
+  "black": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 2668
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "TeamChelsie",
+  "opponentName": "ProRaPid-BOT"
+}
