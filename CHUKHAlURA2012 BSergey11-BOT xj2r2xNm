@@ -1,0 +1,46 @@
+{
+  "id": "xj2r2xNm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1626970027068,
+  "white": {
+    "id": "chukhalura2012",
+    "name": "CHUKHAlURA2012",
+    "title": null,
+    "rating": 1455
+  },
+  "black": {
+    "id": "bsergey11-bot",
+    "name": "BSergey11-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "CHUKHAlURA2012",
+  "opponentName": "BSergey11-BOT"
+}
