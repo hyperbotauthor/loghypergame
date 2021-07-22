@@ -1,0 +1,46 @@
+{
+  "id": "OhG7tdDT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1626967341158,
+  "white": {
+    "id": "reh5iby-bot",
+    "name": "Reh5iby-bot",
+    "title": "BOT",
+    "rating": 2177,
+    "provisional": true
+  },
+  "black": {
+    "id": "admete_bot",
+    "name": "admete_bot",
+    "title": "BOT",
+    "rating": 2139
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Reh5iby-bot",
+  "opponentName": "admete_bot"
+}
