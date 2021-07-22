@@ -1,0 +1,46 @@
+{
+  "id": "zLoMXtXv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1626963330710,
+  "white": {
+    "id": "kannan_ravikumar",
+    "name": "kANnaN_RAvIkUmAr",
+    "title": null,
+    "rating": 1685
+  },
+  "black": {
+    "id": "reh5iby-bot",
+    "name": "Reh5iby-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kANnaN_RAvIkUmAr",
+  "opponentName": "Reh5iby-bot"
+}
