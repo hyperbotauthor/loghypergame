@@ -1,0 +1,46 @@
+{
+  "id": "QIdswPPI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1626966503657,
+  "white": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 1919
+  },
+  "black": {
+    "id": "reh5iby-bot",
+    "name": "Reh5iby-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GarboBot",
+  "opponentName": "Reh5iby-bot"
+}
