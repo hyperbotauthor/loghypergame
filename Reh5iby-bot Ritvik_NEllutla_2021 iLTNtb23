@@ -1,0 +1,47 @@
+{
+  "id": "iLTNtb23",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1626963758649,
+  "white": {
+    "id": "reh5iby-bot",
+    "name": "Reh5iby-bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ritvik_nellutla_2021",
+    "name": "Ritvik_NEllutla_2021",
+    "title": null,
+    "rating": 1868,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Reh5iby-bot",
+  "opponentName": "Ritvik_NEllutla_2021"
+}
