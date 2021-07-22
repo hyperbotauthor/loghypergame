@@ -1,0 +1,46 @@
+{
+  "id": "NoXW5Rf0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1626968961764,
+  "white": {
+    "id": "rykolop3",
+    "name": "RykoloP3",
+    "title": null,
+    "rating": 1261
+  },
+  "black": {
+    "id": "bsergey11-bot",
+    "name": "BSergey11-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "RykoloP3",
+  "opponentName": "BSergey11-BOT"
+}
