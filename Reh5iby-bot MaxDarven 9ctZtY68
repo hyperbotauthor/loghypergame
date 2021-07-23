@@ -1,0 +1,46 @@
+{
+  "id": "9ctZtY68",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627030845398,
+  "white": {
+    "id": "reh5iby-bot",
+    "name": "Reh5iby-bot",
+    "title": "BOT",
+    "rating": 2224,
+    "provisional": true
+  },
+  "black": {
+    "id": "maxdarven",
+    "name": "MaxDarven",
+    "title": null,
+    "rating": 1421
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Reh5iby-bot",
+  "opponentName": "MaxDarven"
+}
