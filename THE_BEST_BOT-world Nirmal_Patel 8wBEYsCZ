@@ -1,0 +1,46 @@
+{
+  "id": "8wBEYsCZ",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1627146104541,
+  "white": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2184,
+    "provisional": true
+  },
+  "black": {
+    "id": "nirmal_patel",
+    "name": "Nirmal_Patel",
+    "title": null,
+    "rating": 1820
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_BEST_BOT-world",
+  "opponentName": "Nirmal_Patel"
+}
