@@ -1,0 +1,47 @@
+{
+  "id": "Ey67VxPA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627215219300,
+  "white": {
+    "id": "hrant_petrosyan_bot",
+    "name": "Hrant_Petrosyan_BOT",
+    "title": "BOT",
+    "rating": 1401,
+    "provisional": true
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2220,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Hrant_Petrosyan_BOT",
+  "opponentName": "THE_BEST_BOT-world"
+}
