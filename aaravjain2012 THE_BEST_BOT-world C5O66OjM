@@ -1,0 +1,48 @@
+{
+  "id": "C5O66OjM",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1627212149671,
+  "white": {
+    "id": "aaravjain2012",
+    "name": "aaravjain2012",
+    "title": null,
+    "rating": 1406,
+    "provisional": true
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2325,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "PWP6lORr"
+  },
+  "botName": "aaravjain2012",
+  "opponentName": "THE_BEST_BOT-world"
+}
