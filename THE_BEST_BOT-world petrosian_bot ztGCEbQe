@@ -1,0 +1,46 @@
+{
+  "id": "ztGCEbQe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627307794747,
+  "white": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 1679,
+    "provisional": true
+  },
+  "black": {
+    "id": "petrosian_bot",
+    "name": "petrosian_bot",
+    "title": "BOT",
+    "rating": 1089
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 d7d5 g2g3 d5e4",
+    "wtime": 59460,
+    "btime": 59100,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_BEST_BOT-world",
+  "opponentName": "petrosian_bot"
+}
