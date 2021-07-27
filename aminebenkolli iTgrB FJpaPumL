@@ -1,0 +1,46 @@
+{
+  "id": "FJpaPumL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627422501011,
+  "white": {
+    "id": "aminebenkolli",
+    "name": "aminebenkolli",
+    "title": null,
+    "rating": 1559
+  },
+  "black": {
+    "id": "itgrb",
+    "name": "iTgrB",
+    "title": "BOT",
+    "rating": 1849,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aminebenkolli",
+  "opponentName": "iTgrB"
+}
