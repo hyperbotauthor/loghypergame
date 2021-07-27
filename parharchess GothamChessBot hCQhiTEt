@@ -1,0 +1,46 @@
+{
+  "id": "hCQhiTEt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627413394508,
+  "white": {
+    "id": "parharchess",
+    "name": "parharchess",
+    "title": null,
+    "rating": 1350
+  },
+  "black": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "parharchess",
+  "opponentName": "GothamChessBot"
+}
