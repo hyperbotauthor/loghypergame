@@ -1,0 +1,47 @@
+{
+  "id": "h71FpqMo",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1627425022912,
+  "white": {
+    "id": "aminebenkolli",
+    "name": "aminebenkolli",
+    "title": null,
+    "rating": 1133,
+    "provisional": true
+  },
+  "black": {
+    "id": "itgrb",
+    "name": "iTgrB",
+    "title": "BOT",
+    "rating": 1282,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aminebenkolli",
+  "opponentName": "iTgrB"
+}
