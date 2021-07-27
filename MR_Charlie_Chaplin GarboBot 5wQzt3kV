@@ -1,0 +1,46 @@
+{
+  "id": "5wQzt3kV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627374274275,
+  "white": {
+    "id": "mr_charlie_chaplin",
+    "name": "MR_Charlie_Chaplin",
+    "title": "BOT",
+    "rating": 1959,
+    "provisional": true
+  },
+  "black": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 1907
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "MR_Charlie_Chaplin",
+  "opponentName": "GarboBot"
+}
