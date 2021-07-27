@@ -1,0 +1,45 @@
+{
+  "id": "avpmSvjU",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1627397785334,
+  "white": {
+    "id": "alorom06",
+    "name": "Alorom06",
+    "title": null,
+    "rating": 1513
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2204
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Alorom06",
+  "opponentName": "THE_BEST_BOT-world"
+}
