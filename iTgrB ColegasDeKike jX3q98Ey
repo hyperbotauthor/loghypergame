@@ -1,0 +1,46 @@
+{
+  "id": "jX3q98Ey",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1627424066368,
+  "white": {
+    "id": "itgrb",
+    "name": "iTgrB",
+    "title": "BOT",
+    "rating": 1923,
+    "provisional": true
+  },
+  "black": {
+    "id": "colegasdekike",
+    "name": "ColegasDeKike",
+    "title": "BOT",
+    "rating": 2381
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB",
+  "opponentName": "ColegasDeKike"
+}
