@@ -1,0 +1,46 @@
+{
+  "id": "dFqiM3kS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 5400000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1627487102677,
+  "white": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 1968,
+    "provisional": true
+  },
+  "black": {
+    "id": "sasha-2012",
+    "name": "SASHA-2012",
+    "title": null,
+    "rating": 1983
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 5400000,
+    "btime": 5400000,
+    "winc": 30000,
+    "binc": 30000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "ProRaPid-BOT",
+  "opponentName": "SASHA-2012"
+}
