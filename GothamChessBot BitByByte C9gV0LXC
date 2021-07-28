@@ -1,0 +1,46 @@
+{
+  "id": "C9gV0LXC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627476773786,
+  "white": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 2259,
+    "provisional": true
+  },
+  "black": {
+    "id": "bitbybyte",
+    "name": "BitByByte",
+    "title": "BOT",
+    "rating": 2400
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c1f4 c7c5 e2e3 d8b6",
+    "wtime": 305940,
+    "btime": 307570,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GothamChessBot",
+  "opponentName": "BitByByte"
+}
