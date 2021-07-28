@@ -1,0 +1,45 @@
+{
+  "id": "Yd0zr2sM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1627473514411,
+  "white": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 2026
+  },
+  "black": {
+    "id": "itgrb",
+    "name": "iTgrB",
+    "title": "BOT",
+    "rating": 2022
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "eubos",
+  "opponentName": "iTgrB"
+}
