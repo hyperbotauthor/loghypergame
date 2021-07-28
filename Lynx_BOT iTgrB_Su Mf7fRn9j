@@ -1,0 +1,46 @@
+{
+  "id": "Mf7fRn9j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627513013607,
+  "white": {
+    "id": "lynx_bot",
+    "name": "Lynx_BOT",
+    "title": "BOT",
+    "rating": 1838
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Lynx_BOT",
+  "opponentName": "iTgrB_Su"
+}
