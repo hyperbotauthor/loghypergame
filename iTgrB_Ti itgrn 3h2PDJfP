@@ -1,0 +1,46 @@
+{
+  "id": "3h2PDJfP",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1627431438993,
+  "white": {
+    "id": "itgrb_ti",
+    "name": "iTgrB_Ti",
+    "title": "BOT",
+    "rating": 1416,
+    "provisional": true
+  },
+  "black": {
+    "id": "itgrn",
+    "name": "itgrn",
+    "title": null,
+    "rating": 1399
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Ti",
+  "opponentName": "itgrn"
+}
