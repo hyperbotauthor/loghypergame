@@ -1,0 +1,43 @@
+{
+  "id": "SltLGSfX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1627481890928,
+  "white": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "yeoldwiz",
+    "name": "yeoldwiz",
+    "title": "BOT",
+    "rating": 1766
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172790000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "GothamChessBot",
+  "opponentName": "yeoldwiz"
+}
