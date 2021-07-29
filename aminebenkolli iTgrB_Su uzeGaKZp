@@ -1,0 +1,46 @@
+{
+  "id": "uzeGaKZp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627520734837,
+  "white": {
+    "id": "aminebenkolli",
+    "name": "aminebenkolli",
+    "title": null,
+    "rating": 1682
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2329,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aminebenkolli",
+  "opponentName": "iTgrB_Su"
+}
