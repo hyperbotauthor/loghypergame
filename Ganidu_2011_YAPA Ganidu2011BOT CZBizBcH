@@ -1,0 +1,47 @@
+{
+  "id": "CZBizBcH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627560354195,
+  "white": {
+    "id": "ganidu_2011_yapa",
+    "name": "Ganidu_2011_YAPA",
+    "title": null,
+    "rating": 1631,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "Ganidu2011BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ganidu_2011_YAPA",
+  "opponentName": "Ganidu2011BOT"
+}
