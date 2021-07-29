@@ -1,0 +1,45 @@
+{
+  "id": "zMHJnPau",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627541304237,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 2046
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1801
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 26910,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "ChessChildren"
+}
