@@ -1,0 +1,46 @@
+{
+  "id": "Q9tEyZnn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1627560073407,
+  "white": {
+    "id": "ganidu2011bot",
+    "name": "Ganidu2011BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu_2011_yapa",
+    "name": "Ganidu_2011_YAPA",
+    "title": null,
+    "rating": 1929
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ganidu2011BOT",
+  "opponentName": "Ganidu_2011_YAPA"
+}
