@@ -1,0 +1,46 @@
+{
+  "id": "FpFd6nLc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627575639469,
+  "white": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1288,
+    "provisional": true
+  },
+  "black": {
+    "id": "tirth789",
+    "name": "Tirth789",
+    "title": null,
+    "rating": 1624
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aarav_strongestBOT",
+  "opponentName": "Tirth789"
+}
