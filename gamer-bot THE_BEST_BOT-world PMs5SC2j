@@ -38,7 +38,7 @@
     "binc": 4000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "gamer-bot",
   "opponentName": "THE_BEST_BOT-world"
