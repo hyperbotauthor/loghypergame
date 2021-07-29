@@ -1,0 +1,46 @@
+{
+  "id": "3ILHIWMX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627560864766,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1932
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2473,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "iTgrB_Su"
+}
