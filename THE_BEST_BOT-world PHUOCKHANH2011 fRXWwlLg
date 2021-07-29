@@ -1,0 +1,46 @@
+{
+  "id": "fRXWwlLg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627564092264,
+  "white": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 1753,
+    "provisional": true
+  },
+  "black": {
+    "id": "phuockhanh2011",
+    "name": "PHUOCKHANH2011",
+    "title": null,
+    "rating": 1125
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3 e7e5 g1f3 f7f5",
+    "wtime": 29930,
+    "btime": 29330,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_BEST_BOT-world",
+  "opponentName": "PHUOCKHANH2011"
+}
