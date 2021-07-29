@@ -1,0 +1,47 @@
+{
+  "id": "Fw7ZPlkj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627578861091,
+  "white": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2498,
+    "provisional": true
+  },
+  "black": {
+    "id": "suzakuuuff",
+    "name": "suzakuuuff",
+    "title": null,
+    "rating": 1775,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 d1f3 b8c6 f1c4 b7b6",
+    "wtime": 889920,
+    "btime": 899010,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Su",
+  "opponentName": "suzakuuuff"
+}
