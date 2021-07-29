@@ -1,0 +1,46 @@
+{
+  "id": "fbYVXWff",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1627537648706,
+  "white": {
+    "id": "binuka-2010",
+    "name": "Binuka-2010",
+    "title": "BOT",
+    "rating": 1525,
+    "provisional": true
+  },
+  "black": {
+    "id": "ivanzaickin13",
+    "name": "IVANZAICKIN13",
+    "title": null,
+    "rating": 1537
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 d2d3",
+    "wtime": 10978180,
+    "btime": 10799440,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Binuka-2010",
+  "opponentName": "IVANZAICKIN13"
+}
