@@ -1,0 +1,45 @@
+{
+  "id": "GyR09ZXD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627564555087,
+  "white": {
+    "id": "kiddyplayer",
+    "name": "kiddyplayer",
+    "title": null,
+    "rating": 2012
+  },
+  "black": {
+    "id": "gamer-bot",
+    "name": "gamer-bot",
+    "title": "BOT",
+    "rating": 2156
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "kiddyplayer",
+  "opponentName": "gamer-bot"
+}
