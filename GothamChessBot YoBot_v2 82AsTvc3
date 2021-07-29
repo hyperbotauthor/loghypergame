@@ -1,0 +1,45 @@
+{
+  "id": "82AsTvc3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627576167071,
+  "white": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 2265
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2493
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c1f4 c7c5 e2e3 d8b6",
+    "wtime": 301960,
+    "btime": 306000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GothamChessBot",
+  "opponentName": "YoBot_v2"
+}
