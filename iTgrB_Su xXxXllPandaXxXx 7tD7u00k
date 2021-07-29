@@ -1,0 +1,46 @@
+{
+  "id": "7tD7u00k",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627521551465,
+  "white": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2408,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxxxllpandaxxxx",
+    "name": "xXxXllPandaXxXx",
+    "title": null,
+    "rating": 1601
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 d1f3",
+    "wtime": 901010,
+    "btime": 898480,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Su",
+  "opponentName": "xXxXllPandaXxXx"
+}
