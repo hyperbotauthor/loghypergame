@@ -1,0 +1,46 @@
+{
+  "id": "cvAYEZV7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627553653360,
+  "white": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2387,
+    "provisional": true
+  },
+  "black": {
+    "id": "virutor",
+    "name": "Virutor",
+    "title": "BOT",
+    "rating": 1978
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Su",
+  "opponentName": "Virutor"
+}
