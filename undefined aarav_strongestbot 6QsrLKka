@@ -1,0 +1,42 @@
+{
+  "id": "6QsrLKka",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1627530054255,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 b1c3",
+    "wtime": 606790,
+    "btime": 556800,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "aarav_strongestbot"
+}
