@@ -1,0 +1,44 @@
+{
+  "id": "iJkuOvMs",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1627540923691,
+  "white": {
+    "id": "sahana_chesss",
+    "name": "Sahana_chesss",
+    "title": null,
+    "rating": 958,
+    "provisional": true
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sahana_chesss",
+  "opponentName": "aarav_strongestBOT"
+}
