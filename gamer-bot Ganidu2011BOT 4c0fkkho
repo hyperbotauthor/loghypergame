@@ -1,0 +1,47 @@
+{
+  "id": "4c0fkkho",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627617825787,
+  "white": {
+    "id": "gamer-bot",
+    "name": "gamer-bot",
+    "title": "BOT",
+    "rating": 2576,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "Ganidu2011BOT",
+    "title": "BOT",
+    "rating": 1944,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "gamer-bot",
+  "opponentName": "Ganidu2011BOT"
+}
