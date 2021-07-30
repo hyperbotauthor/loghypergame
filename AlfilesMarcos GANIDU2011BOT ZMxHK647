@@ -1,0 +1,46 @@
+{
+  "id": "ZMxHK647",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627645830894,
+  "white": {
+    "id": "alfilesmarcos",
+    "name": "AlfilesMarcos",
+    "title": null,
+    "rating": 1396
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 1832,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "AlfilesMarcos",
+  "opponentName": "GANIDU2011BOT"
+}
