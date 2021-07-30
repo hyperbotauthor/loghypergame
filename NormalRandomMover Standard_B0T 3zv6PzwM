@@ -1,0 +1,46 @@
+{
+  "id": "3zv6PzwM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627604239324,
+  "white": {
+    "id": "normalrandommover",
+    "name": "NormalRandomMover",
+    "title": "BOT",
+    "rating": 1484,
+    "provisional": true
+  },
+  "black": {
+    "id": "standard_b0t",
+    "name": "Standard_B0T",
+    "title": "BOT",
+    "rating": 2304
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c1f4 g7g6 e2e3",
+    "wtime": 358510,
+    "btime": 357650,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NormalRandomMover",
+  "opponentName": "Standard_B0T"
+}
