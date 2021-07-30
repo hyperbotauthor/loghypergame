@@ -1,0 +1,47 @@
+{
+  "id": "v6OlxksC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627646000454,
+  "white": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 2390,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BOT-RED-KING_NIRINDU",
+  "opponentName": "GANIDU2011BOT"
+}
