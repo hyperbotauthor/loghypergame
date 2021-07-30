@@ -1,0 +1,47 @@
+{
+  "id": "PoQkUkCP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1627641982296,
+  "white": {
+    "id": "jvsgaming2020",
+    "name": "jvsgaming2020",
+    "title": null,
+    "rating": 1503,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 2383,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "jvsgaming2020",
+  "opponentName": "GANIDU2011BOT"
+}
