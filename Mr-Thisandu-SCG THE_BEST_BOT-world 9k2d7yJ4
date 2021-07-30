@@ -1,0 +1,47 @@
+{
+  "id": "9k2d7yJ4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627645944549,
+  "white": {
+    "id": "mr-thisandu-scg",
+    "name": "Mr-Thisandu-SCG",
+    "title": "BOT",
+    "rating": 1486,
+    "provisional": true
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2448,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mr-Thisandu-SCG",
+  "opponentName": "THE_BEST_BOT-world"
+}
