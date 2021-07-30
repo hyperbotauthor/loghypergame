@@ -1,0 +1,46 @@
+{
+  "id": "w07Gapg9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627654293079,
+  "white": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 2376,
+    "provisional": true
+  },
+  "black": {
+    "id": "goldensphere",
+    "name": "goldensphere",
+    "title": "BOT",
+    "rating": 2427
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c1f4 g8f6 e2e3 c7c5",
+    "wtime": 585230,
+    "btime": 598760,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GothamChessBot",
+  "opponentName": "goldensphere"
+}
