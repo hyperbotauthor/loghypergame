@@ -1,0 +1,46 @@
+{
+  "id": "Bk2i94Kv",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1627643392916,
+  "white": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 1248,
+    "provisional": true
+  },
+  "black": {
+    "id": "harrypotter_7",
+    "name": "HarryPotter_7",
+    "title": null,
+    "rating": 1478
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GANIDU2011BOT",
+  "opponentName": "HarryPotter_7"
+}
