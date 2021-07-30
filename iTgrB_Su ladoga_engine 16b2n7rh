@@ -1,0 +1,46 @@
+{
+  "id": "16b2n7rh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627603214422,
+  "white": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2554,
+    "provisional": true
+  },
+  "black": {
+    "id": "ladoga_engine",
+    "name": "ladoga_engine",
+    "title": "BOT",
+    "rating": 1521
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Su",
+  "opponentName": "ladoga_engine"
+}
