@@ -1,0 +1,47 @@
+{
+  "id": "2ZzYc5iH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627650302321,
+  "white": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1643,
+    "provisional": true
+  },
+  "black": {
+    "id": "acc_forever",
+    "name": "ACC_Forever",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aarav_strongestBOT",
+  "opponentName": "ACC_Forever"
+}
