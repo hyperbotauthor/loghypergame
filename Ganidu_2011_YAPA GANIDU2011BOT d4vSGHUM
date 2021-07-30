@@ -1,0 +1,47 @@
+{
+  "id": "d4vSGHUM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627638446995,
+  "white": {
+    "id": "ganidu_2011_yapa",
+    "name": "Ganidu_2011_YAPA",
+    "title": null,
+    "rating": 1631,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ganidu_2011_YAPA",
+  "opponentName": "GANIDU2011BOT"
+}
