@@ -1,0 +1,46 @@
+{
+  "id": "ScpEjBXS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 20000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627655356669,
+  "white": {
+    "id": "gothamchessbot",
+    "name": "GothamChessBot",
+    "title": "BOT",
+    "rating": 2245,
+    "provisional": true
+  },
+  "black": {
+    "id": "goldensphere",
+    "name": "goldensphere",
+    "title": "BOT",
+    "rating": 2444
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c1f4 e7e6 e2e3",
+    "wtime": 634590,
+    "btime": 618500,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GothamChessBot",
+  "opponentName": "goldensphere"
+}
