@@ -1,0 +1,46 @@
+{
+  "id": "S0wVbBAF",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1627654507775,
+  "white": {
+    "id": "administracionbot",
+    "name": "Administracionbot",
+    "title": "BOT",
+    "rating": 1701,
+    "provisional": true
+  },
+  "black": {
+    "id": "emmanuelbernal1234",
+    "name": "emmanuelbernal1234",
+    "title": null,
+    "rating": 1438
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Administracionbot",
+  "opponentName": "emmanuelbernal1234"
+}
