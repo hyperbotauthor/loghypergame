@@ -1,0 +1,46 @@
+{
+  "id": "TfhjLlPW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627626533297,
+  "white": {
+    "id": "efremovart",
+    "name": "EfremovArt",
+    "title": null,
+    "rating": 1719
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "Ganidu2011BOT",
+    "title": "BOT",
+    "rating": 2281,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 d7d5 d2d4",
+    "wtime": 599820,
+    "btime": 581940,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "EfremovArt",
+  "opponentName": "Ganidu2011BOT"
+}
