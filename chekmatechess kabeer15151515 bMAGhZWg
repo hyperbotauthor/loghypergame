@@ -1,0 +1,46 @@
+{
+  "id": "bMAGhZWg",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 780000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1627626760939,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 1489,
+    "provisional": true
+  },
+  "black": {
+    "id": "kabeer15151515",
+    "name": "kabeer15151515",
+    "title": null,
+    "rating": 1271
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 780000,
+    "btime": 780000,
+    "winc": 14000,
+    "binc": 14000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "kabeer15151515"
+}
