@@ -1,0 +1,46 @@
+{
+  "id": "9yeaAkeJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627604102738,
+  "white": {
+    "id": "normalrandommover",
+    "name": "NormalRandomMover",
+    "title": "BOT",
+    "rating": 1191,
+    "provisional": true
+  },
+  "black": {
+    "id": "standard_b0t",
+    "name": "Standard_B0T",
+    "title": "BOT",
+    "rating": 2163
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NormalRandomMover",
+  "opponentName": "Standard_B0T"
+}
