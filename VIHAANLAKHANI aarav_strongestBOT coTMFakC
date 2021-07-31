@@ -1,0 +1,44 @@
+{
+  "id": "coTMFakC",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1627707275882,
+  "white": {
+    "id": "vihaanlakhani",
+    "name": "VIHAANLAKHANI",
+    "title": null,
+    "rating": 789,
+    "provisional": true
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 872,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "VIHAANLAKHANI",
+  "opponentName": "aarav_strongestBOT"
+}
