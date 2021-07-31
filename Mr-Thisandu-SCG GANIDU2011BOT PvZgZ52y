@@ -1,0 +1,47 @@
+{
+  "id": "PvZgZ52y",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1627714561183,
+  "white": {
+    "id": "mr-thisandu-scg",
+    "name": "Mr-Thisandu-SCG",
+    "title": "BOT",
+    "rating": 1478,
+    "provisional": true
+  },
+  "black": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 2333,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 g1f3 c7c5 b1c3 b8c6 f1c4",
+    "wtime": 594670,
+    "btime": 578330,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Mr-Thisandu-SCG",
+  "opponentName": "GANIDU2011BOT"
+}
