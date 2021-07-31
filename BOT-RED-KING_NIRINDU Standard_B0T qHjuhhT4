@@ -1,0 +1,46 @@
+{
+  "id": "qHjuhhT4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627730236719,
+  "white": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1895,
+    "provisional": true
+  },
+  "black": {
+    "id": "standard_b0t",
+    "name": "Standard_B0T",
+    "title": "BOT",
+    "rating": 2145
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BOT-RED-KING_NIRINDU",
+  "opponentName": "Standard_B0T"
+}
