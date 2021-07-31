@@ -1,0 +1,46 @@
+{
+  "id": "QirYi2Zo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627741797142,
+  "white": {
+    "id": "nirindu_uthpala",
+    "name": "NIRINDU_UTHPALA",
+    "title": null,
+    "rating": 1232
+  },
+  "black": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1630,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NIRINDU_UTHPALA",
+  "opponentName": "BOT-RED-KING_NIRINDU"
+}
