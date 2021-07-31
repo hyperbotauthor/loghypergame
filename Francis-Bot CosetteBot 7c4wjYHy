@@ -1,0 +1,46 @@
+{
+  "id": "7c4wjYHy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627764014488,
+  "white": {
+    "id": "francis-bot",
+    "name": "Francis-Bot",
+    "title": "BOT",
+    "rating": 2093,
+    "provisional": true
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2101
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 e7e6",
+    "wtime": 116640,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Francis-Bot",
+  "opponentName": "CosetteBot"
+}
