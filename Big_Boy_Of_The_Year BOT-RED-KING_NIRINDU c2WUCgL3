@@ -1,0 +1,46 @@
+{
+  "id": "c2WUCgL3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627733581746,
+  "white": {
+    "id": "big_boy_of_the_year",
+    "name": "Big_Boy_Of_The_Year",
+    "title": null,
+    "rating": 1901
+  },
+  "black": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1900,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Big_Boy_Of_The_Year",
+  "opponentName": "BOT-RED-KING_NIRINDU"
+}
