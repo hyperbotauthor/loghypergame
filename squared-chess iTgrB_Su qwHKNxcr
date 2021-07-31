@@ -1,0 +1,46 @@
+{
+  "id": "qwHKNxcr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapide"
+  },
+  "rated": true,
+  "createdAt": 1627775827172,
+  "white": {
+    "id": "squared-chess",
+    "name": "squared-chess",
+    "title": "BOT",
+    "rating": 1985
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2559,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "squared-chess",
+  "opponentName": "iTgrB_Su"
+}
