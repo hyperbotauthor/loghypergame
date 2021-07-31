@@ -1,0 +1,43 @@
+{
+  "id": "sBP2HMD5",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1627707011300,
+  "white": {
+    "id": "vihaanlakhani",
+    "name": "VIHAANLAKHANI",
+    "title": null,
+    "rating": 1437
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "qrbnkrnb/pppppppp/8/8/8/8/PPPPPPPP/QRBNKRNB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "VIHAANLAKHANI",
+  "opponentName": "aarav_strongestBOT"
+}
