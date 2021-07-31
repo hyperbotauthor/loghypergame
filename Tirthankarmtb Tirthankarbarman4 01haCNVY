@@ -1,0 +1,43 @@
+{
+  "id": "01haCNVY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1626174196133,
+  "white": {
+    "id": "tirthankarmtb",
+    "name": "Tirthankarmtb",
+    "title": null,
+    "rating": 1722
+  },
+  "black": {
+    "id": "tirthankarbarman4",
+    "name": "Tirthankarbarman4",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g7g5 f1c4 c7c5 f3g5 f8h6 d1f3 d8g5 f3f7 e8d8 g2g3 d7d6 c4b5 g5g7 f7e8 d8c7 d2d3 g7f6 h1f1 h6f8 c1d2",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tirthankarmtb",
+  "opponentName": "Tirthankarbarman4"
+}
