@@ -1,0 +1,46 @@
+{
+  "id": "ZZdjQSh1",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1627830881656,
+  "white": {
+    "id": "hyperbullets11",
+    "name": "HyperBullets11",
+    "title": null,
+    "rating": 1703
+  },
+  "black": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HyperBullets11",
+  "opponentName": "HyperComputer11"
+}
