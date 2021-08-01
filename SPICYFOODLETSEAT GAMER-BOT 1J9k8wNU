@@ -1,0 +1,45 @@
+{
+  "id": "1J9k8wNU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627794975948,
+  "white": {
+    "id": "spicyfoodletseat",
+    "name": "SPICYFOODLETSEAT",
+    "title": null,
+    "rating": 2121
+  },
+  "black": {
+    "id": "gamer-bot",
+    "name": "GAMER-BOT",
+    "title": "BOT",
+    "rating": 2172
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SPICYFOODLETSEAT",
+  "opponentName": "GAMER-BOT"
+}
