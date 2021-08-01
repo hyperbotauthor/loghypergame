@@ -1,0 +1,46 @@
+{
+  "id": "K2RjwjJk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627829297159,
+  "white": {
+    "id": "sl-super-bot",
+    "name": "SL-SUPER-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1887
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SL-SUPER-BOT",
+  "opponentName": "BOT-RED-KING_NIRINDU"
+}
