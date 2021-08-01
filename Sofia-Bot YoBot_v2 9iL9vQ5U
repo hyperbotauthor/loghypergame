@@ -1,0 +1,46 @@
+{
+  "id": "9iL9vQ5U",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627851874277,
+  "white": {
+    "id": "sofia-bot",
+    "name": "Sofia-Bot",
+    "title": "BOT",
+    "rating": 2207,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2489
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c1f4 c7c5 e2e3 d8b6",
+    "wtime": 418460,
+    "btime": 422000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sofia-Bot",
+  "opponentName": "YoBot_v2"
+}
