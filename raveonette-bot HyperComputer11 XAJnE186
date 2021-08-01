@@ -1,0 +1,46 @@
+{
+  "id": "XAJnE186",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627851544815,
+  "white": {
+    "id": "raveonette-bot",
+    "name": "raveonette-bot",
+    "title": "BOT",
+    "rating": 2309
+  },
+  "black": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 2372,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "raveonette-bot",
+  "opponentName": "HyperComputer11"
+}
