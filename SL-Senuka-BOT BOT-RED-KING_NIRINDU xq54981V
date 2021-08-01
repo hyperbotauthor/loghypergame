@@ -1,0 +1,46 @@
+{
+  "id": "xq54981V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1627799428600,
+  "white": {
+    "id": "sl-senuka-bot",
+    "name": "SL-Senuka-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1873
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SL-Senuka-BOT",
+  "opponentName": "BOT-RED-KING_NIRINDU"
+}
