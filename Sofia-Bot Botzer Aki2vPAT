@@ -1,0 +1,46 @@
+{
+  "id": "Aki2vPAT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627854323519,
+  "white": {
+    "id": "sofia-bot",
+    "name": "Sofia-Bot",
+    "title": "BOT",
+    "rating": 2149,
+    "provisional": true
+  },
+  "black": {
+    "id": "botzer",
+    "name": "Botzer",
+    "title": "BOT",
+    "rating": 2323
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c1f4 e7e6",
+    "wtime": 408900,
+    "btime": 414440,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sofia-Bot",
+  "opponentName": "Botzer"
+}
