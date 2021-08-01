@@ -1,0 +1,46 @@
+{
+  "id": "lXGKVew7",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1627837727949,
+  "white": {
+    "id": "chessmaster_bot_3020",
+    "name": "Chessmaster_BOT_3020",
+    "title": "BOT",
+    "rating": 2366,
+    "provisional": true
+  },
+  "black": {
+    "id": "unlnownchessmaster1",
+    "name": "UnlnownChessmaster1",
+    "title": null,
+    "rating": 1978
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Chessmaster_BOT_3020",
+  "opponentName": "UnlnownChessmaster1"
+}
