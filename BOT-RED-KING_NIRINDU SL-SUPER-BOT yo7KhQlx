@@ -1,0 +1,44 @@
+{
+  "id": "yo7KhQlx",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1627831314369,
+  "white": {
+    "id": "bot-red-king_nirindu",
+    "name": "BOT-RED-KING_NIRINDU",
+    "title": "BOT",
+    "rating": 1093,
+    "provisional": true
+  },
+  "black": {
+    "id": "sl-super-bot",
+    "name": "SL-SUPER-BOT",
+    "title": "BOT",
+    "rating": 1619,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86394000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "BOT-RED-KING_NIRINDU",
+  "opponentName": "SL-SUPER-BOT"
+}
