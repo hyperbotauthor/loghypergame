@@ -1,0 +1,47 @@
+{
+  "id": "z7mxHOjk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapide"
+  },
+  "rated": true,
+  "createdAt": 1627786632250,
+  "white": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 2598,
+    "provisional": true
+  },
+  "black": {
+    "id": "adel17",
+    "name": "adel17",
+    "title": null,
+    "rating": 2019,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "iTgrB_Su",
+  "opponentName": "adel17"
+}
