@@ -1,0 +1,46 @@
+{
+  "id": "KEt0SVQo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627871376324,
+  "white": {
+    "id": "unlnownchessmaster1",
+    "name": "UnlnownChessmaster1",
+    "title": null,
+    "rating": 1658
+  },
+  "black": {
+    "id": "chessmaster_bot_3020",
+    "name": "Chessmaster_BOT_3020",
+    "title": "BOT",
+    "rating": 1446,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "UnlnownChessmaster1",
+  "opponentName": "Chessmaster_BOT_3020"
+}
