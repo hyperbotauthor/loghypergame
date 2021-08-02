@@ -1,0 +1,47 @@
+{
+  "id": "J8xqQtuE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1627867749859,
+  "white": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 893,
+    "provisional": true
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 1680,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 b7b6 h2h4 c8b7 h1h3 b7g2 h3e3 g2f1 e3e5",
+    "wtime": 316000,
+    "btime": 308770,
+    "winc": 4000,
+    "binc": 4000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SxRandom",
+  "opponentName": "iTgrB_Su"
+}
