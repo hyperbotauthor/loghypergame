@@ -1,0 +1,45 @@
+{
+  "id": "CUgIiOHu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627896056671,
+  "white": {
+    "id": "omethr11",
+    "name": "Omethr11",
+    "title": null,
+    "rating": 1685
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 2144
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Omethr11",
+  "opponentName": "aarav_strongestBOT"
+}
