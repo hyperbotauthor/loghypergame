@@ -1,0 +1,46 @@
+{
+  "id": "9QGxTeyg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627868107452,
+  "white": {
+    "id": "wgpofficial",
+    "name": "WGPOfficial",
+    "title": "BOT",
+    "rating": 2566
+  },
+  "black": {
+    "id": "itgrb_su",
+    "name": "iTgrB_Su",
+    "title": "BOT",
+    "rating": 1846,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b7b6 d2d4",
+    "wtime": 31000,
+    "btime": 28380,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "WGPOfficial",
+  "opponentName": "iTgrB_Su"
+}
