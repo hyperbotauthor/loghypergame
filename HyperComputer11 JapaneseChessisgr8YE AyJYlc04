@@ -1,0 +1,46 @@
+{
+  "id": "AyJYlc04",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1627884686294,
+  "white": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 1894,
+    "provisional": true
+  },
+  "black": {
+    "id": "japanesechessisgr8ye",
+    "name": "JapaneseChessisgr8YE",
+    "title": null,
+    "rating": 1727
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HyperComputer11",
+  "opponentName": "JapaneseChessisgr8YE"
+}
