@@ -1,0 +1,46 @@
+{
+  "id": "3gsJct49",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1627893962841,
+  "white": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 2110,
+    "provisional": true
+  },
+  "black": {
+    "id": "pengxiao_zhu",
+    "name": "PeNgXiAo_ZhU",
+    "title": null,
+    "rating": 1887
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HyperComputer11",
+  "opponentName": "PeNgXiAo_ZhU"
+}
