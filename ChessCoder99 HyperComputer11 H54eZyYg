@@ -1,0 +1,44 @@
+{
+  "id": "H54eZyYg",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1627912302003,
+  "white": {
+    "id": "chesscoder99",
+    "name": "ChessCoder99",
+    "title": null,
+    "rating": 1690
+  },
+  "black": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 2110,
+    "provisional": true
+  },
+  "initialFen": "rnb1kbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessCoder99",
+  "opponentName": "HyperComputer11"
+}
