@@ -1,0 +1,44 @@
+{
+  "id": "ck9IcdGS",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1627882263641,
+  "white": {
+    "id": "rishab_denkanikota",
+    "name": "Rishab_Denkanikota",
+    "title": null,
+    "rating": 981
+  },
+  "black": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "4k3/8/8/8/8/8/4P3/4K3 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Rishab_Denkanikota",
+  "opponentName": "HyperComputer11"
+}
