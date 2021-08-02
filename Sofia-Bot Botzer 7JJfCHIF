@@ -1,0 +1,47 @@
+{
+  "id": "7JJfCHIF",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1627913001944,
+  "white": {
+    "id": "sofia-bot",
+    "name": "Sofia-Bot",
+    "title": "BOT",
+    "rating": 1373,
+    "provisional": true
+  },
+  "black": {
+    "id": "botzer",
+    "name": "Botzer",
+    "title": "BOT",
+    "rating": 1763,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "Sofia-Bot",
+  "opponentName": "Botzer"
+}
