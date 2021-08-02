@@ -1,0 +1,42 @@
+{
+  "id": "L512EtSN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1627880854569,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "chistiy_perec",
+    "name": "CHISTIY_PEREC",
+    "title": "BOT",
+    "rating": 1496,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "CHISTIY_PEREC"
+}
