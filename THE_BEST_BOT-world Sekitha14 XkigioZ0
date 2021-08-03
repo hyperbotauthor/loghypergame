@@ -1,0 +1,46 @@
+{
+  "id": "XkigioZ0",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1627972540662,
+  "white": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2183
+  },
+  "black": {
+    "id": "sekitha14",
+    "name": "Sekitha14",
+    "title": null,
+    "rating": 1900
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "TzhGm1GP"
+  },
+  "botName": "THE_BEST_BOT-world",
+  "opponentName": "Sekitha14"
+}
