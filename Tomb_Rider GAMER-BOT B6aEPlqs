@@ -1,0 +1,47 @@
+{
+  "id": "B6aEPlqs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1627993688429,
+  "white": {
+    "id": "tomb_rider",
+    "name": "Tomb_Rider",
+    "title": null,
+    "rating": 1798,
+    "provisional": true
+  },
+  "black": {
+    "id": "gamer-bot",
+    "name": "GAMER-BOT",
+    "title": "BOT",
+    "rating": 2401,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Tomb_Rider",
+  "opponentName": "GAMER-BOT"
+}
