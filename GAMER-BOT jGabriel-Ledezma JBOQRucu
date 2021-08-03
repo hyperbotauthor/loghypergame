@@ -1,0 +1,46 @@
+{
+  "id": "JBOQRucu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1627968303804,
+  "white": {
+    "id": "gamer-bot",
+    "name": "GAMER-BOT",
+    "title": "BOT",
+    "rating": 1636,
+    "provisional": true
+  },
+  "black": {
+    "id": "jgabriel-ledezma",
+    "name": "jGabriel-Ledezma",
+    "title": "FM",
+    "rating": 2278
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GAMER-BOT",
+  "opponentName": "jGabriel-Ledezma"
+}
