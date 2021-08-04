@@ -1,0 +1,47 @@
+{
+  "id": "TnuuaqPu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1628097566691,
+  "white": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 1563,
+    "provisional": true
+  },
+  "black": {
+    "id": "mordinate_solve",
+    "name": "Mordinate_solve",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GANIDU2011BOT",
+  "opponentName": "Mordinate_solve"
+}
