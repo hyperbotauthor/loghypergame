@@ -1,0 +1,42 @@
+{
+  "id": "1EV73EEw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1628087763513,
+  "white": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 2105,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "HyperComputer11"
+}
