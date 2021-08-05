@@ -1,0 +1,44 @@
+{
+  "id": "ZEDWwSRH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1626169129963,
+  "white": {
+    "id": "aadita1",
+    "name": "Aadita1",
+    "title": null,
+    "rating": 1455,
+    "provisional": true
+  },
+  "black": {
+    "id": "rishab_bindal",
+    "name": "Rishab_Bindal",
+    "title": "BOT",
+    "rating": 1649,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 e7e6 b1c3 c7c6 e2e4 d5e4 c3e4 g8f6 e4f6 d8f6 g1f3 f8b4 c1d2 b4d2 d1d2 b7b6 f1d3 c8b7",
+    "wtime": 1189982000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Aadita1",
+  "opponentName": "Rishab_Bindal"
+}
