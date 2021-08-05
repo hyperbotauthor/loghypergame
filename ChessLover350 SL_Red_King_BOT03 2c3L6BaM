@@ -1,0 +1,47 @@
+{
+  "id": "2c3L6BaM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628157555232,
+  "white": {
+    "id": "chesslover350",
+    "name": "ChessLover350",
+    "title": "BOT",
+    "rating": 1284,
+    "provisional": true
+  },
+  "black": {
+    "id": "sl_red_king_bot03",
+    "name": "SL_Red_King_BOT03",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessLover350",
+  "opponentName": "SL_Red_King_BOT03"
+}
