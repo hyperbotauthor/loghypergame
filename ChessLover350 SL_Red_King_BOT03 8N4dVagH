@@ -1,0 +1,47 @@
+{
+  "id": "8N4dVagH",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1628158388995,
+  "white": {
+    "id": "chesslover350",
+    "name": "ChessLover350",
+    "title": "BOT",
+    "rating": 1441,
+    "provisional": true
+  },
+  "black": {
+    "id": "sl_red_king_bot03",
+    "name": "SL_Red_King_BOT03",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ChessLover350",
+  "opponentName": "SL_Red_King_BOT03"
+}
