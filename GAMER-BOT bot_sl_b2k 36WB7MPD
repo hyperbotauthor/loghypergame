@@ -1,0 +1,45 @@
+{
+  "id": "36WB7MPD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628132746731,
+  "white": {
+    "id": "gamer-bot",
+    "name": "GAMER-BOT",
+    "title": "BOT",
+    "rating": 2079
+  },
+  "black": {
+    "id": "bot_sl_b2k",
+    "name": "bot_sl_b2k",
+    "title": "BOT",
+    "rating": 2234
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GAMER-BOT",
+  "opponentName": "bot_sl_b2k"
+}
