@@ -1,0 +1,39 @@
+{
+  "id": "ZYqa6WFh",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1628145471964,
+  "white": {
+    "aiLevel": 7
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 2326
+  },
+  "initialFen": "8/3kr3/2pq4/8/4QP2/2RK4/8/8 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4d4",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "aarav_strongestBOT"
+}
