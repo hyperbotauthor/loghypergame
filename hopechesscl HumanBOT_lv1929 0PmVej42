@@ -1,0 +1,42 @@
+{
+  "id": "0PmVej42",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1628165704570,
+  "white": {
+    "id": "hopechesscl",
+    "name": "hopechesscl",
+    "title": null,
+    "rating": 2063
+  },
+  "black": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1747
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86395000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "hopechesscl",
+  "opponentName": "HumanBOT_lv1929"
+}
