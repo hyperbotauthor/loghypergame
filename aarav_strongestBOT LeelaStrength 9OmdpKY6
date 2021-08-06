@@ -1,0 +1,46 @@
+{
+  "id": "9OmdpKY6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1628224571622,
+  "white": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 2185
+  },
+  "black": {
+    "id": "leelastrength",
+    "name": "LeelaStrength",
+    "title": "BOT",
+    "rating": 2397,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 14000,
+    "binc": 14000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "aarav_strongestBOT",
+  "opponentName": "LeelaStrength"
+}
