@@ -1,0 +1,46 @@
+{
+  "id": "E0zkmfZ9",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1628225120896,
+  "white": {
+    "id": "ganidu2011bot",
+    "name": "GANIDU2011BOT",
+    "title": "BOT",
+    "rating": 1540,
+    "provisional": true
+  },
+  "black": {
+    "id": "bestindianplayer",
+    "name": "BestIndianplayer",
+    "title": null,
+    "rating": 1509
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "GANIDU2011BOT",
+  "opponentName": "BestIndianplayer"
+}
