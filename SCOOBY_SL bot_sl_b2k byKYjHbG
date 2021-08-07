@@ -1,0 +1,46 @@
+{
+  "id": "byKYjHbG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628353352362,
+  "white": {
+    "id": "scooby_sl",
+    "name": "SCOOBY_SL",
+    "title": null,
+    "rating": 1715,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_sl_b2k",
+    "name": "bot_sl_b2k",
+    "title": "BOT",
+    "rating": 2251
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SCOOBY_SL",
+  "opponentName": "bot_sl_b2k"
+}
