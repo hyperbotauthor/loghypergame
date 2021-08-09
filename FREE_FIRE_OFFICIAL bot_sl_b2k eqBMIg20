@@ -1,0 +1,46 @@
+{
+  "id": "eqBMIg20",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1628493794252,
+  "white": {
+    "id": "free_fire_official",
+    "name": "FREE_FIRE_OFFICIAL",
+    "title": null,
+    "rating": 1443,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_sl_b2k",
+    "name": "bot_sl_b2k",
+    "title": "BOT",
+    "rating": 1598
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "FREE_FIRE_OFFICIAL",
+  "opponentName": "bot_sl_b2k"
+}
