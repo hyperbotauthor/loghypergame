@@ -1,0 +1,46 @@
+{
+  "id": "8OeOMgLo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628613472159,
+  "white": {
+    "id": "aaravjain2012",
+    "name": "aaravjain2012",
+    "title": null,
+    "rating": 1673
+  },
+  "black": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 2265,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted"
+  },
+  "botName": "aaravjain2012",
+  "opponentName": "THE_STRONGEST_BOT"
+}
