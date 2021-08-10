@@ -1,0 +1,46 @@
+{
+  "id": "IwA2tvoZ",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1628599549483,
+  "white": {
+    "id": "keertana2019",
+    "name": "Keertana2019",
+    "title": null,
+    "rating": 1601
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1481,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Keertana2019",
+  "opponentName": "aarav_strongestBOT"
+}
