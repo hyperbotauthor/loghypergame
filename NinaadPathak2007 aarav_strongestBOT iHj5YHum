@@ -1,0 +1,47 @@
+{
+  "id": "iHj5YHum",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1628598753404,
+  "white": {
+    "id": "ninaadpathak2007",
+    "name": "NinaadPathak2007",
+    "title": null,
+    "rating": 1769,
+    "provisional": true
+  },
+  "black": {
+    "id": "aarav_strongestbot",
+    "name": "aarav_strongestBOT",
+    "title": "BOT",
+    "rating": 1583,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NinaadPathak2007",
+  "opponentName": "aarav_strongestBOT"
+}
