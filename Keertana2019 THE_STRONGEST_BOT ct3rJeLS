@@ -1,0 +1,44 @@
+{
+  "id": "ct3rJeLS",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1628601247972,
+  "white": {
+    "id": "keertana2019",
+    "name": "Keertana2019",
+    "title": null,
+    "rating": 1073
+  },
+  "black": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rnb1kbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Keertana2019",
+  "opponentName": "THE_STRONGEST_BOT"
+}
