@@ -1,0 +1,46 @@
+{
+  "id": "RqglsUit",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 5000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": false,
+  "createdAt": 1628590660772,
+  "white": {
+    "id": "arimiya",
+    "name": "ariMiya",
+    "title": null,
+    "rating": 1076
+  },
+  "black": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 1968,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "ariMiya",
+  "opponentName": "ProRaPid-BOT"
+}
