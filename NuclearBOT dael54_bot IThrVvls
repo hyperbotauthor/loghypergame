@@ -1,0 +1,46 @@
+{
+  "id": "IThrVvls",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1628707277851,
+  "white": {
+    "id": "nuclearbot",
+    "name": "NuclearBOT",
+    "title": "BOT",
+    "rating": 2010,
+    "provisional": true
+  },
+  "black": {
+    "id": "dael54_bot",
+    "name": "dael54_bot",
+    "title": "BOT",
+    "rating": 1514
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b8c6",
+    "wtime": 102960,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "wdraw": true,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "NuclearBOT",
+  "opponentName": "dael54_bot"
+}
