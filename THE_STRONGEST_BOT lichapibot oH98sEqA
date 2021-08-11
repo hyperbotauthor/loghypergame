@@ -1,0 +1,46 @@
+{
+  "id": "oH98sEqA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1628667906585,
+  "white": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 1574,
+    "provisional": true
+  },
+  "black": {
+    "id": "lichapibot",
+    "name": "lichapibot",
+    "title": "BOT",
+    "rating": 2164
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 10000,
+    "binc": 10000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_STRONGEST_BOT",
+  "opponentName": "lichapibot"
+}
