@@ -1,0 +1,46 @@
+{
+  "id": "Qd28n46j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628668328770,
+  "white": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 2199,
+    "provisional": true
+  },
+  "black": {
+    "id": "elpeonelectrico",
+    "name": "ElPeonElectrico",
+    "title": "BOT",
+    "rating": 2377
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_STRONGEST_BOT",
+  "opponentName": "ElPeonElectrico"
+}
