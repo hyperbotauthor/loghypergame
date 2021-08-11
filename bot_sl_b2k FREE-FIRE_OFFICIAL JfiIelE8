@@ -1,0 +1,47 @@
+{
+  "id": "JfiIelE8",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1628671639535,
+  "white": {
+    "id": "bot_sl_b2k",
+    "name": "bot_sl_b2k",
+    "title": "BOT",
+    "rating": 2456,
+    "provisional": true
+  },
+  "black": {
+    "id": "free-fire_official",
+    "name": "FREE-FIRE_OFFICIAL",
+    "title": null,
+    "rating": 1858,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "bot_sl_b2k",
+  "opponentName": "FREE-FIRE_OFFICIAL"
+}
