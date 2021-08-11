@@ -1,0 +1,46 @@
+{
+  "id": "lG2Tapwi",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1628674112651,
+  "white": {
+    "id": "vikigm",
+    "name": "vikiGM",
+    "title": null,
+    "rating": 1491
+  },
+  "black": {
+    "id": "bot_sl_b2k",
+    "name": "bot_sl_b2k",
+    "title": "BOT",
+    "rating": 2478,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "vikiGM",
+  "opponentName": "bot_sl_b2k"
+}
