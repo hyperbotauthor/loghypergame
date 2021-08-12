@@ -1,0 +1,42 @@
+{
+  "id": "RBZsBvoP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1628745697584,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "freemintdev",
+    "name": "FreemintDev",
+    "title": "BOT",
+    "rating": 2417,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 298790,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "opponentName": "FreemintDev"
+}
