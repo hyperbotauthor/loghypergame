@@ -1,0 +1,45 @@
+{
+  "id": "Y8EZZQS1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1628758516453,
+  "white": {
+    "id": "pengxiaozhu3",
+    "name": "pengxiaozhu3",
+    "title": "BOT",
+    "rating": 2314
+  },
+  "black": {
+    "id": "hypercomputer11",
+    "name": "HyperComputer11",
+    "title": "BOT",
+    "rating": 2081
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "pengxiaozhu3",
+  "opponentName": "HyperComputer11"
+}
