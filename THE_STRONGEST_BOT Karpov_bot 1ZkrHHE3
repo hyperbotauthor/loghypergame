@@ -1,0 +1,47 @@
+{
+  "id": "1ZkrHHE3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1628750157074,
+  "white": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 2138,
+    "provisional": true
+  },
+  "black": {
+    "id": "karpov_bot",
+    "name": "Karpov_bot",
+    "title": "BOT",
+    "rating": 2424
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 e7e5",
+    "wtime": 598630,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "resign",
+    "winner": "black"
+  },
+  "botName": "THE_STRONGEST_BOT",
+  "opponentName": "Karpov_bot"
+}
