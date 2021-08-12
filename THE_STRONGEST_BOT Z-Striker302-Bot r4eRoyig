@@ -1,0 +1,46 @@
+{
+  "id": "r4eRoyig",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1628740852516,
+  "white": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 1350,
+    "provisional": true
+  },
+  "black": {
+    "id": "z-striker302-bot",
+    "name": "Z-Striker302-Bot",
+    "title": "BOT",
+    "rating": 2687
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3 d7d5 e2e4 d5e4",
+    "wtime": 29010,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "THE_STRONGEST_BOT",
+  "opponentName": "Z-Striker302-Bot"
+}
