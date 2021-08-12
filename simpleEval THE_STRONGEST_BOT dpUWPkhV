@@ -1,0 +1,46 @@
+{
+  "id": "dpUWPkhV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1628739289812,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2097
+  },
+  "black": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 2190
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 5000,
+    "binc": 5000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "aSJkVaGA"
+  },
+  "botName": "simpleEval",
+  "opponentName": "THE_STRONGEST_BOT"
+}
