@@ -1,0 +1,46 @@
+{
+  "id": "gPayxVwi",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1628859817833,
+  "white": {
+    "id": "superboyflash",
+    "name": "SuperBoyflash",
+    "title": "BOT",
+    "rating": 1016,
+    "provisional": true
+  },
+  "black": {
+    "id": "ayushman_c",
+    "name": "Ayushman_C",
+    "title": null,
+    "rating": 1543
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SuperBoyflash",
+  "opponentName": "Ayushman_C"
+}
