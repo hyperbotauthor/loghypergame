@@ -31,14 +31,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "b2b3 e7e5 c1b2 b8c6 g1f3 e5e4 f3d4 c6d4 b2d4 g8f6",
-    "wtime": 9690,
-    "btime": 57000,
+    "moves": "b2b3 e7e5 c1b2 b8c6 g1f3 e5e4 f3d4 c6d4 b2d4 g8f6 e2e3 f8e7 d4b2 d7d5 d2d4 e8g8 c2c4 c7c6",
+    "wtime": 0,
+    "btime": 56170,
     "winc": 1000,
     "binc": 1000,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "black"
   },
   "botName": "aarav_strongestBOT",
   "opponentName": "THE_STRONGEST_BOT"
