@@ -1,0 +1,46 @@
+{
+  "id": "b5QmP6M7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1628859871096,
+  "white": {
+    "id": "superboyflash",
+    "name": "SuperBoyflash",
+    "title": "BOT",
+    "rating": 1927,
+    "provisional": true
+  },
+  "black": {
+    "id": "justkeepitmarshx_x",
+    "name": "JustKeepItMarshX_X",
+    "title": null,
+    "rating": 1545
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "SuperBoyflash",
+  "opponentName": "JustKeepItMarshX_X"
+}
