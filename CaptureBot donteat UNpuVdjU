@@ -33,13 +33,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "g1f3",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "g1f3 a7a5 e2e3 b7b6 d2d4 a8a7 f1b5 e7e6 b5d7 e8e7 d7c8 g7g5 f3g5 b8d7 c8d7 d8b8 g5f7 a7b7 f7h8 e7d8 d7e6 f8b4 b1c3 a5a4 e6g8 b6b5 g8h7 b8c8 e1g1 b7b6 c3b5 b6g6 h8g6 b4d6 b5d6 c7c6 d6c8 a4a3 b2a3 d8c7 c2c4 c7d7 d1c2 d7c7 c2e2 c7b7 h2h4 c6c5 d4c5 b7a8 e2e1 a8b7 g2g3 b7c7 c8a7 c7d7 e1a5 d7e8 g6h8 e8d7 a5b5 d7e7 g1g2 e7f8 b5b8 f8g7 a7c8 g7h7 b8e5 h7g8 g2h2 g8f8 f1h1 f8g8 c8d6 g8h7 e5d4 h7g8 a1b1 g8h7 e3e4 h7g8 d4a1 g8h7 h1e1 h7g8 c1g5 g8f8 e1f1 f8g8 a1b2 g8f8 g5d8 f8g8 d8c7 g8h7 h4h5 h7g8 h8f7 g8h7 b2c3 h7g8 c3b4 g8g7 f1d1 g7f8 b1a1 f8g8 b4b5 g8g7 b5b3 g7f8 h2g1 f8e7 f7e5 e7e6 d6f5 e6f6 d1d2 f6e6 d2d4 e6f6 d4d8 f6e6 g1h1 e6f6 a1d1 f6g5 d1d6 g5h5 f5h4 h5g5 f2f4 g5h5 d6d5 h5h6 e5c6 h6g7 d5d7 g7h6 d7d5 h6h7 b3c2 h7h6 c2e2 h6h7 e2e3 h7h6 d5d4 h6g7 e3c1 g7f6 d8h8 f6f7 c1b2 f7e6 d4d5 e6f7 h8h7 f7g8 h1g2 g8f8 c7b8 f8e8 c6d8 e8f8 e4e5 f8e8 b2b3 e8f8 b3b1 f8e8 g2f2 e8f8 b1b3 f8g8 f2f3 g8h7 c5c6 h7g8 d8f7 g8f8 f7d6 f8e7 d5d2 e7e6 d2d4 e6e7 h4g2 e7e6 b3b4 e6e7 g3g4 e7e6 b4d2 e6e7 d6b7 e7e6 b7a5 e6f7",
+    "wtime": 96370,
+    "btime": 122200,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
-    "bdraw": false,
+    "bdraw": true,
     "status": "started"
   },
   "botName": "CaptureBot",
