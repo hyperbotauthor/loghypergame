@@ -1,0 +1,46 @@
+{
+  "id": "UbYLgjST",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1628959557140,
+  "white": {
+    "id": "sasha2348th",
+    "name": "Sasha2348Th",
+    "title": null,
+    "rating": 1907
+  },
+  "black": {
+    "id": "donteat",
+    "name": "donteat",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Sasha2348Th",
+  "opponentName": "donteat"
+}
