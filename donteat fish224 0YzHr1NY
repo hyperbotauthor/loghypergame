@@ -1,0 +1,44 @@
+{
+  "id": "0YzHr1NY",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1628955409662,
+  "white": {
+    "id": "donteat",
+    "name": "donteat",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "fish224",
+    "name": "fish224",
+    "title": null,
+    "rating": 1863
+  },
+  "initialFen": "7K/2p1p3/2P1P3/2bBp3/1nPpPp2/pP1P4/kp6/rn4q1 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "donteat",
+  "opponentName": "fish224"
+}
