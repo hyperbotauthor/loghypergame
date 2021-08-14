@@ -32,14 +32,15 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 180000,
-    "btime": 180000,
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c8d7 d1e2 f8e7 g5f3 f6d5 f3e5 c7c6 b5d3 d7e6 e1g1 d5b4 b1c3 e8g8 d3e4 e6c4 e5c4 f7f5 a2a3 f5e4 a3b4 e7b4 e2e4 f8e8 c4e5 d8e7 f1e1 e7d6 e1e3 a8d8 c3e2 d6c5 e2f4 d8d4 e4f5 c5f8 f5f8 g8f8 f4d3 b7b6 c2c3 d4d3 e5d3 b4e7 b2b4 a5c4 e3f3 f8g8 a1a7 c6c5 a7c7 h7h6 f3g3 g8h7 g3g4 c4d6 b4c5 b6c5 c7c5 e8d8 c5d5 d8c8 g4a4 h7g6 a4a6 c8d8 c1a3 d8f8 a3d6 f8f6 d3e5 g6h7 f2f3 f6e6 g2g3 e7d6 a6d6 e6e8 h2h4 h7g8 d6d8 g8f8 e5g6 f8f7 d5d7 f7f6 d8e8 f6g6 e8e6 g6h7 d7d8 h6h5 g1f2 g7g6 e6e7 h7h6 d8h8",
+    "wtime": 66020,
+    "btime": 179400,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
     "bdraw": false,
-    "status": "started"
+    "status": "mate",
+    "winner": "white"
   },
   "botName": "donteat",
   "opponentName": "Try_To_Beat_Me_Kid"
