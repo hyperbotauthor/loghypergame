@@ -1,0 +1,44 @@
+{
+  "id": "yiAOD5Ad",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1628999249040,
+  "white": {
+    "id": "indusheetala",
+    "name": "Indusheetala",
+    "title": null,
+    "rating": 1366,
+    "provisional": true
+  },
+  "black": {
+    "id": "the_strongest_bot",
+    "name": "THE_STRONGEST_BOT",
+    "title": "BOT",
+    "rating": 1643,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 d7d5 d2d3 c8g4 h2h3 g4h5 f1e2 b8c6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Indusheetala",
+  "opponentName": "THE_STRONGEST_BOT"
+}
