@@ -31,13 +31,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "d2d4 d7d5 c2c4 e7e6 b1c3 c7c5 c4d5 e6d5 g1f3 b8c6 d4c5 g8f6 c1e3 f8e7 g2g3 e8g8 f1g2 f6g4 d1d5 g4e3 f2e3 c8e6 d5e4 e7c5 a1d1 d8f6 e1g1 f6h6 f3d4 f8e8 e4f4 h6f4 g3f4 a8d8 g2c6 b7c6 g1f2 e6g4 f1g1 h7h5 d1d3 d8d6 g1d1 d6f6 c3a4 c5e7 a4c3 e7c5 c3a4 c5e7 d1g1 g8f8 d4f3 f6e6 g1c1 g4f5 d3b3 e7f6 c1c4 f8g8 b3a3 a7a5 h2h4 f5g6 f3g5 e6d6 c4c5 d6d1 f4f5 g6h7 a4c3 d1d2 a3a5 d2c2",
+    "wtime": 55980,
+    "btime": 7970,
     "winc": 0,
     "binc": 0,
     "wdraw": false,
-    "bdraw": false,
+    "bdraw": true,
     "status": "started"
   },
   "botName": "Try_To_Beat_Me_Kid",
