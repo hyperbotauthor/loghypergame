@@ -1,0 +1,45 @@
+{
+  "id": "n9WGlmOd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1629035365316,
+  "white": {
+    "id": "fish224",
+    "name": "fish224",
+    "title": null,
+    "rating": 1863
+  },
+  "black": {
+    "id": "donteat",
+    "name": "donteat",
+    "title": "BOT",
+    "rating": 2511
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "fish224",
+  "opponentName": "donteat"
+}
