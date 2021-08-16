@@ -1,0 +1,43 @@
+{
+  "id": "Lnaa7xjS",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1629092754208,
+  "white": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 2091,
+    "provisional": true
+  },
+  "black": {
+    "id": "dinamit64",
+    "name": "Dinamit64",
+    "title": null,
+    "rating": 2200
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1209594000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "chekmatechess",
+  "opponentName": "Dinamit64"
+}
