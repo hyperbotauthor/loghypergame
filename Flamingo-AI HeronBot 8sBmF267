@@ -1,0 +1,46 @@
+{
+  "id": "8sBmF267",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629320068562,
+  "white": {
+    "id": "flamingo-ai",
+    "name": "Flamingo-AI",
+    "title": "BOT",
+    "rating": 2261,
+    "provisional": true
+  },
+  "black": {
+    "id": "heronbot",
+    "name": "HeronBot",
+    "title": "BOT",
+    "rating": 2027
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Flamingo-AI",
+  "opponentName": "HeronBot"
+}
