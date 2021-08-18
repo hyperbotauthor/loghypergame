@@ -1,0 +1,46 @@
+{
+  "id": "tzL7rrYH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629321266185,
+  "white": {
+    "id": "flamingo-ai",
+    "name": "Flamingo-AI",
+    "title": "BOT",
+    "rating": 2002,
+    "provisional": true
+  },
+  "black": {
+    "id": "etron342",
+    "name": "Etron342",
+    "title": "BOT",
+    "rating": 2052
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Flamingo-AI",
+  "opponentName": "Etron342"
+}
