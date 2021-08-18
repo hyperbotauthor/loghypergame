@@ -1,0 +1,46 @@
+{
+  "id": "bhYWPKza",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1629262352836,
+  "white": {
+    "id": "vagish09",
+    "name": "vagish09",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "chekmatechess",
+    "name": "chekmatechess",
+    "title": "BOT",
+    "rating": 2187
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1c4 f8c5 e1g1 e8g8",
+    "wtime": 277380,
+    "btime": 265430,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "vagish09",
+  "opponentName": "chekmatechess"
+}
