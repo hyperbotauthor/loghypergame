@@ -1,0 +1,40 @@
+{
+  "id": "M26otcbl",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1629481569898,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "epicbot",
+    "name": "EpicBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "aborted",
+    "rematch": "ItkvX3wU"
+  },
+  "opponentName": "EpicBOT"
+}
