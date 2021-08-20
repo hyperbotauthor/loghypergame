@@ -1,0 +1,46 @@
+{
+  "id": "bNTf7g28",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1629485869294,
+  "white": {
+    "id": "ruy_lapis",
+    "name": "Ruy_Lapis",
+    "title": null,
+    "rating": 1460
+  },
+  "black": {
+    "id": "orcabot",
+    "name": "OrcaBOT",
+    "title": "BOT",
+    "rating": 1893,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Ruy_Lapis",
+  "opponentName": "OrcaBOT"
+}
