@@ -1,0 +1,46 @@
+{
+  "id": "pboGeLh2",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1629634984967,
+  "white": {
+    "id": "jaquerpro",
+    "name": "Jaquerpro",
+    "title": null,
+    "rating": 1569
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1792,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2g3",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Jaquerpro",
+  "opponentName": "MyNameIsSpeedy"
+}
