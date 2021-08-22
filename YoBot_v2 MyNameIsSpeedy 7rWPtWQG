@@ -1,0 +1,46 @@
+{
+  "id": "7rWPtWQG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629656271846,
+  "white": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2638
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1703,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "YoBot_v2",
+  "opponentName": "MyNameIsSpeedy"
+}
