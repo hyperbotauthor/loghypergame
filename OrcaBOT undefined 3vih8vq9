@@ -1,0 +1,42 @@
+{
+  "id": "3vih8vq9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1629739871700,
+  "white": {
+    "id": "orcabot",
+    "name": "OrcaBOT",
+    "title": "BOT",
+    "rating": 1544,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 3
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 15000,
+    "binc": 15000,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "OrcaBOT"
+}
