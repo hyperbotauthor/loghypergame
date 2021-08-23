@@ -1,0 +1,46 @@
+{
+  "id": "SVeM1YlN",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1629716115011,
+  "white": {
+    "id": "suspiciousbot",
+    "name": "suspiciousbot",
+    "title": "BOT",
+    "rating": 1940,
+    "provisional": true
+  },
+  "black": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2160
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "suspiciousbot",
+  "opponentName": "mrchessmanager"
+}
