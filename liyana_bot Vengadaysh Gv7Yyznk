@@ -1,0 +1,46 @@
+{
+  "id": "Gv7Yyznk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1629798648759,
+  "white": {
+    "id": "liyana_bot",
+    "name": "liyana_bot",
+    "title": "BOT",
+    "rating": 2074,
+    "provisional": true
+  },
+  "black": {
+    "id": "vengadaysh",
+    "name": "Vengadaysh",
+    "title": null,
+    "rating": 1021
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "liyana_bot",
+  "opponentName": "Vengadaysh"
+}
