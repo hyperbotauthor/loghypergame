@@ -1,0 +1,44 @@
+{
+  "id": "PDhfvKG4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1629817438096,
+  "white": {
+    "id": "syazwisazeli",
+    "name": "syazwisazeli",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "liyana_bot",
+    "name": "liyana_bot",
+    "title": "BOT",
+    "rating": 2015,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "syazwisazeli",
+  "opponentName": "liyana_bot"
+}
