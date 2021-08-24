@@ -1,0 +1,46 @@
+{
+  "id": "Lo7H8Afx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629778151647,
+  "white": {
+    "id": "lightspeedcomet",
+    "name": "LightSpeedComet",
+    "title": "BOT",
+    "rating": 2467,
+    "provisional": true
+  },
+  "black": {
+    "id": "official_bot",
+    "name": "Official_bot",
+    "title": "BOT",
+    "rating": 2540
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e5 g2g3 g8f6 f1g2 d7d5 c4d5 f6d5 g1f3 b8c6 e1g1 d5b6 b1c3 f8e7 a2a3 c8e6 d2d3 e8g8 c1e3 f7f5",
+    "wtime": 78680,
+    "btime": 77060,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "LightSpeedComet",
+  "opponentName": "Official_bot"
+}
