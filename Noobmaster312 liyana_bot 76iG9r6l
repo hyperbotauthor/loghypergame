@@ -1,0 +1,44 @@
+{
+  "id": "76iG9r6l",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1629814156281,
+  "white": {
+    "id": "noobmaster312",
+    "name": "Noobmaster312",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "liyana_bot",
+    "name": "liyana_bot",
+    "title": "BOT",
+    "rating": 2015,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 c1g5 d7d6 e2e3 b8d7 f1d3 e8g8 g1f3 e7e5 e1g1 e5d4 e3d4 c7c5 d4d5 f8e8 d1c2 d8c7 f1e1 d7e5 f3e5 e8e5 e1e3 e5g5 a1e1 g5e5 c3b5 e5e3 e1e3 c7b6 h2h3 c8d7 a2a4 a7a6 b5c3 a8e8 e3f3 h7h6 d3g6 e8e1 g1h2 f7g6 c2g6 b6b2 f3f6 b2c3 g6f7 g8h8 f6g6 d7e8",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "wdraw": false,
+    "bdraw": false,
+    "status": "started"
+  },
+  "botName": "Noobmaster312",
+  "opponentName": "liyana_bot"
+}
