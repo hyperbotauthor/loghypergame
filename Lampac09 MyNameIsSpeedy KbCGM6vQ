@@ -1,0 +1,43 @@
+{
+  "id": "KbCGM6vQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 12000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1629917381916,
+  "white": {
+    "id": "lampac09",
+    "name": "Lampac09",
+    "title": null,
+    "rating": 1655
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 2339
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 12000,
+    "btime": 12000,
+    "winc": 12000,
+    "binc": 12000,
+    "status": "started"
+  },
+  "botName": "Lampac09",
+  "opponentName": "MyNameIsSpeedy"
+}
