@@ -1,0 +1,44 @@
+{
+  "id": "91ImCeGQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629901707480,
+  "white": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1805
+  },
+  "black": {
+    "id": "daoquanghuy",
+    "name": "DaoQuangHuy",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeedy",
+  "opponentName": "DaoQuangHuy"
+}
