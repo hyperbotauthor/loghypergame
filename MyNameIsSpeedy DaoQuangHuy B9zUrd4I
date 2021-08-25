@@ -1,0 +1,45 @@
+{
+  "id": "B9zUrd4I",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1629903058840,
+  "white": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1018,
+    "provisional": true
+  },
+  "black": {
+    "id": "daoquanghuy",
+    "name": "DaoQuangHuy",
+    "title": null,
+    "rating": 1766,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeedy",
+  "opponentName": "DaoQuangHuy"
+}
