@@ -1,0 +1,44 @@
+{
+  "id": "r9dgwJuY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1629980127935,
+  "white": {
+    "id": "angelkiller00",
+    "name": "angelkiller00",
+    "title": null,
+    "rating": 1243
+  },
+  "black": {
+    "id": "olivergrayson",
+    "name": "OliverGrayson",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "angelkiller00",
+  "opponentName": "OliverGrayson"
+}
