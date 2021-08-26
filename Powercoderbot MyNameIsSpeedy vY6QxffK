@@ -1,0 +1,44 @@
+{
+  "id": "vY6QxffK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1629982477127,
+  "white": {
+    "id": "powercoderbot",
+    "name": "Powercoderbot",
+    "title": "BOT",
+    "rating": 2399,
+    "provisional": true
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 2340
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Powercoderbot",
+  "opponentName": "MyNameIsSpeedy"
+}
