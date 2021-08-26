@@ -1,0 +1,45 @@
+{
+  "id": "rbtus63t",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1629969088381,
+  "white": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1150,
+    "provisional": true
+  },
+  "black": {
+    "id": "powercoderbot",
+    "name": "Powercoderbot",
+    "title": "BOT",
+    "rating": 1623,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeedy",
+  "opponentName": "Powercoderbot"
+}
