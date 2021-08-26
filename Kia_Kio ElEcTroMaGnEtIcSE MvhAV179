@@ -1,0 +1,44 @@
+{
+  "id": "MvhAV179",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1629986753776,
+  "white": {
+    "id": "kia_kio",
+    "name": "Kia_Kio",
+    "title": null,
+    "rating": 1466
+  },
+  "black": {
+    "id": "electromagneticse",
+    "name": "ElEcTroMaGnEtIcSE",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Kia_Kio",
+  "opponentName": "ElEcTroMaGnEtIcSE"
+}
