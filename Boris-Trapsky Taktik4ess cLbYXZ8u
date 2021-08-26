@@ -1,0 +1,44 @@
+{
+  "id": "cLbYXZ8u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1629981539914,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1902
+  },
+  "black": {
+    "id": "taktik4ess",
+    "name": "Taktik4ess",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 f8e7 c4d5 e6d5 d2d4",
+    "wtime": 161150,
+    "btime": 129810,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Taktik4ess"
+}
