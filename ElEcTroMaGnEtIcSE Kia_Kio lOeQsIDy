@@ -1,0 +1,44 @@
+{
+  "id": "lOeQsIDy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1629985796900,
+  "white": {
+    "id": "electromagneticse",
+    "name": "ElEcTroMaGnEtIcSE",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "kia_kio",
+    "name": "Kia_Kio",
+    "title": null,
+    "rating": 1807
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "ElEcTroMaGnEtIcSE",
+  "opponentName": "Kia_Kio"
+}
