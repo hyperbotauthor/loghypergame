@@ -1,0 +1,45 @@
+{
+  "id": "rhyJWXoG",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1629984905320,
+  "white": {
+    "id": "olivergrayson",
+    "name": "OliverGrayson",
+    "title": "BOT",
+    "rating": 1669,
+    "provisional": true
+  },
+  "black": {
+    "id": "powercoderbot",
+    "name": "Powercoderbot",
+    "title": "BOT",
+    "rating": 1505,
+    "provisional": true
+  },
+  "initialFen": "nbrkbrqn/pppppppp/8/8/8/8/PPPPPPPP/NBRKBRQN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "OliverGrayson",
+  "opponentName": "Powercoderbot"
+}
