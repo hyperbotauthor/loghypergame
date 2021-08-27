@@ -1,0 +1,41 @@
+{
+  "id": "EO51ogXm",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1630066813912,
+  "white": {
+    "id": "bm_biltzking",
+    "name": "BM_BILTZKING",
+    "title": null,
+    "rating": 1540
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1789
+  },
+  "initialFen": "2br1qk1/p4npp/P1p2p1b/1p1p3P/3P2P1/1PPN1PB1/2Q5/4RBK1 w - - 0 37",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d3c5",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BM_BILTZKING",
+  "opponentName": "MyNameIsSpeedy"
+}
