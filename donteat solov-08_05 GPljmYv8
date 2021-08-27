@@ -1,0 +1,44 @@
+{
+  "id": "GPljmYv8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1630075858360,
+  "white": {
+    "id": "donteat",
+    "name": "donteat",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "solov-08_05",
+    "name": "solov-08_05",
+    "title": null,
+    "rating": 1571
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "donteat",
+  "opponentName": "solov-08_05"
+}
