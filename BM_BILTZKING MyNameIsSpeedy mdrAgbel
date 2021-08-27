@@ -1,0 +1,41 @@
+{
+  "id": "mdrAgbel",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1630066912062,
+  "white": {
+    "id": "bm_biltzking",
+    "name": "BM_BILTZKING",
+    "title": null,
+    "rating": 1540
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1789
+  },
+  "initialFen": "r1bqk1nr/pppp1ppp/2n5/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BM_BILTZKING",
+  "opponentName": "MyNameIsSpeedy"
+}
