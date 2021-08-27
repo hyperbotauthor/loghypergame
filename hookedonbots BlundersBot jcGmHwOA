@@ -1,0 +1,45 @@
+{
+  "id": "jcGmHwOA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1630078360831,
+  "white": {
+    "id": "hookedonbots",
+    "name": "hookedonbots",
+    "title": "BOT",
+    "rating": 2096,
+    "provisional": true
+  },
+  "black": {
+    "id": "blundersbot",
+    "name": "BlundersBot",
+    "title": "BOT",
+    "rating": 1805,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "hookedonbots",
+  "opponentName": "BlundersBot"
+}
