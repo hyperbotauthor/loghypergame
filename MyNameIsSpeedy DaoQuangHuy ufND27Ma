@@ -1,0 +1,45 @@
+{
+  "id": "ufND27Ma",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 4500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1630143023005,
+  "white": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "daoquanghuy",
+    "name": "DaoQuangHuy",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 4500000,
+    "btime": 4500000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeedy",
+  "opponentName": "DaoQuangHuy"
+}
