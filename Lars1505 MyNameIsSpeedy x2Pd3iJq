@@ -1,0 +1,44 @@
+{
+  "id": "x2Pd3iJq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": false,
+  "createdAt": 1630154774930,
+  "white": {
+    "id": "lars1505",
+    "name": "Lars1505",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 2332
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Lars1505",
+  "opponentName": "MyNameIsSpeedy"
+}
