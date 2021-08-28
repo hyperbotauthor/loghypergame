@@ -1,0 +1,44 @@
+{
+  "id": "bArz5ZDz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1630151137712,
+  "white": {
+    "id": "electromagneticse",
+    "name": "ElEcTroMaGnEtIcSE",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2177
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "botName": "ElEcTroMaGnEtIcSE",
+  "opponentName": "FlamingDragon_9000"
+}
