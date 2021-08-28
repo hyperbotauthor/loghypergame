@@ -1,0 +1,44 @@
+{
+  "id": "QI2IewsD",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1630155008456,
+  "white": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2602
+  },
+  "black": {
+    "id": "mynameisspeedy",
+    "name": "MyNameIsSpeedy",
+    "title": "BOT",
+    "rating": 1108,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsBot",
+  "opponentName": "MyNameIsSpeedy"
+}
