@@ -1,0 +1,44 @@
+{
+  "id": "fyF2yL6r",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1630253159795,
+  "white": {
+    "id": "dr_mad_atomic",
+    "name": "Dr_MaD_AtOmIc",
+    "title": null,
+    "rating": 1757
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 1779,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dr_MaD_AtOmIc",
+  "opponentName": "THE_BEST_BOT-world"
+}
