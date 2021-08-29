@@ -1,0 +1,45 @@
+{
+  "id": "vo0uuqxt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1630220168800,
+  "white": {
+    "id": "thephewwbot",
+    "name": "Thephewwbot",
+    "title": "BOT",
+    "rating": 2518,
+    "provisional": true
+  },
+  "black": {
+    "id": "passionate_bot",
+    "name": "passionate_bot",
+    "title": "BOT",
+    "rating": 2011,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Thephewwbot",
+  "opponentName": "passionate_bot"
+}
