@@ -1,0 +1,44 @@
+{
+  "id": "pneOSG6i",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1630215272414,
+  "white": {
+    "id": "passionate_bot",
+    "name": "passionate_bot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "passionate_player",
+    "name": "passionate_player",
+    "title": null,
+    "rating": 1852
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "passionate_bot",
+  "opponentName": "passionate_player"
+}
