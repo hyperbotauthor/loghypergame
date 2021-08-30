@@ -1,0 +1,44 @@
+{
+  "id": "3D13UM5A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1630339769175,
+  "white": {
+    "id": "ustasatranccii",
+    "name": "ustasatranccii",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "nazmitekin",
+    "name": "NazmiTekin",
+    "title": null,
+    "rating": 1305
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b8c6 d2d4",
+    "wtime": 597660,
+    "btime": 596880,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ustasatranccii",
+  "opponentName": "NazmiTekin"
+}
