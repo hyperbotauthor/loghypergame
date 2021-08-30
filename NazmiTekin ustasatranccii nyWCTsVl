@@ -1,0 +1,44 @@
+{
+  "id": "nyWCTsVl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1630339114281,
+  "white": {
+    "id": "nazmitekin",
+    "name": "NazmiTekin",
+    "title": null,
+    "rating": 1305
+  },
+  "black": {
+    "id": "ustasatranccii",
+    "name": "ustasatranccii",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 d7d5 d2d4 b8c6 c2c3 g8f6 c1g5 h7h6 g5f6 e7f6 g2g3 f8e7 f1g2 e8g8 b1d2 c8g4 e1g1 e7d6 h2h3 g4f3 e2f3 f8e8 f3f4 d8d7 d2f3 e8e7 d1c2 a8e8 a1e1 e7e1 f3e1 g7g5 f4g5 f6g5 g2d5 c6e7 d5g2 f7f5 e1d3 e7g6 d3e5 d6e5 d4e5 e8e5 g1h2 d7e7 g2b7 e5e1 f1e1 e7e1",
+    "wtime": 488130,
+    "btime": 500360,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "NazmiTekin",
+  "opponentName": "ustasatranccii"
+}
