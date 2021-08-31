@@ -1,0 +1,44 @@
+{
+  "id": "REWtTih6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1630438903275,
+  "white": {
+    "id": "kingb0t",
+    "name": "KingB0t",
+    "title": "BOT",
+    "rating": 2343,
+    "provisional": true
+  },
+  "black": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2421
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KingB0t",
+  "opponentName": "mrchessmanager"
+}
