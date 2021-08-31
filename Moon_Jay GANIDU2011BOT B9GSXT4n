@@ -30,13 +30,11 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "e2e4 c7c5 d1h5 g8f6 e4e5",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
     "binc": 0,
-    "wdraw": false,
-    "bdraw": false,
     "status": "started"
   },
   "botName": "Moon_Jay",
