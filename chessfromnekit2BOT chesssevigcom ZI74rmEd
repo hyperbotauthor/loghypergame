@@ -1,0 +1,44 @@
+{
+  "id": "ZI74rmEd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1630401294077,
+  "white": {
+    "id": "chessfromnekit2bot",
+    "name": "chessfromnekit2BOT",
+    "title": "BOT",
+    "rating": 2278,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesssevigcom",
+    "name": "chesssevigcom",
+    "title": "BOT",
+    "rating": 2565
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "chessfromnekit2BOT",
+  "opponentName": "chesssevigcom"
+}
