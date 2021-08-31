@@ -1,0 +1,44 @@
+{
+  "id": "ER3GHTBw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": true,
+  "createdAt": 1630428272002,
+  "white": {
+    "id": "kingb0t",
+    "name": "KingB0t",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "scratchbot",
+    "name": "ScratchBot",
+    "title": "BOT",
+    "rating": 2457
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "KingB0t",
+  "opponentName": "ScratchBot"
+}
