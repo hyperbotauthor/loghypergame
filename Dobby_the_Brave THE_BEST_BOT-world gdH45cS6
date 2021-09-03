@@ -1,0 +1,43 @@
+{
+  "id": "gdH45cS6",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1630651536536,
+  "white": {
+    "id": "dobby_the_brave",
+    "name": "Dobby_the_Brave",
+    "title": null,
+    "rating": 1902
+  },
+  "black": {
+    "id": "the_best_bot-world",
+    "name": "THE_BEST_BOT-world",
+    "title": "BOT",
+    "rating": 2006
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dobby_the_Brave",
+  "opponentName": "THE_BEST_BOT-world"
+}
