@@ -1,0 +1,44 @@
+{
+  "id": "LSE6Tyko",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1630748520849,
+  "white": {
+    "id": "theknightmare24",
+    "name": "TheKnightmare24",
+    "title": null,
+    "rating": 2068
+  },
+  "black": {
+    "id": "robotmonster2211",
+    "name": "Robotmonster2211",
+    "title": "BOT",
+    "rating": 1804,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "TheKnightmare24",
+  "opponentName": "Robotmonster2211"
+}
