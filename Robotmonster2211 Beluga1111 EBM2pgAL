@@ -1,0 +1,45 @@
+{
+  "id": "EBM2pgAL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1630748970195,
+  "white": {
+    "id": "robotmonster2211",
+    "name": "Robotmonster2211",
+    "title": "BOT",
+    "rating": 1837,
+    "provisional": true
+  },
+  "black": {
+    "id": "beluga1111",
+    "name": "Beluga1111",
+    "title": null,
+    "rating": 1385,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "Robotmonster2211",
+  "opponentName": "Beluga1111"
+}
