@@ -1,0 +1,44 @@
+{
+  "id": "PBn8W1xk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1630828284685,
+  "white": {
+    "id": "thecheckmater200",
+    "name": "TheCheckmater200",
+    "title": "BOT",
+    "rating": 2249,
+    "provisional": true
+  },
+  "black": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2219
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d6",
+    "wtime": 657430,
+    "btime": 660000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "TheCheckmater200",
+  "opponentName": "CosetteBot"
+}
