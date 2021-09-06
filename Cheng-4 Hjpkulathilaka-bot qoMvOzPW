@@ -1,0 +1,44 @@
+{
+  "id": "qoMvOzPW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1630928303925,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2337
+  },
+  "black": {
+    "id": "hjpkulathilaka-bot",
+    "name": "Hjpkulathilaka-bot",
+    "title": "BOT",
+    "rating": 1904,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "Hjpkulathilaka-bot"
+}
