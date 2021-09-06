@@ -1,0 +1,45 @@
+{
+  "id": "pieznFSU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1630936762695,
+  "white": {
+    "id": "botramsaketh",
+    "name": "BOTRamSaketh",
+    "title": "BOT",
+    "rating": 2045,
+    "provisional": true
+  },
+  "black": {
+    "id": "chessflu",
+    "name": "ChessFlu",
+    "title": null,
+    "rating": 1380,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 b1c3 e4c3 b2c3 f8e7 f1e2 e8g8 e1g1 c8g4 h2h3 g4e6 d2d4",
+    "wtime": 105050,
+    "btime": 94660,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BOTRamSaketh",
+  "opponentName": "ChessFlu"
+}
