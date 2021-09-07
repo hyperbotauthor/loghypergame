@@ -1,0 +1,46 @@
+{
+  "id": "WeoEqA9C",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631018215300,
+  "white": {
+    "id": "hjpkulathilaka-bot",
+    "name": "Hjpkulathilaka-bot",
+    "title": "BOT",
+    "rating": 1883,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2037
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4 d7d5 g1f3 c8g4 g2g3 g4f3 f1g2 f3g2 h1g1 g2h3 b1c3 g8f6 d2d3 e7e6 c1d2 f8c5 e2e3 d5d4 d1e2 h3g4 e2f2 d4c3 d2c3 f6d5 h2h3 c5e3 h3h4 e3f2",
+    "wtime": 53070,
+    "btime": 53170,
+    "winc": 0,
+    "binc": 0,
+    "status": "resign",
+    "winner": "black",
+    "rematch": "HoLTLxt8"
+  },
+  "botName": "Hjpkulathilaka-bot",
+  "opponentName": "simpleEval"
+}
