@@ -1,0 +1,44 @@
+{
+  "id": "cbvWlz3k",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631078579285,
+  "white": {
+    "id": "thecheckmater200",
+    "name": "TheCheckmater200",
+    "title": "BOT",
+    "rating": 1966,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0_bongclown",
+    "name": "Lc0_Bongclown",
+    "title": "BOT",
+    "rating": 2377
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "TheCheckmater200",
+  "opponentName": "Lc0_Bongclown"
+}
