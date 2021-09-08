@@ -1,0 +1,44 @@
+{
+  "id": "lq8rxdQF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631078902852,
+  "white": {
+    "id": "master_fgmclub",
+    "name": "Master_FGMClub",
+    "title": "BOT",
+    "rating": 1929,
+    "provisional": true
+  },
+  "black": {
+    "id": "guptasunil67",
+    "name": "guptasunil67",
+    "title": null,
+    "rating": 1876
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Master_FGMClub",
+  "opponentName": "guptasunil67"
+}
