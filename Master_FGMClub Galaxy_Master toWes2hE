@@ -1,0 +1,44 @@
+{
+  "id": "toWes2hE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1631076014503,
+  "white": {
+    "id": "master_fgmclub",
+    "name": "Master_FGMClub",
+    "title": "BOT",
+    "rating": 1943,
+    "provisional": true
+  },
+  "black": {
+    "id": "galaxy_master",
+    "name": "Galaxy_Master",
+    "title": null,
+    "rating": 2110
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Master_FGMClub",
+  "opponentName": "Galaxy_Master"
+}
