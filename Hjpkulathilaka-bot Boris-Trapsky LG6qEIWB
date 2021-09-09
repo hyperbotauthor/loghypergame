@@ -1,0 +1,44 @@
+{
+  "id": "LG6qEIWB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1631183395035,
+  "white": {
+    "id": "hjpkulathilaka-bot",
+    "name": "Hjpkulathilaka-bot",
+    "title": "BOT",
+    "rating": 2326,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2362
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hjpkulathilaka-bot",
+  "opponentName": "Boris-Trapsky"
+}
