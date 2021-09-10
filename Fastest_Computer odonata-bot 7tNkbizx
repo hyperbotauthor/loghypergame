@@ -1,0 +1,44 @@
+{
+  "id": "7tNkbizx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631267971786,
+  "white": {
+    "id": "fastest_computer",
+    "name": "Fastest_Computer",
+    "title": "BOT",
+    "rating": 1970,
+    "provisional": true
+  },
+  "black": {
+    "id": "odonata-bot",
+    "name": "odonata-bot",
+    "title": "BOT",
+    "rating": 1895
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Fastest_Computer",
+  "opponentName": "odonata-bot"
+}
