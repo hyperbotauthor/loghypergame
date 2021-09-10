@@ -1,0 +1,44 @@
+{
+  "id": "GXIbbPgw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1631266445939,
+  "white": {
+    "id": "fastest_computer",
+    "name": "Fastest_Computer",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 2019
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "Fastest_Computer",
+  "opponentName": "honzovy-sachy-2"
+}
