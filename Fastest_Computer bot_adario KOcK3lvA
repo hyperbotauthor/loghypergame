@@ -1,0 +1,44 @@
+{
+  "id": "KOcK3lvA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631268193411,
+  "white": {
+    "id": "fastest_computer",
+    "name": "Fastest_Computer",
+    "title": "BOT",
+    "rating": 1887,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_adario",
+    "name": "bot_adario",
+    "title": "BOT",
+    "rating": 2124
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Fastest_Computer",
+  "opponentName": "bot_adario"
+}
