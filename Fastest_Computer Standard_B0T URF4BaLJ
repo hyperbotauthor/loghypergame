@@ -1,0 +1,44 @@
+{
+  "id": "URF4BaLJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631258132895,
+  "white": {
+    "id": "fastest_computer",
+    "name": "Fastest_Computer",
+    "title": "BOT",
+    "rating": 1899,
+    "provisional": true
+  },
+  "black": {
+    "id": "standard_b0t",
+    "name": "Standard_B0T",
+    "title": "BOT",
+    "rating": 1992
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Fastest_Computer",
+  "opponentName": "Standard_B0T"
+}
