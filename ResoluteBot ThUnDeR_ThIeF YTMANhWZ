@@ -1,0 +1,44 @@
+{
+  "id": "YTMANhWZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631344525599,
+  "white": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2720
+  },
+  "black": {
+    "id": "thunder_thief",
+    "name": "ThUnDeR_ThIeF",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ResoluteBot",
+  "opponentName": "ThUnDeR_ThIeF"
+}
