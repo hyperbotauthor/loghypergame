@@ -1,0 +1,44 @@
+{
+  "id": "0sZXrbPL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1631343774848,
+  "white": {
+    "id": "cosettebot",
+    "name": "CosetteBot",
+    "title": "BOT",
+    "rating": 2198
+  },
+  "black": {
+    "id": "thunder_thief",
+    "name": "ThUnDeR_ThIeF",
+    "title": "BOT",
+    "rating": 2131,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CosetteBot",
+  "opponentName": "ThUnDeR_ThIeF"
+}
