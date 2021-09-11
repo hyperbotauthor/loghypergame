@@ -1,0 +1,44 @@
+{
+  "id": "v7QtPj4A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1631339630285,
+  "white": {
+    "id": "thunder_thief",
+    "name": "ThUnDeR_ThIeF",
+    "title": "BOT",
+    "rating": 2089,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2388
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ThUnDeR_ThIeF",
+  "opponentName": "XXIstCentury"
+}
