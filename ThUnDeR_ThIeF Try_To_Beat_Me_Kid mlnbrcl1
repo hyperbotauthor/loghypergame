@@ -1,0 +1,44 @@
+{
+  "id": "mlnbrcl1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631345540941,
+  "white": {
+    "id": "thunder_thief",
+    "name": "ThUnDeR_ThIeF",
+    "title": "BOT",
+    "rating": 1810,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1904
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "ThUnDeR_ThIeF",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
