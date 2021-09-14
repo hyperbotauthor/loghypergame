@@ -1,0 +1,45 @@
+{
+  "id": "S0HYl5DJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1631648190676,
+  "white": {
+    "id": "orcabot",
+    "name": "OrcaBOT",
+    "title": "BOT",
+    "rating": 1544,
+    "provisional": true
+  },
+  "black": {
+    "id": "magnus-bot",
+    "name": "Magnus-BOT",
+    "title": "BOT",
+    "rating": 2358,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "OrcaBOT",
+  "opponentName": "Magnus-BOT"
+}
