@@ -1,0 +1,43 @@
+{
+  "id": "6OMQWEhT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1631726696715,
+  "white": {
+    "id": "tuarreg",
+    "name": "Tuarreg",
+    "title": null,
+    "rating": 2108
+  },
+  "black": {
+    "id": "prorapid-bot",
+    "name": "ProRaPid-BOT",
+    "title": "BOT",
+    "rating": 2426
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3",
+    "wtime": 176880,
+    "btime": 115940,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Tuarreg",
+  "opponentName": "ProRaPid-BOT"
+}
