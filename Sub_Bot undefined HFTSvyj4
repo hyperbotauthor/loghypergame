@@ -1,0 +1,40 @@
+{
+  "id": "HFTSvyj4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1631883714438,
+  "white": {
+    "id": "sub_bot",
+    "name": "Sub_Bot",
+    "title": "BOT",
+    "rating": 1522,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "Sub_Bot"
+}
