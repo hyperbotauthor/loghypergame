@@ -1,0 +1,43 @@
+{
+  "id": "mIZdbUeK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1631902945698,
+  "white": {
+    "id": "xxxxxxxxxx_1",
+    "name": "XxXxXxXxXx_1",
+    "title": "BOT",
+    "rating": 1988
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1903
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XxXxXxXxXx_1",
+  "opponentName": "Boris-Trapsky"
+}
