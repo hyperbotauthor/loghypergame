@@ -28,12 +28,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "e2e4 b8c6 g1f3 f7f5 e4e5 a7a6 d2d4 d7d6 d1e2 e7e6 e5d6 g8f6 d6c7 d8d6 c2c3 b7b5 g2g3 d6c7 a2a4 a8a7 f1h3 c6a5 a4b5 a5b3 c1f4 c7b6 a1a2 c8d7 a2a6 a7a6 b5a6 f8e7 h3f1 e8g8 f3e5 d7a4 e2c4 b3c5 d4c5 b6b2 c4e6 g8h8 f1d3 e7c5 e1g1 b2b6 e6b6 c5b6 b1d2 f6e4 d3e4 f5e4 f1a1 a4b5 a6a7 b6a7 a1a7 h8g8 d2e4 b5e2 e5d7 f8d8 d7f6 g8h8 f4h6 d8d1 g1g2 d1g1 g2g1 g7h6",
+    "wtime": 0,
+    "btime": 102130,
     "winc": 2000,
     "binc": 2000,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "black"
   },
   "botName": "EagleEye2021"
 }
