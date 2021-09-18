@@ -1,0 +1,44 @@
+{
+  "id": "7LQTgYEe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1631954042076,
+  "white": {
+    "id": "bot8888",
+    "name": "Bot8888",
+    "title": "BOT",
+    "rating": 2217,
+    "provisional": true
+  },
+  "black": {
+    "id": "pineapple-friendly",
+    "name": "Pineapple-Friendly",
+    "title": "BOT",
+    "rating": 1697
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Bot8888",
+  "opponentName": "Pineapple-Friendly"
+}
