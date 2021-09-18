@@ -1,0 +1,44 @@
+{
+  "id": "kPTOeiTw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1631975518049,
+  "white": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 2210
+  },
+  "black": {
+    "id": "dean_summer_bot",
+    "name": "Dean_Summer_Bot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 4000,
+    "binc": 4000,
+    "status": "started"
+  },
+  "botName": "Try_To_Beat_Me_Kid",
+  "opponentName": "Dean_Summer_Bot"
+}
