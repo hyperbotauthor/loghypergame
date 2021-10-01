@@ -1,0 +1,44 @@
+{
+  "id": "BuVwZgeD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1633109811015,
+  "white": {
+    "id": "kanki95netyapti",
+    "name": "kanki95netyapti",
+    "title": null,
+    "rating": 1515
+  },
+  "black": {
+    "id": "nehemyevicaltinkum",
+    "name": "NehemyevicAltinkum",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "kanki95netyapti",
+  "opponentName": "NehemyevicAltinkum"
+}
