@@ -1,0 +1,43 @@
+{
+  "id": "vpn3qEqU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1633208418044,
+  "white": {
+    "id": "clueless-bot",
+    "name": "clueless-bot",
+    "title": "BOT",
+    "rating": 2128
+  },
+  "black": {
+    "id": "heronbot",
+    "name": "HeronBot",
+    "title": "BOT",
+    "rating": 2017
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "clueless-bot",
+  "opponentName": "HeronBot"
+}
