@@ -1,0 +1,45 @@
+{
+  "id": "hznmEKpE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1633274567612,
+  "white": {
+    "id": "hyperbullets11_bot",
+    "name": "HyperBullets11_BOT",
+    "title": "BOT",
+    "rating": 2395,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperBullets11_BOT",
+  "opponentName": "HyperPhoenix87"
+}
