@@ -1,0 +1,44 @@
+{
+  "id": "EZxAjHqO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1633354110417,
+  "white": {
+    "id": "cyncko-3000",
+    "name": "Cyncko-3000",
+    "title": null,
+    "rating": 1884
+  },
+  "black": {
+    "id": "catbot329",
+    "name": "CatBot329",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "Cyncko-3000",
+  "opponentName": "CatBot329"
+}
