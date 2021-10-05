@@ -1,0 +1,44 @@
+{
+  "id": "FSTgeBs1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1633450878996,
+  "white": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 2268,
+    "provisional": true
+  },
+  "black": {
+    "id": "ladoga_engine",
+    "name": "ladoga_engine",
+    "title": "BOT",
+    "rating": 1474
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix87",
+  "opponentName": "ladoga_engine"
+}
