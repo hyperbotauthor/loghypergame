@@ -1,0 +1,44 @@
+{
+  "id": "zFCLjwKI",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1633525088973,
+  "white": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "helen_alen",
+    "name": "helen_alen",
+    "title": null,
+    "rating": 1127
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "BotAcademy5",
+  "opponentName": "helen_alen"
+}
