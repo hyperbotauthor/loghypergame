@@ -1,0 +1,42 @@
+{
+  "id": "kKRll1Kh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1633538625249,
+  "white": {
+    "id": "helen_alen",
+    "name": "helen_alen",
+    "title": null,
+    "rating": 1081,
+    "provisional": true
+  },
+  "black": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c3 g8f6 g1f3 b8c6 c1f4 e7e6 b1a3 f8a3 b2a3 c6e7 d1a4 c8d7 a4c2 e8g8",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "helen_alen",
+  "opponentName": "BotAcademy5"
+}
