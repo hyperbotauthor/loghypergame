@@ -1,0 +1,43 @@
+{
+  "id": "yF21AmNO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Игра по переписке"
+  },
+  "rated": false,
+  "createdAt": 1633521405100,
+  "white": {
+    "id": "helen_alen",
+    "name": "helen_alen",
+    "title": null,
+    "rating": 1081,
+    "provisional": true
+  },
+  "black": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3 d7d5 b1c3 d5d4 c3b5 a7a6 b5d4 d8d4 c1e3 d4b2 a1b1 b2a2 g1f3 h7h5 d3d4 g8f6 e3f4 f6d5 f4e5 d5c3 d1c1 a2a1 b1a1 f7f6 e5c7 e7e6 c1a3 f8a3 a1a3 c3b5 a3b3 b5c7 b3c3 b8c6 e2e3 a6a5 f1b5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started",
+    "wtakeback": true
+  },
+  "botName": "helen_alen",
+  "opponentName": "BotAcademy5"
+}
