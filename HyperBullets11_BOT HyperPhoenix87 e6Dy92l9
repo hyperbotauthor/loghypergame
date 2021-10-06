@@ -1,0 +1,44 @@
+{
+  "id": "e6Dy92l9",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1633535712451,
+  "white": {
+    "id": "hyperbullets11_bot",
+    "name": "HyperBullets11_BOT",
+    "title": "BOT",
+    "rating": 2706
+  },
+  "black": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperBullets11_BOT",
+  "opponentName": "HyperPhoenix87"
+}
