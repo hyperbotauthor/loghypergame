@@ -1,0 +1,42 @@
+{
+  "id": "DcLpuDHL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1633538664307,
+  "white": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "alexbelyi",
+    "name": "AlexBelYi",
+    "title": null,
+    "rating": 1477,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 c7c5 g1f3 c5d4 f3d4 b7b6 f1d3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotAcademy5",
+  "opponentName": "AlexBelYi"
+}
