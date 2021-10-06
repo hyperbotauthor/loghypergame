@@ -1,0 +1,45 @@
+{
+  "id": "GlHLsX1q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1633525100913,
+  "white": {
+    "id": "helen_alen",
+    "name": "helen_alen",
+    "title": null,
+    "rating": 1024,
+    "provisional": true
+  },
+  "black": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 2389,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "helen_alen",
+  "opponentName": "BotAcademy5"
+}
