@@ -1,0 +1,44 @@
+{
+  "id": "GUDXnHp3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1633532413715,
+  "white": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 1983,
+    "provisional": true
+  },
+  "black": {
+    "id": "stockfishpro-bot",
+    "name": "StockfishPro-BOT",
+    "title": "BOT",
+    "rating": 2645
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix87",
+  "opponentName": "StockfishPro-BOT"
+}
