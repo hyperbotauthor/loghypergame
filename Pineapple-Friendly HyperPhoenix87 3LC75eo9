@@ -1,0 +1,44 @@
+{
+  "id": "3LC75eo9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1633534844177,
+  "white": {
+    "id": "pineapple-friendly",
+    "name": "Pineapple-Friendly",
+    "title": "BOT",
+    "rating": 1582
+  },
+  "black": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 2072,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Pineapple-Friendly",
+  "opponentName": "HyperPhoenix87"
+}
