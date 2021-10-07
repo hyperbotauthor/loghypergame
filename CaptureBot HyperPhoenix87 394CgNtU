@@ -1,0 +1,44 @@
+{
+  "id": "394CgNtU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1633622098282,
+  "white": {
+    "id": "capturebot",
+    "name": "CaptureBot",
+    "title": "BOT",
+    "rating": 1064,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 2002
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CaptureBot",
+  "opponentName": "HyperPhoenix87"
+}
