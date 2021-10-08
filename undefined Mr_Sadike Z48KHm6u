@@ -1,0 +1,40 @@
+{
+  "id": "Z48KHm6u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1633694488455,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "mr_sadike",
+    "name": "Mr_Sadike",
+    "title": "BOT",
+    "rating": 1715,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "opponentName": "Mr_Sadike"
+}
