@@ -1,0 +1,44 @@
+{
+  "id": "DlKmVCOv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1633687607602,
+  "white": {
+    "id": "mr_sadike",
+    "name": "Mr_Sadike",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "clueless-bot",
+    "name": "clueless-bot",
+    "title": "BOT",
+    "rating": 2126
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "aborted"
+  },
+  "botName": "Mr_Sadike",
+  "opponentName": "clueless-bot"
+}
