@@ -1,0 +1,44 @@
+{
+  "id": "fDuaRpjh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1633689512366,
+  "white": {
+    "id": "mr_sadike",
+    "name": "Mr_Sadike",
+    "title": "BOT",
+    "rating": 1752,
+    "provisional": true
+  },
+  "black": {
+    "id": "clueless-bot",
+    "name": "clueless-bot",
+    "title": "BOT",
+    "rating": 2088
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Mr_Sadike",
+  "opponentName": "clueless-bot"
+}
