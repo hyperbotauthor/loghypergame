@@ -1,0 +1,41 @@
+{
+  "id": "kibLvPLc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1633873768885,
+  "white": {
+    "id": "humanbot_lv1929",
+    "name": "HumanBOT_lv1929",
+    "title": "BOT",
+    "rating": 1711
+  },
+  "black": {
+    "id": "hyper-stockfish-v2",
+    "name": "Hyper-Stockfish-v2",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4c4 g8f6 g1f3 d7d5 e4d5 f6d5 f1e2 c8e6 c4e4 d8d7 e1g1 e8c8 e2b5 d5b4 a2a3 e6d5 e4e2 d5f3 g2f3 d7h3 a3b4 c6d4 b5d7 d8d7 e2d1 f8d6",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HumanBOT_lv1929",
+  "opponentName": "Hyper-Stockfish-v2"
+}
