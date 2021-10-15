@@ -1,0 +1,42 @@
+{
+  "id": "JWPOL7l3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1634312330837,
+  "white": {
+    "id": "senya090811",
+    "name": "SENYA090811",
+    "title": null,
+    "rating": 1289,
+    "provisional": true
+  },
+  "black": {
+    "id": "botacademy5",
+    "name": "BotAcademy5",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b1c3 g8f6 d2d3 h7h6 c1e3 c5e3 f2e3 d7d6 d3d4 e5d4 e3d4 c8g4 d4d5 c6e5 c4e2 e5f3 e2f3 g4f3 d1f3 e8g8 e1c1 c7c6 d5c6 b7c6 e4e5 f6d5 e5d6 d8d6 c3d5 c6d5 d1d5 d6c6 d5d3 c6c7 f3g4 a8c8 d3c3 c7b7 c3c8 f8c8 h1d1 c8b8 b2b3 b7e7 g4f4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SENYA090811",
+  "opponentName": "BotAcademy5"
+}
