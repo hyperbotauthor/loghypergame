@@ -1,0 +1,40 @@
+{
+  "id": "r3LfSDv8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1634324108405,
+  "white": {
+    "id": "epicbot",
+    "name": "EpicBOT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 7
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "EpicBOT"
+}
