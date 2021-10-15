@@ -1,0 +1,40 @@
+{
+  "id": "Zwrtbtfo",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 8000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1634324424843,
+  "white": {
+    "id": "orcabot",
+    "name": "OrcaBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 2
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "aborted"
+  },
+  "botName": "OrcaBOT"
+}
