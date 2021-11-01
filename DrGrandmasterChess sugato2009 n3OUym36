@@ -1,0 +1,44 @@
+{
+  "id": "n3OUym36",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1635779844653,
+  "white": {
+    "id": "drgrandmasterchess",
+    "name": "DrGrandmasterChess",
+    "title": "BOT",
+    "rating": 2077,
+    "provisional": true
+  },
+  "black": {
+    "id": "sugato2009",
+    "name": "sugato2009",
+    "title": null,
+    "rating": 1585
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DrGrandmasterChess",
+  "opponentName": "sugato2009"
+}
