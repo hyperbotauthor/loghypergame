@@ -1,0 +1,44 @@
+{
+  "id": "FrLPk51B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1635779620818,
+  "white": {
+    "id": "sugato2009",
+    "name": "sugato2009",
+    "title": null,
+    "rating": 1586
+  },
+  "black": {
+    "id": "drgrandmasterchess",
+    "name": "DrGrandmasterChess",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "sugato2009",
+  "opponentName": "DrGrandmasterChess"
+}
