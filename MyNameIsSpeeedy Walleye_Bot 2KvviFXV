@@ -1,0 +1,45 @@
+{
+  "id": "2KvviFXV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1635969706552,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 2486,
+    "provisional": true
+  },
+  "black": {
+    "id": "walleye_bot",
+    "name": "Walleye_Bot",
+    "title": "BOT",
+    "rating": 2080,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy",
+  "opponentName": "Walleye_Bot"
+}
