@@ -1,0 +1,44 @@
+{
+  "id": "cdfBqBIw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1635969600561,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 2476,
+    "provisional": true
+  },
+  "black": {
+    "id": "bufferunderflow",
+    "name": "BufferUnderflow",
+    "title": "BOT",
+    "rating": 2379
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy",
+  "opponentName": "BufferUnderflow"
+}
