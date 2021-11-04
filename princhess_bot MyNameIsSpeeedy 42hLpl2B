@@ -1,0 +1,43 @@
+{
+  "id": "42hLpl2B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1636032090481,
+  "white": {
+    "id": "princhess_bot",
+    "name": "princhess_bot",
+    "title": "BOT",
+    "rating": 1816
+  },
+  "black": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 2278
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "princhess_bot",
+  "opponentName": "MyNameIsSpeeedy"
+}
