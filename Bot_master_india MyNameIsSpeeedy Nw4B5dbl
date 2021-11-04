@@ -1,0 +1,45 @@
+{
+  "id": "Nw4B5dbl",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1636029785772,
+  "white": {
+    "id": "bot_master_india",
+    "name": "Bot_master_india",
+    "title": "BOT",
+    "rating": 1570,
+    "provisional": true
+  },
+  "black": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "brnbknrq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKNRQ w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Bot_master_india",
+  "opponentName": "MyNameIsSpeeedy"
+}
