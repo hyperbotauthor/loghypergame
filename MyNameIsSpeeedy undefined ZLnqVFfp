@@ -1,0 +1,37 @@
+{
+  "id": "ZLnqVFfp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Fernschach"
+  },
+  "rated": false,
+  "createdAt": 1636010341552,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 5
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86395000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy"
+}
