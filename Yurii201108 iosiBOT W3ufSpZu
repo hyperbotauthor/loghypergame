@@ -1,0 +1,44 @@
+{
+  "id": "W3ufSpZu",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1636037021661,
+  "white": {
+    "id": "yurii201108",
+    "name": "Yurii201108",
+    "title": null,
+    "rating": 1322
+  },
+  "black": {
+    "id": "iosibot",
+    "name": "iosiBOT",
+    "title": "BOT",
+    "rating": 1650,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Yurii201108",
+  "opponentName": "iosiBOT"
+}
