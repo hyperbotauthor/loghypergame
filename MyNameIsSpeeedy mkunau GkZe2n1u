@@ -1,0 +1,43 @@
+{
+  "id": "GkZe2n1u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1636016571297,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 2318
+  },
+  "black": {
+    "id": "mkunau",
+    "name": "mkunau",
+    "title": null,
+    "rating": 1873
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy",
+  "opponentName": "mkunau"
+}
