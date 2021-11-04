@@ -1,0 +1,43 @@
+{
+  "id": "gLWi7UeY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1636019304606,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 2384
+  },
+  "black": {
+    "id": "alehkine_cat",
+    "name": "Alehkine_cat",
+    "title": "BOT",
+    "rating": 2457
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy",
+  "opponentName": "Alehkine_cat"
+}
