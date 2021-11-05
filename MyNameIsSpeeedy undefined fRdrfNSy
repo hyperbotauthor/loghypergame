@@ -1,0 +1,40 @@
+{
+  "id": "fRdrfNSy",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1636127931621,
+  "white": {
+    "id": "mynameisspeeedy",
+    "name": "MyNameIsSpeeedy",
+    "title": "BOT",
+    "rating": 1453,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g8f6 e4e5 b8c6 e5f6 e7e6 d2d4 f8d6",
+    "wtime": 208260,
+    "btime": 303110,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "MyNameIsSpeeedy"
+}
