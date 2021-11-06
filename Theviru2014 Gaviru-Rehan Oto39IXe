@@ -1,0 +1,43 @@
+{
+  "id": "Oto39IXe",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1636185260261,
+  "white": {
+    "id": "theviru2014",
+    "name": "Theviru2014",
+    "title": null,
+    "rating": 1449,
+    "provisional": true
+  },
+  "black": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 2101,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4 d7d5",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started",
+    "bdraw": true
+  },
+  "botName": "Theviru2014",
+  "opponentName": "Gaviru-Rehan"
+}
