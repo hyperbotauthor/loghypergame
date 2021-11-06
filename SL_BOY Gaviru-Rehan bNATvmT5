@@ -1,0 +1,45 @@
+{
+  "id": "bNATvmT5",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1636185202641,
+  "white": {
+    "id": "sl_boy",
+    "name": "SL_BOY",
+    "title": "BOT",
+    "rating": 1576,
+    "provisional": true
+  },
+  "black": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 1318,
+    "provisional": true
+  },
+  "initialFen": "nrbbnkqr/pppppppp/8/8/8/8/PPPPPPPP/NRBBNKQR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "SL_BOY",
+  "opponentName": "Gaviru-Rehan"
+}
