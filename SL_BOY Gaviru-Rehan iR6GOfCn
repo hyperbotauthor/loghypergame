@@ -1,0 +1,43 @@
+{
+  "id": "iR6GOfCn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1636185635864,
+  "white": {
+    "id": "sl_boy",
+    "name": "SL_BOY",
+    "title": "BOT",
+    "rating": 2163
+  },
+  "black": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 1968
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SL_BOY",
+  "opponentName": "Gaviru-Rehan"
+}
