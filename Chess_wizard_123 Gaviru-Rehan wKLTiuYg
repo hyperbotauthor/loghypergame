@@ -1,0 +1,44 @@
+{
+  "id": "wKLTiuYg",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1636184218559,
+  "white": {
+    "id": "chess_wizard_123",
+    "name": "Chess_wizard_123",
+    "title": null,
+    "rating": 1811
+  },
+  "black": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 1476,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Chess_wizard_123",
+  "opponentName": "Gaviru-Rehan"
+}
