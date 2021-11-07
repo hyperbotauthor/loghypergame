@@ -1,0 +1,44 @@
+{
+  "id": "UDZWLxr2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1636254930940,
+  "white": {
+    "id": "botmaster222",
+    "name": "BOTMASTER222",
+    "title": "BOT",
+    "rating": 2602,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2416
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7 e1c1 c6d4 d2d4 e8g8 h2h4 c8d7 c1b1 a7a6",
+    "wtime": 262680,
+    "btime": 213210,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BOTMASTER222",
+  "opponentName": "XXIstCentury"
+}
