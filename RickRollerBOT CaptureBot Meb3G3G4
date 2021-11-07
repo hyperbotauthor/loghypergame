@@ -1,0 +1,45 @@
+{
+  "id": "Meb3G3G4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1636299518679,
+  "white": {
+    "id": "rickrollerbot",
+    "name": "RickRollerBOT",
+    "title": "BOT",
+    "rating": 2217,
+    "provisional": true
+  },
+  "black": {
+    "id": "capturebot",
+    "name": "CaptureBot",
+    "title": "BOT",
+    "rating": 1064,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "RickRollerBOT",
+  "opponentName": "CaptureBot"
+}
