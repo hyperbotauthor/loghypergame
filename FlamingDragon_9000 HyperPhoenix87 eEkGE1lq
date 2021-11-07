@@ -1,0 +1,43 @@
+{
+  "id": "eEkGE1lq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1636281362021,
+  "white": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2264
+  },
+  "black": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 1850
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "FlamingDragon_9000",
+  "opponentName": "HyperPhoenix87"
+}
