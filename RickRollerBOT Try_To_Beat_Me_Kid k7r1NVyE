@@ -1,0 +1,44 @@
+{
+  "id": "k7r1NVyE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1636297803590,
+  "white": {
+    "id": "rickrollerbot",
+    "name": "RickRollerBOT",
+    "title": "BOT",
+    "rating": 2428,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1949
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "aborted"
+  },
+  "botName": "RickRollerBOT",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
