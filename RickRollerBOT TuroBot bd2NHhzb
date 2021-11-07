@@ -1,0 +1,44 @@
+{
+  "id": "bd2NHhzb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1636298996133,
+  "white": {
+    "id": "rickrollerbot",
+    "name": "RickRollerBOT",
+    "title": "BOT",
+    "rating": 2428,
+    "provisional": true
+  },
+  "black": {
+    "id": "turobot",
+    "name": "TuroBot",
+    "title": "BOT",
+    "rating": 1575
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "RickRollerBOT",
+  "opponentName": "TuroBot"
+}
