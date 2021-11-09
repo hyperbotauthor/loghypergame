@@ -1,0 +1,43 @@
+{
+  "id": "EcoW26V2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1636441012657,
+  "white": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 1959
+  },
+  "black": {
+    "id": "sanjul_201o-3",
+    "name": "Sanjul_201O-3",
+    "title": "BOT",
+    "rating": 2226
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Gaviru-Rehan",
+  "opponentName": "Sanjul_201O-3"
+}
