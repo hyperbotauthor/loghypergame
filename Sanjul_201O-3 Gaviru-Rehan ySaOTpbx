@@ -1,0 +1,43 @@
+{
+  "id": "ySaOTpbx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1636441100882,
+  "white": {
+    "id": "sanjul_201o-3",
+    "name": "Sanjul_201O-3",
+    "title": "BOT",
+    "rating": 2235
+  },
+  "black": {
+    "id": "gaviru-rehan",
+    "name": "Gaviru-Rehan",
+    "title": "BOT",
+    "rating": 1955
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Sanjul_201O-3",
+  "opponentName": "Gaviru-Rehan"
+}
