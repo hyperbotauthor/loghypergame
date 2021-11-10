@@ -1,0 +1,45 @@
+{
+  "id": "K080BNzI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1636534751572,
+  "white": {
+    "id": "maheswars_team",
+    "name": "Maheswars_Team",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 1719,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "Maheswars_Team",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
