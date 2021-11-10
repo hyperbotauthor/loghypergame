@@ -1,0 +1,44 @@
+{
+  "id": "kgLt1wKT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1636535244741,
+  "white": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 1805,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1584
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "REVENGERS-CHESS-TEAM",
+  "opponentName": "turkjs"
+}
