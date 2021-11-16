@@ -1,0 +1,44 @@
+{
+  "id": "KLWIBvXw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1637057217022,
+  "white": {
+    "id": "pichu_chess_team",
+    "name": "PICHU_CHESS_TEAM",
+    "title": "BOT",
+    "rating": 2323
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "PICHU_CHESS_TEAM",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
