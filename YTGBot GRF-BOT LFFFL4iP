@@ -1,0 +1,45 @@
+{
+  "id": "LFFFL4iP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1637027024324,
+  "white": {
+    "id": "ytgbot",
+    "name": "YTGBot",
+    "title": "BOT",
+    "rating": 1475,
+    "provisional": true
+  },
+  "black": {
+    "id": "grf-bot",
+    "name": "GRF-BOT",
+    "title": "BOT",
+    "rating": 1657,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "YTGBot",
+  "opponentName": "GRF-BOT"
+}
