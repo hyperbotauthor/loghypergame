@@ -1,0 +1,42 @@
+{
+  "id": "yETGrYA9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1637058720103,
+  "white": {
+    "id": "woosistersbot",
+    "name": "woosistersbot",
+    "title": "BOT",
+    "rating": 2153,
+    "provisional": true
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 259200000,
+    "btime": 259193000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "woosistersbot",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
