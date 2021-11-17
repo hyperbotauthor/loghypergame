@@ -1,0 +1,45 @@
+{
+  "id": "MuDYLKTD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1637126961103,
+  "white": {
+    "id": "good_notbad_bot",
+    "name": "Good_NotBad_Bot",
+    "title": "BOT",
+    "rating": 2218,
+    "provisional": true
+  },
+  "black": {
+    "id": "slbot",
+    "name": "Slbot",
+    "title": "BOT",
+    "rating": 2338,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Good_NotBad_Bot",
+  "opponentName": "Slbot"
+}
