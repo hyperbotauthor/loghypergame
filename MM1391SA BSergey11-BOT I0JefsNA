@@ -1,0 +1,44 @@
+{
+  "id": "I0JefsNA",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1637135386752,
+  "white": {
+    "id": "mm1391sa",
+    "name": "MM1391SA",
+    "title": null,
+    "rating": 1207
+  },
+  "black": {
+    "id": "bsergey11-bot",
+    "name": "BSergey11-BOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MM1391SA",
+  "opponentName": "BSergey11-BOT"
+}
