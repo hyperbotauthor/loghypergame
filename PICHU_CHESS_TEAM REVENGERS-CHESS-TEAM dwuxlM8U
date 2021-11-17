@@ -1,0 +1,42 @@
+{
+  "id": "dwuxlM8U",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1637134669676,
+  "white": {
+    "id": "pichu_chess_team",
+    "name": "PICHU_CHESS_TEAM",
+    "title": "BOT",
+    "rating": 1786,
+    "provisional": true
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172794000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "PICHU_CHESS_TEAM",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
