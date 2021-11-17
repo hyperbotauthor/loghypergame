@@ -1,0 +1,42 @@
+{
+  "id": "R8P8HFNz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1637134669783,
+  "white": {
+    "id": "pichu_chess_team",
+    "name": "PICHU_CHESS_TEAM",
+    "title": "BOT",
+    "rating": 1786,
+    "provisional": true
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 a7a6 e2e3 d7d5 b1c3 e7e6 f1d3 g8f6 e1g1 d5d4 e3d4 b8c6 c3e2 c6b4 d3c4 b7b5 c4b3 c8b7 c2c3 b4d3 f3e5 d3c1 e2c1 c7c5 d4c5 f8c5 d2d4 c5e7 c1d3 e8g8 a2a4 e7d6 f1e1 h7h6 d1e2 a8c8 a4b5 a6b5 a1a7 d8b6 e1a1 c8a8 a7a8 f8a8 a1a8 b7a8 e5f7 b6b7 f2f3 b7f7 b3e6 a8d5 e6f7 d5f7 d3e5 b5b4 e2a6 d6f8 e5f7 g8f7 a6b7 f8e7 c3c4 g7g5 c4c5",
+    "wtime": 172800000,
+    "btime": 172777000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "PICHU_CHESS_TEAM",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
