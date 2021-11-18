@@ -1,0 +1,44 @@
+{
+  "id": "f8KPj1qa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1637209279824,
+  "white": {
+    "id": "dragons_leaguer",
+    "name": "Dragons_Leaguer",
+    "title": "BOT",
+    "rating": 1840,
+    "provisional": true
+  },
+  "black": {
+    "id": "turkjs",
+    "name": "turkjs",
+    "title": "BOT",
+    "rating": 1763
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6",
+    "wtime": 86610,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Dragons_Leaguer",
+  "opponentName": "turkjs"
+}
