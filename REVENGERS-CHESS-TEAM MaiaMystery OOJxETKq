@@ -1,0 +1,44 @@
+{
+  "id": "OOJxETKq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1637306262072,
+  "white": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 1944,
+    "provisional": true
+  },
+  "black": {
+    "id": "maiamystery",
+    "name": "MaiaMystery",
+    "title": "BOT",
+    "rating": 1813
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 g8f6 g1f3 f6d5 f1e2 b8c6 e1g1 c8g4 h2h3 g4h5 b1c3 d5f6 d2d3 e7e6 c1e3 f8d6 d3d4 e8g8 f3h2 h5e2 d1e2 f6d5 c3d5 e6d5 c2c3 c6e7 a1e1 e7g6 f2f4 f8e8 f4f5 d6h2",
+    "wtime": 920470,
+    "btime": 1287020,
+    "winc": 6000,
+    "binc": 6000,
+    "status": "started"
+  },
+  "botName": "REVENGERS-CHESS-TEAM",
+  "opponentName": "MaiaMystery"
+}
