@@ -1,0 +1,45 @@
+{
+  "id": "s0s2BiqY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1637417068608,
+  "white": {
+    "id": "blitzz_bot",
+    "name": "blitzz_bot",
+    "title": "BOT",
+    "rating": 2185,
+    "provisional": true
+  },
+  "black": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2061,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "blitzz_bot",
+  "opponentName": "REVENGERS-CHESS-TEAM"
+}
