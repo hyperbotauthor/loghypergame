@@ -1,0 +1,44 @@
+{
+  "id": "GpFL7Qiv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1637512860622,
+  "white": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2766,
+    "provisional": true
+  },
+  "black": {
+    "id": "ctolosa_9_cavite",
+    "name": "CTolosa_9_Cavite",
+    "title": null,
+    "rating": 2249
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CrazyDog5892912",
+  "opponentName": "CTolosa_9_Cavite"
+}
