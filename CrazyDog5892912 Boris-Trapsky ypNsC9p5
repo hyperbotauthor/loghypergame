@@ -1,0 +1,43 @@
+{
+  "id": "ypNsC9p5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1637594715355,
+  "white": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2668
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2414
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "CrazyDog5892912",
+  "opponentName": "Boris-Trapsky"
+}
