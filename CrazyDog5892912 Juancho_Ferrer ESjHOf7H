@@ -1,0 +1,42 @@
+{
+  "id": "ESjHOf7H",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1637557591989,
+  "white": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2755,
+    "provisional": true
+  },
+  "black": {
+    "id": "juancho_ferrer",
+    "name": "Juancho_Ferrer",
+    "title": null,
+    "rating": 1788
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/7Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "CrazyDog5892912",
+  "opponentName": "Juancho_Ferrer"
+}
