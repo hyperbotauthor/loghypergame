@@ -1,0 +1,44 @@
+{
+  "id": "Arj6uv5W",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1637565077202,
+  "white": {
+    "id": "revengers-chess-team",
+    "name": "REVENGERS-CHESS-TEAM",
+    "title": "BOT",
+    "rating": 2029,
+    "provisional": true
+  },
+  "black": {
+    "id": "matrix_2020",
+    "name": "Matrix_2020",
+    "title": null,
+    "rating": 2500
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "REVENGERS-CHESS-TEAM",
+  "opponentName": "Matrix_2020"
+}
