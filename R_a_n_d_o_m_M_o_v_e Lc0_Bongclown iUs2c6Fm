@@ -1,0 +1,45 @@
+{
+  "id": "iUs2c6Fm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1637704739484,
+  "white": {
+    "id": "r_a_n_d_o_m_m_o_v_e",
+    "name": "R_a_n_d_o_m_M_o_v_e",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "lc0_bongclown",
+    "name": "Lc0_Bongclown",
+    "title": "BOT",
+    "rating": 2348
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted",
+    "rematch": "WsvWx91B"
+  },
+  "botName": "R_a_n_d_o_m_M_o_v_e",
+  "opponentName": "Lc0_Bongclown"
+}
