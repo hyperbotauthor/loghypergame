@@ -1,0 +1,45 @@
+{
+  "id": "tz6s9Y65",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1637666033463,
+  "white": {
+    "id": "theultimatechzb",
+    "name": "TheUltimateChzB",
+    "title": "BOT",
+    "rating": 1408,
+    "provisional": true
+  },
+  "black": {
+    "id": "theekshana_rc",
+    "name": "Theekshana_RC",
+    "title": null,
+    "rating": 1878,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheUltimateChzB",
+  "opponentName": "Theekshana_RC"
+}
