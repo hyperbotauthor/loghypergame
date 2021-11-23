@@ -1,0 +1,45 @@
+{
+  "id": "4LSDHGvs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1637705814531,
+  "white": {
+    "id": "r_a_n_d_o_m_m_o_v_e",
+    "name": "R_a_n_d_o_m_M_o_v_e",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "grandmasterrandom",
+    "name": "GrandmasterRandom",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "R_a_n_d_o_m_M_o_v_e",
+  "opponentName": "GrandmasterRandom"
+}
