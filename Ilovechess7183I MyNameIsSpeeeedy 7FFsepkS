@@ -1,0 +1,44 @@
+{
+  "id": "7FFsepkS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "快棋"
+  },
+  "rated": false,
+  "createdAt": 1637700569131,
+  "white": {
+    "id": "ilovechess7183i",
+    "name": "Ilovechess7183I",
+    "title": "BOT",
+    "rating": 3052,
+    "provisional": true
+  },
+  "black": {
+    "id": "mynameisspeeeedy",
+    "name": "MyNameIsSpeeeedy",
+    "title": "BOT",
+    "rating": 2913
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b7b6 b1c3 c7c5 g1f3",
+    "wtime": 461720,
+    "btime": 451480,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Ilovechess7183I",
+  "opponentName": "MyNameIsSpeeeedy"
+}
