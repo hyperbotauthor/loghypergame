@@ -1,0 +1,44 @@
+{
+  "id": "Zyedchjt",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1637740339221,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2251
+  },
+  "black": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2110,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "CrazyDog5892912"
+}
