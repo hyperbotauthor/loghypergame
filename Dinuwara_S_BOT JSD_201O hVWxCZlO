@@ -1,0 +1,45 @@
+{
+  "id": "hVWxCZlO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1638601674397,
+  "white": {
+    "id": "dinuwara_s_bot",
+    "name": "Dinuwara_S_BOT",
+    "title": "BOT",
+    "rating": 2738,
+    "provisional": true
+  },
+  "black": {
+    "id": "jsd_201o",
+    "name": "JSD_201O",
+    "title": "BOT",
+    "rating": 1974,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dinuwara_S_BOT",
+  "opponentName": "JSD_201O"
+}
