@@ -1,0 +1,44 @@
+{
+  "id": "JGh5CXNf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1638625856391,
+  "white": {
+    "id": "chesshelper1234",
+    "name": "Chesshelper1234",
+    "title": "BOT",
+    "rating": 2643
+  },
+  "black": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2441,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 h7h6",
+    "wtime": 597850,
+    "btime": 600000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Chesshelper1234",
+  "opponentName": "KKKA-SA"
+}
