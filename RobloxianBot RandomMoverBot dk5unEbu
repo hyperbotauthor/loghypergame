@@ -1,0 +1,42 @@
+{
+  "id": "dk5unEbu",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1638634632227,
+  "white": {
+    "id": "robloxianbot",
+    "name": "RobloxianBot",
+    "title": "BOT",
+    "rating": 2227
+  },
+  "black": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 984,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/8/8/8/4P3/4K3 w kq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RobloxianBot",
+  "opponentName": "RandomMoverBot"
+}
