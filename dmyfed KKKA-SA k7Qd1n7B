@@ -1,0 +1,44 @@
+{
+  "id": "k7Qd1n7B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1638622083435,
+  "white": {
+    "id": "dmyfed",
+    "name": "dmyfed",
+    "title": null,
+    "rating": 1749
+  },
+  "black": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2629,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 h7h6",
+    "wtime": 599950,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "dmyfed",
+  "opponentName": "KKKA-SA"
+}
