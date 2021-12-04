@@ -1,0 +1,44 @@
+{
+  "id": "j1vc3WEZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1638632996648,
+  "white": {
+    "id": "robloxianbot",
+    "name": "RobloxianBot",
+    "title": "BOT",
+    "rating": 2180,
+    "provisional": true
+  },
+  "black": {
+    "id": "awesome32",
+    "name": "Awesome32",
+    "title": "BOT",
+    "rating": 2619
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RobloxianBot",
+  "opponentName": "Awesome32"
+}
