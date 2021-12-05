@@ -1,0 +1,45 @@
+{
+  "id": "VYeFUSOY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1638705886185,
+  "white": {
+    "id": "prajeeth_chess_bot",
+    "name": "Prajeeth_chess_BOT",
+    "title": "BOT",
+    "rating": 2285,
+    "provisional": true
+  },
+  "black": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 1768,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Prajeeth_chess_BOT",
+  "opponentName": "Variants_champ_bot"
+}
