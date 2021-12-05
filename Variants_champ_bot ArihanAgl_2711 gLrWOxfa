@@ -1,0 +1,45 @@
+{
+  "id": "gLrWOxfa",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1638704949452,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2132,
+    "provisional": true
+  },
+  "black": {
+    "id": "arihanagl_2711",
+    "name": "ArihanAgl_2711",
+    "title": null,
+    "rating": 2355,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "ArihanAgl_2711"
+}
