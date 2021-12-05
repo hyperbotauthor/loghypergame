@@ -1,0 +1,44 @@
+{
+  "id": "qkZUWG5S",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 2000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1638710815157,
+  "white": {
+    "id": "walleye_bot",
+    "name": "Walleye_Bot",
+    "title": "BOT",
+    "rating": 2058
+  },
+  "black": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2445,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 h7h6 d2d4",
+    "wtime": 602000,
+    "btime": 596730,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Walleye_Bot",
+  "opponentName": "KKKA-SA"
+}
