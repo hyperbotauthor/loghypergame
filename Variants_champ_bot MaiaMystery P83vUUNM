@@ -1,0 +1,44 @@
+{
+  "id": "P83vUUNM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1638704873109,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2569,
+    "provisional": true
+  },
+  "black": {
+    "id": "maiamystery",
+    "name": "MaiaMystery",
+    "title": "BOT",
+    "rating": 1825
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "MaiaMystery"
+}
