@@ -1,0 +1,44 @@
+{
+  "id": "3HpOusy8",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1638706488088,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2146,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2137
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "XXIstCentury"
+}
