@@ -1,0 +1,44 @@
+{
+  "id": "Q2vPYYo2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1638892020620,
+  "white": {
+    "id": "prajeeth_chess_bot",
+    "name": "Prajeeth_chess_BOT",
+    "title": "BOT",
+    "rating": 2307
+  },
+  "black": {
+    "id": "jotabot",
+    "name": "JotaBot",
+    "title": "BOT",
+    "rating": 2056,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e5 d4b3 c8e6 f2f3 f8e7 d1d2 e8g8 e1c1 b8d7 g2g4 b7b5 a2a3 d8c7 g4g5 f6h5 c3d5 e6d5 e4d5 d7b6 c1b1 a8b8 b3a5 b6d5 d2d5 c7a5 f1c4 a5d8 c4a2 e7g5 e3g5 d8g5 d5d6 g5f6 d6f6 h5f6 d1d6 b8a8 h1g1 g8h8 d6b6 a8a7 g1e1 e5e4 f3e4 f6d7 b6d6 d7e5 e1f1 g7g6 f1f6 e5g4 d6a6 a7d7 f6d6 d7d6 a6d6 g4h2 c2c4 b5c4 a2c4 g6g5 a3a4 g5g4 d6d1",
+    "wtime": 78110,
+    "btime": 83700,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Prajeeth_chess_BOT",
+  "opponentName": "JotaBot"
+}
