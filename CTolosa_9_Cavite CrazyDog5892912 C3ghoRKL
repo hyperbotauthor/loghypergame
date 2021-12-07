@@ -1,0 +1,45 @@
+{
+  "id": "C3ghoRKL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1638859089486,
+  "white": {
+    "id": "ctolosa_9_cavite",
+    "name": "CTolosa_9_Cavite",
+    "title": null,
+    "rating": 2023,
+    "provisional": true
+  },
+  "black": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2363,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CTolosa_9_Cavite",
+  "opponentName": "CrazyDog5892912"
+}
