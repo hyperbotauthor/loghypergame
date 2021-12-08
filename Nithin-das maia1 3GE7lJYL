@@ -1,0 +1,44 @@
+{
+  "id": "3GE7lJYL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1638978777622,
+  "white": {
+    "id": "nithin-das",
+    "name": "Nithin-das",
+    "title": "BOT",
+    "rating": 2178,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1561
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "aborted"
+  },
+  "botName": "Nithin-das",
+  "opponentName": "maia1"
+}
