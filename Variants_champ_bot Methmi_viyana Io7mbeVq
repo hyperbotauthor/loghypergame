@@ -1,0 +1,43 @@
+{
+  "id": "Io7mbeVq",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 840000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1639132243626,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2217
+  },
+  "black": {
+    "id": "methmi_viyana",
+    "name": "Methmi_viyana",
+    "title": null,
+    "rating": 1493
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 840000,
+    "btime": 840000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "Methmi_viyana"
+}
