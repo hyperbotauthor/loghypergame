@@ -1,0 +1,44 @@
+{
+  "id": "4zMvZNUL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 3000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1639122244380,
+  "white": {
+    "id": "purrfecttmeow",
+    "name": "PurrFecttMeow",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "elexuschess",
+    "name": "ElexusChess",
+    "title": "BOT",
+    "rating": 2373
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 h2h3 e7e6 g2g4 h7h6 f1g2 f8e7 c1e3 b8c6 d4c6 b7c6 d1d2 a8b8 e1c1 d6d5 c1b1 f6d7 e3f4 b8b7 e4d5 e6d5 c3a4 e8g8 h1e1 d7c5 a4c5 e7c5 f4e5 d8b6 f2f4 b7e7 f4f5 f8e8 e5f4 a6a5 e1e7 e8e7 f5f6 e7e6 f6g7 c8a6 g2f1 a6f1 d1f1 c5d4 c2c3 d4g7 f1e1 c6c5 e1e6 b6e6 d2e3 e6c6 e3d3 a5a4 f4d2 d5d4 c3d4 g7d4 a2a3 c6g2 b1c2 g2c6 d2c3 c6d5 c2c1 g8g7 c3d4 c5d4 b2b4 a4b3 c1b2 g7g8 a3a4 g8g7 d3b3 d5g2 b2a3 g2e2 b3b2 e2e7 a3b3 e7e6 b3a3 e6e3 a3b4 g7g8 b4c4",
+    "wtime": 1258280,
+    "btime": 979510,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "PurrFecttMeow",
+  "opponentName": "ElexusChess"
+}
