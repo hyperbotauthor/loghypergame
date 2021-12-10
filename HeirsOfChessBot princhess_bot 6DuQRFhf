@@ -1,0 +1,44 @@
+{
+  "id": "6DuQRFhf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1639120961221,
+  "white": {
+    "id": "heirsofchessbot",
+    "name": "HeirsOfChessBot",
+    "title": "BOT",
+    "rating": 1999,
+    "provisional": true
+  },
+  "black": {
+    "id": "princhess_bot",
+    "name": "princhess_bot",
+    "title": "BOT",
+    "rating": 1769
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HeirsOfChessBot",
+  "opponentName": "princhess_bot"
+}
