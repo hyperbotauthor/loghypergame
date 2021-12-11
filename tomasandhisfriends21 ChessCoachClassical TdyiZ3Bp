@@ -1,0 +1,44 @@
+{
+  "id": "TdyiZ3Bp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1639198242293,
+  "white": {
+    "id": "tomasandhisfriends21",
+    "name": "tomasandhisfriends21",
+    "title": "BOT",
+    "rating": 2584,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesscoachclassical",
+    "name": "ChessCoachClassical",
+    "title": "BOT",
+    "rating": 2382
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "tomasandhisfriends21",
+  "opponentName": "ChessCoachClassical"
+}
