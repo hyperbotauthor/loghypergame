@@ -1,0 +1,45 @@
+{
+  "id": "k6XENPeG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1639191648217,
+  "white": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2319,
+    "provisional": true
+  },
+  "black": {
+    "id": "tomasandhisfriends21",
+    "name": "tomasandhisfriends21",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "CrazyDog5892912",
+  "opponentName": "tomasandhisfriends21"
+}
