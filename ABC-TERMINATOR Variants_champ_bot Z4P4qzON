@@ -1,0 +1,43 @@
+{
+  "id": "Z4P4qzON",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1639290961688,
+  "white": {
+    "id": "abc-terminator",
+    "name": "ABC-TERMINATOR",
+    "title": null,
+    "rating": 2108
+  },
+  "black": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2244
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ABC-TERMINATOR",
+  "opponentName": "Variants_champ_bot"
+}
