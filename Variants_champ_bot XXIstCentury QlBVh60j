@@ -1,0 +1,44 @@
+{
+  "id": "QlBVh60j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1639300199870,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2012,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2334
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "XXIstCentury"
+}
