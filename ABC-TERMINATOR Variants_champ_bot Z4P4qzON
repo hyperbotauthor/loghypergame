@@ -31,12 +31,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "f2d4",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "f2d4 c2e4 h2g3 a2b3 g3g4 b3c4 g4f4",
+    "wtime": 54710,
+    "btime": 37860,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "started",
+    "wdraw": true
   },
   "botName": "ABC-TERMINATOR",
   "opponentName": "Variants_champ_bot"
