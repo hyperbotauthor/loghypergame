@@ -1,0 +1,44 @@
+{
+  "id": "2IzaNzU7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1639380468312,
+  "white": {
+    "id": "variants_champ_bot",
+    "name": "Variants_champ_bot",
+    "title": "BOT",
+    "rating": 2097,
+    "provisional": true
+  },
+  "black": {
+    "id": "acaf_bot_legend",
+    "name": "Acaf_bot_legend",
+    "title": "BOT",
+    "rating": 2128
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "Variants_champ_bot",
+  "opponentName": "Acaf_bot_legend"
+}
