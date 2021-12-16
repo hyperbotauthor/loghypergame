@@ -1,0 +1,44 @@
+{
+  "id": "mPIvVyBA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 540000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1639655565116,
+  "white": {
+    "id": "flipmellow",
+    "name": "FlipMellow",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2499
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 540000,
+    "btime": 540000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "FlipMellow",
+  "opponentName": "Boris-Trapsky"
+}
