@@ -1,0 +1,44 @@
+{
+  "id": "AQthD4ML",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 45000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1639732214913,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 2058,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2402
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 45000,
+    "binc": 45000,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "XXIstCentury"
+}
