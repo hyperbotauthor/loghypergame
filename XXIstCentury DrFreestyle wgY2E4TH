@@ -1,0 +1,44 @@
+{
+  "id": "wgY2E4TH",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1639741583946,
+  "white": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2022
+  },
+  "black": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "XXIstCentury",
+  "opponentName": "DrFreestyle"
+}
