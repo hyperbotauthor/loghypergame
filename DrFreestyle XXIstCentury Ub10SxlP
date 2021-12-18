@@ -1,0 +1,44 @@
+{
+  "id": "Ub10SxlP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 19000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1639797896927,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 1990,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2562
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 298460,
+    "btime": 300000,
+    "winc": 19000,
+    "binc": 19000,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "XXIstCentury"
+}
