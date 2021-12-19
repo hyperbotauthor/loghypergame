@@ -1,0 +1,45 @@
+{
+  "id": "nTIxrEum",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1639921163990,
+  "white": {
+    "id": "tevfik-berkem-5b",
+    "name": "tevfik-berkem-5b",
+    "title": null,
+    "rating": 1488,
+    "provisional": true
+  },
+  "black": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 2288,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "tevfik-berkem-5b",
+  "opponentName": "EagleEye2021"
+}
