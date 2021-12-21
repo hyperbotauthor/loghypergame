@@ -1,0 +1,44 @@
+{
+  "id": "VarXi6Iw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1640066580486,
+  "white": {
+    "id": "arghyadip_mondal15",
+    "name": "Arghyadip_Mondal15",
+    "title": null,
+    "rating": 1421
+  },
+  "black": {
+    "id": "ardunot",
+    "name": "Ardunot",
+    "title": "BOT",
+    "rating": 1300,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Arghyadip_Mondal15",
+  "opponentName": "Ardunot"
+}
