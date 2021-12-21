@@ -1,0 +1,45 @@
+{
+  "id": "CheNUmhx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1640069491864,
+  "white": {
+    "id": "utsa-super-bot",
+    "name": "Utsa-Super-Bot",
+    "title": "BOT",
+    "rating": 1730,
+    "provisional": true
+  },
+  "black": {
+    "id": "ardunot",
+    "name": "Ardunot",
+    "title": "BOT",
+    "rating": 1216,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "Utsa-Super-Bot",
+  "opponentName": "Ardunot"
+}
