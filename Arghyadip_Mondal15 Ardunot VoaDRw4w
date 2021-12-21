@@ -1,0 +1,44 @@
+{
+  "id": "VoaDRw4w",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1640060233563,
+  "white": {
+    "id": "arghyadip_mondal15",
+    "name": "Arghyadip_Mondal15",
+    "title": null,
+    "rating": 1120
+  },
+  "black": {
+    "id": "ardunot",
+    "name": "Ardunot",
+    "title": "BOT",
+    "rating": 1621,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Arghyadip_Mondal15",
+  "opponentName": "Ardunot"
+}
