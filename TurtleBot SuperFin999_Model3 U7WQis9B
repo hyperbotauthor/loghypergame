@@ -1,0 +1,44 @@
+{
+  "id": "U7WQis9B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1640089976076,
+  "white": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1346
+  },
+  "black": {
+    "id": "superfin999_model3",
+    "name": "SuperFin999_Model3",
+    "title": "BOT",
+    "rating": 1739,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "TurtleBot",
+  "opponentName": "SuperFin999_Model3"
+}
