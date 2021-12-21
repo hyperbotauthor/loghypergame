@@ -1,0 +1,44 @@
+{
+  "id": "Rg8COhXY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1640066264917,
+  "white": {
+    "id": "suvitangirash",
+    "name": "SUVITANGIRASH",
+    "title": null,
+    "rating": 1746
+  },
+  "black": {
+    "id": "ardunot",
+    "name": "Ardunot",
+    "title": "BOT",
+    "rating": 2036,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SUVITANGIRASH",
+  "opponentName": "Ardunot"
+}
