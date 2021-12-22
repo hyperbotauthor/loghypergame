@@ -1,0 +1,42 @@
+{
+  "id": "rbcgLr4l",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1640212539367,
+  "white": {
+    "id": "aasteriskz",
+    "name": "AAsteriskz",
+    "title": "BOT",
+    "rating": 1807,
+    "provisional": true
+  },
+  "black": {
+    "id": "sapotalegend",
+    "name": "SapotaLegend",
+    "title": null,
+    "rating": 1680,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1209595000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AAsteriskz",
+  "opponentName": "SapotaLegend"
+}
