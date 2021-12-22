@@ -1,0 +1,42 @@
+{
+  "id": "c1pR7ycv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1640196146490,
+  "white": {
+    "id": "greenphoneblue",
+    "name": "GreenPhoneBlue",
+    "title": null,
+    "rating": 1598,
+    "provisional": true
+  },
+  "black": {
+    "id": "aasteriskz",
+    "name": "AAsteriskz",
+    "title": "BOT",
+    "rating": 1854,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "GreenPhoneBlue",
+  "opponentName": "AAsteriskz"
+}
