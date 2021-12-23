@@ -1,0 +1,44 @@
+{
+  "id": "i16I3wL6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1640219519160,
+  "white": {
+    "id": "aasteriskz",
+    "name": "AAsteriskz",
+    "title": "BOT",
+    "rating": 2023,
+    "provisional": true
+  },
+  "black": {
+    "id": "daniel_xie123",
+    "name": "Daniel_Xie123",
+    "title": null,
+    "rating": 1300
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AAsteriskz",
+  "opponentName": "Daniel_Xie123"
+}
