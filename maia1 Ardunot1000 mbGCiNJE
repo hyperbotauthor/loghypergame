@@ -1,0 +1,44 @@
+{
+  "id": "mbGCiNJE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1640265424920,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1617
+  },
+  "black": {
+    "id": "ardunot1000",
+    "name": "Ardunot1000",
+    "title": "BOT",
+    "rating": 1563,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "Ardunot1000"
+}
