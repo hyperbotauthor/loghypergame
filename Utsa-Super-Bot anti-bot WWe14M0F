@@ -1,0 +1,44 @@
+{
+  "id": "WWe14M0F",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1640325713317,
+  "white": {
+    "id": "utsa-super-bot",
+    "name": "Utsa-Super-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2102
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 b7b6 f1a6 b8a6 b2b4 a6b4 d1f3 b4a2 f3a8 a2c1 a1a7 c1a2 a7c7 d8c7 a8c8 c7c2 c8d7 e8d7 d2d3",
+    "wtime": 157870,
+    "btime": 161350,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Utsa-Super-Bot",
+  "opponentName": "anti-bot"
+}
