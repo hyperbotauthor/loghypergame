@@ -1,0 +1,45 @@
+{
+  "id": "w3vYNaVh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1640337992392,
+  "white": {
+    "id": "akshadlawani",
+    "name": "akshadlawani",
+    "title": null,
+    "rating": 1594,
+    "provisional": true
+  },
+  "black": {
+    "id": "utsa-super-bot",
+    "name": "Utsa-Super-Bot",
+    "title": "BOT",
+    "rating": 2119,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 g1f3 d7d5 e4d5 e6d5 b1c3",
+    "wtime": 1831160,
+    "btime": 1726360,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "akshadlawani",
+  "opponentName": "Utsa-Super-Bot"
+}
