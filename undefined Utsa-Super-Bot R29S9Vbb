@@ -1,0 +1,39 @@
+{
+  "id": "R29S9Vbb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1640351011588,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "utsa-super-bot",
+    "name": "Utsa-Super-Bot",
+    "title": "BOT",
+    "rating": 2019
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Utsa-Super-Bot"
+}
