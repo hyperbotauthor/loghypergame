@@ -1,0 +1,44 @@
+{
+  "id": "WiyLIKnD",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1641045641595,
+  "white": {
+    "id": "iplayonlyrk",
+    "name": "IPlayOnlyRK",
+    "title": "BOT",
+    "rating": 2485,
+    "provisional": true
+  },
+  "black": {
+    "id": "variantspenguin",
+    "name": "VariantsPenguin",
+    "title": null,
+    "rating": 2107
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "IPlayOnlyRK",
+  "opponentName": "VariantsPenguin"
+}
