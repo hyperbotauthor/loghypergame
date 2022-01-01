@@ -1,0 +1,44 @@
+{
+  "id": "M0KcMkDa",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1641033495595,
+  "white": {
+    "id": "imakemanymistakes",
+    "name": "IMakeManyMistakes",
+    "title": null,
+    "rating": 2362
+  },
+  "black": {
+    "id": "iplayonlyrk",
+    "name": "IPlayOnlyRK",
+    "title": "BOT",
+    "rating": 2256,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "IMakeManyMistakes",
+  "opponentName": "IPlayOnlyRK"
+}
