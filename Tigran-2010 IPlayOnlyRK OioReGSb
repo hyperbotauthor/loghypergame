@@ -1,0 +1,44 @@
+{
+  "id": "OioReGSb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641033384459,
+  "white": {
+    "id": "tigran-2010",
+    "name": "Tigran-2010",
+    "title": null,
+    "rating": 1755
+  },
+  "black": {
+    "id": "iplayonlyrk",
+    "name": "IPlayOnlyRK",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Tigran-2010",
+  "opponentName": "IPlayOnlyRK"
+}
