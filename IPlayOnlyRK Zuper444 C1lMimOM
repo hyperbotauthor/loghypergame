@@ -1,0 +1,45 @@
+{
+  "id": "C1lMimOM",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1641035139995,
+  "white": {
+    "id": "iplayonlyrk",
+    "name": "IPlayOnlyRK",
+    "title": "BOT",
+    "rating": 2366,
+    "provisional": true
+  },
+  "black": {
+    "id": "zuper444",
+    "name": "Zuper444",
+    "title": "BOT",
+    "rating": 2221,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "IPlayOnlyRK",
+  "opponentName": "Zuper444"
+}
