@@ -1,0 +1,44 @@
+{
+  "id": "Mj3JovZn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641064187627,
+  "white": {
+    "id": "humanbot_1",
+    "name": "HumanBot_1",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "squared-chess",
+    "name": "squared-chess",
+    "title": "BOT",
+    "rating": 2027
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "HumanBot_1",
+  "opponentName": "squared-chess"
+}
