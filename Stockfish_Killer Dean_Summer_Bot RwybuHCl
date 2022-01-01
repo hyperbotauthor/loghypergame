@@ -1,0 +1,44 @@
+{
+  "id": "RwybuHCl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1641023923053,
+  "white": {
+    "id": "stockfish_killer",
+    "name": "Stockfish_Killer",
+    "title": "BOT",
+    "rating": 2068,
+    "provisional": true
+  },
+  "black": {
+    "id": "dean_summer_bot",
+    "name": "Dean_Summer_Bot",
+    "title": "BOT",
+    "rating": 2497
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6",
+    "wtime": 177150,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Stockfish_Killer",
+  "opponentName": "Dean_Summer_Bot"
+}
