@@ -31,12 +31,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "f2d4 c2e4 h2g3 a2b3 g3f4 b3c4 f4e5 a1a6 h1h8 b2b7 g2g8 c4b5 f1h3",
-    "wtime": 45470,
-    "btime": 9430,
+    "moves": "f2d4 c2e4 h2g3 a2b3 g3f4 b3c4 f4e5 a1a6 h1h8 b2b7 g2g8 c4b5 f1h3 b1b4 h3e6 d2b3 e5f6",
+    "wtime": 38070,
+    "btime": 0,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "white"
   },
   "botName": "VariantsPenguin",
   "opponentName": "IPlayOnlyRK"
