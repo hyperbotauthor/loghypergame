@@ -1,0 +1,45 @@
+{
+  "id": "E7bypccx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1641111046366,
+  "white": {
+    "id": "dr_monster_bot",
+    "name": "Dr_mOnStEr_BoT",
+    "title": "BOT",
+    "rating": 2229,
+    "provisional": true
+  },
+  "black": {
+    "id": "shooting_fire_dragon",
+    "name": "Shooting_Fire_Dragon",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dr_mOnStEr_BoT",
+  "opponentName": "Shooting_Fire_Dragon"
+}
