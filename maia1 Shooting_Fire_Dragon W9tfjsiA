@@ -1,0 +1,44 @@
+{
+  "id": "W9tfjsiA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1641187236730,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1431
+  },
+  "black": {
+    "id": "shooting_fire_dragon",
+    "name": "Shooting_Fire_Dragon",
+    "title": "BOT",
+    "rating": 2157,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "Shooting_Fire_Dragon"
+}
