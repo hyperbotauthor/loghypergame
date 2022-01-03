@@ -1,0 +1,44 @@
+{
+  "id": "ZkowGztc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1641212490504,
+  "white": {
+    "id": "dr_monster_bot",
+    "name": "Dr_mOnStEr_BoT",
+    "title": "BOT",
+    "rating": 2229,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2097
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Dr_mOnStEr_BoT",
+  "opponentName": "Boris-Trapsky"
+}
