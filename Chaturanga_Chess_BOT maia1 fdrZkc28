@@ -1,0 +1,43 @@
+{
+  "id": "fdrZkc28",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1641216950552,
+  "white": {
+    "id": "chaturanga_chess_bot",
+    "name": "Chaturanga_Chess_BOT",
+    "title": "BOT",
+    "rating": 2029
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1500
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Chaturanga_Chess_BOT",
+  "opponentName": "maia1"
+}
