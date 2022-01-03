@@ -1,0 +1,42 @@
+{
+  "id": "KGdhH2ps",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1641134162547,
+  "white": {
+    "id": "raveonette-bot",
+    "name": "raveonette-bot",
+    "title": "BOT",
+    "rating": 1603,
+    "provisional": true
+  },
+  "black": {
+    "id": "pengxiaozhu3",
+    "name": "pengxiaozhu3",
+    "title": "BOT",
+    "rating": 2198,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 1146588000,
+    "btime": 1209600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "raveonette-bot",
+  "opponentName": "pengxiaozhu3"
+}
