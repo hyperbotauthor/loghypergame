@@ -1,0 +1,44 @@
+{
+  "id": "CgdyUhfu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641198122228,
+  "white": {
+    "id": "niceangrybot",
+    "name": "NiceAngryBot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1677
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "NiceAngryBot",
+  "opponentName": "maia1"
+}
