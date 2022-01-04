@@ -1,0 +1,37 @@
+{
+  "id": "W8I9ZboZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Đánh cờ qua thư"
+  },
+  "rated": false,
+  "createdAt": 1641302545998,
+  "white": {
+    "id": "variants_chess_bot",
+    "name": "Variants_Chess_Bot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants_Chess_Bot"
+}
