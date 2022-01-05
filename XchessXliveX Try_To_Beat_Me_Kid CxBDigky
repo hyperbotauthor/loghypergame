@@ -1,0 +1,44 @@
+{
+  "id": "CxBDigky",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1641398398270,
+  "white": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 2170,
+    "provisional": true
+  },
+  "black": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1949
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XchessXliveX",
+  "opponentName": "Try_To_Beat_Me_Kid"
+}
