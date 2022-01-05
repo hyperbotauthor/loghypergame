@@ -1,0 +1,45 @@
+{
+  "id": "uyK6SXC8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1641400915397,
+  "white": {
+    "id": "dragonxqr",
+    "name": "DragonXQR",
+    "title": null,
+    "rating": 1931,
+    "provisional": true
+  },
+  "black": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 2010,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DragonXQR",
+  "opponentName": "XchessXliveX"
+}
