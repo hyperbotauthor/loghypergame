@@ -1,0 +1,44 @@
+{
+  "id": "1aYEmW9N",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1641400481774,
+  "white": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 1984,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1769
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XchessXliveX",
+  "opponentName": "maia5"
+}
