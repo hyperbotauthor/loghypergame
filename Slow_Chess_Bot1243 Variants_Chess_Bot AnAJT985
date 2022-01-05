@@ -1,0 +1,44 @@
+{
+  "id": "AnAJT985",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1641353362672,
+  "white": {
+    "id": "slow_chess_bot1243",
+    "name": "Slow_Chess_Bot1243",
+    "title": "BOT",
+    "rating": 2492
+  },
+  "black": {
+    "id": "variants_chess_bot",
+    "name": "Variants_Chess_Bot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Slow_Chess_Bot1243",
+  "opponentName": "Variants_Chess_Bot"
+}
