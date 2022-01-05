@@ -1,0 +1,44 @@
+{
+  "id": "mxxWbPOH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641405717187,
+  "white": {
+    "id": "narek10",
+    "name": "Narek10",
+    "title": null,
+    "rating": 1835
+  },
+  "black": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Narek10",
+  "opponentName": "XchessXliveX"
+}
