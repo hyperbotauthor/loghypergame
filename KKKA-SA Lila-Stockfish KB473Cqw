@@ -1,0 +1,44 @@
+{
+  "id": "KB473Cqw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1641428674554,
+  "white": {
+    "id": "kkka-sa",
+    "name": "KKKA-SA",
+    "title": "BOT",
+    "rating": 2505,
+    "provisional": true
+  },
+  "black": {
+    "id": "lila-stockfish",
+    "name": "Lila-Stockfish",
+    "title": "BOT",
+    "rating": 2630
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3 d7d5",
+    "wtime": 597220,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KKKA-SA",
+  "opponentName": "Lila-Stockfish"
+}
