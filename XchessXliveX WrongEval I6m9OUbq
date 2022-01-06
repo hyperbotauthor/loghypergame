@@ -1,0 +1,44 @@
+{
+  "id": "I6m9OUbq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641476536968,
+  "white": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 2161,
+    "provisional": true
+  },
+  "black": {
+    "id": "wrongeval",
+    "name": "WrongEval",
+    "title": "BOT",
+    "rating": 2027
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "aborted"
+  },
+  "botName": "XchessXliveX",
+  "opponentName": "WrongEval"
+}
