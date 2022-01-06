@@ -1,0 +1,44 @@
+{
+  "id": "myJEXFU0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1641470123928,
+  "white": {
+    "id": "xchessxlivex",
+    "name": "XchessXliveX",
+    "title": "BOT",
+    "rating": 2020,
+    "provisional": true
+  },
+  "black": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 2059
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "XchessXliveX",
+  "opponentName": "honzovy-sachy-2"
+}
