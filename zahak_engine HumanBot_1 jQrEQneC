@@ -1,0 +1,43 @@
+{
+  "id": "jQrEQneC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641553735834,
+  "white": {
+    "id": "zahak_engine",
+    "name": "zahak_engine",
+    "title": "BOT",
+    "rating": 2311
+  },
+  "black": {
+    "id": "humanbot_1",
+    "name": "HumanBot_1",
+    "title": "BOT",
+    "rating": 2420
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "zahak_engine",
+  "opponentName": "HumanBot_1"
+}
