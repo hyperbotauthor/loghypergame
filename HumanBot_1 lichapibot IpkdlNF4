@@ -1,0 +1,44 @@
+{
+  "id": "IpkdlNF4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1641537935995,
+  "white": {
+    "id": "humanbot_1",
+    "name": "HumanBot_1",
+    "title": "BOT",
+    "rating": 2400,
+    "provisional": true
+  },
+  "black": {
+    "id": "lichapibot",
+    "name": "lichapibot",
+    "title": "BOT",
+    "rating": 2272
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "HumanBot_1",
+  "opponentName": "lichapibot"
+}
