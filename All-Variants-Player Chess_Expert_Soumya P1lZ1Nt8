@@ -1,0 +1,43 @@
+{
+  "id": "P1lZ1Nt8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1641790836020,
+  "white": {
+    "id": "all-variants-player",
+    "name": "All-Variants-Player",
+    "title": "BOT",
+    "rating": 2121
+  },
+  "black": {
+    "id": "chess_expert_soumya",
+    "name": "Chess_Expert_Soumya",
+    "title": null,
+    "rating": 1801
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "All-Variants-Player",
+  "opponentName": "Chess_Expert_Soumya"
+}
