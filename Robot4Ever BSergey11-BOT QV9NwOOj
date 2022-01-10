@@ -1,0 +1,44 @@
+{
+  "id": "QV9NwOOj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1641786847276,
+  "white": {
+    "id": "robot4ever",
+    "name": "Robot4Ever",
+    "title": "BOT",
+    "rating": 2076
+  },
+  "black": {
+    "id": "bsergey11-bot",
+    "name": "BSergey11-BOT",
+    "title": "BOT",
+    "rating": 800,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Robot4Ever",
+  "opponentName": "BSergey11-BOT"
+}
