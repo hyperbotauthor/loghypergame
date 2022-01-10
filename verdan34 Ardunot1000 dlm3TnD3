@@ -1,0 +1,45 @@
+{
+  "id": "dlm3TnD3",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1641786829419,
+  "white": {
+    "id": "verdan34",
+    "name": "verdan34",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "ardunot1000",
+    "name": "Ardunot1000",
+    "title": "BOT",
+    "rating": 2450,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "verdan34",
+  "opponentName": "Ardunot1000"
+}
