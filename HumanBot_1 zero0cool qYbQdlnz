@@ -31,12 +31,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6",
+    "wtime": 53900,
+    "btime": 59540,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "started",
+    "wdraw": true
   },
   "botName": "HumanBot_1",
   "opponentName": "zero0cool"
