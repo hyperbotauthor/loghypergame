@@ -1,0 +1,44 @@
+{
+  "id": "wM8wDMpy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1641979789313,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2307
+  },
+  "black": {
+    "id": "critez-342",
+    "name": "Critez-342",
+    "title": "BOT",
+    "rating": 2613,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 a2a3 g8f6 a1b1 a7a5 f2f4 e8g8 c3a4 d7d5 c4d5 c6d4 a4c5 c8f5 d2d3 d8c7 c5a4 d4c2 e1d2 f8c8 e2e4 f6g4 d2e2 f5d7 a4c3 c7b6 d1c2 g7c3 e2f1 c3d4 c2e2 b6b3 c1d2 d7b5 g2h3 b5d3 h3g4 b3c2 f1g2 d3e2 g1e2 c2d2 b1d1 d2b2 d1d4 c8c2 d4d1 h7h5 d1b1 c2e2 g4e2 b2e2 g2h3 e2e4 h1f1 a8c8 b1b2 e4f5 h3g2",
+    "wtime": 160190,
+    "btime": 349420,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "Critez-342"
+}
