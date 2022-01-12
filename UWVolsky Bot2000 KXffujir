@@ -1,0 +1,45 @@
+{
+  "id": "KXffujir",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1642004335813,
+  "white": {
+    "id": "uwvolsky",
+    "name": "UWVolsky",
+    "title": null,
+    "rating": 1123,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 2239,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "UWVolsky",
+  "opponentName": "Bot2000"
+}
