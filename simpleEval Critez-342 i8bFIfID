@@ -37,7 +37,7 @@
     "btime": 480000,
     "winc": 5000,
     "binc": 5000,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "simpleEval",
   "opponentName": "Critez-342"
