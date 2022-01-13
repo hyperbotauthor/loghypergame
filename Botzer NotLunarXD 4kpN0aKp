@@ -1,0 +1,44 @@
+{
+  "id": "4kpN0aKp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1642047147544,
+  "white": {
+    "id": "botzer",
+    "name": "Botzer",
+    "title": "BOT",
+    "rating": 2519
+  },
+  "black": {
+    "id": "notlunarxd",
+    "name": "NotLunarXD",
+    "title": "BOT",
+    "rating": 2333,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 h7h6 d2d4 e5d4 f3d4 f8c5 c4f7 e8f7 d1h5 f7f8 h5c5 d8e7 c5e7 g8e7 d4b5 c6b4 b1a3 b4a6 c2c4 c7c6 b5d6 a6c5 e1g1 b7b6 f1d1 c8a6 b2b4 c5e6 b4b5 c6b5 c4b5 a6c8 a3c4 e6c5 c1a3 f8g8 a3c5 b6c5 a2a4",
+    "wtime": 190720,
+    "btime": 167720,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Botzer",
+  "opponentName": "NotLunarXD"
+}
