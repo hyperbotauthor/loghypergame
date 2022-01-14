@@ -1,0 +1,45 @@
+{
+  "id": "EKnQTVOZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1642171904919,
+  "white": {
+    "id": "botlovesme",
+    "name": "BotLovesMe",
+    "title": "BOT",
+    "rating": 2027,
+    "provisional": true
+  },
+  "black": {
+    "id": "andrew_remache",
+    "name": "Andrew_Remache",
+    "title": null,
+    "rating": 913,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d6",
+    "wtime": 278400,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "BotLovesMe",
+  "opponentName": "Andrew_Remache"
+}
