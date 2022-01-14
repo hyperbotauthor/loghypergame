@@ -1,0 +1,44 @@
+{
+  "id": "kQcdQngq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1642172390814,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2078
+  },
+  "black": {
+    "id": "bot2000",
+    "name": "Bot2000",
+    "title": "BOT",
+    "rating": 2167,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Bot2000"
+}
