@@ -1,0 +1,45 @@
+{
+  "id": "3LkYDgTq",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1642171560529,
+  "white": {
+    "id": "andrew_remache",
+    "name": "Andrew_Remache",
+    "title": null,
+    "rating": 1119,
+    "provisional": true
+  },
+  "black": {
+    "id": "botlovesme",
+    "name": "BotLovesMe",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 d7d6 f1b5",
+    "wtime": 295250,
+    "btime": 283220,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Andrew_Remache",
+  "opponentName": "BotLovesMe"
+}
