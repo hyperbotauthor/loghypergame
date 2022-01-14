@@ -1,0 +1,42 @@
+{
+  "id": "BkeKKhmf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1642170427231,
+  "white": {
+    "id": "botlovesme",
+    "name": "BotLovesMe",
+    "title": "BOT",
+    "rating": 2087,
+    "provisional": true
+  },
+  "black": {
+    "id": "jayden210",
+    "name": "Jayden210",
+    "title": null,
+    "rating": 1578,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotLovesMe",
+  "opponentName": "Jayden210"
+}
