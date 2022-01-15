@@ -1,0 +1,45 @@
+{
+  "id": "2tabOzRt",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1642276375432,
+  "white": {
+    "id": "sub_bot",
+    "name": "Sub_Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "gameoverchessstar",
+    "name": "GameoverchessStar",
+    "title": null,
+    "rating": 1595,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Sub_Bot",
+  "opponentName": "GameoverchessStar"
+}
