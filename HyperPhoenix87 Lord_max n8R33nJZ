@@ -1,0 +1,43 @@
+{
+  "id": "n8R33nJZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1642355428677,
+  "white": {
+    "id": "hyperphoenix87",
+    "name": "HyperPhoenix87",
+    "title": "BOT",
+    "rating": 2047
+  },
+  "black": {
+    "id": "lord_max",
+    "name": "Lord_max",
+    "title": "BOT",
+    "rating": 1577
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix87",
+  "opponentName": "Lord_max"
+}
