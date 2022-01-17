@@ -1,0 +1,44 @@
+{
+  "id": "PCZjlAhH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1642451842049,
+  "white": {
+    "id": "schessnoob",
+    "name": "sChessNoob",
+    "title": null,
+    "rating": 2040
+  },
+  "black": {
+    "id": "thecorrespondencebot",
+    "name": "TheCorrespondenceBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "sChessNoob",
+  "opponentName": "TheCorrespondenceBot"
+}
