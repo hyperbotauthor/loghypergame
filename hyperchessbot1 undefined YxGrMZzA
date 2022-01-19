@@ -1,0 +1,40 @@
+{
+  "id": "YxGrMZzA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1642586307994,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 5
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1"
+}
