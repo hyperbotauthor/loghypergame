@@ -1,0 +1,40 @@
+{
+  "id": "pccrhIaE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1642604722005,
+  "white": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 2015,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 7
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 7000,
+    "btime": 7000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "DevanshAgarwal1177"
+}
