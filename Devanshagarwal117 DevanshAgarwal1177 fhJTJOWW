@@ -1,0 +1,45 @@
+{
+  "id": "fhJTJOWW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1642582410851,
+  "white": {
+    "id": "devanshagarwal117",
+    "name": "Devanshagarwal117",
+    "title": null,
+    "rating": 1120,
+    "provisional": true
+  },
+  "black": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 6000,
+    "binc": 6000,
+    "status": "started"
+  },
+  "botName": "Devanshagarwal117",
+  "opponentName": "DevanshAgarwal1177"
+}
