@@ -1,0 +1,44 @@
+{
+  "id": "6RCg2al8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1642600765270,
+  "white": {
+    "id": "phamhoangquanbt",
+    "name": "phamhoangquanbt",
+    "title": null,
+    "rating": 2086
+  },
+  "black": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2141,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "phamhoangquanbt",
+  "opponentName": "hyperchessbot1"
+}
