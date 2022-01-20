@@ -1,0 +1,45 @@
+{
+  "id": "TtphE57Q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1642668092186,
+  "white": {
+    "id": "terminator_008",
+    "name": "Terminator_008",
+    "title": null,
+    "rating": 2222,
+    "provisional": true
+  },
+  "black": {
+    "id": "capitalmouse",
+    "name": "CapitalMouse",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Terminator_008",
+  "opponentName": "CapitalMouse"
+}
