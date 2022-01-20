@@ -1,0 +1,44 @@
+{
+  "id": "UmoCRWKj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1642712987629,
+  "white": {
+    "id": "ezwipe",
+    "name": "EZWipe",
+    "title": "BOT",
+    "rating": 2137,
+    "provisional": true
+  },
+  "black": {
+    "id": "turobot",
+    "name": "TuroBot",
+    "title": "BOT",
+    "rating": 1411
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "EZWipe",
+  "opponentName": "TuroBot"
+}
