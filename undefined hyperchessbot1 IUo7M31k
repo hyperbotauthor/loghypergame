@@ -1,0 +1,40 @@
+{
+  "id": "IUo7M31k",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": false,
+  "createdAt": 1642685693040,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "opponentName": "hyperchessbot1"
+}
