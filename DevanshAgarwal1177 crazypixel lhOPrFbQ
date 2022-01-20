@@ -1,0 +1,45 @@
+{
+  "id": "lhOPrFbQ",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1642668728360,
+  "white": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1839,
+    "provisional": true
+  },
+  "black": {
+    "id": "crazypixel",
+    "name": "crazypixel",
+    "title": null,
+    "rating": 1325,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DevanshAgarwal1177",
+  "opponentName": "crazypixel"
+}
