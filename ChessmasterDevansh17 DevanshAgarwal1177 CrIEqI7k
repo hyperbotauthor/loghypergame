@@ -1,0 +1,45 @@
+{
+  "id": "CrIEqI7k",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1642667552264,
+  "white": {
+    "id": "chessmasterdevansh17",
+    "name": "ChessmasterDevansh17",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1969,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "started"
+  },
+  "botName": "ChessmasterDevansh17",
+  "opponentName": "DevanshAgarwal1177"
+}
