@@ -1,0 +1,45 @@
+{
+  "id": "hND7WvWg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1642664367417,
+  "white": {
+    "id": "xtic_gaming",
+    "name": "XTIC_Gaming",
+    "title": null,
+    "rating": 1100,
+    "provisional": true
+  },
+  "black": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1969,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "XTIC_Gaming",
+  "opponentName": "DevanshAgarwal1177"
+}
