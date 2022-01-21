@@ -1,0 +1,45 @@
+{
+  "id": "8TtrRcyn",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1642774640831,
+  "white": {
+    "id": "leadermygames",
+    "name": "LeAdErMyGaMeS",
+    "title": "BOT",
+    "rating": 1428,
+    "provisional": true
+  },
+  "black": {
+    "id": "watchmysupergames",
+    "name": "WatchMySuperGames",
+    "title": "BOT",
+    "rating": 1052,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "LeAdErMyGaMeS",
+  "opponentName": "WatchMySuperGames"
+}
