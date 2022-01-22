@@ -1,0 +1,43 @@
+{
+  "id": "7IF26Uva",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1642833842957,
+  "white": {
+    "id": "leadermygames",
+    "name": "LeAdErMyGaMeS",
+    "title": "BOT",
+    "rating": 2114
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2103
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d6 b1c3 e7e5 d2d4 e5d4 d1d4 a7a6 g1f3 c7c6 c1g5 g8f6 e4e5 d8e7 d4d6",
+    "wtime": 20110,
+    "btime": 13900,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "LeAdErMyGaMeS",
+  "opponentName": "simpleEval"
+}
