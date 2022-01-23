@@ -1,0 +1,44 @@
+{
+  "id": "AMkjvDEZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": false,
+  "createdAt": 1642915931588,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "phamhoangquanbt",
+    "name": "phamhoangquanbt",
+    "title": null,
+    "rating": 1953
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1",
+  "opponentName": "phamhoangquanbt"
+}
