@@ -1,0 +1,44 @@
+{
+  "id": "nkXRGKMW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1642922639317,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2264,
+    "provisional": true
+  },
+  "black": {
+    "id": "eggnog-chess-engine",
+    "name": "eggnog-chess-engine",
+    "title": "BOT",
+    "rating": 2249
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1",
+  "opponentName": "eggnog-chess-engine"
+}
