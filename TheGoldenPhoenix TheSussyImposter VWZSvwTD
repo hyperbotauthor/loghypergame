@@ -1,0 +1,44 @@
+{
+  "id": "VWZSvwTD",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1642996608792,
+  "white": {
+    "id": "thegoldenphoenix",
+    "name": "TheGoldenPhoenix",
+    "title": null,
+    "rating": 2086
+  },
+  "black": {
+    "id": "thesussyimposter",
+    "name": "TheSussyImposter",
+    "title": "BOT",
+    "rating": 2430,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheGoldenPhoenix",
+  "opponentName": "TheSussyImposter"
+}
