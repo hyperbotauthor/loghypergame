@@ -1,0 +1,44 @@
+{
+  "id": "e38vetYc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 5400000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Cờ chậm"
+  },
+  "rated": true,
+  "createdAt": 1642986134581,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2317,
+    "provisional": true
+  },
+  "black": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2286
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 5400000,
+    "btime": 5400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1",
+  "opponentName": "Cheng-4"
+}
