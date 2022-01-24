@@ -1,0 +1,40 @@
+{
+  "id": "YTQ9akBj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 2000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Cờ chậm"
+  },
+  "rated": false,
+  "createdAt": 1642990365396,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2229,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1500000,
+    "btime": 1500000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1"
+}
