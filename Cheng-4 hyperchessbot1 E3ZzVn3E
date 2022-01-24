@@ -1,0 +1,43 @@
+{
+  "id": "E3ZzVn3E",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643007290433,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2320
+  },
+  "black": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2179
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "hyperchessbot1"
+}
