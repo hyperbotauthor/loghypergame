@@ -1,0 +1,44 @@
+{
+  "id": "CzO32qvG",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1642994650403,
+  "white": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2447
+  },
+  "black": {
+    "id": "thesussyimposter",
+    "name": "TheSussyImposter",
+    "title": "BOT",
+    "rating": 2527,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e1c2",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsBot",
+  "opponentName": "TheSussyImposter"
+}
