@@ -1,0 +1,44 @@
+{
+  "id": "RlHxgJOY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643059429859,
+  "white": {
+    "id": "lila-stockfish",
+    "name": "Lila-Stockfish",
+    "title": "BOT",
+    "rating": 2575
+  },
+  "black": {
+    "id": "edson_walter_a",
+    "name": "Edson_Walter_A",
+    "title": "BOT",
+    "rating": 2031,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Lila-Stockfish",
+  "opponentName": "Edson_Walter_A"
+}
