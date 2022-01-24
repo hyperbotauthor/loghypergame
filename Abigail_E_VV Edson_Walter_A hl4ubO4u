@@ -1,0 +1,44 @@
+{
+  "id": "hl4ubO4u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1643058480898,
+  "white": {
+    "id": "abigail_e_vv",
+    "name": "Abigail_E_VV",
+    "title": null,
+    "rating": 1788
+  },
+  "black": {
+    "id": "edson_walter_a",
+    "name": "Edson_Walter_A",
+    "title": "BOT",
+    "rating": 1658,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Abigail_E_VV",
+  "opponentName": "Edson_Walter_A"
+}
