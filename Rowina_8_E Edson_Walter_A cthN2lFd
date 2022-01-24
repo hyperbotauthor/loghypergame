@@ -33,12 +33,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "d2d4 b7b5 e2e3 b5b4 f1c4 a7a5 b2b3 f7f6 c2c3 a8a7 c3b4 c7c5 b4c5 d8c7 b1c3 c7g3 g1e2 g7g5 e2g3 b8a6 c4a6 h7h6 a6c8 f6f5 g3f5 a5a4 c3a4 g8f6 c1d2 e7e6 f5g3 f8e7 a4b6 e8d8 e1g1 d8c7 c8d7",
-    "wtime": 190260,
-    "btime": 155000,
+    "moves": "d2d4 b7b5 e2e3 b5b4 f1c4 a7a5 b2b3 f7f6 c2c3 a8a7 c3b4 c7c5 b4c5 d8c7 b1c3 c7g3 g1e2 g7g5 e2g3 b8a6 c4a6 h7h6 a6c8 f6f5 g3f5 a5a4 c3a4 g8f6 c1d2 e7e6 f5g3 f8e7 a4b6 e8d8 e1g1 d8c7 c8d7 f6d5 b6d5 c7b7 d5e7 h6h5 d7e6 b7a8 e6d5 a7b7 d5b7 a8a7 b3b4 h8c8 b7c8 a7a8",
+    "wtime": 149480,
+    "btime": 147530,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "resign",
+    "winner": "white"
   },
   "botName": "Rowina_8_E",
   "opponentName": "Edson_Walter_A"
