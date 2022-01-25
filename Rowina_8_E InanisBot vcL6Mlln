@@ -1,0 +1,44 @@
+{
+  "id": "vcL6Mlln",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643137835109,
+  "white": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 2189,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2244
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Rowina_8_E",
+  "opponentName": "InanisBot"
+}
