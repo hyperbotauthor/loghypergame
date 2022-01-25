@@ -1,0 +1,45 @@
+{
+  "id": "GR4LojTa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643137553910,
+  "white": {
+    "id": "justdontflagme",
+    "name": "JustDontFlagMe",
+    "title": "BOT",
+    "rating": 2567,
+    "provisional": true
+  },
+  "black": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 2233,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "JustDontFlagMe",
+  "opponentName": "Rowina_8_E"
+}
