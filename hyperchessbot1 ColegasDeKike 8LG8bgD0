@@ -1,0 +1,43 @@
+{
+  "id": "8LG8bgD0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643070915658,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2192
+  },
+  "black": {
+    "id": "colegasdekike",
+    "name": "ColegasDeKike",
+    "title": "BOT",
+    "rating": 2388
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1",
+  "opponentName": "ColegasDeKike"
+}
