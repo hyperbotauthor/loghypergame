@@ -1,0 +1,44 @@
+{
+  "id": "255H5BRy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643069984888,
+  "white": {
+    "id": "edson_walter_a",
+    "name": "Edson_Walter_A",
+    "title": "BOT",
+    "rating": 1734,
+    "provisional": true
+  },
+  "black": {
+    "id": "a-bee",
+    "name": "A-bee",
+    "title": null,
+    "rating": 1644
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Edson_Walter_A",
+  "opponentName": "A-bee"
+}
