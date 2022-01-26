@@ -1,0 +1,44 @@
+{
+  "id": "uFUHY2Gd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643155193929,
+  "white": {
+    "id": "big-eds",
+    "name": "BIG-EDS",
+    "title": "BOT",
+    "rating": 2276,
+    "provisional": true
+  },
+  "black": {
+    "id": "ymin_dragon",
+    "name": "Ymin_dragon",
+    "title": "BOT",
+    "rating": 1753
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BIG-EDS",
+  "opponentName": "Ymin_dragon"
+}
