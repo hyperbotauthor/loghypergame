@@ -1,0 +1,39 @@
+{
+  "id": "mQItdI7t",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1643164958737,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2217
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "opponentName": "hyperchessbot1"
+}
