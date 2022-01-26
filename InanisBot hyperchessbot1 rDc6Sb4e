@@ -1,0 +1,44 @@
+{
+  "id": "rDc6Sb4e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": true,
+  "createdAt": 1643165761638,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2312
+  },
+  "black": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 1899,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "InanisBot",
+  "opponentName": "hyperchessbot1"
+}
