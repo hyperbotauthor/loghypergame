@@ -1,0 +1,37 @@
+{
+  "id": "R9Lch7if",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1643278019164,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "engineering_bot",
+    "name": "Engineering_BOT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Engineering_BOT"
+}
