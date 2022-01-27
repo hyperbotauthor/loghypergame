@@ -1,0 +1,44 @@
+{
+  "id": "ksglAuOj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 10000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643272777837,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 1915,
+    "provisional": true
+  },
+  "black": {
+    "id": "doctal",
+    "name": "DOCTAL",
+    "title": "BOT",
+    "rating": 2575
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 57240,
+    "btime": 60000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "DOCTAL"
+}
