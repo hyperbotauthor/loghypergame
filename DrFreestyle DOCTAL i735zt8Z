@@ -1,0 +1,44 @@
+{
+  "id": "i735zt8Z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1643272435299,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 2071,
+    "provisional": true
+  },
+  "black": {
+    "id": "doctal",
+    "name": "DOCTAL",
+    "title": "BOT",
+    "rating": 2709
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 58020,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "DOCTAL"
+}
