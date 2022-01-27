@@ -1,0 +1,44 @@
+{
+  "id": "op9qZ9lT",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 780000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1643268988138,
+  "white": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2659
+  },
+  "black": {
+    "id": "ardunot1000",
+    "name": "Ardunot1000",
+    "title": "BOT",
+    "rating": 1497,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1h3",
+    "wtime": 780000,
+    "btime": 780000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsBot",
+  "opponentName": "Ardunot1000"
+}
