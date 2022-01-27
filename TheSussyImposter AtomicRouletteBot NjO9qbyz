@@ -1,0 +1,44 @@
+{
+  "id": "NjO9qbyz",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1643266969009,
+  "white": {
+    "id": "thesussyimposter",
+    "name": "TheSussyImposter",
+    "title": "BOT",
+    "rating": 2272,
+    "provisional": true
+  },
+  "black": {
+    "id": "atomicroulettebot",
+    "name": "AtomicRouletteBot",
+    "title": "BOT",
+    "rating": 1965
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheSussyImposter",
+  "opponentName": "AtomicRouletteBot"
+}
