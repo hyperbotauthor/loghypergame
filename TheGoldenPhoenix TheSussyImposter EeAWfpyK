@@ -31,12 +31,12 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "f2d4 c2e4 h2g3 a2b3 g3f4 b3c4 f4e5 a1a6 h1h8 b2b7 g2g8 c4b5 f1h3 b1b4 h3e6",
-    "wtime": 50680,
-    "btime": 15580,
+    "moves": "f2d4 c2e4 h2g3 a2b3 g3f4 b3c4 f4e5 a1a6 h1h8 b2b7 g2g8 c4b5 f1h3 b1b4 h3e6 b4d4 e5f6 d4d7 g1g7",
+    "wtime": 44670,
+    "btime": 0,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "draw"
   },
   "botName": "TheGoldenPhoenix",
   "opponentName": "TheSussyImposter"
