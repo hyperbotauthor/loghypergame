@@ -1,0 +1,42 @@
+{
+  "id": "QTnQI1kd",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1643439891065,
+  "white": {
+    "id": "dgivana",
+    "name": "Dgivana",
+    "title": "BOT",
+    "rating": 1162,
+    "provisional": true
+  },
+  "black": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5 d7d6 d4d5 d6e5 f4e5 e7e6 h4h5 e6f5 a4a5 f5g4 h3g4 c7c6 f3f4 c6d5 c4d5 d8d5 f4f5 d5e5 d3d4 e5d5 e3e4 d5e4 f2f3 e4d5",
+    "wtime": 167725000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dgivana",
+  "opponentName": "DevanshAgarwal1177"
+}
