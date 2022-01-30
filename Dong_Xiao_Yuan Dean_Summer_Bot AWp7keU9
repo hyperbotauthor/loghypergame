@@ -1,0 +1,44 @@
+{
+  "id": "AWp7keU9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1643550509496,
+  "white": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "dean_summer_bot",
+    "name": "Dean_Summer_Bot",
+    "title": "BOT",
+    "rating": 2594
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dong_Xiao_Yuan",
+  "opponentName": "Dean_Summer_Bot"
+}
