@@ -1,0 +1,37 @@
+{
+  "id": "yM0s2TIH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Đánh cờ qua thư"
+  },
+  "rated": false,
+  "createdAt": 1643552356361,
+  "white": {
+    "aiLevel": 5
+  },
+  "black": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 2001,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Dong_Xiao_Yuan"
+}
