@@ -1,0 +1,44 @@
+{
+  "id": "2S2JW9iT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1643638257523,
+  "white": {
+    "id": "zahak_engine",
+    "name": "zahak_engine",
+    "title": "BOT",
+    "rating": 2331
+  },
+  "black": {
+    "id": "openingtrainerbot",
+    "name": "OpeningTrainerBOT",
+    "title": "BOT",
+    "rating": 1871,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "zahak_engine",
+  "opponentName": "OpeningTrainerBOT"
+}
