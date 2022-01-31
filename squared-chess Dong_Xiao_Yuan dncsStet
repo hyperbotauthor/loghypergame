@@ -1,0 +1,44 @@
+{
+  "id": "dncsStet",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643613232651,
+  "white": {
+    "id": "squared-chess",
+    "name": "squared-chess",
+    "title": "BOT",
+    "rating": 2155
+  },
+  "black": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 1959,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "squared-chess",
+  "opponentName": "Dong_Xiao_Yuan"
+}
