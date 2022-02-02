@@ -1,0 +1,44 @@
+{
+  "id": "BpKfetwf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643805969886,
+  "white": {
+    "id": "wrongeval",
+    "name": "WrongEval",
+    "title": "BOT",
+    "rating": 2056
+  },
+  "black": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 2202,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "WrongEval",
+  "opponentName": "Dong_Xiao_Yuan"
+}
