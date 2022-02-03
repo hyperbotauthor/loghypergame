@@ -1,0 +1,43 @@
+{
+  "id": "vxBwlaYM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1643894533404,
+  "white": {
+    "id": "odonata-bot",
+    "name": "odonata-bot",
+    "title": "BOT",
+    "rating": 2106
+  },
+  "black": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 2216
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "odonata-bot",
+  "opponentName": "Dong_Xiao_Yuan"
+}
