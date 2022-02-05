@@ -1,0 +1,44 @@
+{
+  "id": "Il2gppiG",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": false,
+  "createdAt": 1644036201463,
+  "white": {
+    "id": "thegoldenphoenix",
+    "name": "TheGoldenPhoenix",
+    "title": null,
+    "rating": 2050
+  },
+  "black": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 2378,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheGoldenPhoenix",
+  "opponentName": "Wewillflagyou"
+}
