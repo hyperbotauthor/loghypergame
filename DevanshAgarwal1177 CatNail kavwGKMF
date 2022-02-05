@@ -1,0 +1,44 @@
+{
+  "id": "kavwGKMF",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1644044076614,
+  "white": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "catnail",
+    "name": "CatNail",
+    "title": "BOT",
+    "rating": 1949
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "started"
+  },
+  "botName": "DevanshAgarwal1177",
+  "opponentName": "CatNail"
+}
