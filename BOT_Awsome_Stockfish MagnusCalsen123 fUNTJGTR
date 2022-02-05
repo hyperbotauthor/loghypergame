@@ -1,0 +1,44 @@
+{
+  "id": "fUNTJGTR",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1644055410993,
+  "white": {
+    "id": "bot_awsome_stockfish",
+    "name": "BOT_Awsome_Stockfish",
+    "title": "BOT",
+    "rating": 2234,
+    "provisional": true
+  },
+  "black": {
+    "id": "magnuscalsen123",
+    "name": "MagnusCalsen123",
+    "title": "BOT",
+    "rating": 2300
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BOT_Awsome_Stockfish",
+  "opponentName": "MagnusCalsen123"
+}
