@@ -1,0 +1,44 @@
+{
+  "id": "pCjVD4My",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1644054910514,
+  "white": {
+    "id": "dukeofnorfolk",
+    "name": "DukeOfNorfolk",
+    "title": null,
+    "rating": 1589
+  },
+  "black": {
+    "id": "p-210103",
+    "name": "P-210103",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "DukeOfNorfolk",
+  "opponentName": "P-210103"
+}
