@@ -1,0 +1,44 @@
+{
+  "id": "gUoLmMu0",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1644133471220,
+  "white": {
+    "id": "anutterlykarbot",
+    "name": "AnUtterlyKarBot",
+    "title": "BOT",
+    "rating": 2184
+  },
+  "black": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 2113,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "AnUtterlyKarBot",
+  "opponentName": "Wewillflagyou"
+}
