@@ -1,0 +1,45 @@
+{
+  "id": "pdUNtdQc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1644138483947,
+  "white": {
+    "id": "xxiicentury-bot",
+    "name": "XXIICentury-BOT",
+    "title": "BOT",
+    "rating": 2528,
+    "provisional": true
+  },
+  "black": {
+    "id": "play-vladimirchess",
+    "name": "Play-VladimirChess",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XXIICentury-BOT",
+  "opponentName": "Play-VladimirChess"
+}
