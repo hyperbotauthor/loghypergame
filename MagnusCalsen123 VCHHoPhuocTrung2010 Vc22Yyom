@@ -1,0 +1,44 @@
+{
+  "id": "Vc22Yyom",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1644113058521,
+  "white": {
+    "id": "magnuscalsen123",
+    "name": "MagnusCalsen123",
+    "title": "BOT",
+    "rating": 2425,
+    "provisional": true
+  },
+  "black": {
+    "id": "vchhophuoctrung2010",
+    "name": "VCHHoPhuocTrung2010",
+    "title": null,
+    "rating": 1887
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "MagnusCalsen123",
+  "opponentName": "VCHHoPhuocTrung2010"
+}
