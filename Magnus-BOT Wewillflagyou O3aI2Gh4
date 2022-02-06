@@ -1,0 +1,43 @@
+{
+  "id": "O3aI2Gh4",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1644133981932,
+  "white": {
+    "id": "magnus-bot",
+    "name": "Magnus-BOT",
+    "title": "BOT",
+    "rating": 2195
+  },
+  "black": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 2184
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Magnus-BOT",
+  "opponentName": "Wewillflagyou"
+}
