@@ -1,0 +1,44 @@
+{
+  "id": "wtutg7cB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1644152581772,
+  "white": {
+    "id": "willbochessengine",
+    "name": "WillBoChessEngine",
+    "title": "BOT",
+    "rating": 2274
+  },
+  "black": {
+    "id": "flyingprosperity",
+    "name": "FlyingProsperity",
+    "title": "BOT",
+    "rating": 2396,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 g8f6 d2d4 g7g6 c2c4 f8g7 e2e3 e8g8 f1e2 d7d6 b1c3 b8d7 e1g1 e7e5 b2b3 f8e8 d4e5 d7e5 c1b2 f6e4 f3d4 e4c3 b2c3 a7a6 d1d2 d8e7 e3e4 e5c6 d4c6 b7c6 c4c5 g7c3 d2c3 a6a5 c5d6 c7d6 f1e1 c8e6 c3c6 a5a4 c6c3",
+    "wtime": 130330,
+    "btime": 17090,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "WillBoChessEngine",
+  "opponentName": "FlyingProsperity"
+}
