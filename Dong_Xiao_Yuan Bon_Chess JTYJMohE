@@ -1,0 +1,44 @@
+{
+  "id": "JTYJMohE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": true,
+  "createdAt": 1644132777734,
+  "white": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 2328,
+    "provisional": true
+  },
+  "black": {
+    "id": "bon_chess",
+    "name": "Bon_Chess",
+    "title": null,
+    "rating": 2026
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dong_Xiao_Yuan",
+  "opponentName": "Bon_Chess"
+}
