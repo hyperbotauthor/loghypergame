@@ -1,0 +1,44 @@
+{
+  "id": "aNVopeyi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1644117307930,
+  "white": {
+    "id": "magnuscalsen123",
+    "name": "MagnusCalsen123",
+    "title": "BOT",
+    "rating": 2390,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2337
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 e7e6 b1c3 b8c6 f1b5 c6d4 f3d4 c5d4 c3b1 a7a6 b5a4 d8a5 a4b3 g8f6 d1f3 f8d6 c2c3 d6e5 c3d4 e5d4 b1c3 e8g8 e1g1 a5b4 d2d3 a6a5 b3c4 f8d8 c1e3 d4e3 f2e3 d7d6 f1f2 a5a4 a2a3 b4c5 a1f1 c8d7 g2g4 c5g5 f2g2 d8f8 f3g3 d7c6 h2h4 g5c5 c4a2 d6d5 e4e5 d5d4 e5f6 d4c3 b2c3 c6g2",
+    "wtime": 31570,
+    "btime": 333600,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MagnusCalsen123",
+  "opponentName": "InanisBot"
+}
