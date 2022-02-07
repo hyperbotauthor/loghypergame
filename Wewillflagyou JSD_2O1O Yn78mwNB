@@ -1,0 +1,44 @@
+{
+  "id": "Yn78mwNB",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1644203566578,
+  "white": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 2214,
+    "provisional": true
+  },
+  "black": {
+    "id": "jsd_2o1o",
+    "name": "JSD_2O1O",
+    "title": "BOT",
+    "rating": 2464
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Wewillflagyou",
+  "opponentName": "JSD_2O1O"
+}
