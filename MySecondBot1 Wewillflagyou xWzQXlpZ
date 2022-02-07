@@ -1,0 +1,44 @@
+{
+  "id": "xWzQXlpZ",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1644203909406,
+  "white": {
+    "id": "mysecondbot1",
+    "name": "MySecondBot1",
+    "title": "BOT",
+    "rating": 2511
+  },
+  "black": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 2100,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "MySecondBot1",
+  "opponentName": "Wewillflagyou"
+}
