@@ -1,0 +1,44 @@
+{
+  "id": "oJzI7OAR",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1644202608453,
+  "white": {
+    "id": "wewillflagyou",
+    "name": "Wewillflagyou",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxistcentury",
+    "name": "XXIstCentury",
+    "title": "BOT",
+    "rating": 2168
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Wewillflagyou",
+  "opponentName": "XXIstCentury"
+}
