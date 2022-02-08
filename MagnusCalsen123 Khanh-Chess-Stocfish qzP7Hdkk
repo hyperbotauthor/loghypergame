@@ -1,0 +1,44 @@
+{
+  "id": "qzP7Hdkk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644294075570,
+  "white": {
+    "id": "magnuscalsen123",
+    "name": "MagnusCalsen123",
+    "title": "BOT",
+    "rating": 2319
+  },
+  "black": {
+    "id": "khanh-chess-stocfish",
+    "name": "Khanh-Chess-Stocfish",
+    "title": "BOT",
+    "rating": 2244,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "MagnusCalsen123",
+  "opponentName": "Khanh-Chess-Stocfish"
+}
