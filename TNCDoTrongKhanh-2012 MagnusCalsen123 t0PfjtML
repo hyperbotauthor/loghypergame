@@ -1,0 +1,43 @@
+{
+  "id": "t0PfjtML",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644292192507,
+  "white": {
+    "id": "tncdotrongkhanh-2012",
+    "name": "TNCDoTrongKhanh-2012",
+    "title": null,
+    "rating": 1965
+  },
+  "black": {
+    "id": "magnuscalsen123",
+    "name": "MagnusCalsen123",
+    "title": "BOT",
+    "rating": 2307
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TNCDoTrongKhanh-2012",
+  "opponentName": "MagnusCalsen123"
+}
