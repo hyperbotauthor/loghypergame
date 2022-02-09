@@ -1,0 +1,40 @@
+{
+  "id": "QRQilCCG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 5400000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1644399489786,
+  "white": {
+    "id": "naidorf-07",
+    "name": "Naidorf-07",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 4
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 5400000,
+    "btime": 5400000,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "Naidorf-07"
+}
