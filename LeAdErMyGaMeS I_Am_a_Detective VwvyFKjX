@@ -1,0 +1,44 @@
+{
+  "id": "VwvyFKjX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644389882719,
+  "white": {
+    "id": "leadermygames",
+    "name": "LeAdErMyGaMeS",
+    "title": "BOT",
+    "rating": 2103
+  },
+  "black": {
+    "id": "i_am_a_detective",
+    "name": "I_Am_a_Detective",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "LeAdErMyGaMeS",
+  "opponentName": "I_Am_a_Detective"
+}
