@@ -1,0 +1,45 @@
+{
+  "id": "wPHUwE23",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1644517195296,
+  "white": {
+    "id": "mrveg",
+    "name": "MrVeg",
+    "title": null,
+    "rating": 1660,
+    "provisional": true
+  },
+  "black": {
+    "id": "blackknight188",
+    "name": "blackKnight188",
+    "title": "BOT",
+    "rating": 1351,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "MrVeg",
+  "opponentName": "blackKnight188"
+}
