@@ -1,0 +1,44 @@
+{
+  "id": "JtGbws00",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Cờ chậm"
+  },
+  "rated": true,
+  "createdAt": 1644478547785,
+  "white": {
+    "id": "hyperchessbot1",
+    "name": "hyperchessbot1",
+    "title": "BOT",
+    "rating": 2026,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2196
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5 g1f3 g8f6 f1b5 c8d7 b5d7 b8d7 e1g1 f8e7 d4c5 d7c5 d2b3 c5e4 f3d4 e4d6 c2c3 a8c8 f1e1 e8g8 d1f3 f6e4 d4c2 f8e8 c2e3 d6c4 e3c4 c8c4 c1e3 a7a6 b3d4 d8b6 e1e2 e7f6 a1e1 f6e5 h2h4 b6c7",
+    "wtime": 870430,
+    "btime": 1060960,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "hyperchessbot1",
+  "opponentName": "InanisBot"
+}
