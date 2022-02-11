@@ -1,0 +1,44 @@
+{
+  "id": "xWhkjXyx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1644586476597,
+  "white": {
+    "id": "devanshagarwal1177",
+    "name": "DevanshAgarwal1177",
+    "title": "BOT",
+    "rating": 1969,
+    "provisional": true
+  },
+  "black": {
+    "id": "dominosdominate_hs",
+    "name": "dominosdominate_hs",
+    "title": "BOT",
+    "rating": 2437
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "started"
+  },
+  "botName": "DevanshAgarwal1177",
+  "opponentName": "dominosdominate_hs"
+}
