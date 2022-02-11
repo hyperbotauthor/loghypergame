@@ -1,0 +1,39 @@
+{
+  "id": "swvoHm7D",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1644574221714,
+  "white": {
+    "id": "humanbot_1",
+    "name": "HumanBot_1",
+    "title": "BOT",
+    "rating": 2430
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 b1c3 a7a6 g1f3 d7d6 f1c4 e7e6",
+    "wtime": 61950,
+    "btime": 62000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "HumanBot_1"
+}
