@@ -1,0 +1,44 @@
+{
+  "id": "imUGJvaP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644706762660,
+  "white": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2731
+  },
+  "black": {
+    "id": "puzzlesbott",
+    "name": "puzzlesbott",
+    "title": "BOT",
+    "rating": 2232,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "ResoluteBot",
+  "opponentName": "puzzlesbott"
+}
