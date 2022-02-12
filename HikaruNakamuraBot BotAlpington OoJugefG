@@ -1,0 +1,44 @@
+{
+  "id": "OoJugefG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1644693167358,
+  "white": {
+    "id": "hikarunakamurabot",
+    "name": "HikaruNakamuraBot",
+    "title": "BOT",
+    "rating": 2162
+  },
+  "black": {
+    "id": "botalpington",
+    "name": "BotAlpington",
+    "title": "BOT",
+    "rating": 2376,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "aborted"
+  },
+  "botName": "HikaruNakamuraBot",
+  "opponentName": "BotAlpington"
+}
