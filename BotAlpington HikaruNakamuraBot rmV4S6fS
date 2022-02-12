@@ -1,0 +1,43 @@
+{
+  "id": "rmV4S6fS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644687692198,
+  "white": {
+    "id": "botalpington",
+    "name": "BotAlpington",
+    "title": "BOT",
+    "rating": 2140
+  },
+  "black": {
+    "id": "hikarunakamurabot",
+    "name": "HikaruNakamuraBot",
+    "title": "BOT",
+    "rating": 1947
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotAlpington",
+  "opponentName": "HikaruNakamuraBot"
+}
