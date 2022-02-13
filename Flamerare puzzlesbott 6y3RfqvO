@@ -1,0 +1,44 @@
+{
+  "id": "6y3RfqvO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1644782625887,
+  "white": {
+    "id": "flamerare",
+    "name": "Flamerare",
+    "title": "BOT",
+    "rating": 2512
+  },
+  "black": {
+    "id": "puzzlesbott",
+    "name": "puzzlesbott",
+    "title": "BOT",
+    "rating": 2286,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "Flamerare",
+  "opponentName": "puzzlesbott"
+}
