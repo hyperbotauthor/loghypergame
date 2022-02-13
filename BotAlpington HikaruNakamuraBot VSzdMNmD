@@ -1,0 +1,44 @@
+{
+  "id": "VSzdMNmD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1644752950975,
+  "white": {
+    "id": "botalpington",
+    "name": "BotAlpington",
+    "title": "BOT",
+    "rating": 2376,
+    "provisional": true
+  },
+  "black": {
+    "id": "hikarunakamurabot",
+    "name": "HikaruNakamuraBot",
+    "title": "BOT",
+    "rating": 2164
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotAlpington",
+  "opponentName": "HikaruNakamuraBot"
+}
