@@ -1,0 +1,44 @@
+{
+  "id": "MTLkvESM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644760062958,
+  "white": {
+    "id": "bsergey11-bot",
+    "name": "BSergey11-BOT",
+    "title": "BOT",
+    "rating": 1524,
+    "provisional": true
+  },
+  "black": {
+    "id": "black_magician64",
+    "name": "Black_Magician64",
+    "title": null,
+    "rating": 1563
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BSergey11-BOT",
+  "opponentName": "Black_Magician64"
+}
