@@ -1,0 +1,44 @@
+{
+  "id": "iSbJSpzr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 13000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1644751422108,
+  "white": {
+    "id": "asinshana",
+    "name": "Asinshana",
+    "title": null,
+    "rating": 1428
+  },
+  "black": {
+    "id": "i_am_cool_as",
+    "name": "I_Am_Cool_AS",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 13000,
+    "binc": 13000,
+    "status": "started"
+  },
+  "botName": "Asinshana",
+  "opponentName": "I_Am_Cool_AS"
+}
