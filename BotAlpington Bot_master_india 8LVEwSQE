@@ -1,0 +1,45 @@
+{
+  "id": "8LVEwSQE",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1644752142761,
+  "white": {
+    "id": "botalpington",
+    "name": "BotAlpington",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_master_india",
+    "name": "Bot_master_india",
+    "title": "BOT",
+    "rating": 1648,
+    "provisional": true
+  },
+  "initialFen": "bbrkqnnr/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNNR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotAlpington",
+  "opponentName": "Bot_master_india"
+}
