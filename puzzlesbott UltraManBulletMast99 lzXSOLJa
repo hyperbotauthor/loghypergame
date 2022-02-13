@@ -1,0 +1,44 @@
+{
+  "id": "lzXSOLJa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644776488674,
+  "white": {
+    "id": "puzzlesbott",
+    "name": "puzzlesbott",
+    "title": "BOT",
+    "rating": 1876,
+    "provisional": true
+  },
+  "black": {
+    "id": "ultramanbulletmast99",
+    "name": "UltraManBulletMast99",
+    "title": "BOT",
+    "rating": 1944
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "puzzlesbott",
+  "opponentName": "UltraManBulletMast99"
+}
