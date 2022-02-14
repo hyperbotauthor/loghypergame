@@ -1,0 +1,43 @@
+{
+  "id": "zXLm3zaA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644856452755,
+  "white": {
+    "id": "apraz",
+    "name": "apraz",
+    "title": "BOT",
+    "rating": 1611
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1815
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 33850,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "apraz",
+  "opponentName": "ChessChildren"
+}
