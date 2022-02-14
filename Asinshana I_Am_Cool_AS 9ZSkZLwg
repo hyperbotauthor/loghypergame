@@ -1,0 +1,44 @@
+{
+  "id": "9ZSkZLwg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1644847605618,
+  "white": {
+    "id": "asinshana",
+    "name": "Asinshana",
+    "title": null,
+    "rating": 1428
+  },
+  "black": {
+    "id": "i_am_cool_as",
+    "name": "I_Am_Cool_AS",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "Asinshana",
+  "opponentName": "I_Am_Cool_AS"
+}
