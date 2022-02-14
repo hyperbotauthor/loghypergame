@@ -1,0 +1,46 @@
+{
+  "id": "H7Dn0VDM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644851224417,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1898,
+    "provisional": true
+  },
+  "black": {
+    "id": "phoenixenginetest",
+    "name": "PhoenixEngineTEST",
+    "title": "BOT",
+    "rating": 2542,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 h2h3 g8f6 c2c4 c7c5 d4c5 e7e5 c1g5 f8c5 g5f6 d8f6 e2e3 d5d4 e3d4 c5d4 g1f3 d4b2 d1a4 b8c6 f1d3 b2a1 e1g1 e8g8 b1d2 a1d4 d3e4 c8f5 e4d5 a8d8",
+    "wtime": 45690,
+    "btime": 70840,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started",
+    "wdraw": true
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "PhoenixEngineTEST"
+}
