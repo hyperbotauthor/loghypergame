@@ -1,0 +1,45 @@
+{
+  "id": "9tJ2C0OH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1644851336397,
+  "white": {
+    "id": "i_am_cool_as",
+    "name": "I_Am_Cool_AS",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "little_mind_issue",
+    "name": "Little_Mind_Issue",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "I_Am_Cool_AS",
+  "opponentName": "Little_Mind_Issue"
+}
