@@ -1,0 +1,41 @@
+{
+  "id": "aVpahV1I",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1644842794191,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "uwgranizo",
+    "name": "UWGranIzo",
+    "title": null,
+    "rating": 1273
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "UWGranIzo"
+}
