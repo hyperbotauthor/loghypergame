@@ -1,0 +1,40 @@
+{
+  "id": "Szjg9fGT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1644951416332,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2112,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "JPSBOT"
+}
