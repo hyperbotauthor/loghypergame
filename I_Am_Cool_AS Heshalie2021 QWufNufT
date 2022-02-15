@@ -1,0 +1,44 @@
+{
+  "id": "QWufNufT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1644913831649,
+  "white": {
+    "id": "i_am_cool_as",
+    "name": "I_Am_Cool_AS",
+    "title": "BOT",
+    "rating": 2152,
+    "provisional": true
+  },
+  "black": {
+    "id": "heshalie2021",
+    "name": "Heshalie2021",
+    "title": null,
+    "rating": 1363
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3 b8c6",
+    "wtime": 586420,
+    "btime": 600000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "I_Am_Cool_AS",
+  "opponentName": "Heshalie2021"
+}
