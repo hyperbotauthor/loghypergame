@@ -1,0 +1,44 @@
+{
+  "id": "LbQeO6Jh",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1644966722489,
+  "white": {
+    "id": "b0t5_ru13",
+    "name": "B0T5_RU13",
+    "title": "BOT",
+    "rating": 1847
+  },
+  "black": {
+    "id": "aprazz",
+    "name": "aprazz",
+    "title": "BOT",
+    "rating": 1920,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "B0T5_RU13",
+  "opponentName": "aprazz"
+}
