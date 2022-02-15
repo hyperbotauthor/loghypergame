@@ -1,0 +1,40 @@
+{
+  "id": "vkUaANJz",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1644948901338,
+  "white": {
+    "aiLevel": 5
+  },
+  "black": {
+    "id": "aprazz",
+    "name": "aprazz",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "opponentName": "aprazz"
+}
