@@ -1,0 +1,45 @@
+{
+  "id": "LpJFGYmz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1644930024597,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1893,
+    "provisional": true
+  },
+  "black": {
+    "id": "adventureride",
+    "name": "AdventureRide",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "AdventureRide"
+}
