@@ -1,0 +1,44 @@
+{
+  "id": "iVZpdpl5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 4000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1644909787914,
+  "white": {
+    "id": "i_am_cool_as",
+    "name": "I_Am_Cool_AS",
+    "title": "BOT",
+    "rating": 2152,
+    "provisional": true
+  },
+  "black": {
+    "id": "jsd_2o1o",
+    "name": "JSD_2O1O",
+    "title": "BOT",
+    "rating": 2563
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3 e7e5",
+    "wtime": 417320,
+    "btime": 420000,
+    "winc": 4000,
+    "binc": 4000,
+    "status": "started"
+  },
+  "botName": "I_Am_Cool_AS",
+  "opponentName": "JSD_2O1O"
+}
