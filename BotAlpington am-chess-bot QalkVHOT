@@ -1,0 +1,45 @@
+{
+  "id": "QalkVHOT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1644931528607,
+  "white": {
+    "id": "botalpington",
+    "name": "BotAlpington",
+    "title": "BOT",
+    "rating": 2392,
+    "provisional": true
+  },
+  "black": {
+    "id": "am-chess-bot",
+    "name": "am-chess-bot",
+    "title": "BOT",
+    "rating": 2603,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "BotAlpington",
+  "opponentName": "am-chess-bot"
+}
