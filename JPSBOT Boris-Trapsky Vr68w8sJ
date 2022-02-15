@@ -1,0 +1,44 @@
+{
+  "id": "Vr68w8sJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 120000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1644968215985,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2111
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3 g8f6 d2d4 e5d4 c3d4 b7b5 a4b3 c6a5 b3c2 h7h6 e1g1 f8e7 d1e2 a5c4",
+    "wtime": 546890,
+    "btime": 1746780,
+    "winc": 120000,
+    "binc": 120000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "Boris-Trapsky"
+}
