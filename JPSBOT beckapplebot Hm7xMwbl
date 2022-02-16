@@ -1,0 +1,44 @@
+{
+  "id": "Hm7xMwbl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645042320610,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2133,
+    "provisional": true
+  },
+  "black": {
+    "id": "beckapplebot",
+    "name": "beckapplebot",
+    "title": "BOT",
+    "rating": 2624
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6 d2d4 g8f6 g1f3 d7d5 b1c3 d5c4 e2e4 f8b4 c1g5 c7c5 f1c4 c5d4 f3d4 b4c3 b2c3 d8a5 c4b5 b8d7",
+    "wtime": 269920,
+    "btime": 388170,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "beckapplebot"
+}
