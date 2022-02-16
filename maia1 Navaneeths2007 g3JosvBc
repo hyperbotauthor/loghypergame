@@ -1,0 +1,44 @@
+{
+  "id": "g3JosvBc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1645005498172,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1643
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 1584,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 g1f3",
+    "wtime": 59900,
+    "btime": 57230,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "Navaneeths2007"
+}
