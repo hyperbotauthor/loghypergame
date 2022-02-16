@@ -1,0 +1,44 @@
+{
+  "id": "LxWNznsR",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1645040827693,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2133,
+    "provisional": true
+  },
+  "black": {
+    "id": "beckapplebot",
+    "name": "beckapplebot",
+    "title": "BOT",
+    "rating": 2624
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 g8f6 d2d4 d7d5 c2c4 e7e6 b1c3 d5c4 e2e4 f8b4 c1g5 c7c5 f1c4 c5d4 f3d4 b4c3 b2c3 d8a5 c4b5 b8d7 g5f6 a5c3 e1f1 g7f6 h2h4 a7a6 h1h3 c3a5 b5a4 e8e7 a1c1 h8d8 d1b3 a5b6 b3a3 b6d6 a3d6 e7d6 h3d3 d6e7 c1c7 e7f8 d4e6 f7e6 a4d7 d8d7 d3d7 c8d7 c7d7 a8c8 d7h7 c8c1 f1e2 c1c2 e2f3 b7b5 e4e5",
+    "wtime": 44300,
+    "btime": 147900,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "beckapplebot"
+}
