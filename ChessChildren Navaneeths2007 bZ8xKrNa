@@ -1,0 +1,44 @@
+{
+  "id": "bZ8xKrNa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1645006158599,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1800
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 1610,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 e7e5 e2e4 e5d4 d1d4 b8c6 d4c4 d7d6",
+    "wtime": 59510,
+    "btime": 57860,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "Navaneeths2007"
+}
