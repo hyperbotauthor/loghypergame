@@ -1,0 +1,43 @@
+{
+  "id": "750Ycg10",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645013264048,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2047
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 2116
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 e7e6 g2g3 d7d5 f1g2",
+    "wtime": 179880,
+    "btime": 177170,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "Navaneeths2007"
+}
