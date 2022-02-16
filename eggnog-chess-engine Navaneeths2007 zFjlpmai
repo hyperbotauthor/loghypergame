@@ -1,0 +1,43 @@
+{
+  "id": "zFjlpmai",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645014955348,
+  "white": {
+    "id": "eggnog-chess-engine",
+    "name": "eggnog-chess-engine",
+    "title": "BOT",
+    "rating": 2250
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 2143
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "eggnog-chess-engine",
+  "opponentName": "Navaneeths2007"
+}
