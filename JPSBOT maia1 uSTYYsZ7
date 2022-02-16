@@ -1,0 +1,44 @@
+{
+  "id": "uSTYYsZ7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 120000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1644971207046,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 1823,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1449
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 120000,
+    "binc": 120000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "maia1"
+}
