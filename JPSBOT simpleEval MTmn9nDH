@@ -1,0 +1,44 @@
+{
+  "id": "MTmn9nDH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 60000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645023331136,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2004,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2026
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6 d2d4 f8b4 c1d2 a7a5 a2a3 b4e7 e2e4 d7d6",
+    "wtime": 757490,
+    "btime": 1042970,
+    "winc": 60000,
+    "binc": 60000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "simpleEval"
+}
