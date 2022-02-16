@@ -1,0 +1,45 @@
+{
+  "id": "HgYJPHWD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645038369704,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2083,
+    "provisional": true
+  },
+  "black": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 830,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 f7f6 e2e4 g8h6 c1h6 b7b5",
+    "wtime": 306780,
+    "btime": 359650,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "JPSBOT",
+  "opponentName": "SxRandom"
+}
