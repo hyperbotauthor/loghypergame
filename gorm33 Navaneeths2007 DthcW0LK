@@ -1,0 +1,45 @@
+{
+  "id": "DthcW0LK",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1645100853832,
+  "white": {
+    "id": "gorm33",
+    "name": "gorm33",
+    "title": null,
+    "rating": 1219,
+    "provisional": true
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 1645,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "gorm33",
+  "opponentName": "Navaneeths2007"
+}
