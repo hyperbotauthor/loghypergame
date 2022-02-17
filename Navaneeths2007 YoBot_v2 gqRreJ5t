@@ -1,0 +1,44 @@
+{
+  "id": "gqRreJ5t",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645073553313,
+  "white": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 2482,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2663
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Navaneeths2007",
+  "opponentName": "YoBot_v2"
+}
