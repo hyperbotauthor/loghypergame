@@ -1,0 +1,45 @@
+{
+  "id": "Um7Bg9AQ",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1645101471569,
+  "white": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 1408,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_aoop11",
+    "name": "Bot_AOOP11",
+    "title": "BOT",
+    "rating": 1894,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Navaneeths2007",
+  "opponentName": "Bot_AOOP11"
+}
