@@ -1,0 +1,45 @@
+{
+  "id": "hXG1l0Wl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 2000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1645081288589,
+  "white": {
+    "id": "get_flagged",
+    "name": "Get_Flagged",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "behnadking9",
+    "name": "behnadking9",
+    "title": null,
+    "rating": 1642,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1500000,
+    "btime": 1500000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Get_Flagged",
+  "opponentName": "behnadking9"
+}
