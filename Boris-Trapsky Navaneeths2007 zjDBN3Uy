@@ -1,0 +1,43 @@
+{
+  "id": "zjDBN3Uy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645070297763,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1979
+  },
+  "black": {
+    "id": "navaneeths2007",
+    "name": "Navaneeths2007",
+    "title": "BOT",
+    "rating": 2128
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 e7e6 b1c3 d7d5 c4d5 e6d5 d2d4",
+    "wtime": 179760,
+    "btime": 178760,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Navaneeths2007"
+}
