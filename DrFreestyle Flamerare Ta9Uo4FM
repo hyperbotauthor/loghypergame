@@ -1,0 +1,44 @@
+{
+  "id": "Ta9Uo4FM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645156776020,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 2022,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamerare",
+    "name": "Flamerare",
+    "title": "BOT",
+    "rating": 2583
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 293900,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "Flamerare"
+}
