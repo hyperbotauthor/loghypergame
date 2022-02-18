@@ -1,0 +1,44 @@
+{
+  "id": "mO4XsVQ5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1645166309489,
+  "white": {
+    "id": "aprazz",
+    "name": "aprazz",
+    "title": "BOT",
+    "rating": 2190,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2155
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "aprazz",
+  "opponentName": "InanisBot"
+}
