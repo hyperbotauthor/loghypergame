@@ -1,0 +1,40 @@
+{
+  "id": "i2E9thye",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1645196011901,
+  "white": {
+    "aiLevel": 3
+  },
+  "black": {
+    "id": "varient_eagle",
+    "name": "Varient_Eagle",
+    "title": "BOT",
+    "rating": 2122,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Varient_Eagle"
+}
