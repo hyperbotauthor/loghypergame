@@ -1,0 +1,40 @@
+{
+  "id": "2Oz6gY8Q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1645211862601,
+  "white": {
+    "aiLevel": 5
+  },
+  "black": {
+    "id": "varient_eagle",
+    "name": "Varient_Eagle",
+    "title": "BOT",
+    "rating": 2317,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Varient_Eagle"
+}
