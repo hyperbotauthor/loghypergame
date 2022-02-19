@@ -1,0 +1,44 @@
+{
+  "id": "OxNMky6B",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1645258459579,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2020
+  },
+  "black": {
+    "id": "amarendrabahubali",
+    "name": "Amarendrabahubali",
+    "title": "BOT",
+    "rating": 2025,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 d7d5 b1c3 c7c5",
+    "wtime": 117570,
+    "btime": 113970,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "Amarendrabahubali"
+}
