@@ -1,0 +1,44 @@
+{
+  "id": "nybiXAs8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645257360522,
+  "white": {
+    "id": "amarendrabahubali",
+    "name": "Amarendrabahubali",
+    "title": "BOT",
+    "rating": 2182,
+    "provisional": true
+  },
+  "black": {
+    "id": "princhess_bot",
+    "name": "princhess_bot",
+    "title": "BOT",
+    "rating": 2036
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Amarendrabahubali",
+  "opponentName": "princhess_bot"
+}
