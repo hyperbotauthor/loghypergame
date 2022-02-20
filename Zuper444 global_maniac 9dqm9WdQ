@@ -1,0 +1,44 @@
+{
+  "id": "9dqm9WdQ",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1645371825989,
+  "white": {
+    "id": "zuper444",
+    "name": "Zuper444",
+    "title": "BOT",
+    "rating": 2157
+  },
+  "black": {
+    "id": "global_maniac",
+    "name": "global_maniac",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Zuper444",
+  "opponentName": "global_maniac"
+}
