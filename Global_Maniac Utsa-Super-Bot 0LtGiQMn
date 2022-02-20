@@ -1,0 +1,44 @@
+{
+  "id": "0LtGiQMn",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1645372945980,
+  "white": {
+    "id": "global_maniac",
+    "name": "Global_Maniac",
+    "title": "BOT",
+    "rating": 2206,
+    "provisional": true
+  },
+  "black": {
+    "id": "utsa-super-bot",
+    "name": "Utsa-Super-Bot",
+    "title": "BOT",
+    "rating": 2426
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Global_Maniac",
+  "opponentName": "Utsa-Super-Bot"
+}
