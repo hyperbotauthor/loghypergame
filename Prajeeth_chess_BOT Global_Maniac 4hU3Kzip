@@ -1,0 +1,43 @@
+{
+  "id": "4hU3Kzip",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1645374397672,
+  "white": {
+    "id": "prajeeth_chess_bot",
+    "name": "Prajeeth_chess_BOT",
+    "title": "BOT",
+    "rating": 2119
+  },
+  "black": {
+    "id": "global_maniac",
+    "name": "Global_Maniac",
+    "title": "BOT",
+    "rating": 2289
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Prajeeth_chess_BOT",
+  "opponentName": "Global_Maniac"
+}
