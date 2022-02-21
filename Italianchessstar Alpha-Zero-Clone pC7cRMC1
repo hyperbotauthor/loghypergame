@@ -1,0 +1,43 @@
+{
+  "id": "pC7cRMC1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1645419287588,
+  "white": {
+    "id": "italianchessstar",
+    "name": "Italianchessstar",
+    "title": null,
+    "rating": 2971
+  },
+  "black": {
+    "id": "alpha-zero-clone",
+    "name": "Alpha-Zero-Clone",
+    "title": "BOT",
+    "rating": 2266
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Italianchessstar",
+  "opponentName": "Alpha-Zero-Clone"
+}
