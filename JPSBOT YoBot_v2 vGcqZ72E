@@ -1,0 +1,46 @@
+{
+  "id": "vGcqZ72E",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 3600000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1645473729228,
+  "white": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2144,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2483,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e5 d4b3 c8e6 f1e2 f8e7 e1g1 b8d7 a2a4 a8c8 e2f3 e8g8",
+    "wtime": 2388560,
+    "btime": 3799560,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started",
+    "wdraw": true
+  },
+  "botName": "JPSBOT",
+  "opponentName": "YoBot_v2"
+}
