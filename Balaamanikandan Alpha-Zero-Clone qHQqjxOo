@@ -1,0 +1,44 @@
+{
+  "id": "qHQqjxOo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645420151641,
+  "white": {
+    "id": "balaamanikandan",
+    "name": "Balaamanikandan",
+    "title": null,
+    "rating": 1490
+  },
+  "black": {
+    "id": "alpha-zero-clone",
+    "name": "Alpha-Zero-Clone",
+    "title": "BOT",
+    "rating": 2086,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "Balaamanikandan",
+  "opponentName": "Alpha-Zero-Clone"
+}
