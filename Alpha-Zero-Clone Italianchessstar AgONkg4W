@@ -1,0 +1,43 @@
+{
+  "id": "AgONkg4W",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1645419822037,
+  "white": {
+    "id": "alpha-zero-clone",
+    "name": "Alpha-Zero-Clone",
+    "title": "BOT",
+    "rating": 2266
+  },
+  "black": {
+    "id": "italianchessstar",
+    "name": "Italianchessstar",
+    "title": null,
+    "rating": 2971
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Alpha-Zero-Clone",
+  "opponentName": "Italianchessstar"
+}
