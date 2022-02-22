@@ -1,0 +1,43 @@
+{
+  "id": "R6jF1nDf",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1645557737694,
+  "white": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 2247
+  },
+  "black": {
+    "id": "atomicroulettebot",
+    "name": "AtomicRouletteBot",
+    "title": "BOT",
+    "rating": 1945
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Nikitosikbot",
+  "opponentName": "AtomicRouletteBot"
+}
