@@ -1,0 +1,44 @@
+{
+  "id": "qHw4jhjo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645548965029,
+  "white": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 2031
+  },
+  "black": {
+    "id": "pawndefeatlevel",
+    "name": "pawndefeatlevel",
+    "title": "BOT",
+    "rating": 2264,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "eubos",
+  "opponentName": "pawndefeatlevel"
+}
