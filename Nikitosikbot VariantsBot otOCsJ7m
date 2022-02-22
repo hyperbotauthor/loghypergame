@@ -1,0 +1,43 @@
+{
+  "id": "otOCsJ7m",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1645533255498,
+  "white": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 2272
+  },
+  "black": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2680
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Nikitosikbot",
+  "opponentName": "VariantsBot"
+}
