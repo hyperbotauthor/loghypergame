@@ -1,0 +1,45 @@
+{
+  "id": "bvzKWpRX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645511655767,
+  "white": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 2061,
+    "provisional": true
+  },
+  "black": {
+    "id": "robot_randeer2007",
+    "name": "ROBOT_RANDEER2007",
+    "title": "BOT",
+    "rating": 2344,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hodi2010",
+  "opponentName": "ROBOT_RANDEER2007"
+}
