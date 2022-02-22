@@ -1,0 +1,45 @@
+{
+  "id": "KVWXyRf2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 2000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645513195226,
+  "white": {
+    "id": "supremedebopam",
+    "name": "SupremeDebopam",
+    "title": null,
+    "rating": 1506,
+    "provisional": true
+  },
+  "black": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 2201,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "SupremeDebopam",
+  "opponentName": "Hodi2010"
+}
