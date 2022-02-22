@@ -1,0 +1,45 @@
+{
+  "id": "5Uy1pjcV",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1645520038430,
+  "white": {
+    "id": "apple_watch",
+    "name": "Apple_Watch",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 2102,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Apple_Watch",
+  "opponentName": "Hodi2010"
+}
