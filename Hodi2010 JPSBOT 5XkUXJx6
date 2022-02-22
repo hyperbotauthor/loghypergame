@@ -1,0 +1,44 @@
+{
+  "id": "5XkUXJx6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1645512497352,
+  "white": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 1939,
+    "provisional": true
+  },
+  "black": {
+    "id": "jpsbot",
+    "name": "JPSBOT",
+    "title": "BOT",
+    "rating": 2526
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hodi2010",
+  "opponentName": "JPSBOT"
+}
