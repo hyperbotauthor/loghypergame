@@ -1,0 +1,45 @@
+{
+  "id": "AY3uucDk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 10000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1645535212775,
+  "white": {
+    "id": "jessesdad",
+    "name": "JessesDad",
+    "title": "BOT",
+    "rating": 2365,
+    "provisional": true
+  },
+  "black": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 2526,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 g1f3",
+    "wtime": 1204160,
+    "btime": 985880,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "JessesDad",
+  "opponentName": "Nikitosikbot"
+}
