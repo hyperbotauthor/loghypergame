@@ -1,0 +1,44 @@
+{
+  "id": "AWl6zKA8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645521706198,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1484
+  },
+  "black": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 2235,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "Hodi2010"
+}
