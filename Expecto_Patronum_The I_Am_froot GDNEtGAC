@@ -34,11 +34,12 @@
   "state": {
     "type": "gameState",
     "moves": "e2e4 c7c5 b1c3 d7d6 g1f3 g8f6 d2d4 c5d4 d1d4 e7e6",
-    "wtime": 21890,
+    "wtime": 0,
     "btime": 57220,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "black"
   },
   "botName": "Expecto_Patronum_The",
   "opponentName": "I_Am_froot"
