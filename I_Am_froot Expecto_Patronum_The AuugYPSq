@@ -1,0 +1,44 @@
+{
+  "id": "AuugYPSq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645595160953,
+  "white": {
+    "id": "i_am_froot",
+    "name": "I_Am_froot",
+    "title": "BOT",
+    "rating": 1907
+  },
+  "black": {
+    "id": "expecto_patronum_the",
+    "name": "Expecto_Patronum_The",
+    "title": "BOT",
+    "rating": 1625,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "I_Am_froot",
+  "opponentName": "Expecto_Patronum_The"
+}
