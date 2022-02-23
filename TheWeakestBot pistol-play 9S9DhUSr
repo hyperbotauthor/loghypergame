@@ -1,0 +1,44 @@
+{
+  "id": "9S9DhUSr",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1645655239801,
+  "white": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1479,
+    "provisional": true
+  },
+  "black": {
+    "id": "pistol-play",
+    "name": "pistol-play",
+    "title": "BOT",
+    "rating": 2702
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheWeakestBot",
+  "opponentName": "pistol-play"
+}
