@@ -1,0 +1,44 @@
+{
+  "id": "g5ZOGDFi",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1645655184707,
+  "white": {
+    "id": "robot_randeer2007",
+    "name": "ROBOT_RANDEER2007",
+    "title": "BOT",
+    "rating": 2242
+  },
+  "black": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1479,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ROBOT_RANDEER2007",
+  "opponentName": "TheWeakestBot"
+}
