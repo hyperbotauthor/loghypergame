@@ -1,0 +1,45 @@
+{
+  "id": "V6D2TgQd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 4500000,
+    "increment": 19000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645675381854,
+  "white": {
+    "id": "c9c9c9c9c9c9c9c9cc99",
+    "name": "C9C9C9C9C9C9C9C9CC99",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2483,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 b1c3 d7d6 g1f3 e7e5 f1c4 f8e7 e1g1 g8f6 d2d3 b8c6 c3d5 e8g8 c2c3 f6d5 c4d5 c8e6 f1e1 a8c8 h2h3 d8d7 a2a4 f7f5 c1g5 e6d5 e4d5 c6b8 d1b3 h7h6 g5e7 d7e7 f3d2 e7c7 f2f4 b8d7 d2c4",
+    "wtime": 4734130,
+    "btime": 3541400,
+    "winc": 19000,
+    "binc": 19000,
+    "status": "started"
+  },
+  "botName": "C9C9C9C9C9C9C9C9CC99",
+  "opponentName": "YoBot_v2"
+}
