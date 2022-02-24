@@ -1,0 +1,42 @@
+{
+  "id": "XXiXyHeS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1645692229468,
+  "white": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 2027,
+    "provisional": true
+  },
+  "black": {
+    "id": "chess_is_lifes_team",
+    "name": "chess_is_lifes_team",
+    "title": "BOT",
+    "rating": 2333,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hodi2010",
+  "opponentName": "chess_is_lifes_team"
+}
