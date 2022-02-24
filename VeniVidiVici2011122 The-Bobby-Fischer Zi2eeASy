@@ -1,0 +1,45 @@
+{
+  "id": "Zi2eeASy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645715433248,
+  "white": {
+    "id": "venividivici2011122",
+    "name": "VeniVidiVici2011122",
+    "title": "BOT",
+    "rating": 1504,
+    "provisional": true
+  },
+  "black": {
+    "id": "the-bobby-fischer",
+    "name": "The-Bobby-Fischer",
+    "title": null,
+    "rating": 2025,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "VeniVidiVici2011122",
+  "opponentName": "The-Bobby-Fischer"
+}
