@@ -1,0 +1,44 @@
+{
+  "id": "kzMTsx8N",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1645727745102,
+  "white": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1549,
+    "provisional": true
+  },
+  "black": {
+    "id": "aileenlps77",
+    "name": "Aileenlps77",
+    "title": null,
+    "rating": 1120,
+    "provisional": true
+  },
+  "initialFen": "4k3/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 6000,
+    "binc": 6000,
+    "status": "aborted",
+    "rematch": "MY1GdWuW"
+  },
+  "botName": "TheWeakestBot",
+  "opponentName": "Aileenlps77"
+}
