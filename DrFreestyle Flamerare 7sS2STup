@@ -1,0 +1,44 @@
+{
+  "id": "7sS2STup",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 780000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645674407985,
+  "white": {
+    "id": "drfreestyle",
+    "name": "DrFreestyle",
+    "title": "BOT",
+    "rating": 2084,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamerare",
+    "name": "Flamerare",
+    "title": "BOT",
+    "rating": 2576
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 780000,
+    "btime": 780000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "DrFreestyle",
+  "opponentName": "Flamerare"
+}
