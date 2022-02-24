@@ -1,0 +1,45 @@
+{
+  "id": "qNizvs4h",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 9900000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1645667329340,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 771,
+    "provisional": true
+  },
+  "black": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "rknnqbbr/pppppppp/8/8/8/8/PPPPPPPP/RKNNQBBR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 9900000,
+    "btime": 9900000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "TheWeakestBot"
+}
