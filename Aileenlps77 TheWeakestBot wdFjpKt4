@@ -1,0 +1,44 @@
+{
+  "id": "wdFjpKt4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1645727478447,
+  "white": {
+    "id": "aileenlps77",
+    "name": "Aileenlps77",
+    "title": null,
+    "rating": 1112
+  },
+  "black": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1300,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Aileenlps77",
+  "opponentName": "TheWeakestBot"
+}
