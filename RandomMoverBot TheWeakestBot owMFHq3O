@@ -1,0 +1,45 @@
+{
+  "id": "owMFHq3O",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 9900000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1645666432443,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 721,
+    "provisional": true
+  },
+  "black": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1431,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g4",
+    "wtime": 9900000,
+    "btime": 9900000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "TheWeakestBot"
+}
