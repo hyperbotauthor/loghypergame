@@ -1,0 +1,40 @@
+{
+  "id": "eZrjhthP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": false,
+  "createdAt": 1645795548566,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 f1c4",
+    "wtime": 10976820,
+    "btime": 10785590,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "opponentName": "NikitosikRandombot"
+}
