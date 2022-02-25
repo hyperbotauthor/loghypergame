@@ -1,0 +1,44 @@
+{
+  "id": "qXs6p87S",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1645796590444,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1822
+  },
+  "black": {
+    "id": "killerkingcrusher",
+    "name": "Killerkingcrusher",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 g1f3 g8f6 c2c4 e7e6 b1c3 c7c6 c1g5 h7h6 g5h4 f8e7 e2e3",
+    "wtime": 323010,
+    "btime": 294850,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "Killerkingcrusher"
+}
