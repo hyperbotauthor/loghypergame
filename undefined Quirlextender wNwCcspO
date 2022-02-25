@@ -1,0 +1,40 @@
+{
+  "id": "wNwCcspO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1645770329800,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "quirlextender",
+    "name": "Quirlextender",
+    "title": "BOT",
+    "rating": 2400,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Quirlextender"
+}
