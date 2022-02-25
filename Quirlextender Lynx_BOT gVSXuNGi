@@ -1,0 +1,44 @@
+{
+  "id": "gVSXuNGi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1645771300368,
+  "white": {
+    "id": "quirlextender",
+    "name": "Quirlextender",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "lynx_bot",
+    "name": "Lynx_BOT",
+    "title": "BOT",
+    "rating": 1822
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Quirlextender",
+  "opponentName": "Lynx_BOT"
+}
