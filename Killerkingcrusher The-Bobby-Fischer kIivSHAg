@@ -1,0 +1,45 @@
+{
+  "id": "kIivSHAg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1645880208258,
+  "white": {
+    "id": "killerkingcrusher",
+    "name": "Killerkingcrusher",
+    "title": "BOT",
+    "rating": 1530,
+    "provisional": true
+  },
+  "black": {
+    "id": "the-bobby-fischer",
+    "name": "The-Bobby-Fischer",
+    "title": null,
+    "rating": 1737,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "Killerkingcrusher",
+  "opponentName": "The-Bobby-Fischer"
+}
