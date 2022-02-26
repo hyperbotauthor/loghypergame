@@ -1,0 +1,44 @@
+{
+  "id": "daSpjVPQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1645905169106,
+  "white": {
+    "id": "danieldubious",
+    "name": "DanielDubious",
+    "title": null,
+    "rating": 1490
+  },
+  "black": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1549,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "DanielDubious",
+  "opponentName": "TheWeakestBot"
+}
