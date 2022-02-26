@@ -1,0 +1,43 @@
+{
+  "id": "yxo57pFo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1645907409448,
+  "white": {
+    "id": "theweakestbot",
+    "name": "TheWeakestBot",
+    "title": "BOT",
+    "rating": 1133
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1749
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 b7b6 g1f3 c8b7 f1c4 e7e6 f3g5 d8g5",
+    "wtime": 28300,
+    "btime": 29550,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheWeakestBot",
+  "opponentName": "maia9"
+}
