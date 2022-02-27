@@ -1,0 +1,40 @@
+{
+  "id": "KyvIYO87",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klassisch"
+  },
+  "rated": false,
+  "createdAt": 1645975840220,
+  "white": {
+    "id": "dmthecrow",
+    "name": "DMthecrow",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 4
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DMthecrow"
+}
