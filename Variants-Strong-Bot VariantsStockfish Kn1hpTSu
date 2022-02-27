@@ -1,0 +1,43 @@
+{
+  "id": "Kn1hpTSu",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1645972535458,
+  "white": {
+    "id": "variants-strong-bot",
+    "name": "Variants-Strong-Bot",
+    "title": "BOT",
+    "rating": 2489
+  },
+  "black": {
+    "id": "variantsstockfish",
+    "name": "VariantsStockfish",
+    "title": "BOT",
+    "rating": 2604
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Variants-Strong-Bot",
+  "opponentName": "VariantsStockfish"
+}
