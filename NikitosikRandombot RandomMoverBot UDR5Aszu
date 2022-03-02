@@ -1,0 +1,45 @@
+{
+  "id": "UDR5Aszu",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1646222457171,
+  "white": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1468,
+    "provisional": true
+  },
+  "black": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 887,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3 c7c6 g2g3 a7a6 f2f3 b7b5 e2e3 f7f5 d2d3 g8h6 c2c3 g7g6 b2b3 d8a5 a2a3 h6g4 a1a2 h7h5 a2b2 c8b7 b2c2 h5h4 c2d2 g4e3 h1h2 h8g8 h2h1 a5b4 h1h2 f8g7 h2h1 d7d5 h1h2 g8f8 h2h1 e7e5 h1h2 b4c5 h2h1 c5b6 h1h2 b6a7 d1e2 e8e7 e2e3 g7f6 e3f4",
+    "wtime": 114950,
+    "btime": 117860,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "NikitosikRandombot",
+  "opponentName": "RandomMoverBot"
+}
