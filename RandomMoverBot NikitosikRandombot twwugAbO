@@ -1,0 +1,45 @@
+{
+  "id": "twwugAbO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646221463998,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 984,
+    "provisional": true
+  },
+  "black": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1866,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f3 a7a6 e2e4 a8a7 f1d3 a7a8 d1e2 a8a7 e2f1 a7a8 b1c3 a8a7 c3a4 a7a8 a1b1 a8a7 g2g4 a7a8 d3a6 a8a7 e1e2 a7a8 d2d4 a8a7 a4b6 a7a8 a6c4 a8a7 c2c3 a7a8 g4g5 a8a2 c4e6 a2a1 f1e1 a1b1 e2f2 b1c1 b6a8",
+    "wtime": 118260,
+    "btime": 117050,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "NikitosikRandombot"
+}
