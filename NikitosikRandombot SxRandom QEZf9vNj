@@ -1,0 +1,45 @@
+{
+  "id": "QEZf9vNj",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646222869878,
+  "white": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "sxrandom",
+    "name": "SxRandom",
+    "title": "BOT",
+    "rating": 893,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h3 d7d6 h3h4 e7e5 h4h5 c8d7 h5h6 d8e7 h6g7 b7b6",
+    "wtime": 179250,
+    "btime": 179680,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "NikitosikRandombot",
+  "opponentName": "SxRandom"
+}
