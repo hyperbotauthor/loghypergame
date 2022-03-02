@@ -1,0 +1,47 @@
+{
+  "id": "pRQz4xDH",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1646221999372,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 887,
+    "provisional": true
+  },
+  "black": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1468,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a4 a7a6 g1h3 a8a7 c2c4 a7a8 h3g1 a8a7 e2e4 a7a8 e1e2 d7d5 a4a5 d5d4 h2h3 d4d3 e2f3 c8g4 f3e3 g4f3 d1c2 f3e4",
+    "wtime": 119140,
+    "btime": 116050,
+    "winc": 0,
+    "binc": 0,
+    "status": "variantEnd",
+    "winner": "black",
+    "rematch": "L0juerWq"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "NikitosikRandombot"
+}
