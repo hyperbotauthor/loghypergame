@@ -1,0 +1,45 @@
+{
+  "id": "YeTTxI9d",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 15000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1646208997520,
+  "white": {
+    "id": "rocketsboi1996",
+    "name": "Rocketsboi1996",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "rsmmx",
+    "name": "rsmmx",
+    "title": null,
+    "rating": 942,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "botName": "Rocketsboi1996",
+  "opponentName": "rsmmx"
+}
