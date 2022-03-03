@@ -1,0 +1,44 @@
+{
+  "id": "Rx9yLhVn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1646299857221,
+  "white": {
+    "id": "wholikeplaywithme",
+    "name": "wholikeplaywithme",
+    "title": "BOT",
+    "rating": 1849,
+    "provisional": true
+  },
+  "black": {
+    "id": "nilakna",
+    "name": "nilakna",
+    "title": null,
+    "rating": 903
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "wholikeplaywithme",
+  "opponentName": "nilakna"
+}
