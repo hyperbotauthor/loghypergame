@@ -1,0 +1,44 @@
+{
+  "id": "5OsWqYVi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646423423464,
+  "white": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 1955,
+    "provisional": true
+  },
+  "black": {
+    "id": "edson_a_vv",
+    "name": "Edson_A_VV",
+    "title": null,
+    "rating": 1930
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Rowina_8_E",
+  "opponentName": "Edson_A_VV"
+}
