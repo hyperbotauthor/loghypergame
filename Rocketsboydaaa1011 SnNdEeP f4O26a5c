@@ -1,0 +1,44 @@
+{
+  "id": "f4O26a5c",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646385805452,
+  "white": {
+    "id": "rocketsboydaaa1011",
+    "name": "Rocketsboydaaa1011",
+    "title": "BOT",
+    "rating": 2295,
+    "provisional": true
+  },
+  "black": {
+    "id": "snndeep",
+    "name": "SnNdEeP",
+    "title": null,
+    "rating": 1629
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Rocketsboydaaa1011",
+  "opponentName": "SnNdEeP"
+}
