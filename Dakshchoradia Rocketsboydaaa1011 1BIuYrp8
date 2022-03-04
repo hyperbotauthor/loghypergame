@@ -1,0 +1,45 @@
+{
+  "id": "1BIuYrp8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646387830171,
+  "white": {
+    "id": "dakshchoradia",
+    "name": "Dakshchoradia",
+    "title": null,
+    "rating": 1163,
+    "provisional": true
+  },
+  "black": {
+    "id": "rocketsboydaaa1011",
+    "name": "Rocketsboydaaa1011",
+    "title": "BOT",
+    "rating": 2410,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dakshchoradia",
+  "opponentName": "Rocketsboydaaa1011"
+}
