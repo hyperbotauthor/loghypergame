@@ -1,0 +1,44 @@
+{
+  "id": "ynsgzbU5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 45000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1646388802645,
+  "white": {
+    "id": "ishanaravind",
+    "name": "IshanAravind",
+    "title": null,
+    "rating": 1283
+  },
+  "black": {
+    "id": "rocketsboydaaa1011",
+    "name": "Rocketsboydaaa1011",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 45000,
+    "binc": 45000,
+    "status": "started"
+  },
+  "botName": "IshanAravind",
+  "opponentName": "Rocketsboydaaa1011"
+}
