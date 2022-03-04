@@ -1,0 +1,44 @@
+{
+  "id": "LzUKkRl4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646387248009,
+  "white": {
+    "id": "rocketsboydaaa1011",
+    "name": "Rocketsboydaaa1011",
+    "title": "BOT",
+    "rating": 2405,
+    "provisional": true
+  },
+  "black": {
+    "id": "dakshc",
+    "name": "dakshc",
+    "title": null,
+    "rating": 1385
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3",
+    "wtime": 259770,
+    "btime": 281540,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Rocketsboydaaa1011",
+  "opponentName": "dakshc"
+}
