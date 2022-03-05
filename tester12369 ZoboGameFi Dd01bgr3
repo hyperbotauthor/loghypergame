@@ -33,12 +33,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3 d5d6 d2d4 a7a6 f1d3 g8f6 g1f3 b8d7",
+    "wtime": 87740,
+    "btime": 236760,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "resign",
+    "winner": "black"
   },
   "botName": "tester12369",
   "opponentName": "ZoboGameFi"
