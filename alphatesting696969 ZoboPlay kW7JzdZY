@@ -1,0 +1,45 @@
+{
+  "id": "kW7JzdZY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1646500629072,
+  "white": {
+    "id": "alphatesting696969",
+    "name": "alphatesting696969",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "zoboplay",
+    "name": "ZoboPlay",
+    "title": "BOT",
+    "rating": 1947,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "alphatesting696969",
+  "opponentName": "ZoboPlay"
+}
