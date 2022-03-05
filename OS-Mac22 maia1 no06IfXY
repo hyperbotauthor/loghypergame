@@ -1,0 +1,44 @@
+{
+  "id": "no06IfXY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1646508691901,
+  "white": {
+    "id": "os-mac22",
+    "name": "OS-Mac22",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1407
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 b1c3 g8f6",
+    "wtime": 297620,
+    "btime": 298860,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "OS-Mac22",
+  "opponentName": "maia1"
+}
