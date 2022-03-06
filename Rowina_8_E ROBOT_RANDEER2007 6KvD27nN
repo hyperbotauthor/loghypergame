@@ -1,0 +1,44 @@
+{
+  "id": "6KvD27nN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646533640796,
+  "white": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 1859
+  },
+  "black": {
+    "id": "robot_randeer2007",
+    "name": "ROBOT_RANDEER2007",
+    "title": "BOT",
+    "rating": 2343,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Rowina_8_E",
+  "opponentName": "ROBOT_RANDEER2007"
+}
