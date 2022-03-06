@@ -1,0 +1,45 @@
+{
+  "id": "KXrFCzhz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646548910181,
+  "white": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1111,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1419
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3 e7e6 f1g2",
+    "wtime": 30000,
+    "btime": 29390,
+    "winc": 0,
+    "binc": 0,
+    "status": "resign",
+    "winner": "black"
+  },
+  "botName": "NikitosikRandombot",
+  "opponentName": "TurtleBot"
+}
