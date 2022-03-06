@@ -1,0 +1,42 @@
+{
+  "id": "TDfdYuZN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Игра по переписке"
+  },
+  "rated": true,
+  "createdAt": 1646299408725,
+  "white": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1613,
+    "provisional": true
+  },
+  "black": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 1904,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5",
+    "wtime": 91176000,
+    "btime": 259200000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "NikitosikRandombot",
+  "opponentName": "Nikitosikbot"
+}
