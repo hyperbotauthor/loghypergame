@@ -1,0 +1,44 @@
+{
+  "id": "3fDmtFmg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Clásica"
+  },
+  "rated": true,
+  "createdAt": 1646606415501,
+  "white": {
+    "id": "lorenzofc",
+    "name": "LorenzoFC",
+    "title": null,
+    "rating": 1698
+  },
+  "black": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "botName": "LorenzoFC",
+  "opponentName": "Rowina_8_E"
+}
