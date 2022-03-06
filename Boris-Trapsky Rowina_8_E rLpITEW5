@@ -1,0 +1,43 @@
+{
+  "id": "rLpITEW5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646535396836,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 1988
+  },
+  "black": {
+    "id": "rowina_8_e",
+    "name": "Rowina_8_E",
+    "title": "BOT",
+    "rating": 1884
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Rowina_8_E"
+}
