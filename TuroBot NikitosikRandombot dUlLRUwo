@@ -1,0 +1,44 @@
+{
+  "id": "dUlLRUwo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646548789911,
+  "white": {
+    "id": "turobot",
+    "name": "TuroBot",
+    "title": "BOT",
+    "rating": 1484
+  },
+  "black": {
+    "id": "nikitosikrandombot",
+    "name": "NikitosikRandombot",
+    "title": "BOT",
+    "rating": 1326,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d6 e2e4 c7c6 b1c3 b7b5",
+    "wtime": 29230,
+    "btime": 29320,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TuroBot",
+  "opponentName": "NikitosikRandombot"
+}
