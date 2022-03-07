@@ -1,0 +1,44 @@
+{
+  "id": "kq70ioLg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1646665539979,
+  "white": {
+    "id": "a2nci3nt",
+    "name": "a2nci3nt",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1713
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "a2nci3nt",
+  "opponentName": "maia9"
+}
