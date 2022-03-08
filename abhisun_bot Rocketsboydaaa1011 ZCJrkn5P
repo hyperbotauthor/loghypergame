@@ -1,0 +1,44 @@
+{
+  "id": "ZCJrkn5P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646742658171,
+  "white": {
+    "id": "abhisun_bot",
+    "name": "abhisun_bot",
+    "title": "BOT",
+    "rating": 2550
+  },
+  "black": {
+    "id": "rocketsboydaaa1011",
+    "name": "Rocketsboydaaa1011",
+    "title": "BOT",
+    "rating": 2218,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "abhisun_bot",
+  "opponentName": "Rocketsboydaaa1011"
+}
