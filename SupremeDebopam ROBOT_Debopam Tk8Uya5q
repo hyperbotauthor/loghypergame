@@ -1,0 +1,42 @@
+{
+  "id": "Tk8Uya5q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1646831260288,
+  "white": {
+    "id": "supremedebopam",
+    "name": "SupremeDebopam",
+    "title": null,
+    "rating": 1283,
+    "provisional": true
+  },
+  "black": {
+    "id": "robot_debopam",
+    "name": "ROBOT_Debopam",
+    "title": "BOT",
+    "rating": 2148,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SupremeDebopam",
+  "opponentName": "ROBOT_Debopam"
+}
