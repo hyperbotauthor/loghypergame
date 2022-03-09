@@ -1,0 +1,44 @@
+{
+  "id": "VsXA0Seg",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646832472063,
+  "white": {
+    "id": "supremedebopam",
+    "name": "SupremeDebopam",
+    "title": null,
+    "rating": 1124
+  },
+  "black": {
+    "id": "robot_debopam",
+    "name": "ROBOT_Debopam",
+    "title": "BOT",
+    "rating": 2009,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SupremeDebopam",
+  "opponentName": "ROBOT_Debopam"
+}
