@@ -1,0 +1,42 @@
+{
+  "id": "PWNgueCZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1646924180485,
+  "white": {
+    "id": "hodi2010",
+    "name": "Hodi2010",
+    "title": "BOT",
+    "rating": 1885,
+    "provisional": true
+  },
+  "black": {
+    "id": "robot_debopam",
+    "name": "ROBOT_Debopam",
+    "title": "BOT",
+    "rating": 2414,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hodi2010",
+  "opponentName": "ROBOT_Debopam"
+}
