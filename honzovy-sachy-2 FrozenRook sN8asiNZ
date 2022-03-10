@@ -1,0 +1,44 @@
+{
+  "id": "sN8asiNZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1646874387340,
+  "white": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 1952
+  },
+  "black": {
+    "id": "frozenrook",
+    "name": "FrozenRook",
+    "title": "BOT",
+    "rating": 1967,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "honzovy-sachy-2",
+  "opponentName": "FrozenRook"
+}
