@@ -1,0 +1,44 @@
+{
+  "id": "IpzqBPgV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1646907826756,
+  "white": {
+    "id": "frozenrook",
+    "name": "FrozenRook",
+    "title": "BOT",
+    "rating": 2468,
+    "provisional": true
+  },
+  "black": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2655
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "FrozenRook",
+  "opponentName": "ResoluteBot"
+}
