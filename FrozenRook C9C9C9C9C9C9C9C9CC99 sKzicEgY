@@ -1,0 +1,44 @@
+{
+  "id": "sKzicEgY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1646885293282,
+  "white": {
+    "id": "frozenrook",
+    "name": "FrozenRook",
+    "title": "BOT",
+    "rating": 2041,
+    "provisional": true
+  },
+  "black": {
+    "id": "c9c9c9c9c9c9c9c9cc99",
+    "name": "C9C9C9C9C9C9C9C9CC99",
+    "title": "BOT",
+    "rating": 2463
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "FrozenRook",
+  "opponentName": "C9C9C9C9C9C9C9C9CC99"
+}
