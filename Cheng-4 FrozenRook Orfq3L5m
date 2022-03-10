@@ -1,0 +1,44 @@
+{
+  "id": "Orfq3L5m",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1646883079449,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2289
+  },
+  "black": {
+    "id": "frozenrook",
+    "name": "FrozenRook",
+    "title": "BOT",
+    "rating": 2017,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "FrozenRook"
+}
