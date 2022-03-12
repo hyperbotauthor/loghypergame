@@ -1,0 +1,44 @@
+{
+  "id": "Vpt8lew0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1647113894172,
+  "white": {
+    "id": "stockfish-medium",
+    "name": "Stockfish-MEDIUM",
+    "title": "BOT",
+    "rating": 2499
+  },
+  "black": {
+    "id": "tester12369",
+    "name": "tester12369",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Stockfish-MEDIUM",
+  "opponentName": "tester12369"
+}
