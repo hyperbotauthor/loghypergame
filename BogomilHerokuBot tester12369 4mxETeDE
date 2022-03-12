@@ -1,0 +1,44 @@
+{
+  "id": "4mxETeDE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1647113753891,
+  "white": {
+    "id": "bogomilherokubot",
+    "name": "BogomilHerokuBot",
+    "title": "BOT",
+    "rating": 2427
+  },
+  "black": {
+    "id": "tester12369",
+    "name": "tester12369",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BogomilHerokuBot",
+  "opponentName": "tester12369"
+}
