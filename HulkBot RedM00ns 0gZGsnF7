@@ -1,0 +1,44 @@
+{
+  "id": "0gZGsnF7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1647922617114,
+  "white": {
+    "id": "hulkbot",
+    "name": "HulkBot",
+    "title": "BOT",
+    "rating": 2322
+  },
+  "black": {
+    "id": "redm00ns",
+    "name": "RedM00ns",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "HulkBot",
+  "opponentName": "RedM00ns"
+}
