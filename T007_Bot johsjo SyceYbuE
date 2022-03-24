@@ -1,0 +1,44 @@
+{
+  "id": "SyceYbuE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1648112447506,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2069,
+    "provisional": true
+  },
+  "black": {
+    "id": "johsjo",
+    "name": "johsjo",
+    "title": null,
+    "rating": 1097
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "johsjo"
+}
