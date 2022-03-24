@@ -30,7 +30,7 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
+    "moves": "a2a3 e7e5 d2d4 e5d4 d1d4 b8c6 d4f4 g8f6 g1f3 f8d6 f4g5 e8g8 b1c3 f8e8 c3d5 f6d5 g5d5 b7b6 f3g5 d8e7 e2e4 c8b7 d5f5 g7g6 f5h3 h7h5 h3c3 d6e5 c3d2 e5f6 f1c4 c6e5 c4b3 f6g5",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
