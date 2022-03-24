@@ -32,12 +32,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e4",
-    "wtime": 180000,
-    "btime": 180000,
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1",
+    "wtime": 168140,
+    "btime": 101900,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "started",
+    "wdraw": true
   },
   "botName": "mikku1711",
   "opponentName": "T007_Bot"
