@@ -1,0 +1,44 @@
+{
+  "id": "tjBWzeT1",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1648110257176,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2614,
+    "provisional": true
+  },
+  "black": {
+    "id": "peeyush_sonkar",
+    "name": "Peeyush_Sonkar",
+    "title": null,
+    "rating": 2245
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "Peeyush_Sonkar"
+}
