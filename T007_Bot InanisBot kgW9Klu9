@@ -1,0 +1,44 @@
+{
+  "id": "kgW9Klu9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648116593635,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2093,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2159
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "aborted"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "InanisBot"
+}
