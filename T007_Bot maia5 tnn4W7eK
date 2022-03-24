@@ -1,0 +1,44 @@
+{
+  "id": "tnn4W7eK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648166091844,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 1886,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1681
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "maia5"
+}
