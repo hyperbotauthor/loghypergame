@@ -1,0 +1,45 @@
+{
+  "id": "GVQFUfD9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648124483228,
+  "white": {
+    "id": "wwwwwwwwwwwwwww01",
+    "name": "wwwwwwwwwwwwwww01",
+    "title": null,
+    "rating": 600,
+    "provisional": true
+  },
+  "black": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 1817,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "wwwwwwwwwwwwwww01",
+  "opponentName": "T007_Bot"
+}
