@@ -1,0 +1,44 @@
+{
+  "id": "GWZW7RC2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648121584432,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2126,
+    "provisional": true
+  },
+  "black": {
+    "id": "kanu_2468",
+    "name": "Kanu_2468",
+    "title": null,
+    "rating": 1289
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "Kanu_2468"
+}
