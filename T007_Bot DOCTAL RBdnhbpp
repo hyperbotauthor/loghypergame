@@ -1,0 +1,44 @@
+{
+  "id": "RBdnhbpp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648171276034,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 1982,
+    "provisional": true
+  },
+  "black": {
+    "id": "doctal",
+    "name": "DOCTAL",
+    "title": "BOT",
+    "rating": 2643
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "DOCTAL"
+}
