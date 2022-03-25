@@ -1,0 +1,44 @@
+{
+  "id": "hAMaIRlW",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1648213816497,
+  "white": {
+    "id": "thelegitlegendv2",
+    "name": "TheLegitLegendv2",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "crazy47",
+    "name": "Crazy47",
+    "title": null,
+    "rating": 1478
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "TheLegitLegendv2",
+  "opponentName": "Crazy47"
+}
