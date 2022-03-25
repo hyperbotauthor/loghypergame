@@ -1,0 +1,44 @@
+{
+  "id": "o9OCG8lc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648210079775,
+  "white": {
+    "id": "arghyadip_mondal15",
+    "name": "Arghyadip_Mondal15",
+    "title": null,
+    "rating": 1388
+  },
+  "black": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1758,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3",
+    "wtime": 236180,
+    "btime": 178290,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Arghyadip_Mondal15",
+  "opponentName": "TheLegitLegend"
+}
