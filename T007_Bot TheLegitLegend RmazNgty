@@ -1,0 +1,45 @@
+{
+  "id": "RmazNgty",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1648183745291,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 1606,
+    "provisional": true
+  },
+  "black": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1786,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "TheLegitLegend"
+}
