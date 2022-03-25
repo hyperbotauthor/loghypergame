@@ -1,0 +1,45 @@
+{
+  "id": "qMTAflra",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1648180191427,
+  "white": {
+    "id": "sharkchess666",
+    "name": "SharkChess666",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 1545,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SharkChess666",
+  "opponentName": "T007_Bot"
+}
