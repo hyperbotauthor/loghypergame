@@ -1,0 +1,44 @@
+{
+  "id": "KGbWJ9AI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1648185209809,
+  "white": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1801,
+    "provisional": true
+  },
+  "black": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2089
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheLegitLegend",
+  "opponentName": "T007_Bot"
+}
