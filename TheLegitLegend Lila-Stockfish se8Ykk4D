@@ -1,0 +1,43 @@
+{
+  "id": "se8Ykk4D",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1648269195379,
+  "white": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1965
+  },
+  "black": {
+    "id": "lila-stockfish",
+    "name": "Lila-Stockfish",
+    "title": "BOT",
+    "rating": 2542
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5",
+    "wtime": 29830,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheLegitLegend",
+  "opponentName": "Lila-Stockfish"
+}
