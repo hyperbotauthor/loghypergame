@@ -1,0 +1,45 @@
+{
+  "id": "1LpJaD21",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1648276167339,
+  "white": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1605,
+    "provisional": true
+  },
+  "black": {
+    "id": "thelegendarylion",
+    "name": "TheLegendaryLion",
+    "title": "BOT",
+    "rating": 1621,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheLegitLegend",
+  "opponentName": "TheLegendaryLion"
+}
