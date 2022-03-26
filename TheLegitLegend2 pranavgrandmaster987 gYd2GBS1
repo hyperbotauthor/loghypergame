@@ -1,0 +1,45 @@
+{
+  "id": "gYd2GBS1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648298938825,
+  "white": {
+    "id": "thelegitlegend2",
+    "name": "TheLegitLegend2",
+    "title": "BOT",
+    "rating": 2544,
+    "provisional": true
+  },
+  "black": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6 d2d4 b8c6 g1f3",
+    "wtime": 289310,
+    "btime": 289810,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheLegitLegend2",
+  "opponentName": "pranavgrandmaster987"
+}
