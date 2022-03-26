@@ -1,0 +1,45 @@
+{
+  "id": "4GpTzIth",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648301671450,
+  "white": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "abc_125",
+    "name": "ABC_125",
+    "title": null,
+    "rating": 1223,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "pranavgrandmaster987",
+  "opponentName": "ABC_125"
+}
