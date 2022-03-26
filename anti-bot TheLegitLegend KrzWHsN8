@@ -1,0 +1,44 @@
+{
+  "id": "KrzWHsN8",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1648276074331,
+  "white": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2064
+  },
+  "black": {
+    "id": "thelegitlegend",
+    "name": "TheLegitLegend",
+    "title": "BOT",
+    "rating": 1007,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "anti-bot",
+  "opponentName": "TheLegitLegend"
+}
