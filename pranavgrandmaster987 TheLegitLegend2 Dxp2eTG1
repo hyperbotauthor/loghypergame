@@ -1,0 +1,45 @@
+{
+  "id": "Dxp2eTG1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 0,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1648298825304,
+  "white": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "thelegitlegend2",
+    "name": "TheLegitLegend2",
+    "title": "BOT",
+    "rating": 2311,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3000,
+    "btime": 3000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "pranavgrandmaster987",
+  "opponentName": "TheLegitLegend2"
+}
