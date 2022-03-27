@@ -1,0 +1,44 @@
+{
+  "id": "Fh2MWb4P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2400000,
+    "increment": 18000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1648386381128,
+  "white": {
+    "id": "rootengine",
+    "name": "RootEngine",
+    "title": "BOT",
+    "rating": 1925
+  },
+  "black": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 1940,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2400000,
+    "btime": 2400000,
+    "winc": 18000,
+    "binc": 18000,
+    "status": "started"
+  },
+  "botName": "RootEngine",
+  "opponentName": "pranavgrandmaster987"
+}
