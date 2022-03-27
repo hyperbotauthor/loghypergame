@@ -33,11 +33,12 @@
   "state": {
     "type": "gameState",
     "moves": "d2d4 d7d5 c2c4 g8f6 b1c3 c8f5",
-    "wtime": 10982360,
+    "wtime": 10800570,
     "btime": 11158640,
     "winc": 180000,
     "binc": 180000,
-    "status": "started"
+    "status": "started",
+    "bdraw": true
   },
   "botName": "BitByByte",
   "opponentName": "pranavgrandmaster987"
