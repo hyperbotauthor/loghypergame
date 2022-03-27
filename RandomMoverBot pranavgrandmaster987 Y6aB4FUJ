@@ -1,0 +1,45 @@
+{
+  "id": "Y6aB4FUJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 11000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648386198357,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 723,
+    "provisional": true
+  },
+  "black": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 2072,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1c3",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 11000,
+    "binc": 11000,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "pranavgrandmaster987"
+}
