@@ -1,0 +1,44 @@
+{
+  "id": "TOvOJaPQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1648361227520,
+  "white": {
+    "id": "bitbybyte",
+    "name": "BitByByte",
+    "title": "BOT",
+    "rating": 2483
+  },
+  "black": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "BitByByte",
+  "opponentName": "pranavgrandmaster987"
+}
