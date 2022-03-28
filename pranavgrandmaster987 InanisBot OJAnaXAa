@@ -1,0 +1,44 @@
+{
+  "id": "OJAnaXAa",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 2700000,
+    "increment": 18000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1648439946074,
+  "white": {
+    "id": "pranavgrandmaster987",
+    "name": "pranavgrandmaster987",
+    "title": "BOT",
+    "rating": 1726,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2128
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2700000,
+    "btime": 2700000,
+    "winc": 18000,
+    "binc": 18000,
+    "status": "started"
+  },
+  "botName": "pranavgrandmaster987",
+  "opponentName": "InanisBot"
+}
