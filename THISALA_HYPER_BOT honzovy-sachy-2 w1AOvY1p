@@ -1,0 +1,44 @@
+{
+  "id": "w1AOvY1p",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1648550082641,
+  "white": {
+    "id": "thisala_hyper_bot",
+    "name": "THISALA_HYPER_BOT",
+    "title": "BOT",
+    "rating": 2378,
+    "provisional": true
+  },
+  "black": {
+    "id": "honzovy-sachy-2",
+    "name": "honzovy-sachy-2",
+    "title": "BOT",
+    "rating": 1999
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "THISALA_HYPER_BOT",
+  "opponentName": "honzovy-sachy-2"
+}
