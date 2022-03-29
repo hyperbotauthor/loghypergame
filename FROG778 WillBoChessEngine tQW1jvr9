@@ -1,0 +1,44 @@
+{
+  "id": "tQW1jvr9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1648541130928,
+  "white": {
+    "id": "frog778",
+    "name": "FROG778",
+    "title": "BOT",
+    "rating": 2409,
+    "provisional": true
+  },
+  "black": {
+    "id": "willbochessengine",
+    "name": "WillBoChessEngine",
+    "title": "BOT",
+    "rating": 2485
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "FROG778",
+  "opponentName": "WillBoChessEngine"
+}
