@@ -1,0 +1,44 @@
+{
+  "id": "zdnsu9pV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648563698485,
+  "white": {
+    "id": "thisala_hyper_bot",
+    "name": "THISALA_HYPER_BOT",
+    "title": "BOT",
+    "rating": 2305,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2210
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "THISALA_HYPER_BOT",
+  "opponentName": "InanisBot"
+}
