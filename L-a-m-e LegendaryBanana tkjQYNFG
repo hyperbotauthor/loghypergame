@@ -1,0 +1,45 @@
+{
+  "id": "tkjQYNFG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1648523974242,
+  "white": {
+    "id": "l-a-m-e",
+    "name": "L-a-m-e",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "legendarybanana",
+    "name": "LegendaryBanana",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "L-a-m-e",
+  "opponentName": "LegendaryBanana"
+}
