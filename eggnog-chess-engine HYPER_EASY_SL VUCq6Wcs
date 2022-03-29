@@ -1,0 +1,44 @@
+{
+  "id": "VUCq6Wcs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648522934487,
+  "white": {
+    "id": "eggnog-chess-engine",
+    "name": "eggnog-chess-engine",
+    "title": "BOT",
+    "rating": 2249
+  },
+  "black": {
+    "id": "hyper_easy_sl",
+    "name": "HYPER_EASY_SL",
+    "title": "BOT",
+    "rating": 2410,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "eggnog-chess-engine",
+  "opponentName": "HYPER_EASY_SL"
+}
