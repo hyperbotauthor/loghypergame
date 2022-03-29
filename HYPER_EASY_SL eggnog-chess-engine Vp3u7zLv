@@ -32,12 +32,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 300000,
-    "btime": 300000,
+    "moves": "e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 e7e6 g1f3 g8e7 f1c4 a7a6 c1g5 h7h6 g5h4 b7b5 c4b3 b8c6 d1e2 g7g5 h4g3 e7g6 e1g1 g5g4 f3e1 h6h5 e1d3 h5h4 g3f4 g6f4 d3f4 c8b7 e2g4 c6e5 g4e2 d8f6 f4h3 h8g8 g1h1 b5b4 c3a4 f6g7 f1g1 a8d8 a1d1 f8e7 f2f3 g7h6 d1d2 b7c6 e2f2 g8h8 a4b6 a6a5 b3a4 c6a4 b6a4 e5c4 d2c2 c4e3",
+    "wtime": 0,
+    "btime": 122660,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "black"
   },
   "botName": "HYPER_EASY_SL",
   "opponentName": "eggnog-chess-engine"
