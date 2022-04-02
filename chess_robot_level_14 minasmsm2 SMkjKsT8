@@ -1,0 +1,44 @@
+{
+  "id": "SMkjKsT8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Κλασικό"
+  },
+  "rated": false,
+  "createdAt": 1648903233161,
+  "white": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1898,
+    "provisional": true
+  },
+  "black": {
+    "id": "minasmsm2",
+    "name": "minasmsm2",
+    "title": null,
+    "rating": 1758
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "chess_robot_level_14",
+  "opponentName": "minasmsm2"
+}
