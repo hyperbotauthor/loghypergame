@@ -1,0 +1,43 @@
+{
+  "id": "CsdvPoPZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648913221261,
+  "white": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1642
+  },
+  "black": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1688
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "ChessChildren",
+  "opponentName": "chess_robot_level_14"
+}
