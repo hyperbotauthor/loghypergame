@@ -1,0 +1,44 @@
+{
+  "id": "4iPbzBff",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Κλασικό"
+  },
+  "rated": true,
+  "createdAt": 1648898294061,
+  "white": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2316
+  },
+  "black": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "Cheng-4",
+  "opponentName": "chess_robot_level_14"
+}
