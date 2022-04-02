@@ -1,0 +1,43 @@
+{
+  "id": "gxAaHchm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1648930041620,
+  "white": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1971
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1698
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "chess_robot_level_14",
+  "opponentName": "maia9"
+}
