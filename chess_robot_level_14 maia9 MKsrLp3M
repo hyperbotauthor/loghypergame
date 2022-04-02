@@ -1,0 +1,44 @@
+{
+  "id": "MKsrLp3M",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1648900849072,
+  "white": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1716,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1736
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 b1c3 g8f6 d2d3 f8c5 c1g5 h7h6 g5e3 c5e3 f2e3 e8g8 g1h3 d7d5 e4d5 f6d5 d3d4 d5e3 d1e2 e5d4 c3d1 f8e8 d1e3 e8e3 h3f4 e3e2 f1e2 b8c6 e1c1 d8g5 g2g3 c8g4 e2g4 g5g4 h1e1 g7g5 f4d5 a8d8",
+    "wtime": 146260,
+    "btime": 125190,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "chess_robot_level_14",
+  "opponentName": "maia9"
+}
