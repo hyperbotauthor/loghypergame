@@ -1,0 +1,38 @@
+{
+  "id": "ApQt04yf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Κλασικό"
+  },
+  "rated": false,
+  "createdAt": 1648992922312,
+  "white": {},
+  "black": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1898,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "opponentName": "chess_robot_level_14"
+}
