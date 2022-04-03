@@ -32,7 +32,7 @@
     "btime": 600000,
     "winc": 5000,
     "binc": 5000,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "chess_robot_level_14"
 }
