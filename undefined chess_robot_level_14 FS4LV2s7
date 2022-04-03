@@ -1,0 +1,39 @@
+{
+  "id": "FS4LV2s7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1649013778037,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1979
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "chess_robot_level_14"
+}
