@@ -1,0 +1,43 @@
+{
+  "id": "JCGG4ZOJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1649090760898,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2091
+  },
+  "black": {
+    "id": "chess_robot_level_14",
+    "name": "chess_robot_level_14",
+    "title": "BOT",
+    "rating": 1973
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "chess_robot_level_14"
+}
