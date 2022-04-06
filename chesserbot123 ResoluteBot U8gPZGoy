@@ -1,0 +1,44 @@
+{
+  "id": "U8gPZGoy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1649261274160,
+  "white": {
+    "id": "chesserbot123",
+    "name": "chesserbot123",
+    "title": "BOT",
+    "rating": 2257,
+    "provisional": true
+  },
+  "black": {
+    "id": "resolutebot",
+    "name": "ResoluteBot",
+    "title": "BOT",
+    "rating": 2639
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "chesserbot123",
+  "opponentName": "ResoluteBot"
+}
