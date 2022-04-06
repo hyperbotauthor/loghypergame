@@ -1,0 +1,40 @@
+{
+  "id": "ffBv3sHB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1649218474646,
+  "white": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 e7e6",
+    "wtime": 583970,
+    "btime": 598360,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KomodoFish12"
+}
