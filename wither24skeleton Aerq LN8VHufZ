@@ -1,0 +1,44 @@
+{
+  "id": "LN8VHufZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1649325729954,
+  "white": {
+    "id": "wither24skeleton",
+    "name": "wither24skeleton",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "aerq",
+    "name": "Aerq",
+    "title": null,
+    "rating": 1681
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "status": "started"
+  },
+  "botName": "wither24skeleton",
+  "opponentName": "Aerq"
+}
