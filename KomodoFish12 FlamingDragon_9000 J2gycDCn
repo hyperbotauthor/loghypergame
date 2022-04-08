@@ -1,0 +1,44 @@
+{
+  "id": "J2gycDCn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649399012277,
+  "white": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2457,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2336
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "KomodoFish12",
+  "opponentName": "FlamingDragon_9000"
+}
