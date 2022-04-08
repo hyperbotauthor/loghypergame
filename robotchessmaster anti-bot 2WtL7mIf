@@ -1,0 +1,44 @@
+{
+  "id": "2WtL7mIf",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 20000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1649438070406,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2297,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2028
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "anti-bot"
+}
