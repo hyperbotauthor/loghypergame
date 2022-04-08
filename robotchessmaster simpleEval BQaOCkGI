@@ -1,0 +1,44 @@
+{
+  "id": "BQaOCkGI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649440429690,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 1873,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2235
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6",
+    "wtime": 898860,
+    "btime": 900000,
+    "winc": 14000,
+    "binc": 14000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "simpleEval"
+}
