@@ -33,7 +33,7 @@
   "state": {
     "type": "gameState",
     "moves": "e2e4 c7c5",
-    "wtime": 835280,
+    "wtime": 798630,
     "btime": 900000,
     "winc": 14000,
     "binc": 14000,
