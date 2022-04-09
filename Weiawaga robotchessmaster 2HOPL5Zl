@@ -1,0 +1,45 @@
+{
+  "id": "2HOPL5Zl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1649507801046,
+  "white": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2247
+  },
+  "black": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2438,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 4000,
+    "binc": 4000,
+    "status": "aborted",
+    "rematch": "ToJq8FrH"
+  },
+  "botName": "Weiawaga",
+  "opponentName": "robotchessmaster"
+}
