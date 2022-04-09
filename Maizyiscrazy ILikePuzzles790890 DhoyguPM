@@ -1,0 +1,45 @@
+{
+  "id": "DhoyguPM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1649541013038,
+  "white": {
+    "id": "maizyiscrazy",
+    "name": "Maizyiscrazy",
+    "title": null,
+    "rating": 1187,
+    "provisional": true
+  },
+  "black": {
+    "id": "ilikepuzzles790890",
+    "name": "ILikePuzzles790890",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "Maizyiscrazy",
+  "opponentName": "ILikePuzzles790890"
+}
