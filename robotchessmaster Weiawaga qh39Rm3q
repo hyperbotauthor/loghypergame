@@ -1,0 +1,43 @@
+{
+  "id": "qh39Rm3q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1649498574418,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2135
+  },
+  "black": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2245
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "Weiawaga"
+}
