@@ -1,0 +1,40 @@
+{
+  "id": "ZJzTLZ5P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 3600000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1649556206024,
+  "white": {
+    "id": "ilikepuzzles790890",
+    "name": "ILikePuzzles790890",
+    "title": "BOT",
+    "rating": 1300,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 3600000,
+    "btime": 3600000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "botName": "ILikePuzzles790890"
+}
