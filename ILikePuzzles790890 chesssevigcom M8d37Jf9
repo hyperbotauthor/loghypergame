@@ -1,0 +1,43 @@
+{
+  "id": "M8d37Jf9",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1649599894130,
+  "white": {
+    "id": "ilikepuzzles790890",
+    "name": "ILikePuzzles790890",
+    "title": "BOT",
+    "rating": 2432
+  },
+  "black": {
+    "id": "chesssevigcom",
+    "name": "chesssevigcom",
+    "title": "BOT",
+    "rating": 2579
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ILikePuzzles790890",
+  "opponentName": "chesssevigcom"
+}
