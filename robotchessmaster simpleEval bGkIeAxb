@@ -1,0 +1,44 @@
+{
+  "id": "bGkIeAxb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 4000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1649582557836,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2438,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2211
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d6 g1f3 g8f6 c2c4 c8f5",
+    "wtime": 246840,
+    "btime": 307730,
+    "winc": 4000,
+    "binc": 4000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "simpleEval"
+}
