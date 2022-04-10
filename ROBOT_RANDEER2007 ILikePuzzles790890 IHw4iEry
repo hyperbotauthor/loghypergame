@@ -33,9 +33,9 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e4",
-    "wtime": 180000,
-    "btime": 180000,
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 b8c6 c2c4 a7a6 f1e2 g8f6 b1c3 g7g6 c1e3 f8g7 e1g1 e8g8 a2a3 f6d7 a1b1 c6d4 e3d4 d7e5 d1d2 e5c6 d4g7 g8g7 f1d1 e7e5 d2d6 d8d6 d1d6 c8e6 e2f1 c6d4 d6b6 a8b8 c3d5 e6d7 b2b4 f8d8 f2f3 d7c6 d5c3 c6d7 c4c5 d7e6 c3d5 f7f5 d5c3 d8c8 e4f5 g6f5 f3f4 c8c6 f4e5 c6b6 c5b6 b8c8 c3e2 d4e2 f1e2 c8c6 e2f3 c6b6 b1c1 b6b5 c1c5 b7b6 c5b5 a6b5 g1f2 f5f4 f3c6 g7g6 c6e4 g6g5 e4h7 e6d5 h7d3 d5b7 g2g3 b7c6 h2h4 g5g4 g3f4 g4f4 h4h5 f4g5 d3g6 c6d7 f2e3 d7e6 g6e8 e6a2 e8b5 a2f7 a3a4 f7d5 h5h6 g5g6 e3d4 d5f3 a4a5 f3h5 a5b6 h5f3 h6h7 f3e4 d4e4 g6h7 b6b7 h7g6 b7b8q g6g7 e4f5 g7h7 f5f6",
+    "wtime": 22550,
+    "btime": 52430,
     "winc": 0,
     "binc": 0,
     "status": "started"
