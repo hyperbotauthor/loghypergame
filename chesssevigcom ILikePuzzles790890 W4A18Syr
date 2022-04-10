@@ -1,0 +1,43 @@
+{
+  "id": "W4A18Syr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1649599548959,
+  "white": {
+    "id": "chesssevigcom",
+    "name": "chesssevigcom",
+    "title": "BOT",
+    "rating": 2579
+  },
+  "black": {
+    "id": "ilikepuzzles790890",
+    "name": "ILikePuzzles790890",
+    "title": "BOT",
+    "rating": 2425
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "chesssevigcom",
+  "opponentName": "ILikePuzzles790890"
+}
