@@ -1,0 +1,44 @@
+{
+  "id": "WHFjQTe3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649635127355,
+  "white": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2440,
+    "provisional": true
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2415
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KomodoFish12",
+  "opponentName": "Boris-Trapsky"
+}
