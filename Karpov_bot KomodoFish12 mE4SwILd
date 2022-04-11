@@ -1,0 +1,43 @@
+{
+  "id": "mE4SwILd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649649626484,
+  "white": {
+    "id": "karpov_bot",
+    "name": "Karpov_bot",
+    "title": "BOT",
+    "rating": 2693
+  },
+  "black": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2485
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 c7c6 e2e4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 c6c5 c1e3 c5d4 f3d4 f5g6",
+    "wtime": 865080,
+    "btime": 873450,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Karpov_bot",
+  "opponentName": "KomodoFish12"
+}
