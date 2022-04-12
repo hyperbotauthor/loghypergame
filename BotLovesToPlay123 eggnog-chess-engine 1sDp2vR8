@@ -1,0 +1,44 @@
+{
+  "id": "1sDp2vR8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1649792612929,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 748,
+    "provisional": true
+  },
+  "black": {
+    "id": "eggnog-chess-engine",
+    "name": "eggnog-chess-engine",
+    "title": "BOT",
+    "rating": 2334
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "eggnog-chess-engine"
+}
