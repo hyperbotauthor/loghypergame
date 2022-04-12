@@ -1,0 +1,45 @@
+{
+  "id": "d6ZWqn1q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1649730448772,
+  "white": {
+    "id": "madhu2111",
+    "name": "MaDhU2111",
+    "title": null,
+    "rating": 620,
+    "provisional": true
+  },
+  "black": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "MaDhU2111",
+  "opponentName": "BotLovesToPlay123"
+}
