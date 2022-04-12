@@ -31,13 +31,12 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "d2d4 d7d5 c2c4 e7e6 c4d5 c7c6 d5e6 g8f6 e6f7 e8f7",
-    "wtime": 565730,
-    "btime": 638560,
+    "moves": "d2d4 d7d5 c2c4 e7e6 c4d5 c7c6 d5e6 g8f6 e6f7 e8f7 e2e4 f8b4 b1c3 h8e8 e4e5 c8e6 f1d3 f7g8 g1e2 f6g4 h2h3 g4e5 d4e5 b8d7 d1c2 g8h8 e1g1 d7e5 d3h7 e6c4 f1d1 d8c7 c1g5 b4f8 h7f5 f8e7 g5f4 c7a5 f4e5 a5e5",
+    "wtime": 108010,
+    "btime": 589420,
     "winc": 10000,
     "binc": 10000,
-    "status": "started",
-    "wdraw": true
+    "status": "started"
   },
   "botName": "KomodoFish12",
   "opponentName": "Boris-Trapsky"
