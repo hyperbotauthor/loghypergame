@@ -1,0 +1,44 @@
+{
+  "id": "Ml9AAsQT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 14000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Κλασικό"
+  },
+  "rated": true,
+  "createdAt": 1649791919890,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2132
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5",
+    "wtime": 1498730,
+    "btime": 1500000,
+    "winc": 14000,
+    "binc": 14000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "InanisBot"
+}
