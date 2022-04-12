@@ -1,0 +1,44 @@
+{
+  "id": "GHPvSXpP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649732984926,
+  "white": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2390
+  },
+  "black": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2420
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 e7e6 c4d5 c7c6 d5e6 g8f6 e6f7 e8f7",
+    "wtime": 565730,
+    "btime": 638560,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started",
+    "wdraw": true
+  },
+  "botName": "KomodoFish12",
+  "opponentName": "Boris-Trapsky"
+}
