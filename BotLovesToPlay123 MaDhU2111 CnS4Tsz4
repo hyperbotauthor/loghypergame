@@ -1,0 +1,44 @@
+{
+  "id": "CnS4Tsz4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649730334626,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 980,
+    "provisional": true
+  },
+  "black": {
+    "id": "madhu2111",
+    "name": "MaDhU2111",
+    "title": null,
+    "rating": 909
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "aborted"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "MaDhU2111"
+}
