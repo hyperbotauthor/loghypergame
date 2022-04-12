@@ -1,0 +1,43 @@
+{
+  "id": "08VenTyL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649732118711,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1734
+  },
+  "black": {
+    "id": "komodofish12",
+    "name": "KomodoFish12",
+    "title": "BOT",
+    "rating": 2443
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "KomodoFish12"
+}
