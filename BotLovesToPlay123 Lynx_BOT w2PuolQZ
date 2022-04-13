@@ -37,7 +37,7 @@
     "btime": 480000,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "BotLovesToPlay123",
   "opponentName": "Lynx_BOT"
