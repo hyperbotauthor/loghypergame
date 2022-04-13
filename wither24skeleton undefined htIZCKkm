@@ -1,0 +1,38 @@
+{
+  "id": "htIZCKkm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1649853931085,
+  "white": {
+    "id": "wither24skeleton",
+    "name": "wither24skeleton",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {},
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "wither24skeleton"
+}
