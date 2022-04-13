@@ -1,0 +1,40 @@
+{
+  "id": "35aETPJA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 5400000,
+    "increment": 30000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Κλασικό"
+  },
+  "rated": false,
+  "createdAt": 1649879015075,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2354,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 5400000,
+    "btime": 5400000,
+    "winc": 30000,
+    "binc": 30000,
+    "status": "started"
+  },
+  "botName": "robotchessmaster"
+}
