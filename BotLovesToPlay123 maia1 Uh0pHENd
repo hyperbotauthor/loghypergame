@@ -1,0 +1,43 @@
+{
+  "id": "Uh0pHENd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1649879585093,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 1715
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1569
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "maia1"
+}
