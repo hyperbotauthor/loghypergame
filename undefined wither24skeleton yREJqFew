@@ -1,0 +1,38 @@
+{
+  "id": "yREJqFew",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1649854105576,
+  "white": {},
+  "black": {
+    "id": "wither24skeleton",
+    "name": "wither24skeleton",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "opponentName": "wither24skeleton"
+}
