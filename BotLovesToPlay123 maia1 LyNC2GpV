@@ -1,0 +1,44 @@
+{
+  "id": "LyNC2GpV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1649870232162,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 1405,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1451
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 15000,
+    "btime": 15000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "maia1"
+}
