@@ -1,0 +1,44 @@
+{
+  "id": "EGUnNRNC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649878156653,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 747,
+    "provisional": true
+  },
+  "black": {
+    "id": "lynx_bot",
+    "name": "Lynx_BOT",
+    "title": "BOT",
+    "rating": 1951
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 e2e3 g7g6 f1d3 f8g7 b1d2 b8c6 f2f4 d7d5 c2c3 e8g8 g1f3 c8f5 d1c2 f5d3 c2d3 a7a5 e1g1 a5a4 e3e4 d5e4 d2e4 f6e4 d3e4 e7e6",
+    "wtime": 377050,
+    "btime": 346880,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "Lynx_BOT"
+}
