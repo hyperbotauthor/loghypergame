@@ -1,0 +1,44 @@
+{
+  "id": "wfV29MAV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1649878020953,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BotLovesToPlay123",
+    "title": "BOT",
+    "rating": 748,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1767
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BotLovesToPlay123",
+  "opponentName": "maia9"
+}
