@@ -1,0 +1,41 @@
+{
+  "id": "kJxyDJfj",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1649965698946,
+  "white": {
+    "id": "iwillbeatsoignefrog",
+    "name": "IwillbeatSoigneFrog",
+    "title": null,
+    "rating": 1179
+  },
+  "black": {
+    "id": "h644bbotyay",
+    "name": "h644bbotyay",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "IwillbeatSoigneFrog",
+  "opponentName": "h644bbotyay"
+}
