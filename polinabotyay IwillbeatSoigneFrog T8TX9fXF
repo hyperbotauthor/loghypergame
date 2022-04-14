@@ -1,0 +1,42 @@
+{
+  "id": "T8TX9fXF",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": false,
+  "createdAt": 1649966061170,
+  "white": {
+    "id": "polinabotyay",
+    "name": "polinabotyay",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "iwillbeatsoignefrog",
+    "name": "IwillbeatSoigneFrog",
+    "title": null,
+    "rating": 1300,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "polinabotyay",
+  "opponentName": "IwillbeatSoigneFrog"
+}
