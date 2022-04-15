@@ -1,0 +1,43 @@
+{
+  "id": "vjWFP6in",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650053560317,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BoTLoveSTOPlaY123",
+    "title": "BOT",
+    "rating": 1789
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1518
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "BoTLoveSTOPlaY123",
+  "opponentName": "maia1"
+}
