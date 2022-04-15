@@ -1,0 +1,45 @@
+{
+  "id": "m4dbK53k",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1650037450966,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BoTLoveSTOPlaY123",
+    "title": "BOT",
+    "rating": 1420,
+    "provisional": true
+  },
+  "black": {
+    "id": "bitextender128",
+    "name": "BitExtender128",
+    "title": "BOT",
+    "rating": 2105,
+    "provisional": true
+  },
+  "initialFen": "brnbqkrn/pppppppp/8/8/8/8/PPPPPPPP/BRNBQKRN w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "BoTLoveSTOPlaY123",
+  "opponentName": "BitExtender128"
+}
