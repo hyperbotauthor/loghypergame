@@ -1,0 +1,43 @@
+{
+  "id": "SqKZMIwh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650038324402,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BoTLoveSTOPlaY123",
+    "title": "BOT",
+    "rating": 1773
+  },
+  "black": {
+    "id": "cheng-4",
+    "name": "Cheng-4",
+    "title": "BOT",
+    "rating": 2278
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BoTLoveSTOPlaY123",
+  "opponentName": "Cheng-4"
+}
