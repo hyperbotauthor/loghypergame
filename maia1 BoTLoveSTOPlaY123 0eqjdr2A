@@ -1,0 +1,43 @@
+{
+  "id": "0eqjdr2A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650037786127,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1515
+  },
+  "black": {
+    "id": "botlovestoplay123",
+    "name": "BoTLoveSTOPlaY123",
+    "title": "BOT",
+    "rating": 1758
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "BoTLoveSTOPlaY123"
+}
