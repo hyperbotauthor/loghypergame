@@ -1,0 +1,45 @@
+{
+  "id": "5v1RaKYJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 14000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1650019000566,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2268
+  },
+  "black": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2299,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 14000,
+    "binc": 14000,
+    "status": "aborted",
+    "rematch": "mnogmAxQ"
+  },
+  "botName": "simpleEval",
+  "opponentName": "robotchessmaster"
+}
