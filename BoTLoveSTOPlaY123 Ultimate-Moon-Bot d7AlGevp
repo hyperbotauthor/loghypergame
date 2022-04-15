@@ -1,0 +1,43 @@
+{
+  "id": "d7AlGevp",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650038455638,
+  "white": {
+    "id": "botlovestoplay123",
+    "name": "BoTLoveSTOPlaY123",
+    "title": "BOT",
+    "rating": 1772
+  },
+  "black": {
+    "id": "ultimate-moon-bot",
+    "name": "Ultimate-Moon-Bot",
+    "title": "BOT",
+    "rating": 2946
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BoTLoveSTOPlaY123",
+  "opponentName": "Ultimate-Moon-Bot"
+}
