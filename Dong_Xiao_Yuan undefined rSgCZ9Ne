@@ -1,0 +1,37 @@
+{
+  "id": "rSgCZ9Ne",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1650027952323,
+  "white": {
+    "id": "dong_xiao_yuan",
+    "name": "Dong_Xiao_Yuan",
+    "title": "BOT",
+    "rating": 1829,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 4
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "Dong_Xiao_Yuan"
+}
