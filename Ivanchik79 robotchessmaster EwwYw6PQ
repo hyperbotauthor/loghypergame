@@ -1,0 +1,43 @@
+{
+  "id": "EwwYw6PQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650114578606,
+  "white": {
+    "id": "ivanchik79",
+    "name": "Ivanchik79",
+    "title": null,
+    "rating": 1421
+  },
+  "black": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2209
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Ivanchik79",
+  "opponentName": "robotchessmaster"
+}
