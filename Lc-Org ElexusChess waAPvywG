@@ -1,0 +1,44 @@
+{
+  "id": "waAPvywG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rápida"
+  },
+  "rated": true,
+  "createdAt": 1650130366109,
+  "white": {
+    "id": "lc-org",
+    "name": "Lc-Org",
+    "title": "BOT",
+    "rating": 2089,
+    "provisional": true
+  },
+  "black": {
+    "id": "elexuschess",
+    "name": "ElexusChess",
+    "title": "BOT",
+    "rating": 2614
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Lc-Org",
+  "opponentName": "ElexusChess"
+}
