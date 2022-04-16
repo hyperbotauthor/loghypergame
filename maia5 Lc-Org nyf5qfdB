@@ -1,0 +1,44 @@
+{
+  "id": "nyf5qfdB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650130312895,
+  "white": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1622
+  },
+  "black": {
+    "id": "lc-org",
+    "name": "Lc-Org",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia5",
+  "opponentName": "Lc-Org"
+}
