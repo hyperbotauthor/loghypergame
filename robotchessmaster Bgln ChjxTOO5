@@ -1,0 +1,43 @@
+{
+  "id": "ChjxTOO5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650131228831,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2220
+  },
+  "black": {
+    "id": "bgln",
+    "name": "Bgln",
+    "title": null,
+    "rating": 2181
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "Bgln"
+}
