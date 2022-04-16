@@ -1,0 +1,44 @@
+{
+  "id": "Yp3WB04P",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650133689791,
+  "white": {
+    "id": "drfahemstylen",
+    "name": "DrFahemStylen",
+    "title": "BOT",
+    "rating": 1866,
+    "provisional": true
+  },
+  "black": {
+    "id": "thefastrobot608",
+    "name": "TheFastRobot608",
+    "title": "BOT",
+    "rating": 2513
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DrFahemStylen",
+  "opponentName": "TheFastRobot608"
+}
