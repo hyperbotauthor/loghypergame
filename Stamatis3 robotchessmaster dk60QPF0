@@ -1,0 +1,44 @@
+{
+  "id": "dk60QPF0",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 8000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650120055093,
+  "white": {
+    "id": "stamatis3",
+    "name": "Stamatis3",
+    "title": null,
+    "rating": 1832
+  },
+  "black": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2391,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "aborted"
+  },
+  "botName": "Stamatis3",
+  "opponentName": "robotchessmaster"
+}
