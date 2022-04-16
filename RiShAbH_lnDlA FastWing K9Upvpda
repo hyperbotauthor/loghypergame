@@ -1,0 +1,45 @@
+{
+  "id": "K9Upvpda",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650099439464,
+  "white": {
+    "id": "rishabh_lndla",
+    "name": "RiShAbH_lnDlA",
+    "title": null,
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 2231,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "RiShAbH_lnDlA",
+  "opponentName": "FastWing"
+}
