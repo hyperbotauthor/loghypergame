@@ -1,0 +1,44 @@
+{
+  "id": "NLtmXyPv",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": false,
+  "createdAt": 1650087803486,
+  "white": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "alvin_mathew2011",
+    "name": "Alvin_mathew2011",
+    "title": null,
+    "rating": 1626
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "FastWing",
+  "opponentName": "Alvin_mathew2011"
+}
