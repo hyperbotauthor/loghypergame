@@ -1,0 +1,44 @@
+{
+  "id": "ZsCs2r3d",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650094777320,
+  "white": {
+    "id": "honzovy-sachy",
+    "name": "honzovy-sachy",
+    "title": "BOT",
+    "rating": 1785
+  },
+  "black": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "honzovy-sachy",
+  "opponentName": "FastWing"
+}
