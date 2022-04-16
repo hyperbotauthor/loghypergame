@@ -1,0 +1,44 @@
+{
+  "id": "hSutF1bc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650109199550,
+  "white": {
+    "id": "try_to_beat_me_kid",
+    "name": "Try_To_Beat_Me_Kid",
+    "title": "BOT",
+    "rating": 1597
+  },
+  "black": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 2152,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "Try_To_Beat_Me_Kid",
+  "opponentName": "FastWing"
+}
