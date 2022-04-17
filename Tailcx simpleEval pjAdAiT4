@@ -1,0 +1,44 @@
+{
+  "id": "pjAdAiT4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 45000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klassisch"
+  },
+  "rated": true,
+  "createdAt": 1650238281445,
+  "white": {
+    "id": "tailcx",
+    "name": "Tailcx",
+    "title": "BOT",
+    "rating": 1701,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 1922
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 45000,
+    "binc": 45000,
+    "status": "started"
+  },
+  "botName": "Tailcx",
+  "opponentName": "simpleEval"
+}
