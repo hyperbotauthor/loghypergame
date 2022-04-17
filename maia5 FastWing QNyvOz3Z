@@ -1,0 +1,44 @@
+{
+  "id": "QNyvOz3Z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650175443307,
+  "white": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1645
+  },
+  "black": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 1958,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "maia5",
+  "opponentName": "FastWing"
+}
