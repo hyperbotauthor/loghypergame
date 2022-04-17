@@ -1,0 +1,44 @@
+{
+  "id": "CGJUciaP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1650219251299,
+  "white": {
+    "id": "fahemthecm",
+    "name": "FAHEMTHECM",
+    "title": "BOT",
+    "rating": 1772,
+    "provisional": true
+  },
+  "black": {
+    "id": "rootengine",
+    "name": "RootEngine",
+    "title": "BOT",
+    "rating": 1947
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "FAHEMTHECM",
+  "opponentName": "RootEngine"
+}
