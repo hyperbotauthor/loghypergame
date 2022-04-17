@@ -1,0 +1,45 @@
+{
+  "id": "lAULjarb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650201907545,
+  "white": {
+    "id": "drfahemstylen",
+    "name": "DrFahemStylen",
+    "title": "BOT",
+    "rating": 2033,
+    "provisional": true
+  },
+  "black": {
+    "id": "smartpopcat",
+    "name": "SmartPopcat",
+    "title": "BOT",
+    "rating": 1771
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3 d5e6 g1e2 g8f6 d2d4 e6b6 d4d5 e7e5 d5e6 f7e6 c1g5 f8c5 g5f6 c5f2 e1d2 b6e3",
+    "wtime": 147580,
+    "btime": 123980,
+    "winc": 0,
+    "binc": 0,
+    "status": "mate",
+    "winner": "black"
+  },
+  "botName": "DrFahemStylen",
+  "opponentName": "SmartPopcat"
+}
