@@ -1,0 +1,44 @@
+{
+  "id": "ucsrV6dK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 45000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klassisch"
+  },
+  "rated": true,
+  "createdAt": 1650237871824,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 1919
+  },
+  "black": {
+    "id": "tailcx",
+    "name": "Tailcx",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 45000,
+    "binc": 45000,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "Tailcx"
+}
