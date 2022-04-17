@@ -1,0 +1,44 @@
+{
+  "id": "56ShCfof",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650174344778,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1506
+  },
+  "black": {
+    "id": "fastwingv2",
+    "name": "FastWingV2",
+    "title": "BOT",
+    "rating": 2057,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "FastWingV2"
+}
