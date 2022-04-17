@@ -1,0 +1,45 @@
+{
+  "id": "J60ZsITR",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": true,
+  "createdAt": 1650213508111,
+  "white": {
+    "id": "variantsstockfish",
+    "name": "VariantsStockfish",
+    "title": "BOT",
+    "rating": 1541,
+    "provisional": true
+  },
+  "black": {
+    "id": "drfahemstylen",
+    "name": "DrFahemStylen",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3 g8f6 d2d4 b7b5 g1f3 c8b7 b1c3 a7a6 e2e4 e7e6 e4e5 f6d5 f3g5 d5c3 b2c3 d8e7 d1h5 N@h6 N@e4 g7g6 h5f3",
+    "wtime": 387980,
+    "btime": 297520,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsStockfish",
+  "opponentName": "DrFahemStylen"
+}
