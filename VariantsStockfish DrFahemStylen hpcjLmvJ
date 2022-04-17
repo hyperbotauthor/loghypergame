@@ -1,0 +1,45 @@
+{
+  "id": "hpcjLmvJ",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1650214034395,
+  "white": {
+    "id": "variantsstockfish",
+    "name": "VariantsStockfish",
+    "title": "BOT",
+    "rating": 2584,
+    "provisional": true
+  },
+  "black": {
+    "id": "drfahemstylen",
+    "name": "DrFahemStylen",
+    "title": "BOT",
+    "rating": 1496,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsStockfish",
+  "opponentName": "DrFahemStylen"
+}
