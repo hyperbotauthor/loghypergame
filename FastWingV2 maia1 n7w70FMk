@@ -1,0 +1,44 @@
+{
+  "id": "n7w70FMk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1650174918577,
+  "white": {
+    "id": "fastwingv2",
+    "name": "FastWingV2",
+    "title": "BOT",
+    "rating": 1766,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1501
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "FastWingV2",
+  "opponentName": "maia1"
+}
