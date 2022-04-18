@@ -1,0 +1,40 @@
+{
+  "id": "Sxd3D4It",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1650310815104,
+  "white": {
+    "id": "h644bbotyay",
+    "name": "h644bbotyay",
+    "title": "BOT",
+    "rating": 1733,
+    "provisional": true
+  },
+  "black": {
+    "id": "polinabotyay",
+    "name": "polinabotyay",
+    "title": "BOT",
+    "rating": 1932,
+    "provisional": true
+  },
+  "initialFen": "rnbqkbnr/pppppppp/8/PPPPPPPP/PPPPPPPP/PPPPPPPP/PPPPPPPP/RNBQKBNR b KQkq - 0 2",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "h644bbotyay",
+  "opponentName": "polinabotyay"
+}
