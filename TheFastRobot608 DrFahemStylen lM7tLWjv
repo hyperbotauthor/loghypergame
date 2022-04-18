@@ -1,0 +1,45 @@
+{
+  "id": "lM7tLWjv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1650286360217,
+  "white": {
+    "id": "thefastrobot608",
+    "name": "TheFastRobot608",
+    "title": "BOT",
+    "rating": 2416,
+    "provisional": true
+  },
+  "black": {
+    "id": "drfahemstylen",
+    "name": "DrFahemStylen",
+    "title": "BOT",
+    "rating": 1827,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheFastRobot608",
+  "opponentName": "DrFahemStylen"
+}
