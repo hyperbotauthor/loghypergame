@@ -1,0 +1,43 @@
+{
+  "id": "yBYaeEZD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650286801235,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2231
+  },
+  "black": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1677
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 b8c6 f1c4 a7a6 e1g1 b7b5 c4e2 c8b7 b2b3 e7e6 c2c4 b5b4",
+    "wtime": 44300,
+    "btime": 55530,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "maia5"
+}
