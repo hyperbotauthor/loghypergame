@@ -1,0 +1,42 @@
+{
+  "id": "XISJHOFx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1650311928885,
+  "white": {
+    "id": "h644bbotyay",
+    "name": "h644bbotyay",
+    "title": "BOT",
+    "rating": 1733,
+    "provisional": true
+  },
+  "black": {
+    "id": "polinabotyay",
+    "name": "polinabotyay",
+    "title": "BOT",
+    "rating": 1932,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "h644bbotyay",
+  "opponentName": "polinabotyay"
+}
