@@ -1,0 +1,37 @@
+{
+  "id": "X5ru3zii",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1650388647517,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "polinabotyay",
+    "name": "polinabotyay",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "polinabotyay"
+}
