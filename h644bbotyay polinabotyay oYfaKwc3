@@ -30,7 +30,7 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "a2a3 a7a6 e2e4 d7d5 e4d5 d8d5 g1f3 c8g4 f1e2 e7e5 b1c3 d5d6 d2d4 e5d4 b2b3 d4c3 e1g1 b8c6 d1e1 d6e7 e1c3 e7e2 f1e1 g4f3 e1e2 f3e2 c3e3 g8e7 e3e2 e8c8 c1b2 d8d7 b3b4 c6d4 b2d4 d7d4 c2c4 h7h5 g1f1 h8h6 c4c5 g7g5 a1d1 d4d5 d1d5 g5g4 d5d1 h6e6 e2d3 e7c6 d3d7 c8b8 d7f7 e6e7 f7f8 b8a7",
+    "moves": "a2a3 a7a6 e2e4 d7d5 e4d5 d8d5 g1f3 c8g4 f1e2 e7e5 b1c3 d5d6 d2d4 e5d4 b2b3 d4c3 e1g1 b8c6 d1e1 d6e7 e1c3 e7e2 f1e1 g4f3 e1e2 f3e2 c3e3 g8e7 e3e2 e8c8 c1b2 d8d7 b3b4 c6d4 b2d4 d7d4 c2c4 h7h5 g1f1 h8h6 c4c5 g7g5 a1d1 d4d5 d1d5 g5g4 d5d1 h6e6 e2d3 e7c6 d3d7 c8b8 d7f7 e6e7 f7f8 b8a7 f2f3",
     "wtime": 2147483647,
     "btime": 2147483647,
     "winc": 0,
