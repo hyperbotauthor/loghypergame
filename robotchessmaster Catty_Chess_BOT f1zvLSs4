@@ -1,0 +1,45 @@
+{
+  "id": "f1zvLSs4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650362778865,
+  "white": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2391,
+    "provisional": true
+  },
+  "black": {
+    "id": "catty_chess_bot",
+    "name": "Catty_Chess_BOT",
+    "title": "BOT",
+    "rating": 2439,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "robotchessmaster",
+  "opponentName": "Catty_Chess_BOT"
+}
