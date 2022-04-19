@@ -1,0 +1,35 @@
+{
+  "id": "ka5X1ewk",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1650335352737,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "polinabotyay",
+    "name": "polinabotyay",
+    "title": "BOT",
+    "rating": 1932,
+    "provisional": true
+  },
+  "initialFen": "qqnqknqq/nnnnnnnn/8/8/8/8/BBBBBBBB/QQBQKBQQ w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2b4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "polinabotyay"
+}
