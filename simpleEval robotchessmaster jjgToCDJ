@@ -1,0 +1,44 @@
+{
+  "id": "jjgToCDJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1650359375666,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2254
+  },
+  "black": {
+    "id": "robotchessmaster",
+    "name": "robotchessmaster",
+    "title": "BOT",
+    "rating": 2432,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "aborted"
+  },
+  "botName": "simpleEval",
+  "opponentName": "robotchessmaster"
+}
