@@ -36,7 +36,8 @@
     "btime": 90000,
     "winc": 2000,
     "binc": 2000,
-    "status": "started"
+    "status": "aborted",
+    "rematch": "PMrz1g9a"
   },
   "botName": "simpleEval",
   "opponentName": "robotchessmaster"
