@@ -1,0 +1,44 @@
+{
+  "id": "DNF5rx3p",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 10000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": false,
+  "createdAt": 1650475197208,
+  "white": {
+    "id": "nexenex",
+    "name": "Nexenex",
+    "title": "BOT",
+    "rating": 2515,
+    "provisional": true
+  },
+  "black": {
+    "id": "lord-bot",
+    "name": "lord-bot",
+    "title": "BOT",
+    "rating": 2727
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "Nexenex",
+  "opponentName": "lord-bot"
+}
