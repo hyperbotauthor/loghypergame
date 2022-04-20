@@ -29,12 +29,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "d2d4",
-    "wtime": 30000,
-    "btime": 30000,
+    "moves": "d2d4 b7b6 c2c4 c8b7 b1c3 g8f6 e2e3 d7d6 g1f3 a7a6 f1d3 b8d7 d1c2 g7g6 c2d1 e7e5 e3e4 e5d4 f3d4 f8g7 d4b3",
+    "wtime": 37460,
+    "btime": 20100,
     "winc": 1000,
     "binc": 1000,
-    "status": "started"
+    "status": "resign",
+    "winner": "white"
   },
   "opponentName": "WDMBOT"
 }
