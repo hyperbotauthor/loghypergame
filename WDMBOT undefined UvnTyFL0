@@ -1,0 +1,40 @@
+{
+  "id": "UvnTyFL0",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1650471799695,
+  "white": {
+    "id": "wdmbot",
+    "name": "WDMBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 1
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "WDMBOT"
+}
