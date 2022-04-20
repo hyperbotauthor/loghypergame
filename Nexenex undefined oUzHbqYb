@@ -1,0 +1,40 @@
+{
+  "id": "oUzHbqYb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": false,
+  "createdAt": 1650476456505,
+  "white": {
+    "id": "nexenex",
+    "name": "Nexenex",
+    "title": "BOT",
+    "rating": 2515,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 6
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 6000,
+    "binc": 6000,
+    "status": "started"
+  },
+  "botName": "Nexenex"
+}
