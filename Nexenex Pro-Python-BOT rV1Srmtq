@@ -1,0 +1,44 @@
+{
+  "id": "rV1Srmtq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 20000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": false,
+  "createdAt": 1650480831958,
+  "white": {
+    "id": "nexenex",
+    "name": "Nexenex",
+    "title": "BOT",
+    "rating": 2552,
+    "provisional": true
+  },
+  "black": {
+    "id": "pro-python-bot",
+    "name": "Pro-Python-BOT",
+    "title": "BOT",
+    "rating": 2670
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "started"
+  },
+  "botName": "Nexenex",
+  "opponentName": "Pro-Python-BOT"
+}
