@@ -1,0 +1,45 @@
+{
+  "id": "ldSc0eBr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 660000,
+    "increment": 20000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Schnellschach"
+  },
+  "rated": true,
+  "createdAt": 1650471020465,
+  "white": {
+    "id": "boris-trapsky",
+    "name": "Boris-Trapsky",
+    "title": "BOT",
+    "rating": 2312
+  },
+  "black": {
+    "id": "nexenex",
+    "name": "Nexenex",
+    "title": "BOT",
+    "rating": 2346,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 660000,
+    "btime": 660000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "aborted",
+    "rematch": "5utbgOEc"
+  },
+  "botName": "Boris-Trapsky",
+  "opponentName": "Nexenex"
+}
