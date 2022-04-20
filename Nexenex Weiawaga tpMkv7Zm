@@ -1,0 +1,44 @@
+{
+  "id": "tpMkv7Zm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1650466270064,
+  "white": {
+    "id": "nexenex",
+    "name": "Nexenex",
+    "title": "BOT",
+    "rating": 2418,
+    "provisional": true
+  },
+  "black": {
+    "id": "weiawaga",
+    "name": "Weiawaga",
+    "title": "BOT",
+    "rating": 2264
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "Nexenex",
+  "opponentName": "Weiawaga"
+}
