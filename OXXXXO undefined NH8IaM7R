@@ -1,0 +1,40 @@
+{
+  "id": "NH8IaM7R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 16000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klassisch"
+  },
+  "rated": false,
+  "createdAt": 1650502514317,
+  "white": {
+    "id": "oxxxxo",
+    "name": "OXXXXO",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 7
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1500000,
+    "btime": 1500000,
+    "winc": 16000,
+    "binc": 16000,
+    "status": "started"
+  },
+  "botName": "OXXXXO"
+}
