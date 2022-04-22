@@ -1,0 +1,37 @@
+{
+  "id": "uo5EcOmY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Yazışma"
+  },
+  "rated": false,
+  "createdAt": 1650616356638,
+  "white": {
+    "id": "tczero",
+    "name": "TCZero",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 6
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172794000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TCZero"
+}
