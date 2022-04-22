@@ -1,0 +1,44 @@
+{
+  "id": "BRAiabA6",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650624009165,
+  "white": {
+    "id": "fastwing",
+    "name": "FastWing",
+    "title": "BOT",
+    "rating": 2153,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1490
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "FastWing",
+  "opponentName": "maia1"
+}
