@@ -1,0 +1,37 @@
+{
+  "id": "8GlGO1hP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Yazışma"
+  },
+  "rated": false,
+  "createdAt": 1650616245549,
+  "white": {
+    "aiLevel": 6
+  },
+  "black": {
+    "id": "tczero",
+    "name": "TCZero",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 172800000,
+    "btime": 172796000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "TCZero"
+}
