@@ -1,0 +1,41 @@
+{
+  "id": "wO4QrwuB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1650687612479,
+  "white": {
+    "id": "curious-cat",
+    "name": "curious-cat",
+    "title": null,
+    "rating": 1688
+  },
+  "black": {
+    "id": "ukbot",
+    "name": "UKBot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 259195000,
+    "btime": 259200000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "curious-cat",
+  "opponentName": "UKBot"
+}
