@@ -1,0 +1,44 @@
+{
+  "id": "xgRRrRTx",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1650731155383,
+  "white": {
+    "id": "stocfish_15",
+    "name": "stocfish_15",
+    "title": "BOT",
+    "rating": 2393,
+    "provisional": true
+  },
+  "black": {
+    "id": "bogomilherokubot",
+    "name": "BogomilHerokuBot",
+    "title": "BOT",
+    "rating": 2452
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "stocfish_15",
+  "opponentName": "BogomilHerokuBot"
+}
