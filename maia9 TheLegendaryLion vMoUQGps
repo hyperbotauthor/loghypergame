@@ -1,0 +1,44 @@
+{
+  "id": "vMoUQGps",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1650681351885,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1780
+  },
+  "black": {
+    "id": "thelegendarylion",
+    "name": "TheLegendaryLion",
+    "title": "BOT",
+    "rating": 2683,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "TheLegendaryLion"
+}
