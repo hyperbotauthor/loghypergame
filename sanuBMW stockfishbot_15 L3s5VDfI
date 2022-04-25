@@ -1,0 +1,44 @@
+{
+  "id": "L3s5VDfI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1650902134527,
+  "white": {
+    "id": "sanubmw",
+    "name": "sanuBMW",
+    "title": null,
+    "rating": 1316
+  },
+  "black": {
+    "id": "stockfishbot_15",
+    "name": "stockfishbot_15",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "sanuBMW",
+  "opponentName": "stockfishbot_15"
+}
