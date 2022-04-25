@@ -1,0 +1,41 @@
+{
+  "id": "YaTigA8E",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1650859380896,
+  "white": {
+    "id": "ukbot",
+    "name": "UKBot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "curious-cat",
+    "name": "curious-cat",
+    "title": null,
+    "rating": 1665
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 259194000,
+    "btime": 259200000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "UKBot",
+  "opponentName": "curious-cat"
+}
