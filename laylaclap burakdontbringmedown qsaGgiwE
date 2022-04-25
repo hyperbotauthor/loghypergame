@@ -1,0 +1,44 @@
+{
+  "id": "qsaGgiwE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1650894509634,
+  "white": {
+    "id": "laylaclap",
+    "name": "laylaclap",
+    "title": "BOT",
+    "rating": 2017,
+    "provisional": true
+  },
+  "black": {
+    "id": "burakdontbringmedown",
+    "name": "burakdontbringmedown",
+    "title": null,
+    "rating": 1267
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "laylaclap",
+  "opponentName": "burakdontbringmedown"
+}
