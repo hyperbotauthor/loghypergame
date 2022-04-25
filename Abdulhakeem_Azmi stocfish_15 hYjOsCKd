@@ -1,0 +1,44 @@
+{
+  "id": "hYjOsCKd",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1650887614266,
+  "white": {
+    "id": "abdulhakeem_azmi",
+    "name": "Abdulhakeem_Azmi",
+    "title": null,
+    "rating": 1453
+  },
+  "black": {
+    "id": "stocfish_15",
+    "name": "stocfish_15",
+    "title": "BOT",
+    "rating": 1711,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Abdulhakeem_Azmi",
+  "opponentName": "stocfish_15"
+}
