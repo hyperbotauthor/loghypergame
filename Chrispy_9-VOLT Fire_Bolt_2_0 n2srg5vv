@@ -1,0 +1,42 @@
+{
+  "id": "n2srg5vv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1650998323883,
+  "white": {
+    "id": "chrispy_9-volt",
+    "name": "Chrispy_9-VOLT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "fire_bolt_2_0",
+    "name": "Fire_Bolt_2_0",
+    "title": null,
+    "rating": 1467,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86394000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Chrispy_9-VOLT",
+  "opponentName": "Fire_Bolt_2_0"
+}
