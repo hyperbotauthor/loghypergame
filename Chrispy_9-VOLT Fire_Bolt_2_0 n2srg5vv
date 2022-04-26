@@ -32,7 +32,7 @@
     "type": "gameState",
     "moves": "a2a3",
     "wtime": 86400000,
-    "btime": 85522000,
+    "btime": 85467000,
     "winc": 0,
     "binc": 0,
     "status": "started"
