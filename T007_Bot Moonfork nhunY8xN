@@ -1,0 +1,45 @@
+{
+  "id": "nhunY8xN",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 1140000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1650967209143,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2485,
+    "provisional": true
+  },
+  "black": {
+    "id": "moonfork",
+    "name": "Moonfork",
+    "title": null,
+    "rating": 1372,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1140000,
+    "btime": 1140000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "Moonfork"
+}
