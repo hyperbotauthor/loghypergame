@@ -1,0 +1,44 @@
+{
+  "id": "CfLyjWYC",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1651053293711,
+  "white": {
+    "id": "stocfish_15",
+    "name": "stocfish_15",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "kasriak",
+    "name": "KasriaK",
+    "title": null,
+    "rating": 2245
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "stocfish_15",
+  "opponentName": "KasriaK"
+}
