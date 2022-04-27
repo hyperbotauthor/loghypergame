@@ -1,0 +1,43 @@
+{
+  "id": "W2bVG5I7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1651052614663,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2112
+  },
+  "black": {
+    "id": "stocfish_15",
+    "name": "stocfish_15",
+    "title": "BOT",
+    "rating": 2532
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c3",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "stocfish_15"
+}
