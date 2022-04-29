@@ -1,0 +1,42 @@
+{
+  "id": "3xMwe2yz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1651196300873,
+  "white": {
+    "id": "t007_bot",
+    "name": "T007_Bot",
+    "title": "BOT",
+    "rating": 2228,
+    "provisional": true
+  },
+  "black": {
+    "id": "crab_is_the_best",
+    "name": "CRAB_IS_THE_BEST",
+    "title": null,
+    "rating": 1879,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 172793000,
+    "btime": 172800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "T007_Bot",
+  "opponentName": "CRAB_IS_THE_BEST"
+}
