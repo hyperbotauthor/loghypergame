@@ -1,0 +1,45 @@
+{
+  "id": "rPe5OWPf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 11000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1651386002872,
+  "white": {
+    "id": "play_chess1234",
+    "name": "Play_chess1234",
+    "title": null,
+    "rating": 1963,
+    "provisional": true
+  },
+  "black": {
+    "id": "crazydog5892912",
+    "name": "CrazyDog5892912",
+    "title": "BOT",
+    "rating": 2593,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 11000,
+    "binc": 11000,
+    "status": "started"
+  },
+  "botName": "Play_chess1234",
+  "opponentName": "CrazyDog5892912"
+}
