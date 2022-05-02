@@ -1,0 +1,44 @@
+{
+  "id": "Dg8FjYmI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1651510987031,
+  "white": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 2244,
+    "provisional": true
+  },
+  "black": {
+    "id": "aravb2022",
+    "name": "aravb2022",
+    "title": null,
+    "rating": 1899
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "bestbotever",
+  "opponentName": "aravb2022"
+}
