@@ -1,0 +1,44 @@
+{
+  "id": "SgVYnDlL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1020000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1651511684974,
+  "white": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 2071,
+    "provisional": true
+  },
+  "black": {
+    "id": "yobot_v2",
+    "name": "YoBot_v2",
+    "title": "BOT",
+    "rating": 2677
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1020000,
+    "btime": 1020000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "bestbotever",
+  "opponentName": "YoBot_v2"
+}
