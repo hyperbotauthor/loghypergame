@@ -1,0 +1,38 @@
+{
+  "id": "0FtGZNJ8",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": false,
+  "createdAt": 1651477479005,
+  "white": {},
+  "black": {
+    "id": "jimm1231",
+    "name": "Jimm1231",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "started"
+  },
+  "opponentName": "Jimm1231"
+}
