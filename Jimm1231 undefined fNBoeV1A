@@ -1,0 +1,38 @@
+{
+  "id": "fNBoeV1A",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 9000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Cờ nhanh"
+  },
+  "rated": false,
+  "createdAt": 1651478508771,
+  "white": {
+    "id": "jimm1231",
+    "name": "Jimm1231",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {},
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 9000,
+    "binc": 9000,
+    "status": "started"
+  },
+  "botName": "Jimm1231"
+}
