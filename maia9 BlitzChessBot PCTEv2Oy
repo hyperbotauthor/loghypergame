@@ -1,0 +1,44 @@
+{
+  "id": "PCTEv2Oy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1651478369592,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1727
+  },
+  "black": {
+    "id": "blitzchessbot",
+    "name": "BlitzChessBot",
+    "title": "BOT",
+    "rating": 2115,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4",
+    "wtime": 123260,
+    "btime": 119720,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "BlitzChessBot"
+}
