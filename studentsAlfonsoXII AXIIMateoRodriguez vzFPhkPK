@@ -1,0 +1,45 @@
+{
+  "id": "vzFPhkPK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1651667391684,
+  "white": {
+    "id": "studentsalfonsoxii",
+    "name": "studentsAlfonsoXII",
+    "title": "BOT",
+    "rating": 2189,
+    "provisional": true
+  },
+  "black": {
+    "id": "axiimateorodriguez",
+    "name": "AXIIMateoRodriguez",
+    "title": null,
+    "rating": 1052,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "studentsAlfonsoXII",
+  "opponentName": "AXIIMateoRodriguez"
+}
