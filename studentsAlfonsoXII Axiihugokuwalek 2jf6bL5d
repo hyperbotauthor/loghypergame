@@ -1,0 +1,44 @@
+{
+  "id": "2jf6bL5d",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1651667105852,
+  "white": {
+    "id": "studentsalfonsoxii",
+    "name": "studentsAlfonsoXII",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "axiihugokuwalek",
+    "name": "Axiihugokuwalek",
+    "title": null,
+    "rating": 840
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "studentsAlfonsoXII",
+  "opponentName": "Axiihugokuwalek"
+}
