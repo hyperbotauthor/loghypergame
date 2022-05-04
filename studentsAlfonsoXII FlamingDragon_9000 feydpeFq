@@ -1,0 +1,44 @@
+{
+  "id": "feydpeFq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1651667826475,
+  "white": {
+    "id": "studentsalfonsoxii",
+    "name": "studentsAlfonsoXII",
+    "title": "BOT",
+    "rating": 2162,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2391
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "studentsAlfonsoXII",
+  "opponentName": "FlamingDragon_9000"
+}
