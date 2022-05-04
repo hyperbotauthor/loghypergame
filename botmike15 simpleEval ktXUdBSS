@@ -1,0 +1,43 @@
+{
+  "id": "ktXUdBSS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1651687536361,
+  "white": {
+    "id": "botmike15",
+    "name": "botmike15",
+    "title": "BOT",
+    "rating": 2198
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2070
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "a2a3 e7e5 e2e4 g8f6 g1f3 b8c6 d2d3 f6g8",
+    "wtime": 2800,
+    "btime": 30720,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "botmike15",
+  "opponentName": "simpleEval"
+}
