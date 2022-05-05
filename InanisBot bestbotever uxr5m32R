@@ -1,0 +1,44 @@
+{
+  "id": "uxr5m32R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1651757205820,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2163
+  },
+  "black": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 1911,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "InanisBot",
+  "opponentName": "bestbotever"
+}
