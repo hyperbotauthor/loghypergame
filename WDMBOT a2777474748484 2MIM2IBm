@@ -1,0 +1,44 @@
+{
+  "id": "2MIM2IBm",
+  "variant": {
+    "key": "crazyhouse",
+    "name": "Crazyhouse",
+    "short": "Crazy"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Crazyhouse"
+  },
+  "rated": false,
+  "createdAt": 1651852556054,
+  "white": {
+    "id": "wdmbot",
+    "name": "WDMBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "a2777474748484",
+    "name": "a2777474748484",
+    "title": null,
+    "rating": 1055
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f1c4 b8c6 f3g5 h7h6 g5f7 d8e7 f7h8 f6e4 P@f7 e8d8",
+    "wtime": 276840,
+    "btime": 283310,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "WDMBOT",
+  "opponentName": "a2777474748484"
+}
