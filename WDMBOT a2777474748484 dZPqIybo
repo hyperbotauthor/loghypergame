@@ -1,0 +1,42 @@
+{
+  "id": "dZPqIybo",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1651852303697,
+  "white": {
+    "id": "wdmbot",
+    "name": "WDMBOT",
+    "title": "BOT",
+    "rating": 2156,
+    "provisional": true
+  },
+  "black": {
+    "id": "a2777474748484",
+    "name": "a2777474748484",
+    "title": null,
+    "rating": 1190,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "WDMBOT",
+  "opponentName": "a2777474748484"
+}
