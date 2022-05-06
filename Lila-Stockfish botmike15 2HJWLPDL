@@ -1,0 +1,43 @@
+{
+  "id": "2HJWLPDL",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1651853869748,
+  "white": {
+    "id": "lila-stockfish",
+    "name": "Lila-Stockfish",
+    "title": "BOT",
+    "rating": 2658
+  },
+  "black": {
+    "id": "botmike15",
+    "name": "botmike15",
+    "title": "BOT",
+    "rating": 2200
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Lila-Stockfish",
+  "opponentName": "botmike15"
+}
