@@ -1,0 +1,42 @@
+{
+  "id": "H0BQAWRK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Αλληλογραφία"
+  },
+  "rated": false,
+  "createdAt": 1651853643078,
+  "white": {
+    "id": "anjase",
+    "name": "Anjase",
+    "title": null,
+    "rating": 2259,
+    "provisional": true
+  },
+  "black": {
+    "id": "botmike15",
+    "name": "botmike15",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 a7a6 d2d4",
+    "wtime": 172800000,
+    "btime": 168985000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Anjase",
+  "opponentName": "botmike15"
+}
