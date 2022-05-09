@@ -1,0 +1,43 @@
+{
+  "id": "zp5GCl2e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1652123007821,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2169
+  },
+  "black": {
+    "id": "botmike15",
+    "name": "botmike15",
+    "title": "BOT",
+    "rating": 2218
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "InanisBot",
+  "opponentName": "botmike15"
+}
