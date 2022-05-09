@@ -1,0 +1,43 @@
+{
+  "id": "zd8pu00j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1652121017798,
+  "white": {
+    "id": "ldrama",
+    "name": "Ldrama",
+    "title": null,
+    "rating": 2084
+  },
+  "black": {
+    "id": "botmike15",
+    "name": "botmike15",
+    "title": "BOT",
+    "rating": 2237
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Ldrama",
+  "opponentName": "botmike15"
+}
