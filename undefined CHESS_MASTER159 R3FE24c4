@@ -1,0 +1,40 @@
+{
+  "id": "R3FE24c4",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Szybkie"
+  },
+  "rated": false,
+  "createdAt": 1652123558918,
+  "white": {
+    "aiLevel": 5
+  },
+  "black": {
+    "id": "chess_master159",
+    "name": "CHESS_MASTER159",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d3",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "CHESS_MASTER159"
+}
