@@ -1,0 +1,45 @@
+{
+  "id": "MYDXXufy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1652152374632,
+  "white": {
+    "id": "cheetah787",
+    "name": "cheetah787",
+    "title": "BOT",
+    "rating": 848,
+    "provisional": true
+  },
+  "black": {
+    "id": "pikachu_270",
+    "name": "Pikachu_270",
+    "title": "BOT",
+    "rating": 2050,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "cheetah787",
+  "opponentName": "Pikachu_270"
+}
