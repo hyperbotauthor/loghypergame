@@ -1,0 +1,44 @@
+{
+  "id": "PrRYBjkr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1654199604397,
+  "white": {
+    "id": "h644bbotyay",
+    "name": "h644bbotyay",
+    "title": "BOT",
+    "rating": 2045,
+    "provisional": true
+  },
+  "black": {
+    "id": "sahyesjaxsonyeah",
+    "name": "SAHYESJAXSONYEAH",
+    "title": null,
+    "rating": 1084
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "h644bbotyay",
+  "opponentName": "SAHYESJAXSONYEAH"
+}
