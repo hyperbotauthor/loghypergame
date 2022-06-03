@@ -1,0 +1,44 @@
+{
+  "id": "4qxY4kVF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1654259121604,
+  "white": {
+    "id": "flamingdragon_9000",
+    "name": "FlamingDragon_9000",
+    "title": "BOT",
+    "rating": 2393
+  },
+  "black": {
+    "id": "lc0_komodo",
+    "name": "Lc0_Komodo",
+    "title": "BOT",
+    "rating": 1812,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "FlamingDragon_9000",
+  "opponentName": "Lc0_Komodo"
+}
