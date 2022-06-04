@@ -1,0 +1,44 @@
+{
+  "id": "zhzG6by2",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1654385109119,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 1130,
+    "provisional": true
+  },
+  "black": {
+    "id": "antihackersbotik",
+    "name": "AntihackersBotik",
+    "title": "BOT",
+    "rating": 908
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "AntihackersBotik"
+}
