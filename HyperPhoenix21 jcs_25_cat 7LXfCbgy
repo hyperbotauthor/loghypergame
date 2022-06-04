@@ -1,0 +1,44 @@
+{
+  "id": "7LXfCbgy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 6000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": false,
+  "createdAt": 1654384881766,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 2178,
+    "provisional": true
+  },
+  "black": {
+    "id": "jcs_25_cat",
+    "name": "jcs_25_cat",
+    "title": null,
+    "rating": 1796
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 6000,
+    "binc": 6000,
+    "status": "aborted"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "jcs_25_cat"
+}
