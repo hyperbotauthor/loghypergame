@@ -1,0 +1,45 @@
+{
+  "id": "mcuqICPI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 15000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": false,
+  "createdAt": 1654393716191,
+  "white": {
+    "id": "jcs_25_cat",
+    "name": "jcs_25_cat",
+    "title": null,
+    "rating": 1765,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 15000,
+    "binc": 15000,
+    "status": "started"
+  },
+  "botName": "jcs_25_cat",
+  "opponentName": "HyperPhoenix21"
+}
