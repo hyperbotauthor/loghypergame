@@ -1,0 +1,45 @@
+{
+  "id": "ne4GD15Z",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1654409448709,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 1347,
+    "provisional": true
+  },
+  "black": {
+    "id": "gleb-atomic",
+    "name": "Gleb-atomic",
+    "title": null,
+    "rating": 1346,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "Gleb-atomic"
+}
