@@ -1,0 +1,40 @@
+{
+  "id": "m5sGLqTi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1654432910475,
+  "white": {
+    "aiLevel": 5
+  },
+  "black": {
+    "id": "lc0_komodo",
+    "name": "Lc0_Komodo",
+    "title": "BOT",
+    "rating": 1879,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Lc0_Komodo"
+}
