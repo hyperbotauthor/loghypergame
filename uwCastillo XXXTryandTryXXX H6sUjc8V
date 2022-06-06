@@ -1,0 +1,44 @@
+{
+  "id": "H6sUjc8V",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1654535720338,
+  "white": {
+    "id": "uwcastillo",
+    "name": "uwCastillo",
+    "title": null,
+    "rating": 1166
+  },
+  "black": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b1c3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "uwCastillo",
+  "opponentName": "XXXTryandTryXXX"
+}
