@@ -1,0 +1,42 @@
+{
+  "id": "ehtx8HwV",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1654549328739,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 2021,
+    "provisional": true
+  },
+  "black": {
+    "id": "antihackersbotik",
+    "name": "AntihackersBotik",
+    "title": "BOT",
+    "rating": 981,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 86393000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "AntihackersBotik"
+}
