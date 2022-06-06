@@ -38,7 +38,7 @@
     "btime": 15000,
     "winc": 3000,
     "binc": 3000,
-    "status": "started"
+    "status": "aborted"
   },
   "botName": "XXXTryandTryXXX",
   "opponentName": "uwCastillo"
