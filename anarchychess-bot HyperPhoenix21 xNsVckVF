@@ -1,0 +1,44 @@
+{
+  "id": "xNsVckVF",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1654476232946,
+  "white": {
+    "id": "anarchychess-bot",
+    "name": "anarchychess-bot",
+    "title": "BOT",
+    "rating": 1730
+  },
+  "black": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 1766,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "anarchychess-bot",
+  "opponentName": "HyperPhoenix21"
+}
