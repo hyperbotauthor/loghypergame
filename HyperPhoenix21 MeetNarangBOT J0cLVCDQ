@@ -1,0 +1,45 @@
+{
+  "id": "J0cLVCDQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1654548159846,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 1507,
+    "provisional": true
+  },
+  "black": {
+    "id": "meetnarangbot",
+    "name": "MeetNarangBOT",
+    "title": "BOT",
+    "rating": 1557,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "MeetNarangBOT"
+}
