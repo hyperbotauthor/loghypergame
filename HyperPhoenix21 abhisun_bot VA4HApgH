@@ -1,0 +1,44 @@
+{
+  "id": "VA4HApgH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1654553828415,
+  "white": {
+    "id": "hyperphoenix21",
+    "name": "HyperPhoenix21",
+    "title": "BOT",
+    "rating": 1742,
+    "provisional": true
+  },
+  "black": {
+    "id": "abhisun_bot",
+    "name": "abhisun_bot",
+    "title": "BOT",
+    "rating": 2609
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "HyperPhoenix21",
+  "opponentName": "abhisun_bot"
+}
