@@ -1,0 +1,44 @@
+{
+  "id": "gNEAOnjr",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1654535818062,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1869,
+    "provisional": true
+  },
+  "black": {
+    "id": "uwcastillo",
+    "name": "uwCastillo",
+    "title": null,
+    "rating": 742
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "uwCastillo"
+}
