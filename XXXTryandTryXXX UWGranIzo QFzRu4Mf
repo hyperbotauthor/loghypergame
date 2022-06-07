@@ -1,0 +1,44 @@
+{
+  "id": "QFzRu4Mf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1654621537081,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1720,
+    "provisional": true
+  },
+  "black": {
+    "id": "uwgranizo",
+    "name": "UWGranIzo",
+    "title": null,
+    "rating": 1003
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "UWGranIzo"
+}
