@@ -1,0 +1,44 @@
+{
+  "id": "zT98lWnO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1656752732745,
+  "white": {
+    "id": "elenara-h-theara",
+    "name": "ELENARA-H-THEARA",
+    "title": "BOT",
+    "rating": 2234,
+    "provisional": true
+  },
+  "black": {
+    "id": "tinezzbot_v2",
+    "name": "TinezzBot_v2",
+    "title": "BOT",
+    "rating": 2387
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g7g6",
+    "wtime": 297380,
+    "btime": 300000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ELENARA-H-THEARA",
+  "opponentName": "TinezzBot_v2"
+}
