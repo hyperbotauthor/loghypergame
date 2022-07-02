@@ -1,0 +1,44 @@
+{
+  "id": "gsNpyj5K",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1656771593456,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2107
+  },
+  "black": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 2270,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 g7g6 g1f3 f8g7 d2d4 e7e6 b1c3 g8e7 h2h4 e8g8 h4h5 b7b6 h5g6 f7g6 c1h6 g7h6 h1h6 f8f7 f3g5",
+    "wtime": 1303160,
+    "btime": 1228240,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "InanisBot",
+  "opponentName": "bestbotever"
+}
