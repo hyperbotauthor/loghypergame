@@ -1,0 +1,44 @@
+{
+  "id": "Pegaaz1s",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657000124237,
+  "white": {
+    "id": "aialphaai",
+    "name": "AIAlphaAI",
+    "title": "BOT",
+    "rating": 1998,
+    "provisional": true
+  },
+  "black": {
+    "id": "smartpopcat",
+    "name": "SmartPopcat",
+    "title": "BOT",
+    "rating": 1690
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "AIAlphaAI",
+  "opponentName": "SmartPopcat"
+}
