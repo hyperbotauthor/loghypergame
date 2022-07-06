@@ -1,0 +1,40 @@
+{
+  "id": "609rUkiI",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1657087018610,
+  "white": {
+    "id": "aialphaai",
+    "name": "AIAlphaAI",
+    "title": "BOT",
+    "rating": 2226,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 4
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AIAlphaAI"
+}
