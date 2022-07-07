@@ -1,0 +1,44 @@
+{
+  "id": "D9YV9uY1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1657236572270,
+  "white": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2668,
+    "provisional": true
+  },
+  "black": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2513
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 d7d6 g1f3 e8g8 f1e2 e7e5 e1g1 b8c6 d4d5 c6e7 f3e1 f6e8 f2f3 f7f5 c1e3 h7h5 a2a4 f5f4 e3f2 g6g5 a4a5 f8f7 c4c5 g7f6 b2b4 f7g7 c5c6 b7c6 d5c6 c8e6 b4b5 g5g4 d1a4 g8h8 e2c4 d8c8 c4e6 c8e6 a4a2 e6c8 a2e2 a7a6 e1d3 a6b5 d3b4 c8e6 c3d5 e7d5 b4d5 f6d8 f1b1 e6c8 b1b5 c8a6 f3g4 a6c6 a1b1 c6a6 d5b4 a6c8 b4c6 c8d7 c6b8 d7g4 e2g4 g7g4 b8c6 f4f3 f2g3 h5h4 b5b8 a8a6 b8d8 a6c6 d8e8 h8g7 g2f3 g4g6 b1a1 h4g3 h2h4 c6a6 g1g2 g7h6 e8h8 h6g7 h8c8 c7c5 c8b8 g7h6 b8b6 a6b6 a5b6 g6g8 a1b1 h6h5 b6b7 g8b8 g2g3 c5c4 b1b6 c4c3 b6d6 b8b7 d6c6 b7g7 g3h3 g7g6 c6c3 g6c6 c3d3 c6f6 h3g3 f6g6 g3f2 h5h4 d3d5 g6e6 d5d8 e6e7 d8h8 h4g5",
+    "wtime": 9190,
+    "btime": 32420,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "emdicpauBOT",
+  "opponentName": "mrchessmanager"
+}
