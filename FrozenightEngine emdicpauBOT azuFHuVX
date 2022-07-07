@@ -1,0 +1,44 @@
+{
+  "id": "azuFHuVX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657234726519,
+  "white": {
+    "id": "frozenightengine",
+    "name": "FrozenightEngine",
+    "title": "BOT",
+    "rating": 2353
+  },
+  "black": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2238,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 g2g3 c8a6 b2b3 f8b4 c1d2 b4e7 f1g2 c7c6 d2c3 d7d5 e1g1 b8d7 b1d2 c6c5 f1e1 e8g8",
+    "wtime": 171340,
+    "btime": 191300,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "FrozenightEngine",
+  "opponentName": "emdicpauBOT"
+}
