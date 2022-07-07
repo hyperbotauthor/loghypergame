@@ -1,0 +1,44 @@
+{
+  "id": "e5Db8WfM",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 3000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1657172565820,
+  "white": {
+    "id": "master_of_home",
+    "name": "Master_OF_Home",
+    "title": "BOT",
+    "rating": 2421,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2071
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "Master_OF_Home",
+  "opponentName": "anti-bot"
+}
