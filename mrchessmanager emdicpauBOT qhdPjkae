@@ -1,0 +1,44 @@
+{
+  "id": "qhdPjkae",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1657236127619,
+  "white": {
+    "id": "mrchessmanager",
+    "name": "mrchessmanager",
+    "title": "BOT",
+    "rating": 2513
+  },
+  "black": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2719,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 c8d7 d2f1 a5c4 b2b3 c4b6 c1g5 c5c4 g5h4 f8e8 d1d2 d7c6 g2g4 a6a5 f1g3 g7g6 h4g5 e8c8 d2e2 c4b3 a2b3 a5a4 e1c1 c6b7 c2d1 a4a3 e2e3 d6d5",
+    "wtime": 42660,
+    "btime": 43070,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "mrchessmanager",
+  "opponentName": "emdicpauBOT"
+}
