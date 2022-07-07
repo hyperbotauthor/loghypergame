@@ -1,0 +1,44 @@
+{
+  "id": "y7hVpvGU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657200532175,
+  "white": {
+    "id": "zeekat",
+    "name": "zeekat",
+    "title": "BOT",
+    "rating": 1863
+  },
+  "black": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2123,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "zeekat",
+  "opponentName": "emdicpauBOT"
+}
