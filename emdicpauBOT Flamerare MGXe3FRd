@@ -1,0 +1,44 @@
+{
+  "id": "MGXe3FRd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657203630723,
+  "white": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2138,
+    "provisional": true
+  },
+  "black": {
+    "id": "flamerare",
+    "name": "Flamerare",
+    "title": "BOT",
+    "rating": 2628
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 b5c6 d7c6 b1d2 f6d7 b2b3 f7f6 d2c4 d7f8",
+    "wtime": 173590,
+    "btime": 191310,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "emdicpauBOT",
+  "opponentName": "Flamerare"
+}
