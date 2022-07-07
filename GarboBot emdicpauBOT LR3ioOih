@@ -1,0 +1,44 @@
+{
+  "id": "LR3ioOih",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657202019673,
+  "white": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 2054
+  },
+  "black": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 1942,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 g2g3 c8a6 b2b3 f8b4 c1d2 b4e7 b1c3 a6b7 f1h3 c7c5 d4c5 b6c5",
+    "wtime": 160080,
+    "btime": 172750,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "GarboBot",
+  "opponentName": "emdicpauBOT"
+}
