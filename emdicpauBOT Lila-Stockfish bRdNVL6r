@@ -1,0 +1,43 @@
+{
+  "id": "bRdNVL6r",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1657290569070,
+  "white": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2549
+  },
+  "black": {
+    "id": "lila-stockfish",
+    "name": "Lila-Stockfish",
+    "title": "BOT",
+    "rating": 2685
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "emdicpauBOT",
+  "opponentName": "Lila-Stockfish"
+}
