@@ -1,0 +1,40 @@
+{
+  "id": "GikoAJlb",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1657288354787,
+  "white": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 2084,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "bestbotever"
+}
