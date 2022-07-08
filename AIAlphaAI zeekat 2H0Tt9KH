@@ -1,0 +1,43 @@
+{
+  "id": "2H0Tt9KH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657257276643,
+  "white": {
+    "id": "aialphaai",
+    "name": "AIAlphaAI",
+    "title": "BOT",
+    "rating": 2213
+  },
+  "black": {
+    "id": "zeekat",
+    "name": "zeekat",
+    "title": "BOT",
+    "rating": 1844
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "AIAlphaAI",
+  "opponentName": "zeekat"
+}
