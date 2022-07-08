@@ -1,0 +1,43 @@
+{
+  "id": "vQmwSVCT",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1657288985133,
+  "white": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2547
+  },
+  "black": {
+    "id": "eubos",
+    "name": "eubos",
+    "title": "BOT",
+    "rating": 1960
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "emdicpauBOT",
+  "opponentName": "eubos"
+}
