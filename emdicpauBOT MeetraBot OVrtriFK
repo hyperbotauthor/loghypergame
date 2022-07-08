@@ -1,0 +1,43 @@
+{
+  "id": "OVrtriFK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1657286260932,
+  "white": {
+    "id": "emdicpaubot",
+    "name": "emdicpauBOT",
+    "title": "BOT",
+    "rating": 2524
+  },
+  "black": {
+    "id": "meetrabot",
+    "name": "MeetraBot",
+    "title": "BOT",
+    "rating": 2036
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 a7a6 c2c4 d8c7 b1c3 b8c6 d2d4 c5d4 f3d4 b7b6 c3d5",
+    "wtime": 56220,
+    "btime": 61550,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "emdicpauBOT",
+  "opponentName": "MeetraBot"
+}
