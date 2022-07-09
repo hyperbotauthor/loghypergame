@@ -1,0 +1,44 @@
+{
+  "id": "9dc2S2EG",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1657344147625,
+  "white": {
+    "id": "herokuhyperbot",
+    "name": "HerokuHyperBOT",
+    "title": "BOT",
+    "rating": 2570,
+    "provisional": true
+  },
+  "black": {
+    "id": "official_bot",
+    "name": "Official_bot",
+    "title": "BOT",
+    "rating": 2557
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "HerokuHyperBOT",
+  "opponentName": "Official_bot"
+}
