@@ -1,0 +1,44 @@
+{
+  "id": "EBZ5uiuC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1657356839507,
+  "white": {
+    "id": "dundu",
+    "name": "Dundu",
+    "title": "BOT",
+    "rating": 2057,
+    "provisional": true
+  },
+  "black": {
+    "id": "niranjang123",
+    "name": "NiranjanG123",
+    "title": null,
+    "rating": 1501
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Dundu",
+  "opponentName": "NiranjanG123"
+}
