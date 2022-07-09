@@ -1,0 +1,44 @@
+{
+  "id": "F9mR4Mmh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1657355530064,
+  "white": {
+    "id": "niranjan_g",
+    "name": "Niranjan_G",
+    "title": null,
+    "rating": 1411
+  },
+  "black": {
+    "id": "dundu",
+    "name": "Dundu",
+    "title": "BOT",
+    "rating": 2057,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Niranjan_G",
+  "opponentName": "Dundu"
+}
