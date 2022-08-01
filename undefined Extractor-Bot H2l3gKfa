@@ -1,0 +1,40 @@
+{
+  "id": "H2l3gKfa",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1659343605727,
+  "white": {
+    "aiLevel": 1
+  },
+  "black": {
+    "id": "extractor-bot",
+    "name": "Extractor-Bot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3 b7b5 f1b5 c8a6 b5a6 b8a6 b2b4 a6b4 c2c3 b4a2 a1a2 d8b8 a2a7 b8b1 a7c7 b1c1 c7d7 e8d7 d1c1",
+    "wtime": 55870,
+    "btime": 48370,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "opponentName": "Extractor-Bot"
+}
