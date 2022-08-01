@@ -1,0 +1,45 @@
+{
+  "id": "WImAnD6q",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 15000,
+    "increment": 3000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1659351879790,
+  "white": {
+    "id": "alpha_zero18",
+    "name": "Alpha_Zero18",
+    "title": "BOT",
+    "rating": 2418,
+    "provisional": true
+  },
+  "black": {
+    "id": "icedragonchess234",
+    "name": "IceDragonChess234",
+    "title": "BOT",
+    "rating": 2074,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 g8f6 f3e5 b8c6 e5c6 d7c6 e4e5 f6g4 d2d4 c6c5 h2h3 g4f2 e1f2 d8h4 f2g1 c5d4 d1f3 h4e1 g1h2 e1e5 c1f4 e5c5 b1a3",
+    "wtime": 30210,
+    "btime": 31760,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "Alpha_Zero18",
+  "opponentName": "IceDragonChess234"
+}
