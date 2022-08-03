@@ -1,0 +1,41 @@
+{
+  "id": "vYez7F93",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1659421041988,
+  "white": {
+    "id": "chessbot232456",
+    "name": "Chessbot232456",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "official_bot",
+    "name": "Official_bot",
+    "title": "BOT",
+    "rating": 1812
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 e1g1 a7a6 b5d3 e7e6 c2c3 g8f6 a2a4 d6d5 e4d5 f6d5 a4a5 f8d6 d3c2 e8g8 f1e1 d8c7 d2d3 b7b5 a5b6 d7b6 b1d2 c8b7 d2e4 d6f4 d3d4 c5d4 c1f4 d5f4 d1d4 a6a5 d4e5 c7e5 f3e5 b7d5 g2g3 f4g6 e5g6 h7g6",
+    "wtime": 86263000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Chessbot232456",
+  "opponentName": "Official_bot"
+}
