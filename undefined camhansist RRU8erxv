@@ -1,0 +1,40 @@
+{
+  "id": "RRU8erxv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1659489457221,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "camhansist",
+    "name": "camhansist",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "opponentName": "camhansist"
+}
