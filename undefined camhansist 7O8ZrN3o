@@ -1,0 +1,40 @@
+{
+  "id": "7O8ZrN3o",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1659489728432,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "camhansist",
+    "name": "camhansist",
+    "title": "BOT",
+    "rating": 2027,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "opponentName": "camhansist"
+}
