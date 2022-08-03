@@ -1,0 +1,44 @@
+{
+  "id": "eSOVA9eP",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1659542391858,
+  "white": {
+    "id": "anabagas_youtube",
+    "name": "AnaBagas_Youtube",
+    "title": null,
+    "rating": 1733
+  },
+  "black": {
+    "id": "ana_bagasbot",
+    "name": "Ana_BagasBOT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "b2b3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AnaBagas_Youtube",
+  "opponentName": "Ana_BagasBOT"
+}
