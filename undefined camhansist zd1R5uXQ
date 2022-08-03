@@ -29,12 +29,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 b7b6 f1d3 c8b7 g1e2 e8g8 e1g1 d7d6 a2a3 b4c3 b2c3 b8d7 e2g3 f8e8 e3e4 e6e5 f2f3 a7a5 d1d2",
-    "wtime": 2411260,
-    "btime": 2130930,
+    "moves": "d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 b7b6 f1d3 c8b7 g1e2 e8g8 e1g1 d7d6 a2a3 b4c3 b2c3 b8d7 e2g3 f8e8 e3e4 e6e5 f2f3 a7a5 d1d2 h7h6 h2h3",
+    "wtime": 2586310,
+    "btime": 2177390,
     "winc": 180000,
     "binc": 180000,
-    "status": "started"
+    "status": "resign",
+    "winner": "white"
   },
   "opponentName": "camhansist"
 }
