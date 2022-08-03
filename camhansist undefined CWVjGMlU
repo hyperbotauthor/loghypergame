@@ -1,0 +1,40 @@
+{
+  "id": "CWVjGMlU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1659489644446,
+  "white": {
+    "id": "camhansist",
+    "name": "camhansist",
+    "title": "BOT",
+    "rating": 2027,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "camhansist"
+}
