@@ -1,0 +1,38 @@
+{
+  "id": "4jJTKWfn",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1659611029624,
+  "white": {
+    "aiLevel": 8
+  },
+  "black": {
+    "id": "camhansist",
+    "name": "camhansist",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "8/3k4/8/8/8/8/8/2KNNNN1 w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c1b2",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "opponentName": "camhansist"
+}
