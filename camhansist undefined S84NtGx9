@@ -1,0 +1,38 @@
+{
+  "id": "S84NtGx9",
+  "variant": {
+    "key": "fromPosition",
+    "name": "From Position",
+    "short": "FEN"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": null,
+  "rated": false,
+  "createdAt": 1659611342564,
+  "white": {
+    "id": "camhansist",
+    "name": "camhansist",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "aiLevel": 8
+  },
+  "initialFen": "2k5/8/8/8/8/8/4K1NN/NNNNNNNN w - - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "camhansist"
+}
