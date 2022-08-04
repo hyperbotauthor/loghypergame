@@ -1,0 +1,45 @@
+{
+  "id": "sTSiXRdu",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 720000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1659605711508,
+  "white": {
+    "id": "aravb2022",
+    "name": "aravb2022",
+    "title": null,
+    "rating": 1701,
+    "provisional": true
+  },
+  "black": {
+    "id": "bestbotever",
+    "name": "bestbotever",
+    "title": "BOT",
+    "rating": 2379,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e3",
+    "wtime": 720000,
+    "btime": 720000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "aravb2022",
+  "opponentName": "bestbotever"
+}
