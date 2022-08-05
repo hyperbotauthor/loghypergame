@@ -1,0 +1,42 @@
+{
+  "id": "cXuTJl9R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1659638299120,
+  "white": {
+    "id": "chessbot232456",
+    "name": "Chessbot232456",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "bot_master_india",
+    "name": "Bot_master_india",
+    "title": "BOT",
+    "rating": 1904,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 e1g1 a7a6 b5d3 g8f6 f1e1 g7g6 c2c3 f8g7 d3c2 d7e5 d2d4 e5f3 d1f3 f6d7 d4c5",
+    "wtime": 86400000,
+    "btime": 83479000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Chessbot232456",
+  "opponentName": "Bot_master_india"
+}
