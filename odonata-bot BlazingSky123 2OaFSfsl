@@ -1,0 +1,44 @@
+{
+  "id": "2OaFSfsl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 1000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1659800973876,
+  "white": {
+    "id": "odonata-bot",
+    "name": "odonata-bot",
+    "title": "BOT",
+    "rating": 2258
+  },
+  "black": {
+    "id": "blazingsky123",
+    "name": "BlazingSky123",
+    "title": "BOT",
+    "rating": 2517,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3 e7e6 d2d4 g8f6 c2c4 d7d5 c4d5 e6d5 e2e3 f8d6 b1c3 e8g8 c1d2 c7c6 f1d3 f8e8 e1g1",
+    "wtime": 350400,
+    "btime": 554850,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "odonata-bot",
+  "opponentName": "BlazingSky123"
+}
