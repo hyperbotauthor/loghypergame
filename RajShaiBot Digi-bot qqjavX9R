@@ -1,0 +1,45 @@
+{
+  "id": "qqjavX9R",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1659904079481,
+  "white": {
+    "id": "rajshaibot",
+    "name": "RajShaiBot",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "digi-bot",
+    "name": "Digi-bot",
+    "title": "BOT",
+    "rating": 2088,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RajShaiBot",
+  "opponentName": "Digi-bot"
+}
