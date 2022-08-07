@@ -1,0 +1,44 @@
+{
+  "id": "joB9DONn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1659856342147,
+  "white": {
+    "id": "stupidchess_suicking",
+    "name": "StupidChess_SuicKing",
+    "title": "BOT",
+    "rating": 1459
+  },
+  "black": {
+    "id": "bot_thecat",
+    "name": "Bot_thecat",
+    "title": "BOT",
+    "rating": 1770,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2h4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "StupidChess_SuicKing",
+  "opponentName": "Bot_thecat"
+}
