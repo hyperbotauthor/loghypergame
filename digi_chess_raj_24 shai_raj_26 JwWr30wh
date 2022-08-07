@@ -1,0 +1,44 @@
+{
+  "id": "JwWr30wh",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1659865105253,
+  "white": {
+    "id": "digi_chess_raj_24",
+    "name": "digi_chess_raj_24",
+    "title": null,
+    "rating": 1925
+  },
+  "black": {
+    "id": "shai_raj_26",
+    "name": "shai_raj_26",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "digi_chess_raj_24",
+  "opponentName": "shai_raj_26"
+}
