@@ -1,0 +1,44 @@
+{
+  "id": "biB5yOHq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1659969127662,
+  "white": {
+    "id": "bot_thecat",
+    "name": "Bot_thecat",
+    "title": "BOT",
+    "rating": 1636,
+    "provisional": true
+  },
+  "black": {
+    "id": "raspfish",
+    "name": "RaspFish",
+    "title": "BOT",
+    "rating": 2651
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e6",
+    "wtime": 339620,
+    "btime": 360000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Bot_thecat",
+  "opponentName": "RaspFish"
+}
