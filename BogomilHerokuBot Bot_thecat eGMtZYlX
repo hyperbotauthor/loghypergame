@@ -1,0 +1,43 @@
+{
+  "id": "eGMtZYlX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1659977098256,
+  "white": {
+    "id": "bogomilherokubot",
+    "name": "BogomilHerokuBot",
+    "title": "BOT",
+    "rating": 2638
+  },
+  "black": {
+    "id": "bot_thecat",
+    "name": "Bot_thecat",
+    "title": "BOT",
+    "rating": 1761
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BogomilHerokuBot",
+  "opponentName": "Bot_thecat"
+}
