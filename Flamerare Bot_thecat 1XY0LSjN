@@ -1,0 +1,44 @@
+{
+  "id": "1XY0LSjN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1659982268197,
+  "white": {
+    "id": "flamerare",
+    "name": "Flamerare",
+    "title": "BOT",
+    "rating": 2679
+  },
+  "black": {
+    "id": "bot_thecat",
+    "name": "Bot_thecat",
+    "title": "BOT",
+    "rating": 1608,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Flamerare",
+  "opponentName": "Bot_thecat"
+}
