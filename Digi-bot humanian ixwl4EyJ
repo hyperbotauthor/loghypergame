@@ -1,0 +1,43 @@
+{
+  "id": "ixwl4EyJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1659936642975,
+  "white": {
+    "id": "digi-bot",
+    "name": "Digi-bot",
+    "title": "BOT",
+    "rating": 1940
+  },
+  "black": {
+    "id": "humanian",
+    "name": "humanian",
+    "title": "BOT",
+    "rating": 2103
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Digi-bot",
+  "opponentName": "humanian"
+}
