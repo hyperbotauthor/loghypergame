@@ -32,12 +32,14 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 360000,
-    "btime": 360000,
+    "moves": "g2g3 b7b6 b2b3 c7c6 c2c4 d8c7 c4c5 c7g3 h2g3 b6c5 h1h7 h8h7 b3b4 c5b4 c1a3 b4a3 b1a3 h7h3 f1h3 f7f5 h3f5 d7d5 f5c8 b8a6 c8a6 a8c8 a6c8 e8d7",
+    "wtime": 296120,
+    "btime": 359210,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "resign",
+    "winner": "black",
+    "rematch": "qnazryQc"
   },
   "botName": "Bot_thecat",
   "opponentName": "CatNail"
