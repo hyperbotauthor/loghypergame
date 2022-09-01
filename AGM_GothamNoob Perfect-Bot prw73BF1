@@ -1,0 +1,44 @@
+{
+  "id": "prw73BF1",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1661996112265,
+  "white": {
+    "id": "agm_gothamnoob",
+    "name": "AGM_GothamNoob",
+    "title": "BOT",
+    "rating": 1856,
+    "provisional": true
+  },
+  "black": {
+    "id": "perfect-bot",
+    "name": "Perfect-Bot",
+    "title": "BOT",
+    "rating": 2727
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 b8c6",
+    "wtime": 27810,
+    "btime": 29520,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AGM_GothamNoob",
+  "opponentName": "Perfect-Bot"
+}
