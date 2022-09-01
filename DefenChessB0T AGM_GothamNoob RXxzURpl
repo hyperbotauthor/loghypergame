@@ -1,0 +1,45 @@
+{
+  "id": "RXxzURpl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1661996423715,
+  "white": {
+    "id": "defenchessb0t",
+    "name": "DefenChessB0T",
+    "title": "BOT",
+    "rating": 679,
+    "provisional": true
+  },
+  "black": {
+    "id": "agm_gothamnoob",
+    "name": "AGM_GothamNoob",
+    "title": "BOT",
+    "rating": 1856,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DefenChessB0T",
+  "opponentName": "AGM_GothamNoob"
+}
