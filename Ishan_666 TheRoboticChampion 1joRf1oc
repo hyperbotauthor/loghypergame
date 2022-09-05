@@ -1,0 +1,44 @@
+{
+  "id": "1joRf1oc",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1662354933540,
+  "white": {
+    "id": "ishan_666",
+    "name": "Ishan_666",
+    "title": null,
+    "rating": 1911
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "h2g3",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Ishan_666",
+  "opponentName": "TheRoboticChampion"
+}
