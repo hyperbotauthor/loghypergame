@@ -1,0 +1,44 @@
+{
+  "id": "HrStDXsA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1662364359082,
+  "white": {
+    "id": "bot_thecat",
+    "name": "Bot_thecat",
+    "title": "BOT",
+    "rating": 1761,
+    "provisional": true
+  },
+  "black": {
+    "id": "lynx_bot",
+    "name": "Lynx_BOT",
+    "title": "BOT",
+    "rating": 1901
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Bot_thecat",
+  "opponentName": "Lynx_BOT"
+}
