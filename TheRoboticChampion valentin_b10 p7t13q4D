@@ -1,0 +1,44 @@
+{
+  "id": "p7t13q4D",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662431327899,
+  "white": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2156,
+    "provisional": true
+  },
+  "black": {
+    "id": "valentin_b10",
+    "name": "valentin_b10",
+    "title": null,
+    "rating": 1842
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "TheRoboticChampion",
+  "opponentName": "valentin_b10"
+}
