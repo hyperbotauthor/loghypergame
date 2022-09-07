@@ -1,0 +1,44 @@
+{
+  "id": "LUTH3I4M",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 25000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1662526341641,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2339
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2112,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 25000,
+    "binc": 25000,
+    "status": "started"
+  },
+  "botName": "InanisBot",
+  "opponentName": "TheRoboticChampion"
+}
