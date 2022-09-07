@@ -1,0 +1,42 @@
+{
+  "id": "P1BoIKmX",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Игра по переписке"
+  },
+  "rated": true,
+  "createdAt": 1662557712564,
+  "white": {
+    "id": "leonordyan2015",
+    "name": "leonordyan2015",
+    "title": null,
+    "rating": 1664,
+    "provisional": true
+  },
+  "black": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2111,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "leonordyan2015",
+  "opponentName": "CPARTANE4"
+}
