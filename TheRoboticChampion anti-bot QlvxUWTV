@@ -32,12 +32,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "",
-    "wtime": 10800000,
-    "btime": 10800000,
+    "moves": "e2e3 b7b6 f1a6",
+    "wtime": 10978070,
+    "btime": 9517940,
     "winc": 180000,
     "binc": 180000,
-    "status": "started"
+    "status": "started",
+    "wdraw": true
   },
   "botName": "TheRoboticChampion",
   "opponentName": "anti-bot"
