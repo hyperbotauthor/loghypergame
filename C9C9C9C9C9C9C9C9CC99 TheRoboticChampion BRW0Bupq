@@ -1,0 +1,45 @@
+{
+  "id": "BRW0Bupq",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 16000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1662524651585,
+  "white": {
+    "id": "c9c9c9c9c9c9c9c9cc99",
+    "name": "C9C9C9C9C9C9C9C9CC99",
+    "title": "BOT",
+    "rating": 2262,
+    "provisional": true
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2040,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 16000,
+    "binc": 16000,
+    "status": "started"
+  },
+  "botName": "C9C9C9C9C9C9C9C9CC99",
+  "opponentName": "TheRoboticChampion"
+}
