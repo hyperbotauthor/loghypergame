@@ -1,0 +1,45 @@
+{
+  "id": "OLkz61fg",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 1200000,
+    "increment": 7000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": false,
+  "createdAt": 1662533859729,
+  "white": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "madoka_chan",
+    "name": "Madoka_Chan",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "brnqnbkr/pppppppp/8/8/8/8/PPPPPPPP/BRNQNBKR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 1200000,
+    "btime": 1200000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "CPARTANE4",
+  "opponentName": "Madoka_Chan"
+}
