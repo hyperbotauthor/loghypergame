@@ -1,0 +1,44 @@
+{
+  "id": "60dSsL8F",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 480000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1662524597011,
+  "white": {
+    "id": "c9c9c9c9c9c9c9c9cc99",
+    "name": "C9C9C9C9C9C9C9C9CC99",
+    "title": "BOT",
+    "rating": 2629
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2109,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 480000,
+    "btime": 480000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "C9C9C9C9C9C9C9C9CC99",
+  "opponentName": "TheRoboticChampion"
+}
