@@ -1,0 +1,44 @@
+{
+  "id": "TatQ9Quj",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 20000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1662515870918,
+  "white": {
+    "id": "pineapple-friendly",
+    "name": "Pineapple-Friendly",
+    "title": "BOT",
+    "rating": 1574
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 1837,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 20000,
+    "binc": 20000,
+    "status": "aborted"
+  },
+  "botName": "Pineapple-Friendly",
+  "opponentName": "TheRoboticChampion"
+}
