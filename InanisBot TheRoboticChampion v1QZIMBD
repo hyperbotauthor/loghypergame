@@ -1,0 +1,44 @@
+{
+  "id": "v1QZIMBD",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1500000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1662510005383,
+  "white": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2084
+  },
+  "black": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 2114,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 1500000,
+    "btime": 1500000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "InanisBot",
+  "opponentName": "TheRoboticChampion"
+}
