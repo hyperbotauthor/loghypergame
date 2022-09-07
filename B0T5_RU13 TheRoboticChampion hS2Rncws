@@ -34,7 +34,7 @@
     "type": "gameState",
     "moves": "g1f3 f7f6 b1c3 g8h6 c3d5 e7e6 h2h3 h6g4 h3g4",
     "wtime": 599680,
-    "btime": 415230,
+    "btime": 68460,
     "winc": 60000,
     "binc": 60000,
     "status": "started"
