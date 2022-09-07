@@ -1,0 +1,45 @@
+{
+  "id": "9VmZvVuU",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": false,
+  "createdAt": 1662551240387,
+  "white": {
+    "id": "antihackersantibotik",
+    "name": "AntihackersANTIBotik",
+    "title": "BOT",
+    "rating": 2415,
+    "provisional": true
+  },
+  "black": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2254,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "AntihackersANTIBotik",
+  "opponentName": "CPARTANE4"
+}
