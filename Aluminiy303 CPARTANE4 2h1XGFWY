@@ -1,0 +1,45 @@
+{
+  "id": "2h1XGFWY",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 900000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Рапид"
+  },
+  "rated": false,
+  "createdAt": 1662532651400,
+  "white": {
+    "id": "aluminiy303",
+    "name": "Aluminiy303",
+    "title": null,
+    "rating": 2448,
+    "provisional": true
+  },
+  "black": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 900000,
+    "btime": 900000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "Aluminiy303",
+  "opponentName": "CPARTANE4"
+}
