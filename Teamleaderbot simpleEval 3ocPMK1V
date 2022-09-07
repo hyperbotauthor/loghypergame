@@ -1,0 +1,44 @@
+{
+  "id": "3ocPMK1V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662562391606,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1744,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2144
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 e7e6",
+    "wtime": 233220,
+    "btime": 240000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "simpleEval"
+}
