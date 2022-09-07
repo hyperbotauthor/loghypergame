@@ -1,0 +1,44 @@
+{
+  "id": "QlvxUWTV",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1662512347192,
+  "white": {
+    "id": "theroboticchampion",
+    "name": "TheRoboticChampion",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2184
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "TheRoboticChampion",
+  "opponentName": "anti-bot"
+}
