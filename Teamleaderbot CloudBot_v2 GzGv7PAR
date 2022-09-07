@@ -1,0 +1,45 @@
+{
+  "id": "GzGv7PAR",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1662568204882,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "cloudbot_v2",
+    "name": "CloudBot_v2",
+    "title": "BOT",
+    "rating": 2093,
+    "provisional": true
+  },
+  "initialFen": "qrbkrnnb/pppppppp/8/8/8/8/PPPPPPPP/QRBKRNNB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "CloudBot_v2"
+}
