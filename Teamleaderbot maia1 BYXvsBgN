@@ -1,0 +1,44 @@
+{
+  "id": "BYXvsBgN",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662564383677,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1747,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1412
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6",
+    "wtime": 297690,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "maia1"
+}
