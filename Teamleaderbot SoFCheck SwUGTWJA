@@ -1,0 +1,44 @@
+{
+  "id": "SwUGTWJA",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662566770719,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1858,
+    "provisional": true
+  },
+  "black": {
+    "id": "sofcheck",
+    "name": "SoFCheck",
+    "title": "BOT",
+    "rating": 2173
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4 g8f6",
+    "wtime": 175380,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "SoFCheck"
+}
