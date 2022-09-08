@@ -1,0 +1,44 @@
+{
+  "id": "nyNqN9Ip",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662614403649,
+  "white": {
+    "id": "hyper-bot12",
+    "name": "Hyper-Bot12",
+    "title": "BOT",
+    "rating": 2573,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyper-bot11",
+    "name": "Hyper-Bot11",
+    "title": "BOT",
+    "rating": 2676
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 e8g8 e1g1 d7d6 b1d2 a7a5 h2h3 h7h6 b2b3 a8b8 a2a4 c6e7 f1e1 c7c6 c1b2 c8d7 d1c2 f8e8 b3b4 c5b6 d3d4 e5d4 b4a5 b6a5 c3d4 d6d5 e4e5 d5c4 e5f6 e7d5 e1e8 d7e8 d2c4 d5f6 c4a5 d8a5 b2c3 a5a6 c3d2 f6d5 a4a5 b7b6 a1b1 a6c8 a5b6 b8b6 b1b6 d5b6 f3e5 b6d5 c2e4 e8d7 e4e1 c8e8",
+    "wtime": 149850,
+    "btime": 102480,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Hyper-Bot12",
+  "opponentName": "Hyper-Bot11"
+}
