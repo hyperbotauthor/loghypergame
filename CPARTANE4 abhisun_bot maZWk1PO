@@ -1,0 +1,44 @@
+{
+  "id": "maZWk1PO",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1662624268734,
+  "white": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 1705,
+    "provisional": true
+  },
+  "black": {
+    "id": "abhisun_bot",
+    "name": "abhisun_bot",
+    "title": "BOT",
+    "rating": 2663
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CPARTANE4",
+  "opponentName": "abhisun_bot"
+}
