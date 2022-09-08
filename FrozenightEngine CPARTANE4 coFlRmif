@@ -1,0 +1,43 @@
+{
+  "id": "coFlRmif",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662625944536,
+  "white": {
+    "id": "frozenightengine",
+    "name": "FrozenightEngine",
+    "title": "BOT",
+    "rating": 2450
+  },
+  "black": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2191
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "FrozenightEngine",
+  "opponentName": "CPARTANE4"
+}
