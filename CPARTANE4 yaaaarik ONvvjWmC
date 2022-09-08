@@ -1,0 +1,44 @@
+{
+  "id": "ONvvjWmC",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662620554850,
+  "white": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2193,
+    "provisional": true
+  },
+  "black": {
+    "id": "yaaaarik",
+    "name": "yaaaarik",
+    "title": null,
+    "rating": 1767
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "CPARTANE4",
+  "opponentName": "yaaaarik"
+}
