@@ -1,0 +1,41 @@
+{
+  "id": "ZDZiQ8Nd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1662551534458,
+  "white": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 2215
+  },
+  "black": {
+    "id": "hyper-bot12",
+    "name": "Hyper-Bot12",
+    "title": "BOT",
+    "rating": 2140,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 c1g5 h7h6 g5f6 d8f6 e2e3 b8d7 f1d3 d5c4 d3c4 f6d8 a2a3 b7b5 c4d3 f8e7 e1g1 a7a5 a1c1 c8b7 c3e4 a8c8 e4c5 d7c5 d4c5 a5a4 f3d4 d8c7 d1f3 e7f6 f1d1 e8g8 g2g3 c8d8 h2h4 d8d5 d3e4 d5d7 c1c3 f8d8 c3d3 f6e7 d4b5 d7d3 d1d3 c6b5 d3d8 e7d8 e4b7 c7c5 f3c6 c5c6 b7c6 d8f6 h4h5 f6b2 c6b5 f7f5 b5a4 b2a3 f2f4 g8f7 g1f2 g7g6 h5g6 f7g6 a4c2 g6f6 e3e4 e6e5 f4e5 f6e5 e4f5 h6h5 g3g4 h5g4 f5f6 e5f6 f2g3 f6g5",
+    "wtime": 86341000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "chesshyperbot",
+  "opponentName": "Hyper-Bot12"
+}
