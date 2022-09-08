@@ -1,0 +1,44 @@
+{
+  "id": "C5Kytf5e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 420000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662620568511,
+  "white": {
+    "id": "raviharav-bot_v2",
+    "name": "RaviharaV-bot_v2",
+    "title": "BOT",
+    "rating": 2698
+  },
+  "black": {
+    "id": "cpartane4",
+    "name": "CPARTANE4",
+    "title": "BOT",
+    "rating": 2193,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 420000,
+    "btime": 420000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RaviharaV-bot_v2",
+  "opponentName": "CPARTANE4"
+}
