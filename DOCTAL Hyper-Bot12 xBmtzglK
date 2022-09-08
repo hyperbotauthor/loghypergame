@@ -1,0 +1,42 @@
+{
+  "id": "xBmtzglK",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1662551996030,
+  "white": {
+    "id": "doctal",
+    "name": "DOCTAL",
+    "title": "BOT",
+    "rating": 2187,
+    "provisional": true
+  },
+  "black": {
+    "id": "hyper-bot12",
+    "name": "Hyper-Bot12",
+    "title": "BOT",
+    "rating": 2140,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f2f3 e7e5 d4b3 c8e6 c1e3 h7h5 d1d2 b8d7 c3d5 e6d5 e4d5 g7g6 f1e2 f8g7 e1g1 e8g8 b3a5 d8c7 c2c4 e5e4 f3f4 f6g4 e2g4 h5g4 a1d1 d7c5 f4f5 g6f5 f1f5 c5d3 a5b3 c7c4 e3h6 f7f6 h6g7 g8g7 d2e3 a8e8 b3d4 g7g6 h2h4 c4c5 d1f1 e8e5 f5e5 d6e5 e3e4 g6g7 e4d3 e5d4 f1f4 c5c1 d3f1 c1e3 f1f2 f8c8 f2e3 d4e3 f4g4 g7f7 g1f1 c8c2 h4h5 c2f2 f1e1 f6f5 g4g3 f2d2 h5h6 d2d5 g3g7 f7f8 g7g6 f8f7 h6h7 d5d8 g6d6 d8c8 d6d7 f7e6",
+    "wtime": 85876000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "DOCTAL",
+  "opponentName": "Hyper-Bot12"
+}
