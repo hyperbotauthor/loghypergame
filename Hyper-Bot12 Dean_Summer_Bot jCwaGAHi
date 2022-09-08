@@ -1,0 +1,42 @@
+{
+  "id": "jCwaGAHi",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1662551199727,
+  "white": {
+    "id": "hyper-bot12",
+    "name": "Hyper-Bot12",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "dean_summer_bot",
+    "name": "Dean_Summer_Bot",
+    "title": "BOT",
+    "rating": 2120,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6 g1f3 c8f5 c1d2 c7c6 c3e4 a5d5 e4c5 b7b6 c5d3 e7e6 f1e2 f8e7 c2c4 d5d8",
+    "wtime": 68587000,
+    "btime": 86400000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Hyper-Bot12",
+  "opponentName": "Dean_Summer_Bot"
+}
