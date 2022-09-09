@@ -1,0 +1,44 @@
+{
+  "id": "RHcn7eym",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662724768665,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1924,
+    "provisional": true
+  },
+  "black": {
+    "id": "meetrabot",
+    "name": "MeetraBot",
+    "title": "BOT",
+    "rating": 2206
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 240000,
+    "btime": 240000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "MeetraBot"
+}
