@@ -1,0 +1,44 @@
+{
+  "id": "tA6MgmA7",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1080000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1662727093335,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1069,
+    "provisional": true
+  },
+  "black": {
+    "id": "vishynotanand_thebot",
+    "name": "VishyNotAnand_TheBot",
+    "title": "BOT",
+    "rating": 2513
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 1080000,
+    "btime": 1080000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "VishyNotAnand_TheBot"
+}
