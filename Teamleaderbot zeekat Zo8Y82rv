@@ -1,0 +1,43 @@
+{
+  "id": "Zo8Y82rv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 240000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662726668279,
+  "white": {
+    "id": "teamleaderbot",
+    "name": "Teamleaderbot",
+    "title": "BOT",
+    "rating": 1820
+  },
+  "black": {
+    "id": "zeekat",
+    "name": "zeekat",
+    "title": "BOT",
+    "rating": 1818
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4 g7g6",
+    "wtime": 238250,
+    "btime": 240000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Teamleaderbot",
+  "opponentName": "zeekat"
+}
