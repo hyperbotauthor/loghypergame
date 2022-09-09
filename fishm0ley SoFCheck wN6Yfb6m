@@ -1,0 +1,44 @@
+{
+  "id": "wN6Yfb6m",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662754877676,
+  "white": {
+    "id": "fishm0ley",
+    "name": "fishm0ley",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "black": {
+    "id": "sofcheck",
+    "name": "SoFCheck",
+    "title": "BOT",
+    "rating": 2234
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "fishm0ley",
+  "opponentName": "SoFCheck"
+}
