@@ -1,0 +1,44 @@
+{
+  "id": "xeGFO8Xw",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1662700603570,
+  "white": {
+    "id": "maia5",
+    "name": "maia5",
+    "title": "BOT",
+    "rating": 1550
+  },
+  "black": {
+    "id": "justdontflagme",
+    "name": "JustDontFlagMe",
+    "title": "BOT",
+    "rating": 2455,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia5",
+  "opponentName": "JustDontFlagMe"
+}
