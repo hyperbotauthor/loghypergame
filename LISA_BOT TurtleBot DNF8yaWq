@@ -1,0 +1,44 @@
+{
+  "id": "DNF8yaWq",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662735547883,
+  "white": {
+    "id": "lisa_bot",
+    "name": "LISA_BOT",
+    "title": "BOT",
+    "rating": 2335,
+    "provisional": true
+  },
+  "black": {
+    "id": "turtlebot",
+    "name": "TurtleBot",
+    "title": "BOT",
+    "rating": 1221
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f2f4",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "LISA_BOT",
+  "opponentName": "TurtleBot"
+}
