@@ -1,0 +1,44 @@
+{
+  "id": "uQscS3mS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 360000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1662799299520,
+  "white": {
+    "id": "lisa_bot",
+    "name": "LISA_BOT",
+    "title": "BOT",
+    "rating": 2459,
+    "provisional": true
+  },
+  "black": {
+    "id": "historyexplorer",
+    "name": "HistoryExplorer",
+    "title": "BOT",
+    "rating": 2034
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 360000,
+    "btime": 360000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "LISA_BOT",
+  "opponentName": "HistoryExplorer"
+}
