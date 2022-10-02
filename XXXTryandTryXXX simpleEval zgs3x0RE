@@ -1,0 +1,43 @@
+{
+  "id": "zgs3x0RE",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1664723438269,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1900
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2043
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4 f7f5 g2g3 d7d5 f1g2 d5c4 d1a4 c7c6 a4c4 e7e6 c4c3 g8e7 a2a3 e8f7 g1f3 f7g8 c3d4 e7d5 d2d3 c6c5 d4h4 d8a5 b1d2 b8c6 e2e4 f8e7 h4h3 f5e4 d3e4 e6e5 e4d5 c8h3 g2h3 c6d4",
+    "wtime": 52510,
+    "btime": 46690,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "simpleEval"
+}
