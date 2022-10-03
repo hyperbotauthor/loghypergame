@@ -1,0 +1,45 @@
+{
+  "id": "qT9Lo8wy",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1664801076022,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1966
+  },
+  "black": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1552
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 e1g1 a7a6 b5a4 b7b5 a4b3 f8e7 b3d5 c8b7 c2c3 g8f6 f3g5 e8g8 g5h3 f6d5 e4d5 c6a5 d2d3 b7d5 f2f4 d8d7 d1e2 e7f6 c1e3 c7c5 f4e5 d7h3 g2h3 f6e5 e3c5 d6c5 e2e5 a8e8 e5d5 g7g6 d5c5 f7f5 c5b6 f5f4 b6a5 f4f3 a5a6 f3f2 f1f2 e8e1 g1g2 f8f2 g2f2 g8g7 a6b7 g7h6 f2e1 h6g5 b7h7 g5f5 h7f7 f5g5 h3h4 g5g4 f7g6 g4h4 b2b4 h4h3 g6g3",
+    "wtime": 46130,
+    "btime": 53630,
+    "winc": 0,
+    "binc": 0,
+    "status": "mate",
+    "winner": "white",
+    "rematch": "U2W93Akn"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "maia1"
+}
