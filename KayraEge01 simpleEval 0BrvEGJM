@@ -1,0 +1,44 @@
+{
+  "id": "0BrvEGJM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1664803944136,
+  "white": {
+    "id": "kayraege01",
+    "name": "KayraEge01",
+    "title": "BOT",
+    "rating": 2138,
+    "provisional": true
+  },
+  "black": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2040
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KayraEge01",
+  "opponentName": "simpleEval"
+}
