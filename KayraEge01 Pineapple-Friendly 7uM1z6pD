@@ -1,0 +1,44 @@
+{
+  "id": "7uM1z6pD",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1664804112697,
+  "white": {
+    "id": "kayraege01",
+    "name": "KayraEge01",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "pineapple-friendly",
+    "name": "Pineapple-Friendly",
+    "title": "BOT",
+    "rating": 1398
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "KayraEge01",
+  "opponentName": "Pineapple-Friendly"
+}
