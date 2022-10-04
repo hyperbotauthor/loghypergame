@@ -1,0 +1,44 @@
+{
+  "id": "eatq2U9u",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 1000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1664910331419,
+  "white": {
+    "id": "juroj",
+    "name": "JuroJ",
+    "title": "BOT",
+    "rating": 2619
+  },
+  "black": {
+    "id": "legendg21",
+    "name": "LegendG21",
+    "title": "BOT",
+    "rating": 1764,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "JuroJ",
+  "opponentName": "LegendG21"
+}
