@@ -1,0 +1,44 @@
+{
+  "id": "tuse2RXd",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1664919475262,
+  "white": {
+    "id": "legendg21",
+    "name": "LegendG21",
+    "title": "BOT",
+    "rating": 1767,
+    "provisional": true
+  },
+  "black": {
+    "id": "anarchychess-bot",
+    "name": "anarchychess-bot",
+    "title": "BOT",
+    "rating": 1600
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "LegendG21",
+  "opponentName": "anarchychess-bot"
+}
