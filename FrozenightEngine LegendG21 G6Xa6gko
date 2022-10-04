@@ -1,0 +1,44 @@
+{
+  "id": "G6Xa6gko",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1664919159803,
+  "white": {
+    "id": "frozenightengine",
+    "name": "FrozenightEngine",
+    "title": "BOT",
+    "rating": 2232
+  },
+  "black": {
+    "id": "legendg21",
+    "name": "LegendG21",
+    "title": "BOT",
+    "rating": 2136,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "FrozenightEngine",
+  "opponentName": "LegendG21"
+}
