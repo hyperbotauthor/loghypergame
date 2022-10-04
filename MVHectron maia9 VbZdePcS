@@ -1,0 +1,44 @@
+{
+  "id": "VbZdePcS",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 7000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1664897363348,
+  "white": {
+    "id": "mvhectron",
+    "name": "MVHectron",
+    "title": "BOT",
+    "rating": 2096,
+    "provisional": true
+  },
+  "black": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1710
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 7000,
+    "binc": 7000,
+    "status": "started"
+  },
+  "botName": "MVHectron",
+  "opponentName": "maia9"
+}
