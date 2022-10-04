@@ -1,0 +1,44 @@
+{
+  "id": "mEBwU63V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1664905955070,
+  "white": {
+    "id": "legendg21",
+    "name": "LegendG21",
+    "title": "BOT",
+    "rating": 1656,
+    "provisional": true
+  },
+  "black": {
+    "id": "anarchychess-bot",
+    "name": "anarchychess-bot",
+    "title": "BOT",
+    "rating": 1607
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 300000,
+    "btime": 300000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "LegendG21",
+  "opponentName": "anarchychess-bot"
+}
