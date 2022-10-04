@@ -1,0 +1,44 @@
+{
+  "id": "koqRp45R",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1664901767326,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1774,
+    "provisional": true
+  },
+  "black": {
+    "id": "pawnrobot",
+    "name": "pawnrobot",
+    "title": "BOT",
+    "rating": 1079
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "pawnrobot"
+}
