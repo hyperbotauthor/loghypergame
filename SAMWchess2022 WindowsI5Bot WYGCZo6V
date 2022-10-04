@@ -1,0 +1,43 @@
+{
+  "id": "WYGCZo6V",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1664927112072,
+  "white": {
+    "id": "samwchess2022",
+    "name": "SAMWchess2022",
+    "title": "BOT",
+    "rating": 1966
+  },
+  "black": {
+    "id": "windowsi5bot",
+    "name": "WindowsI5Bot",
+    "title": "BOT",
+    "rating": 2623
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SAMWchess2022",
+  "opponentName": "WindowsI5Bot"
+}
