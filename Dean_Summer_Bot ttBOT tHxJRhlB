@@ -1,0 +1,44 @@
+{
+  "id": "tHxJRhlB",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1664992953683,
+  "white": {
+    "id": "dean_summer_bot",
+    "name": "Dean_Summer_Bot",
+    "title": "BOT",
+    "rating": 1975
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 1468,
+    "provisional": true
+  },
+  "initialFen": "rkbnnbqr/pppppppp/8/8/8/8/PPPPPPPP/RKBNNBQR w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "Dean_Summer_Bot",
+  "opponentName": "ttBOT"
+}
