@@ -1,0 +1,45 @@
+{
+  "id": "xBETumEO",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1665005526986,
+  "white": {
+    "id": "randommoverbot",
+    "name": "RandomMoverBot",
+    "title": "BOT",
+    "rating": 887,
+    "provisional": true
+  },
+  "black": {
+    "id": "bobaxolotl",
+    "name": "BoBAxolotl",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "RandomMoverBot",
+  "opponentName": "BoBAxolotl"
+}
