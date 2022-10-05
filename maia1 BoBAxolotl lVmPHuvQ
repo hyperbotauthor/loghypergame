@@ -1,0 +1,44 @@
+{
+  "id": "lVmPHuvQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1665003883276,
+  "white": {
+    "id": "maia1",
+    "name": "maia1",
+    "title": "BOT",
+    "rating": 1585
+  },
+  "black": {
+    "id": "bobaxolotl",
+    "name": "BoBAxolotl",
+    "title": "BOT",
+    "rating": 2146,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 45000,
+    "btime": 45000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "maia1",
+  "opponentName": "BoBAxolotl"
+}
