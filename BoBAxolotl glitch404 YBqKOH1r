@@ -1,0 +1,44 @@
+{
+  "id": "YBqKOH1r",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1664974509525,
+  "white": {
+    "id": "bobaxolotl",
+    "name": "BoBAxolotl",
+    "title": "BOT",
+    "rating": 2146,
+    "provisional": true
+  },
+  "black": {
+    "id": "glitch404",
+    "name": "glitch404",
+    "title": null,
+    "rating": 1460
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "BoBAxolotl",
+  "opponentName": "glitch404"
+}
