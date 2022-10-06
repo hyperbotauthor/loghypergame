@@ -1,0 +1,44 @@
+{
+  "id": "AAmSYEyN",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1665056816855,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2400,
+    "provisional": true
+  },
+  "black": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 3081
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "VariantsBot"
+}
