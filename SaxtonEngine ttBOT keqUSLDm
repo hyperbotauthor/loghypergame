@@ -1,0 +1,43 @@
+{
+  "id": "keqUSLDm",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1665051736061,
+  "white": {
+    "id": "saxtonengine",
+    "name": "SaxtonEngine",
+    "title": "BOT",
+    "rating": 2489
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2534
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "SaxtonEngine",
+  "opponentName": "ttBOT"
+}
