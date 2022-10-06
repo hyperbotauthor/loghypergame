@@ -1,0 +1,43 @@
+{
+  "id": "7H5jrAKc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1665058874978,
+  "white": {
+    "id": "legendg21",
+    "name": "LegendG21",
+    "title": "BOT",
+    "rating": 1982
+  },
+  "black": {
+    "id": "samwchess2022",
+    "name": "SAMWchess2022",
+    "title": "BOT",
+    "rating": 1922
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 g8f6 c2c4 g7g6",
+    "wtime": 59140,
+    "btime": 58350,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "LegendG21",
+  "opponentName": "SAMWchess2022"
+}
