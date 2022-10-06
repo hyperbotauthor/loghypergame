@@ -1,0 +1,43 @@
+{
+  "id": "uHtb6YoB",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 30000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1665094755997,
+  "white": {
+    "id": "tapobot",
+    "name": "TapoBot",
+    "title": "BOT",
+    "rating": 1744
+  },
+  "black": {
+    "id": "virutor",
+    "name": "Virutor",
+    "title": "BOT",
+    "rating": 1698
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 30000,
+    "btime": 30000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TapoBot",
+  "opponentName": "Virutor"
+}
