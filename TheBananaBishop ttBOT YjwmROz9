@@ -32,9 +32,9 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "e2e3",
-    "wtime": 600000,
-    "btime": 600000,
+    "moves": "e2e3 b7b5 f1b5 c8a6 b5d7 b8d7 c2c4 a6c4 d1a4 c4a2 a4a7 a8a7 a1a2 a7a2 b2b3 a2d2 e1d2 g8h6 e3e4",
+    "wtime": 557300,
+    "btime": 609890,
     "winc": 5000,
     "binc": 5000,
     "status": "started"
