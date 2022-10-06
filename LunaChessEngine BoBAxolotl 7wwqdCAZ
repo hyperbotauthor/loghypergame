@@ -1,0 +1,44 @@
+{
+  "id": "7wwqdCAZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 3000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1665054778407,
+  "white": {
+    "id": "lunachessengine",
+    "name": "LunaChessEngine",
+    "title": "BOT",
+    "rating": 1911
+  },
+  "black": {
+    "id": "bobaxolotl",
+    "name": "BoBAxolotl",
+    "title": "BOT",
+    "rating": 1957,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 3000,
+    "binc": 3000,
+    "status": "started"
+  },
+  "botName": "LunaChessEngine",
+  "opponentName": "BoBAxolotl"
+}
