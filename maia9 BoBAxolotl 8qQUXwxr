@@ -31,12 +31,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "c2c3",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "c2c3 b7b6 d2d4 c8b7 e2e4 e7e6 f1d3 c7c5 c1e3 c5d4 c3d4 f8b4 b1c3 b8c6 f2f3 g8f6 g1e2 d7d5 e1g1 d5e4 f3e4 b4c3 b2c3 c6e7 e4e5 f6d5 e3f2 b6b5 d3b5 e8f8 c3c4 a7a6 c4d5 a6b5 d5d6 e7d5 d1b1 h7h5 b1b5 b7a6 b5b2 a8b8 b2d2 h5h4 f1e1 f8g8 a2a3 b8b6 e2c3",
+    "wtime": 10500,
+    "btime": 0,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "outoftime",
+    "winner": "white"
   },
   "botName": "maia9",
   "opponentName": "BoBAxolotl"
