@@ -1,0 +1,43 @@
+{
+  "id": "BNIp4GFn",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1665092598079,
+  "white": {
+    "id": "simpleeval",
+    "name": "simpleEval",
+    "title": "BOT",
+    "rating": 2072
+  },
+  "black": {
+    "id": "bobaxolotl",
+    "name": "BoBAxolotl",
+    "title": "BOT",
+    "rating": 1949
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "simpleEval",
+  "opponentName": "BoBAxolotl"
+}
