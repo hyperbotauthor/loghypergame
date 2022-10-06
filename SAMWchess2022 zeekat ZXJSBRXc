@@ -1,0 +1,44 @@
+{
+  "id": "ZXJSBRXc",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 300000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1665095711845,
+  "white": {
+    "id": "samwchess2022",
+    "name": "SAMWchess2022",
+    "title": "BOT",
+    "rating": 1568,
+    "provisional": true
+  },
+  "black": {
+    "id": "zeekat",
+    "name": "zeekat",
+    "title": "BOT",
+    "rating": 1783
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 c4d5 c6d5",
+    "wtime": 285320,
+    "btime": 299940,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "SAMWchess2022",
+  "opponentName": "zeekat"
+}
