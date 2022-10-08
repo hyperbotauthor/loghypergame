@@ -1,0 +1,44 @@
+{
+  "id": "2VZY5w6j",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 25000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Klasik"
+  },
+  "rated": true,
+  "createdAt": 1665211919307,
+  "white": {
+    "id": "pineapple-friendly",
+    "name": "Pineapple-Friendly",
+    "title": "BOT",
+    "rating": 1412
+  },
+  "black": {
+    "id": "kayraege01",
+    "name": "KayraEge01",
+    "title": "BOT",
+    "rating": 1588,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 25000,
+    "binc": 25000,
+    "status": "started"
+  },
+  "botName": "Pineapple-Friendly",
+  "opponentName": "KayraEge01"
+}
