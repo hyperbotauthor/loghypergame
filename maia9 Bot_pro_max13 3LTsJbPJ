@@ -1,0 +1,44 @@
+{
+  "id": "3LTsJbPJ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1667314205686,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1724
+  },
+  "black": {
+    "id": "bot_pro_max13",
+    "name": "Bot_pro_max13",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g1f3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "Bot_pro_max13"
+}
