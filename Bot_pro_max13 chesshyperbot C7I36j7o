@@ -1,0 +1,45 @@
+{
+  "id": "C7I36j7o",
+  "variant": {
+    "key": "kingOfTheHill",
+    "name": "King of the Hill",
+    "short": "KotH"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "King of the Hill"
+  },
+  "rated": true,
+  "createdAt": 1667326974175,
+  "white": {
+    "id": "bot_pro_max13",
+    "name": "Bot_pro_max13",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesshyperbot",
+    "name": "chesshyperbot",
+    "title": "BOT",
+    "rating": 1989,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Bot_pro_max13",
+  "opponentName": "chesshyperbot"
+}
