@@ -1,0 +1,43 @@
+{
+  "id": "lydPf9cZ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667415024026,
+  "white": {
+    "id": "ivana_sa",
+    "name": "Ivana_SA",
+    "title": "BOT",
+    "rating": 2274
+  },
+  "black": {
+    "id": "samwchess2022",
+    "name": "SAMWchess2022",
+    "title": "BOT",
+    "rating": 1983
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Ivana_SA",
+  "opponentName": "SAMWchess2022"
+}
