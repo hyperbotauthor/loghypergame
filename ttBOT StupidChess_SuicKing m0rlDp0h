@@ -1,0 +1,43 @@
+{
+  "id": "m0rlDp0h",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1667386289101,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2536
+  },
+  "black": {
+    "id": "stupidchess_suicking",
+    "name": "StupidChess_SuicKing",
+    "title": "BOT",
+    "rating": 1089
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "StupidChess_SuicKing"
+}
