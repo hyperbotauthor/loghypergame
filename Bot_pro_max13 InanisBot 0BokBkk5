@@ -1,0 +1,46 @@
+{
+  "id": "0BokBkk5",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 45000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1667388008486,
+  "white": {
+    "id": "bot_pro_max13",
+    "name": "Bot_pro_max13",
+    "title": "BOT",
+    "rating": 2034,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2223
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 b8c6 c2c3 g8f6 e4e5 f6d5 d2d4 c5d4 c3d4 d7d6 b1c3 d5c3 b2c3 e7e6 e5d6 f8d6 c1g5 d8c7 f1d3 e8g8 d1e2 c6d4 e2d2 d4f3 g2f3 c8d7 d3e4 f7f5 e4c2 d7c6 c2d1 d6h2 d1e2 h7h6 g5e3 a8d8 d2c2 h2e5 a1d1 d8d1 e2d1 c6d5 e3d2 f8c8 c3c4 d5c4 d1e2 c4e2 c2c7 c8c7 e1e2 c7c2 e2d3 c2a2 h1e1 a2a3",
+    "wtime": 0,
+    "btime": 25660,
+    "winc": 0,
+    "binc": 0,
+    "status": "outoftime",
+    "winner": "black",
+    "rematch": "ByW84E9f"
+  },
+  "botName": "Bot_pro_max13",
+  "opponentName": "InanisBot"
+}
