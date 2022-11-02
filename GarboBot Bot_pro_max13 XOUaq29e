@@ -1,0 +1,44 @@
+{
+  "id": "XOUaq29e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667387231405,
+  "white": {
+    "id": "garbobot",
+    "name": "GarboBot",
+    "title": "BOT",
+    "rating": 1897
+  },
+  "black": {
+    "id": "bot_pro_max13",
+    "name": "Bot_pro_max13",
+    "title": "BOT",
+    "rating": 2173,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "c2c4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "GarboBot",
+  "opponentName": "Bot_pro_max13"
+}
