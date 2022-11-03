@@ -1,0 +1,44 @@
+{
+  "id": "FPnda9k5",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": true,
+  "createdAt": 1667477408796,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2037,
+    "provisional": true
+  },
+  "black": {
+    "id": "raviharav-bot_v2",
+    "name": "RaviharaV-bot_v2",
+    "title": "BOT",
+    "rating": 1963
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "RaviharaV-bot_v2"
+}
