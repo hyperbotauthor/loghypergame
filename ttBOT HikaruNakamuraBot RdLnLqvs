@@ -1,0 +1,43 @@
+{
+  "id": "RdLnLqvs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667474309633,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2351
+  },
+  "black": {
+    "id": "hikarunakamurabot",
+    "name": "HikaruNakamuraBot",
+    "title": "BOT",
+    "rating": 2110
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "HikaruNakamuraBot"
+}
