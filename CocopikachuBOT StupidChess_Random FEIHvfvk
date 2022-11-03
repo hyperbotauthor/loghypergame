@@ -1,0 +1,43 @@
+{
+  "id": "FEIHvfvk",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1667475041346,
+  "white": {
+    "id": "cocopikachubot",
+    "name": "CocopikachuBOT",
+    "title": "BOT",
+    "rating": 1882
+  },
+  "black": {
+    "id": "stupidchess_random",
+    "name": "StupidChess_Random",
+    "title": "BOT",
+    "rating": 1148
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "CocopikachuBOT",
+  "opponentName": "StupidChess_Random"
+}
