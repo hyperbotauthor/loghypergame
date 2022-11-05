@@ -1,0 +1,44 @@
+{
+  "id": "q18Jz0vl",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667641471453,
+  "white": {
+    "id": "maia9",
+    "name": "maia9",
+    "title": "BOT",
+    "rating": 1713
+  },
+  "black": {
+    "id": "bot_pro_max13",
+    "name": "Bot_pro_max13",
+    "title": "BOT",
+    "rating": 2034,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4 a7a6 g1f3 d7d5 c2c4 e7e6 g2g3 c7c6 f1g2 g8f6 e1g1 d5c4 f3e5 b7b5 e5c6 d8b6 c6b8 a8b8 c1f4 f8d6 f4d6 b6d6 b1c3 e8g8 e2e4 e6e5 d4d5 b5b4 c3e2 a6a5 a1c1 c8a6 f2f4 f6g4 d1d2 f7f6 h2h3 d6c5 g1h1 g4f2 h1h2 b8c8 e2g1 f2d3 c1c2 d3b2 c2b2 c4c3 d2c2 c3b2 c2b2 a6f1 g2f1 c5c2 b2c2 c8c2 f1e2 c2a2 d5d6 b4b3 d6d7 g8f7 f4e5 f7e7 e5f6 f8f6 e4e5 f6f2 h2h1 b3b2 e2d3 b2b1q d3b1",
+    "wtime": 8740,
+    "btime": 6310,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "maia9",
+  "opponentName": "Bot_pro_max13"
+}
