@@ -1,0 +1,44 @@
+{
+  "id": "V5mhMeSz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 960000,
+    "increment": 8000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapide"
+  },
+  "rated": true,
+  "createdAt": 1667769241526,
+  "white": {
+    "id": "loopie9",
+    "name": "Loopie9",
+    "title": null,
+    "rating": 1210
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2625,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 960000,
+    "btime": 960000,
+    "winc": 8000,
+    "binc": 8000,
+    "status": "started"
+  },
+  "botName": "Loopie9",
+  "opponentName": "ttBOT"
+}
