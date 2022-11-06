@@ -1,0 +1,44 @@
+{
+  "id": "Nf5JXChl",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 0
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": false,
+  "createdAt": 1667733661723,
+  "white": {
+    "id": "tititogepi",
+    "name": "tititogepi",
+    "title": null,
+    "rating": 1517
+  },
+  "black": {
+    "id": "cocopikachubot",
+    "name": "CocopikachuBOT",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "tititogepi",
+  "opponentName": "CocopikachuBOT"
+}
