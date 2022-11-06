@@ -1,0 +1,43 @@
+{
+  "id": "7WLRZAwH",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1667733585346,
+  "white": {
+    "id": "tititogepi",
+    "name": "tititogepi",
+    "title": null,
+    "rating": 1912
+  },
+  "black": {
+    "id": "cocopikachubot",
+    "name": "CocopikachuBOT",
+    "title": "BOT",
+    "rating": 1882
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "tititogepi",
+  "opponentName": "CocopikachuBOT"
+}
