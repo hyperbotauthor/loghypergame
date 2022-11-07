@@ -1,0 +1,42 @@
+{
+  "id": "uZ30Fg91",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": false,
+  "createdAt": 1667843100236,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1861,
+    "provisional": true
+  },
+  "black": {
+    "id": "kidgrandmaster9",
+    "name": "kidgrandmaster9",
+    "title": "BOT",
+    "rating": 1655,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "aborted"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "kidgrandmaster9"
+}
