@@ -1,0 +1,42 @@
+{
+  "id": "E4StLNeG",
+  "variant": {
+    "key": "atomic",
+    "name": "Atomic",
+    "short": "Atom"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Atomic"
+  },
+  "rated": false,
+  "createdAt": 1667841901686,
+  "white": {
+    "id": "ibrahimahmet",
+    "name": "ibrahimahmet",
+    "title": null,
+    "rating": 1396,
+    "provisional": true
+  },
+  "black": {
+    "id": "eagleeye2021",
+    "name": "EagleEye2021",
+    "title": "BOT",
+    "rating": 1935,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ibrahimahmet",
+  "opponentName": "EagleEye2021"
+}
