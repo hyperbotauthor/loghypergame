@@ -1,0 +1,43 @@
+{
+  "id": "fkSLwY7e",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667858324217,
+  "white": {
+    "id": "mcb0t",
+    "name": "McB0t",
+    "title": "BOT",
+    "rating": 2546
+  },
+  "black": {
+    "id": "tentwentytwo",
+    "name": "TenTwentyTwo",
+    "title": "BOT",
+    "rating": 2502
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "McB0t",
+  "opponentName": "TenTwentyTwo"
+}
