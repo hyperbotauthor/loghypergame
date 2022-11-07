@@ -1,0 +1,44 @@
+{
+  "id": "2hxysYeQ",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 0
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapid"
+  },
+  "rated": true,
+  "createdAt": 1667857933971,
+  "white": {
+    "id": "tentwentytwo",
+    "name": "TenTwentyTwo",
+    "title": "BOT",
+    "rating": 1939,
+    "provisional": true
+  },
+  "black": {
+    "id": "chesschildren",
+    "name": "ChessChildren",
+    "title": "BOT",
+    "rating": 1597
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TenTwentyTwo",
+  "opponentName": "ChessChildren"
+}
