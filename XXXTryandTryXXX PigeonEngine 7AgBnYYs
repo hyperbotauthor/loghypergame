@@ -1,0 +1,44 @@
+{
+  "id": "7AgBnYYs",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 180000,
+    "increment": 2000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Blitz"
+  },
+  "rated": true,
+  "createdAt": 1667843069090,
+  "white": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1495,
+    "provisional": true
+  },
+  "black": {
+    "id": "pigeonengine",
+    "name": "PigeonEngine",
+    "title": "BOT",
+    "rating": 1822
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 180000,
+    "btime": 180000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "XXXTryandTryXXX",
+  "opponentName": "PigeonEngine"
+}
