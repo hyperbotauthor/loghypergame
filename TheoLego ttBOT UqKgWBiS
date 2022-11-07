@@ -1,0 +1,44 @@
+{
+  "id": "UqKgWBiS",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": true,
+  "createdAt": 1667832870239,
+  "white": {
+    "id": "theolego",
+    "name": "TheoLego",
+    "title": null,
+    "rating": 1937
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 1987,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e4e5",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "TheoLego",
+  "opponentName": "ttBOT"
+}
