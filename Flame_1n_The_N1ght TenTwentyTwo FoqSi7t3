@@ -1,0 +1,42 @@
+{
+  "id": "FoqSi7t3",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": null,
+  "speed": "correspondence",
+  "perf": {
+    "name": "Correspondence"
+  },
+  "rated": true,
+  "createdAt": 1667829333612,
+  "white": {
+    "id": "flame_1n_the_n1ght",
+    "name": "Flame_1n_The_N1ght",
+    "title": null,
+    "rating": 1500,
+    "provisional": true
+  },
+  "black": {
+    "id": "tentwentytwo",
+    "name": "TenTwentyTwo",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 2147483647,
+    "btime": 2147483647,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Flame_1n_The_N1ght",
+  "opponentName": "TenTwentyTwo"
+}
