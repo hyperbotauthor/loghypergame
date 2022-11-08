@@ -1,0 +1,43 @@
+{
+  "id": "MEL1ends",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 2000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667918102054,
+  "white": {
+    "id": "viridithas",
+    "name": "Viridithas",
+    "title": "BOT",
+    "rating": 2279
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2279
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 2000,
+    "binc": 2000,
+    "status": "started"
+  },
+  "botName": "Viridithas",
+  "opponentName": "ttBOT"
+}
