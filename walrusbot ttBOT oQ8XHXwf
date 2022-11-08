@@ -1,0 +1,44 @@
+{
+  "id": "oQ8XHXwf",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 1800000,
+    "increment": 10000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classique"
+  },
+  "rated": true,
+  "createdAt": 1667923713627,
+  "white": {
+    "id": "walrusbot",
+    "name": "walrusbot",
+    "title": "BOT",
+    "rating": 1750
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2000,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "g2g3",
+    "wtime": 1800000,
+    "btime": 1800000,
+    "winc": 10000,
+    "binc": 10000,
+    "status": "started"
+  },
+  "botName": "walrusbot",
+  "opponentName": "ttBOT"
+}
