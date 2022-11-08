@@ -1,0 +1,43 @@
+{
+  "id": "xWdBp8zR",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1667906374786,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2273
+  },
+  "black": {
+    "id": "pigeonengine",
+    "name": "PigeonEngine",
+    "title": "BOT",
+    "rating": 1833
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "PigeonEngine"
+}
