@@ -1,0 +1,44 @@
+{
+  "id": "lMbzXw10",
+  "variant": {
+    "key": "antichess",
+    "name": "Antichess",
+    "short": "Anti"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Antichess"
+  },
+  "rated": true,
+  "createdAt": 1667914154939,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2295,
+    "provisional": true
+  },
+  "black": {
+    "id": "anti-bot",
+    "name": "anti-bot",
+    "title": "BOT",
+    "rating": 2197
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "anti-bot"
+}
