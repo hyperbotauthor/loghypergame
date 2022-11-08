@@ -1,0 +1,44 @@
+{
+  "id": "M7XzxMlL",
+  "variant": {
+    "key": "threeCheck",
+    "name": "Three-check",
+    "short": "3check"
+  },
+  "clock": {
+    "initial": 120000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Three-check"
+  },
+  "rated": true,
+  "createdAt": 1667910155650,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 1263,
+    "provisional": true
+  },
+  "black": {
+    "id": "davidsguterbot",
+    "name": "DavidsGuterBot",
+    "title": "BOT",
+    "rating": 1520
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 120000,
+    "btime": 120000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "DavidsGuterBot"
+}
