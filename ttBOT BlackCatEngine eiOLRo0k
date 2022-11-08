@@ -1,0 +1,44 @@
+{
+  "id": "eiOLRo0k",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 600000,
+    "increment": 5000
+  },
+  "speed": "rapid",
+  "perf": {
+    "name": "Rapide"
+  },
+  "rated": true,
+  "createdAt": 1667917823346,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2625,
+    "provisional": true
+  },
+  "black": {
+    "id": "blackcatengine",
+    "name": "BlackCatEngine",
+    "title": "BOT",
+    "rating": 2403
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 600000,
+    "btime": 600000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "BlackCatEngine"
+}
