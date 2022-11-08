@@ -1,0 +1,44 @@
+{
+  "id": "nnAEkvyz",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 180000
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Классика"
+  },
+  "rated": true,
+  "createdAt": 1667911829835,
+  "white": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 2334,
+    "provisional": true
+  },
+  "black": {
+    "id": "inanisbot",
+    "name": "InanisBot",
+    "title": "BOT",
+    "rating": 2091
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 g8f6 e4e5 b8c6 f1b5 f6d7 b5c6 b7c6 e5d6 e7d6 e1g1 d7c5 d4c3 c8d7 f1e1 c5e6 c1h6 d8f6 c3f6 g7f6 h6f8 e8f8 b1c3 d6d5 a1d1 f8g7 f3h4 a8b8 h4f5 g7g6 f5e7 g6g7 b2b3 h8e8 e7f5 g7g6 f5h4 g6h5 h4f3 h5h6 c3e2 e6c5 f3d4 e8e5 f2f3 a7a5 g1f2 a5a4",
+    "wtime": 14412810,
+    "btime": 6286740,
+    "winc": 180000,
+    "binc": 180000,
+    "status": "started"
+  },
+  "botName": "Nikitosikbot",
+  "opponentName": "InanisBot"
+}
