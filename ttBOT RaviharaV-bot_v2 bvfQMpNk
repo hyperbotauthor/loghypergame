@@ -1,0 +1,45 @@
+{
+  "id": "bvfQMpNk",
+  "variant": {
+    "key": "horde",
+    "name": "Horde",
+    "short": "Horde"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Horde"
+  },
+  "rated": false,
+  "createdAt": 1667998464327,
+  "white": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 2193,
+    "provisional": true
+  },
+  "black": {
+    "id": "raviharav-bot_v2",
+    "name": "RaviharaV-bot_v2",
+    "title": "BOT",
+    "rating": 1500,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "ttBOT",
+  "opponentName": "RaviharaV-bot_v2"
+}
