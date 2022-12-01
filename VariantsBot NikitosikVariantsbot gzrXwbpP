@@ -1,0 +1,44 @@
+{
+  "id": "gzrXwbpP",
+  "variant": {
+    "key": "racingKings",
+    "name": "Racing Kings",
+    "short": "Racing"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Racing Kings"
+  },
+  "rated": true,
+  "createdAt": 1669918611132,
+  "white": {
+    "id": "variantsbot",
+    "name": "VariantsBot",
+    "title": "BOT",
+    "rating": 2667
+  },
+  "black": {
+    "id": "nikitosikvariantsbot",
+    "name": "NikitosikVariantsbot",
+    "title": "BOT",
+    "rating": 2200,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e1c2",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "VariantsBot",
+  "opponentName": "NikitosikVariantsbot"
+}
