@@ -1,0 +1,44 @@
+{
+  "id": "twimUCjM",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 1000
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": true,
+  "createdAt": 1669919376730,
+  "white": {
+    "id": "torombot",
+    "name": "ToromBot",
+    "title": "BOT",
+    "rating": 2851
+  },
+  "black": {
+    "id": "nikitosikvariantsbot",
+    "name": "NikitosikVariantsbot",
+    "title": "BOT",
+    "rating": 2707,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "d2d4",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 1000,
+    "binc": 1000,
+    "status": "started"
+  },
+  "botName": "ToromBot",
+  "opponentName": "NikitosikVariantsbot"
+}
