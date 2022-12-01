@@ -1,0 +1,44 @@
+{
+  "id": "Lpw51FJD",
+  "variant": {
+    "key": "chess960",
+    "name": "Chess960",
+    "short": "960"
+  },
+  "clock": {
+    "initial": 60000,
+    "increment": 5000
+  },
+  "speed": "blitz",
+  "perf": {
+    "name": "Chess960"
+  },
+  "rated": true,
+  "createdAt": 1669898873657,
+  "white": {
+    "id": "entebot",
+    "name": "entebot",
+    "title": "BOT",
+    "rating": 1203
+  },
+  "black": {
+    "id": "ttbot",
+    "name": "ttBOT",
+    "title": "BOT",
+    "rating": 1103,
+    "provisional": true
+  },
+  "initialFen": "qrkrnnbb/pppppppp/8/8/8/8/PPPPPPPP/QRKRNNBB w KQkq - 0 1",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "f1e3",
+    "wtime": 60000,
+    "btime": 60000,
+    "winc": 5000,
+    "binc": 5000,
+    "status": "started"
+  },
+  "botName": "entebot",
+  "opponentName": "ttBOT"
+}
