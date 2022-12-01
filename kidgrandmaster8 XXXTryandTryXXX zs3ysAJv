@@ -1,0 +1,45 @@
+{
+  "id": "zs3ysAJv",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 10800000,
+    "increment": 0
+  },
+  "speed": "classical",
+  "perf": {
+    "name": "Classical"
+  },
+  "rated": true,
+  "createdAt": 1669900972512,
+  "white": {
+    "id": "kidgrandmaster8",
+    "name": "kidgrandmaster8",
+    "title": "BOT",
+    "rating": 1530,
+    "provisional": true
+  },
+  "black": {
+    "id": "xxxtryandtryxxx",
+    "name": "XXXTryandTryXXX",
+    "title": "BOT",
+    "rating": 1974,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "",
+    "wtime": 10800000,
+    "btime": 10800000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "kidgrandmaster8",
+  "opponentName": "XXXTryandTryXXX"
+}
