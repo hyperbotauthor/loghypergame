@@ -32,12 +32,13 @@
   "type": "gameFull",
   "state": {
     "type": "gameState",
-    "moves": "g1f3",
-    "wtime": 60000,
-    "btime": 60000,
+    "moves": "g1f3 f7f6 b1c3 g8h6 g2g4 c7c6 d2d4 d7d6 e2e4 c8g4 c3d5 c6d5 d1h5 g7g6 h5b5 b8c6 b5b6 d8b6 f1b5 e8d8 h2h3 h6g4 h3g4 h7h5 c1h6 d6d5 c2c4 e7e5 c4c5 f8h6 a1c1 d8e7 c5c6 h8d8 c6b7 e7f8 e1g1 g6g5 c1c7 d8d7 f1c1 f6f5 c7c8 d7d8 c1c6 g5g4 c6f6 f8g7 f6f7 g7g6 e4f5",
+    "wtime": 40330,
+    "btime": 860,
     "winc": 0,
     "binc": 0,
-    "status": "started"
+    "status": "variantEnd",
+    "winner": "white"
   },
   "botName": "VariantsBot",
   "opponentName": "NikitosikVariantsbot"
