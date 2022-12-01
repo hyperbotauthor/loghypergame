@@ -1,0 +1,44 @@
+{
+  "id": "6gbd9g0S",
+  "variant": {
+    "key": "standard",
+    "name": "Standard",
+    "short": "Std"
+  },
+  "clock": {
+    "initial": 90000,
+    "increment": 0
+  },
+  "speed": "bullet",
+  "perf": {
+    "name": "Bullet"
+  },
+  "rated": false,
+  "createdAt": 1669919109592,
+  "white": {
+    "id": "nikitosikbot",
+    "name": "Nikitosikbot",
+    "title": "BOT",
+    "rating": 2514
+  },
+  "black": {
+    "id": "nikitosikvariantsbot",
+    "name": "NikitosikVariantsbot",
+    "title": "BOT",
+    "rating": 2707,
+    "provisional": true
+  },
+  "initialFen": "startpos",
+  "type": "gameFull",
+  "state": {
+    "type": "gameState",
+    "moves": "e2e4",
+    "wtime": 90000,
+    "btime": 90000,
+    "winc": 0,
+    "binc": 0,
+    "status": "started"
+  },
+  "botName": "Nikitosikbot",
+  "opponentName": "NikitosikVariantsbot"
+}
